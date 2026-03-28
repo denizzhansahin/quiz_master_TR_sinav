@@ -33,7 +33,7 @@ const STORAGE_KEY = 'quiz_master_results';
 const QUESTIONS_KEY = 'quiz_master_questions';
 const SYNC_URL_KEY = 'quiz_master_sync_url';
 
-export const DEFAULT_SYNC_URL = 'https://raw.githubusercontent.com/denizhan/quiz_master/main/questions.json';
+export const DEFAULT_SYNC_URL = 'https://raw.githubusercontent.com/denizzhansahin/quiz_master_TR_sinav/refs/heads/main/sorular/yeniSorular.json';
 
 // For seeding
 const getInitialQuestions = (): Question[] => {
