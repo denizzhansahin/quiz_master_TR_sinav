@@ -39,6 +39,10 @@ yarn-error.*
 .env.test.local
 .env.production.local
 
+
+*sw.js
+*app-ads.txt
+
 # IDEs
 .idea/
 .vscode/

@@ -20,3 +20,11 @@ statisticsBannerSticky=""
 subjectTreeReward=""
 subjectTreeBanner=""
 subjectTreeBannerSticky=""
+
+
+
+
+
+
+Admob için ise ve Monetag için ise:
+sw.js ve app-ads.txt dosyalarını Expo projesinin içindeki public klasörüne yükle.
