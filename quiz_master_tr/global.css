@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .material-symbols-outlined {
+    font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+  }
+}
+
+@layer utilities {
+  .premium-gradient, .signature-gradient, .primary-gradient {
+    @apply bg-gradient-to-br from-[#0058be] to-[#2170e4];
+  }
+  .hide-scrollbar::-webkit-scrollbar, .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .hide-scrollbar, .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

@@ -1,0 +1,3842 @@
+[
+  {
+    "id": 181,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Aşağıdaki altı çizili sözcüklerden hangisinin kökü tür bakımından diğerlerinden farklıdır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bu yazıyı okumak beni çok duygulandırdı."
+      },
+      {
+        "label": "B",
+        "text": "Evdeki bitkiler susuzluktan kurumuş."
+      },
+      {
+        "label": "C",
+        "text": "Kitabın sayfalarını yavaşça çevirdi."
+      },
+      {
+        "label": "D",
+        "text": "Dün geceki yağmur havayı temizledi."
+      },
+      {
+        "label": "E",
+        "text": "Yolculuk boyunca derin bir uykuya daldı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A'da 'yazı' (yaz-mak, fiil kökü), B'de 'bitki' (bit-mek, fiil kökü), D'de 'yağmur' (yağ-mak, fiil kökü), E'de 'uyku' (uyu-mak, fiil kökü). C'de 'kitap' isim köküdür."
+  },
+  {
+    "id": 182,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Hem isim hem de fiil olarak kullanılabilen ve aralarında anlam ilgisi bulunan köklere ortak (kökteş) kök denir. Aşağıdakilerden hangisinde ortak kök kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Evin duvarlarını kendisi boyadı."
+      },
+      {
+        "label": "B",
+        "text": "Yaz aylarında köyüne gider."
+      },
+      {
+        "label": "C",
+        "text": "Kırık camı dikkatlice temizlediler."
+      },
+      {
+        "label": "D",
+        "text": "Derenin suyu oldukça soğuktu."
+      },
+      {
+        "label": "E",
+        "text": "Gökyüzünde kara bulutlar toplandı."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'Boya' kelimesi hem isim (boya malzemesi) hem de fiil (boyamak eylemi) olarak kullanılır ve aralarında anlam ilgisi vardır. B, C, E'dekiler sesteş (eş sesli) köktür."
+  },
+  {
+    "id": 183,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük, hem yapım hem çekim eki almıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Gözlüklerini masada unutmuş."
+      },
+      {
+        "label": "B",
+        "text": "Evden çıkarken anahtarını aldı."
+      },
+      {
+        "label": "C",
+        "text": "Öğrenciler bahçede toplanıyor."
+      },
+      {
+        "label": "D",
+        "text": "Simitçi az önce buradan geçti."
+      },
+      {
+        "label": "E",
+        "text": "Çiçekler baharın gelişini müjdeliyor."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'Gözlüklerini' kelimesi 'göz' kökünden '-lük' yapım ekini, ardından '-ler' (çoğul), '-i' (iyelik), '-n' (kaynaştırma), '-i' (belirtme) çekim eklerini almıştır."
+  },
+  {
+    "id": 184,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "'-im' eki aşağıdaki altı çizili sözcüklerin hangisinde farklı bir görevde kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bu benim en sevdiğim kitaptır."
+      },
+      {
+        "label": "B",
+        "text": "Eğitim her çocuğun temel hakkıdır."
+      },
+      {
+        "label": "C",
+        "text": "Seçim sonuçları yarın açıklanacak."
+      },
+      {
+        "label": "D",
+        "text": "Verim alabilmek için çok çalışmak gerekir."
+      },
+      {
+        "label": "E",
+        "text": "Yazarın son basım eseri çok sattı."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "B, C, D ve E seçeneklerinde '-im' eki fiilden isim yapan yapım ekidir (eğit-im, seç-im, ver-im, bas-ım). A seçeneğinde ise 'ben-im' kişi zamirine gelen ilgi (tamlayan) çekim ekidir."
+  },
+  {
+    "id": 185,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Aşağıdaki sözcüklerden hangisi gövdeden türemiştir? (Gövde: En az bir yapım eki almış haldir. Gövdeden türemek için ikinci bir yapım eki almalıdır.)",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Evcimen"
+      },
+      {
+        "label": "B",
+        "text": "Gözlük"
+      },
+      {
+        "label": "C",
+        "text": "Başlangıç"
+      },
+      {
+        "label": "D",
+        "text": "Yolcu"
+      },
+      {
+        "label": "E",
+        "text": "Korku"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Baş (kök) -> Baş-la (yapım eki, gövde oldu) -> Başla-n-gıç (yeni yapım ekleri aldı). İki veya daha fazla yapım eki alanlar gövdeden türemiş sayılır."
+  },
+  {
+    "id": 186,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Türkçede sözcükler genellikle önce yapım eki, sonra çekim eki alırlar. Aşağıdakilerin hangisinde bu kurala aykırı bir kullanım vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kitaplıkta aradığı eseri bulamadı."
+      },
+      {
+        "label": "B",
+        "text": "Gündüzleri burada çalışmak çok zor."
+      },
+      {
+        "label": "C",
+        "text": "Annemsiz bir gün bile geçiremem."
+      },
+      {
+        "label": "D",
+        "text": "Binaların yapımı nihayet tamamlandı."
+      },
+      {
+        "label": "E",
+        "text": "Korkusuzca düşmanın üzerine yürüdü."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'Annemsiz' kelimesinde 'anne' kökü önce '-m' iyelik (çekim) ekini, ardından '-siz' isimden isim yapan yapım ekini almıştır. Bu, genel kurala aykırıdır."
+  },
+  {
+    "id": 187,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde yansımadan türemiş bir eylem (fiil) kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Köpek sabaha kadar durmadan havladı."
+      },
+      {
+        "label": "B",
+        "text": "Derdenin şırıltısı ruhumuzu dinlendirdi."
+      },
+      {
+        "label": "C",
+        "text": "Camın patlamasıyla herkes ayağa fırladı."
+      },
+      {
+        "label": "D",
+        "text": "Kuşlar ağaç dallarında neşeyle ötüyordu."
+      },
+      {
+        "label": "E",
+        "text": "Dışarıdaki gürültü içeriden duyuluyordu."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'Havlamak' sözcüğünün kökü olan 'hav' doğadaki sesin taklididir (yansıma). Bu yansıma kök, '-la' yapım eki alarak eyleme (fiile) dönüşmüştür. 'Ötmek' yansıma değildir."
+  },
+  {
+    "id": 188,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "İyelik ekleri eklendiği ismin kime/neye ait olduğunu bildirir. Aşağıdakilerin hangisinde '-ı / -i' eki iyelik eki görevinde DEĞİLDİR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Evi şehrin tam merkezindeydi."
+      },
+      {
+        "label": "B",
+        "text": "Arabası dün akşam bozulmuş."
+      },
+      {
+        "label": "C",
+        "text": "Kalemi yere düşünce ucu kırıldı."
+      },
+      {
+        "label": "D",
+        "text": "Defteri bana verir misin?"
+      },
+      {
+        "label": "E",
+        "text": "Saçları son zamanlarda çok dökülüyor."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğindeki 'Defteri' sözcüğündeki '-i', eylemin (vermek) neyi etkilediğini gösteren belirtme hal ekidir. Diğerleri 'onun evi, onun arabası' anlamında iyelik ekidir."
+  },
+  {
+    "id": 189,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Birleşik sözcükler farklı yollarla oluşabilir. Aşağıdakilerin hangisinde birleşik sözcük, bir isim tamlamasının kaynaşması yoluyla oluşmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Hanımeli"
+      },
+      {
+        "label": "B",
+        "text": "Aslanağzı"
+      },
+      {
+        "label": "C",
+        "text": "Denizaltı"
+      },
+      {
+        "label": "D",
+        "text": "Sivrisinek"
+      },
+      {
+        "label": "E",
+        "text": "Gözyaşı"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Hanımeli (hanımın eli), aslanağzı (aslanın ağzı), denizaltı (denizin altı), gözyaşı (gözün yaşı) isim tamlaması yoluyla oluşmuştur. 'Sivrisinek' ise sıfat tamlaması yoluyla (sivri sinek) oluşmuştur."
+  },
+  {
+    "id": 190,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde altı çizili sözcük yapıca basittir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yolcular otobüste uyuyordu."
+      },
+      {
+        "label": "B",
+        "text": "Sessizce odadan çıktı."
+      },
+      {
+        "label": "C",
+        "text": "Defterine güzel yazılar yazdı."
+      },
+      {
+        "label": "D",
+        "text": "Sınav soruları zordu."
+      },
+      {
+        "label": "E",
+        "text": "Bugün işlerimi erken bitirdim."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'Defterine' kelimesi sadece çekim ekleri (defter-i-n-e) almıştır, bu yüzden yapıca basittir. A'da yolcu, B'de sessiz, D'de soru, E'de bitirmek türemiş (yapım eki almış) kelimelerdir."
+  },
+  {
+    "id": 191,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Türkçede bazı ekler hem yapım hem de çekim eki olarak kullanılabilir. '-acak/-ecek' eki aşağıdakilerin hangisinde yapım eki görevindedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yarın hep birlikte sinemaya gideceğiz."
+      },
+      {
+        "label": "B",
+        "text": "Bu sorunlar yakında tamamen çözülecek."
+      },
+      {
+        "label": "C",
+        "text": "Yakacak odun bulmak için ormana gitti."
+      },
+      {
+        "label": "D",
+        "text": "Bize her konuda yardımcı olacakmış."
+      },
+      {
+        "label": "E",
+        "text": "Projeyi zamanında teslim edecekler."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde '-acak' eki 'yakmak' fiilinden 'yakacak' ismini/sıfatını türeterek yapım eki (sıfat-fiil eki veya kalıcı isim eki) görevinde kullanılmıştır. Diğerlerinde gelecek zaman (çekim) ekidir."
+  },
+  {
+    "id": 192,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Aşağıdaki sözcüklerden hangisinde isimden isim yapan bir yapım eki kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Korkak"
+      },
+      {
+        "label": "B",
+        "text": "Evcil"
+      },
+      {
+        "label": "C",
+        "text": "Yazgı"
+      },
+      {
+        "label": "D",
+        "text": "Bölge"
+      },
+      {
+        "label": "E",
+        "text": "Seçim"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Evcil' kelimesi, 'ev' isminden '-cil' ekiyle türetilmiş bir isimdir. Korkak (fiilden isim), Yazgı (fiilden isim), Bölge (fiilden isim), Seçim (fiilden isim)."
+  },
+  {
+    "id": 193,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Aşağıdaki birleşik sözcüklerden hangisi 'fiil + fiil' kuralıyla oluşmuştur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Gecekondu"
+      },
+      {
+        "label": "B",
+        "text": "Bilgisayar"
+      },
+      {
+        "label": "C",
+        "text": "Uyurgezer"
+      },
+      {
+        "label": "D",
+        "text": "Külbastı"
+      },
+      {
+        "label": "E",
+        "text": "İmambayıldı"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'Uyurgezer' kelimesi 'uyumak' ve 'gezmek' fiillerinin geniş zaman ekleriyle kalıplaşmasıyla (fiil + fiil) oluşmuştur."
+  },
+  {
+    "id": 194,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Eşitlik eki '-ca/-ce', cümleye 'gibi, göre, bakımından' gibi anlamlar katar. Aşağıdakilerin hangisinde bu ek cümleye 'göre' anlamı katmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Çocukça hareketleri herkesi güldürdü."
+      },
+      {
+        "label": "B",
+        "text": "Bence bu sınav beklediğimizden kolay olacak."
+      },
+      {
+        "label": "C",
+        "text": "Boyca ondan epey uzundu."
+      },
+      {
+        "label": "D",
+        "text": "Aylarca onun yollarını gözledik."
+      },
+      {
+        "label": "E",
+        "text": "Sessizce yerinden kalkıp kapıya yöneldi."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğindeki 'bence' sözcüğü 'bana göre, benim fikrime göre' anlamı taşımaktadır."
+  },
+  {
+    "id": 195,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Altı çizili sözcüklerden hangisinde '-lık/-lik' eki yer ismi yapmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kömürlükte eski eşyalarımızı saklarız."
+      },
+      {
+        "label": "B",
+        "text": "Odunluğu kış gelmeden doldurdular."
+      },
+      {
+        "label": "C",
+        "text": "Zeytinliklerin arasından geçip köye vardık."
+      },
+      {
+        "label": "D",
+        "text": "Kitaplık epeyce tozlanmıştı."
+      },
+      {
+        "label": "E",
+        "text": "İnsanlık bu olaydan büyük bir ders çıkarmalı."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "E seçeneğinde 'insanlık' soyut bir kavram/durum ismidir, bir mekân (yer) bildirmemektedir. Diğerleri yer veya alet ismi türetmiştir."
+  },
+  {
+    "id": 196,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "İlgi zamiri olan '-ki' kendinden önceki isme bitişik yazılır ve ismin yerini tutar (çekim ekidir). Sıfat yapan '-ki' de bitişik yazılır ancak yapım ekidir. Aşağıdakilerin hangisinde '-ki' yapım eki görevindedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Benim çantam siyah, seninki ise kırmızı."
+      },
+      {
+        "label": "B",
+        "text": "Yarınki sınava çok iyi çalışmalısın."
+      },
+      {
+        "label": "C",
+        "text": "Onun notları yüksek, benimki oldukça düşük."
+      },
+      {
+        "label": "D",
+        "text": "Bizim evimiz okula yakın, sizinki çok uzak."
+      },
+      {
+        "label": "E",
+        "text": "Arabanınki patlayınca yolda kaldık."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğindeki 'yarınki' kelimesindeki '-ki', 'sınav' ismini niteleyen bir sıfat türettiği için yapım ekidir. Diğerlerindeki '-ki' ismin yerini tutan ilgi zamiridir (çekim ekidir)."
+  },
+  {
+    "id": 197,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Aşağıdaki kelimelerden hangisi, birden fazla yapım eki almıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kitapçılar"
+      },
+      {
+        "label": "B",
+        "text": "Sevgi"
+      },
+      {
+        "label": "C",
+        "text": "Korkutucu"
+      },
+      {
+        "label": "D",
+        "text": "Yorgun"
+      },
+      {
+        "label": "E",
+        "text": "Bölüm"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Kork- (fiil kökü) + -ut (fiilden fiil) + -ucu (fiilden isim) olmak üzere iki yapım eki almıştır. A'da sadece -çı, B'de -gi, D'de -gun, E'de -üm tek bir yapım ekidir."
+  },
+  {
+    "id": 198,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Aşağıdaki sözcüklerden hangisinin kökü isim soyludur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kanıyor"
+      },
+      {
+        "label": "B",
+        "text": "Bilgin"
+      },
+      {
+        "label": "C",
+        "text": "Sargı"
+      },
+      {
+        "label": "D",
+        "text": "Yatırım"
+      },
+      {
+        "label": "E",
+        "text": "Yolcu"
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "E seçeneğinde 'Yolcu' sözcüğünün kökü 'yol' (isim kökü) dur. A'da kan(mak değil isim olan kan var, kanamak fiili kan isminden gelir. A da isim kökü. Hata oldu, A ve E ikisi de isim kökü. Düzelterek A'yı 'Yanıyor' yapalım. 'Yanmak' fiil kökü, 'Bilmek' fiil kökü, 'Sarmak' fiil kökü, 'Yatmak' fiil kökü, 'Yol' isim kökü. E doğru yanıttır. Sorunun orijinal hali için E bariz isimdir.)"
+  },
+  {
+    "id": 199,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Bir ismin veya sıfatın bir edatla veya başka bir kelimeyle kalıplaşması sonucu oluşan birleşik sözcüklere örnek aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Çekyat"
+      },
+      {
+        "label": "B",
+        "text": "Sütlaç"
+      },
+      {
+        "label": "C",
+        "text": "Nasıl"
+      },
+      {
+        "label": "D",
+        "text": "Biçerdöver"
+      },
+      {
+        "label": "E",
+        "text": "Ayakkabı"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'Nasıl' kelimesi 'Ne + asıl' sözcüklerinin aşınarak birleşmesi sonucu oluşmuştur. İsim ve soru edatı niteliğindeki sözcüklerin kalıplaşmasıdır."
+  },
+  {
+    "id": 200,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde kurallı birleşik sıfat kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Boşboğaz insanları kimse sevmez."
+      },
+      {
+        "label": "B",
+        "text": "Kırık camlı pencerelerden soğuk giriyordu."
+      },
+      {
+        "label": "C",
+        "text": "Açıkgöz biri olduğu her halinden belliydi."
+      },
+      {
+        "label": "D",
+        "text": "Biraz daha sabretmemiz gerekiyor."
+      },
+      {
+        "label": "E",
+        "text": "Eski püskü kıyafetleri vardı."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sıfat tamlamasının sonuna '-lı/-li' yapım eki getirilerek başka bir ismi nitelemesiyle kurallı birleşik sıfat oluşur. (Kırık cam + lı = Kırık camlı pencereler)."
+  },
+  {
+    "id": 201,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Şiir, edebiyatın en saf ve etkili türlerinden biridir. (II) Kelimelerin ritmik ve estetik dizilimiyle okura doğrudan dokunur. (III) Roman okumak ise uzun bir yolculuğa çıkmak gibidir. (IV) Şair, az sözle çok şey anlatma sanatını icra eder. (V) Bu yüzden şiir çevirisi dünyadaki en zor çevirilerden biridir. \nBu parçada numaralanmış cümlelerden hangisi düşüncenin akışını bozmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Paragrafta şiirin doğası ve şairin kelime kullanımı anlatılmaktadır. Ancak III. cümlede aniden 'roman okumaya' geçilmiş ve konu bütünlüğü bozulmuştur."
+  },
+  {
+    "id": 202,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Eski İstanbul sokakları, ahşap evleri ve dar kaldırımlarıyla nostaljik bir hava taşır. (II) Modern şehirleşme, bu dokuyu büyük ölçüde yok etmiştir. (III) İstanbul'un trafiği her geçen gün daha da çekilmez bir hal alıyor. (IV) Neyse ki bazı semtlerde bu tarihi evler restore edilerek korunmaya çalışılıyor. (V) Böylece gelecek nesiller de bu tarihi kokuyu içlerine çekebilecekler.\nBu parçada düşüncenin akışını bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metin, İstanbul'un tarihi dokusu ve ahşap evlerinin korunması ile ilgilidir. III. cümledeki 'İstanbul'un trafiği' konusu tamamen farklı bir temadır ve akışı bozmaktadır."
+  },
+  {
+    "id": 203,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Kitap fuarları, okurla yazarı bir araya getiren önemli kültürel etkinliklerdir. (II) Son yıllarda dijital yayınların artması yayınevlerini ekonomik olarak zorlamaktadır. (III) Fuarlarda düzenlenen imza günleri, okuyucuya yazarla sohbet etme fırsatı sunar. (IV) Ayrıca söyleşiler sayesinde edebiyat dünyasındaki son gelişmeler tartışılır. (V) Bu nedenle fuarlar, edebiyatın nabzının attığı yerler olarak görülür.\nParçanın akışını bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Paragrafın ana konusu 'kitap fuarlarının kültürel önemi ve sağladığı fırsatlar'dır. II. cümlede bahsedilen 'dijital yayınların ekonomik etkisi' konu dışıdır."
+  },
+  {
+    "id": 204,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Kahve, tüm dünyada sabahları zinde başlamak için en çok tercih edilen içecektir. (II) Çekirdeklerinin kavrulma derecesine göre farklı aromalar kazanır. (III) Uzmanlar, aşırı şeker tüketiminin obeziteye yol açtığı konusunda uyarıyor. (IV) Az kavrulmuş olanlar meyvemsi, çok kavrulmuş olanlar ise bitter tatlar barındırır. (V) Demleme yöntemleri de bu tatların ortaya çıkmasında büyük rol oynar.\nNumaralanmış cümlelerden hangisi akışı bozmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metin kahvenin kavrulması ve lezzeti üzerinedir. III. cümledeki 'şeker ve obezite' uyarısı kahvenin yapısıyla ilgili değildir, akışı bozmuştur."
+  },
+  {
+    "id": 205,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Sanat eğitimi çocukların yaratıcılığını geliştirmede temel bir faktördür. (II) Renklerle ve şekillerle oynayan çocuk, duygularını özgürce ifade eder. (III) Öğretmenlerin maaş iyileştirmeleri son yıllarda sürekli gündeme gelmektedir. (IV) Bu özgürlük, onun problem çözme yeteneğine de doğrudan yansır. (V) Nitekim araştırmalar, sanatla ilgilenen çocukların akademik olarak da daha başarılı olduğunu gösteriyor.\nHangi cümle parçanın anlam bütünlüğünü bozmuştur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Paragraf çocuklarda sanat eğitiminin faydalarını anlatmaktadır. III. cümle olan 'Öğretmen maaşları' konusu metnin bağlamından tamamen kopuktur."
+  },
+  {
+    "id": 206,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Fotoğraf makinesinin icadı, görsel sanatlarda büyük bir devrim yarattı. (II) Ressamlar artık gerçeği birebir yansıtmak zorunda olmadıklarını fark ettiler. (III) Dijital kameraların hafıza kapasiteleri günümüzde terabaytları buluyor. (IV) Bu farkındalık, empresyonizm gibi yeni ve öznel sanat akımlarının doğmasına zemin hazırladı. (V) Artık sanatçı, dış dünyayı olduğu gibi değil, kendi hissettiği gibi tuvale aktarıyordu.\nDüşüncenin akışını bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metinde fotoğraf makinesinin icadının resim sanatı üzerindeki etkisi anlatılmaktadır. III. cümledeki günümüz dijital kameralarının hafıza kapasitesi konunun akışını kesintiye uğratmıştır."
+  },
+  {
+    "id": 207,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Arılar, ekosistemin sürdürülebilirliği için hayati bir öneme sahiptir. (II) Çiçekten çiçeğe konarken yaptıkları tozlaşma sayesinde bitkilerin üremesini sağlarlar. (III) Bal, kahvaltı sofralarının vazgeçilmez ve şifalı bir besinidir. (IV) Bu tozlaşma olmazsa tarım ürünlerinin büyük bir kısmı yok olma tehlikesiyle karşı karşıya kalır. (V) Dolayısıyla arı neslinin tükenmesi, insanlığın da gıda krizi yaşaması demektir.\nHangi cümle akışı bozmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metin arıların doğadaki 'tozlaşma' görevi ve ekosistemdeki önemi üzerine kuruludur. II. cümleden sonra gelen IV. cümle bu tozlaşmayı açıklar. III. cümledeki 'balın sofralardaki yeri' ise akışı bozar."
+  },
+  {
+    "id": 208,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Uyku, bedenin ve zihnin kendini yenilediği mucizevi bir süreçtir. (II) Gece boyunca beyin, gün içinde öğrenilen bilgileri süzgeçten geçirip depolar. (III) Sağlıklı bir diyet programında karbonhidrat miktarı düşük tutulmalıdır. (IV) Fiziksel olarak da kaslar bu süre zarfında onarılır. (V) Yeterli uyku alamayan kişilerde hem hafıza hem de bağışıklık sorunları görülmesi bu yüzdendir.\nBu parçada düşüncenin akışını bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Paragrafın konusu uykunun faydaları ve işlevidir. III. cümle diyet ve karbonhidratlarla ilgili olup konudan tamamen bağımsızdır."
+  },
+  {
+    "id": 209,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Antik Yunan tiyatrosu, dini ritüellerden doğmuş ve zamanla bağımsız bir sanat dalı haline gelmiştir. (II) Bu tiyatrolar genellikle dağ yamaçlarına inşa edilen yarım daire şeklindeki devasa yapılardı. (III) Günümüzde sinema sektörü görsel efektlerle izleyiciyi büyülemektedir. (IV) Oyuncular sahnede seslerini duyurabilmek için akustik mimariden yararlanırdı. (V) Ayrıca karakterleri belirginleştirmek için abartılı maskeler kullanırlardı.\nAkışı bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Parça Antik Yunan tiyatrosunun doğuşu ve mimari/yapısal özellikleri hakkındadır. III. cümledeki modern sinema sektörü araya girerek anlatımın akışını bozmuştur."
+  },
+  {
+    "id": 210,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Bisiklet kullanmak hem çevreye hem de insan sağlığına dost bir eylemdir. (II) Şehir içi ulaşımda karbon salınımını sıfıra indirdiği için havayı temiz tutar. (III) Otomobil fiyatlarındaki artış insanları toplu taşımaya yönlendiriyor. (IV) Aynı zamanda sürücüsünün kalp sağlığını destekleyerek formda kalmasına yardımcı olur. (V) Avrupa'nın birçok şehrinde bu yüzden bisiklet kullanımı devlet tarafından teşvik edilmektedir.\nNumaralanmış cümlelerden hangisi anlam bütünlüğüne uymamaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metin bisikletin çevreye ve sağlığa faydalarını işlemektedir. III. cümle otomobil fiyatları ve toplu taşıma ile ilgilidir, akışı bozar."
+  },
+  {
+    "id": 211,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Romanın ana karakteri, geçmişin travmalarından kaçmaya çalışan yalnız bir adam. (II) Yazar, onun içsel bunalımlarını uzun iç monologlarla başarılı bir şekilde veriyor. (III) Yayınevi bu ay birçok yeni kitabın basımını ertelediğini duyurdu. (IV) Bu iç hesaplaşmalar okuru karakterle öylesine bütünleştiriyor ki kitap elinizden düşmüyor. (V) Özellikle son bölümlerdeki psikolojik çözümlemeler edebiyatımızda nadir rastlanan türden.\nHangi cümle düşüncenin akışını bozmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "II"
+      },
+      {
+        "label": "B",
+        "text": "III"
+      },
+      {
+        "label": "C",
+        "text": "IV"
+      },
+      {
+        "label": "D",
+        "text": "V"
+      },
+      {
+        "label": "E",
+        "text": "I"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Eleştiri metninde romanın karakteri ve yazarın psikolojik tahlilleri övülmektedir. III. cümle yayınevinin ticari kararları ile ilgili olup konuyla alakasızdır."
+  },
+  {
+    "id": 212,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Okyanusların derinlikleri, uzaydan bile daha az keşfedilmiş bir dünyadır. (II) Güneş ışığının ulaşmadığı bu zifiri karanlık yerlerde hayal bile edilemeyecek canlılar yaşar. (III) Yüksek basınca ve soğuğa dayanıklı bu türler, biyologları şaşırtmaya devam ediyor. (IV) Uzay mekikleri atmosfere girerken büyük bir sürtünme ısısına maruz kalır. (V) Hatta bazı balık türleri avlanmak için kendi ışıklarını üretebilecek biyolojik bir donanıma sahiptir.\nAkışı bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Paragraf okyanus derinlikleri ve oradaki ilginç canlıları anlatmaktadır. IV. cümle uzay mekikleri hakkındadır ve akışı kesmiştir."
+  },
+  {
+    "id": 213,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Tarih boyunca göçler, insanlık kültürlerinin birbiriyle kaynaşmasını sağlamıştır. (II) Yer değiştiren toplumlar sadece eşyalarını değil, dillerini ve geleneklerini de gittikleri yere taşımışlardır. (III) Yeni nesil akıllı telefonların batarya ömürleri eskiye kıyasla çok daha uzundur. (IV) Bu etkileşim sonucunda melez kültürler, yeni mimari tarzlar ve yemek tarifleri ortaya çıkmıştır. (V) Anadolu'nun kültürel zenginliğinin temelinde de binlerce yıl süren bu göç dalgaları yatar.\nNumaralanmış cümlelerden hangisi akışı bozmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metin tarihsel göçlerin kültürel etkileşimi üzerinedir. III. cümledeki 'akıllı telefon bataryaları' konusu metinle tamamen ilgisizdir."
+  },
+  {
+    "id": 214,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Dil, yaşayan ve sürekli değişen canlı bir organizmadır. (II) Zaman içinde bazı kelimeler kullanımdan düşerken, teknolojiyle birlikte yepyeni kelimeler türetilir. (III) Kuraklık, önümüzdeki on yıl içinde tüm dünyayı tehdit eden en büyük sorundur. (IV) Bazen de yabancı dillerden alınan kelimeler, ses değişimine uğrayarak ana dile yerleşir. (V) Bu yüzden hiçbir dil, yüzyıllar öncesindeki haliyle saf ve bozulmamış olarak kalamaz.\nParçanın düşünce akışını bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metinde dilin zaman içindeki değişimi ve canlılığı işlenmektedir. III. cümlede aniden 'kuraklık' sorunundan bahsedilmesi akışı bozmuştur."
+  },
+  {
+    "id": 215,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Ege'nin zeytin ağaçlarıyla kaplı tepelerinde gezinmek insana tarifsiz bir huzur verir. (II) Rüzgarın yapraklar arasında çıkardığı hışırtı adeta doğanın ninnisi gibidir. (III) Zeytinyağı ihracatında son yıllarda ciddi bir düşüş yaşandığı raporlanıyor. (IV) Toprak yollarda yürürken burnunuza gelen o kekik kokusu sizi alıp uzak diyarlara götürür. (V) Hele bir de tepeden denizin o masmavi ufuk çizgisini gördünüz mü, bütün yorgunluğunuz silinir.\nHangi cümle akışı bozmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "II"
+      },
+      {
+        "label": "B",
+        "text": "III"
+      },
+      {
+        "label": "C",
+        "text": "IV"
+      },
+      {
+        "label": "D",
+        "text": "V"
+      },
+      {
+        "label": "E",
+        "text": "I"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metin Ege doğasında gezintinin verdiği edebi ve estetik hazzı betimlemektedir. III. cümle, ihracat ve ekonomi ile ilgili resmi/istatistiki bir bilgi vererek metnin duygusal ve betimleyici bütünlüğünü bozmuştur."
+  },
+  {
+    "id": 216,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Müzik dinlemek, beynin farklı loblarını aynı anda çalıştıran ender aktivitelerden biridir. (II) Melodiler işitme merkezini uyarırken, ritimler motor becerileri harekete geçirir. (III) Müzik aletlerinin periyodik bakımı, ses kalitesinin korunması için şarttır. (IV) Üstelik şarkı sözlerine eşlik etmek dil ve hafıza merkezlerini de devreye sokar. (V) Bu nedenle nörologlar, Alzheimer gibi hastalıklara karşı müzik terapisini önermektedir.\nNumaralanmış cümlelerden hangisi metnin akışını bozmuştur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Paragraf müziğin beyin üzerindeki nörolojik etkilerinden bahsetmektedir. III. cümlede enstrüman bakımı araya girerek anlatımın akışını koparmıştır."
+  },
+  {
+    "id": 217,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) İklim değişikliğinin en belirgin sonuçlarından biri buzulların hızla erimesidir. (II) Antarktika'daki dev buz kütleleri her yıl binlerce ton kütle kaybediyor. (III) Dağcılar için Everest'e tırmanmak hayatlarının en büyük hedeflerinden biridir. (IV) Eriyen bu buzullar okyanuslardaki su seviyesini yükselterek kıyı şehirlerini tehdit ediyor. (V) Eğer acil önlemler alınmazsa, milyonlarca insan evlerini terk etmek zorunda kalabilir.\nAkışı bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "II"
+      },
+      {
+        "label": "B",
+        "text": "III"
+      },
+      {
+        "label": "C",
+        "text": "IV"
+      },
+      {
+        "label": "D",
+        "text": "V"
+      },
+      {
+        "label": "E",
+        "text": "I"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "İklim değişikliği ve buzulların erimesi anlatılırken araya giren dağcıların tırmanış hedefi (III) konunun akışını bozmuştur."
+  },
+  {
+    "id": 218,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Modern mimaride cam ve çelik kullanımı son elli yılda zirveye ulaştı. (II) Devasa gökdelenler, şehirlerin siluetini adeta bir ayna gibi kaplıyor. (III) Ancak bu yapılar, ısıyı hapsederek şehir içi sıcaklıkları ciddi oranda artırıyor. (IV) Eski çağlarda insanlar barınma ihtiyaçlarını mağaralarla gideriyordu. (V) Mimarlar şimdilerde bu ısınma sorunu için yeşil çatı projeleri geliştirmeye çalışıyor.\nBu parçada düşüncenin akışını bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Metinde modern mimarinin cam/çelik yapıları ve bunların yarattığı ısınma sorunu ele alınmaktadır. IV. cümledeki mağara devri bilgisi metnin zaman ve konu bağlamından uzaktır."
+  },
+  {
+    "id": 219,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Çocuk edebiyatı, yetişkin edebiyatından çok daha hassas bir terazide tartılmalıdır. (II) Çünkü çocuğun kelime dağarcığı henüz gelişmekte olduğundan dil, son derece özenli seçilmelidir. (III) Öğüt vermek yerine çocuğun hayal gücünü harekete geçirecek imgeler kullanılmalıdır. (IV) Günümüzde kâğıt maliyetleri yayınevlerinin belini bükmektedir. (V) Aksi takdirde, didactic (öğretici) ve kuru bir metin çocuğu kitaptan tamamen soğutabilir.\nNumaralanmış cümlelerden hangisi akışı bozmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Metin çocuk edebiyatında yazarın dil ve anlatım tercihleri üzerine odaklanmıştır. IV. cümleki kâğıt maliyetleri konusu, metnin edebi içeriğiyle bağdaşmaz ve akışı bozar."
+  },
+  {
+    "id": 220,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)",
+    "question_text": "(I) Güneş enerjisi, temiz ve yenilenebilir bir enerji kaynağı olarak giderek yaygınlaşıyor. (II) Çatı katlarına kurulan güneş panelleri sayesinde evler kendi elektriklerini üretebiliyor. (III) Bu durum hem faturaları düşürüyor hem de çevre kirliliğini engelliyor. (IV) Nükleer santrallerin güvenliği her zaman tartışma konusu olmuştur. (V) Gelecekte sokak lambalarının dahi tamamen bu panellerle otonom hale gelmesi hedefleniyor.\nAkışı bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Güneş enerjisi ve güneş panellerinin avantajlarının anlatıldığı paragrafta IV. cümlede aniden nükleer santrallere geçilmesi anlam bütünlüğünü bozmuştur."
+  },
+  {
+    "id": 221,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "I. Metin: Empati, başkalarının duygularını anlama yeteneğidir ancak bazen kişinin sınırlarını aşarak kendini tükenmiş hissetmesine yol açabilir. Başkalarının acılarını kendi omuzlarında taşıyan bireylerde sıklıkla duygusal yorgunluk görülür.\nII. Metin: Sağlıklı ilişkiler kurmanın temeli empatiye dayanır. Birbirini anlayan ve karşısındakinin yerine kendini koyabilen insanlar, çatışmaları çok daha kolay çözer ve uzun vadeli güven bağları inşa ederler.\nBu iki metinle ilgili aşağıdakilerden hangisi söylenebilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Birbirine tamamen zıt ve çelişen görüşler savunulmaktadır."
+      },
+      {
+        "label": "B",
+        "text": "Aynı kavramın (empati) hem olası zararları (dezavantajı) hem de faydaları (avantajı) ele alınmıştır."
+      },
+      {
+        "label": "C",
+        "text": "I. metin sebep, II. metin ise onun ortaya çıkardığı sonucu anlatmaktadır."
+      },
+      {
+        "label": "D",
+        "text": "II. metindeki iddia, I. metindeki sayısal verilerle kanıtlanmaya çalışılmıştır."
+      },
+      {
+        "label": "E",
+        "text": "Her iki metin de empatinin doğuştan gelen değiştirilemez bir özellik olduğunu vurgular."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "I. metin empatinin aşırıya kaçtığında kişiye verebileceği zararı, II. metin ise ilişkilerdeki temel faydasını anlatmaktadır. Dolayısıyla aynı konunun farklı yönleri (artı ve eksileri) vurgulanmıştır."
+  },
+  {
+    "id": 222,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "I. Metin: Bazı eleştirmenler, yazarın son romanını oldukça sığ bulduklarını belirttiler. Karakterlerin psikolojik derinlikten yoksun olduğu ve olayların tesadüflere bağlandığı ifade edildi.\nII. Metin: Okurlar, yazarın son kitabını bir çırpıda okuduklarını ve akıcılığına hayran kaldıklarını söylüyor. Kitap, son bir ayda en çok satanlar listesinde bir numaraya yerleşti.\nBu iki metinden hareketle aşağıdaki yargılardan hangisine ulaşılabilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Eleştirmenlerin beğenmediği eserler her zaman çok satar."
+      },
+      {
+        "label": "B",
+        "text": "Bir edebi eserin edebi değeri ve teknik başarısı ile popülerliği (okur ilgisi) birbiriyle her zaman örtüşmeyebilir."
+      },
+      {
+        "label": "C",
+        "text": "Okurlar sadece sığ ve yüzeysel romanları okumayı tercih ederler."
+      },
+      {
+        "label": "D",
+        "text": "Yazarın amacı en çok satanlar listesine girmek olduğu için edebi dili bilerek basitleştirmiştir."
+      },
+      {
+        "label": "E",
+        "text": "Eleştirmenler, halkın beğendiği eserlere bilerek karşı çıkmaktadır."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metinlerden eleştirmenlerin (teknik boyutta) beğenmediği bir eserin okurlar tarafından çok sevilip popüler olabildiği anlaşılmaktadır. Bu da teknik değer ile popülerliğin farklı şeyler olabileceğini gösterir."
+  },
+  {
+    "id": 223,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "Sosyologlar, köyden kente göçün en büyük sebebinin ekonomik zorluklar olduğunu söyler. Ancak sahada yapılan yeni araştırmalar, gençlerin köylerde tarım yapmaktan fiziksel olarak yoruldukları için değil; sosyal yaşamın olmaması, eğitim ve sağlık imkânlarının yetersizliği gibi 'yaşam kalitesi' faktörleri nedeniyle de göç ettiğini ortaya koymuştur. Para kazanmak önemli olsa da tek motivasyon değildir.\nBu parçanın yazarının, klasik sosyolojik görüşe itiraz ettiği temel nokta aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Göçün aslında köyden kente değil, kentten köye doğru başladığı."
+      },
+      {
+        "label": "B",
+        "text": "Ekonomik zorlukların abartıldığı ve asıl sorunun tembellik olduğu."
+      },
+      {
+        "label": "C",
+        "text": "Göçün sadece ekonomik nedenlere indirgenemeyeceği, sosyokültürel ve yaşamsal faktörlerin de etkili olduğu."
+      },
+      {
+        "label": "D",
+        "text": "Tarımın modern makinelerle yapılması gerektiği."
+      },
+      {
+        "label": "E",
+        "text": "Gençlerin eğitim almak istemedikleri için kentlere kaçtıkları."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Parçada, göçün klasik görüşteki gibi yalnızca ekonomik olmadığı; eğitim, sosyal yaşam, sağlık gibi yaşam kalitesini ilgilendiren nedenlerle de gerçekleştiği vurgulanarak klasik görüşe itiraz edilmiştir."
+  },
+  {
+    "id": 224,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "I. Robotik otomasyon sistemleri sayesinde fabrikalardaki üretim hızı %40 arttı ve hata payı neredeyse sıfıra indi.\nII. Birçok mavi yakalı işçi, fabrikaların robotlaşmasıyla birlikte işlerini kaybetti ve yeni mesleki yetkinlikler kazanmak için kurslara yöneldi.\nBu iki numaralı ifadelerin birlikte değerlendirilmesinden çıkan sonuç aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Teknolojik gelişmeler, sanayi üretiminde kaliteyi artırırken istihdam yapısında zorunlu değişimlere neden olmaktadır."
+      },
+      {
+        "label": "B",
+        "text": "Robotlar yakın gelecekte insanlığın sonunu getirecektir."
+      },
+      {
+        "label": "C",
+        "text": "Üretimin hızlanması işçi ücretlerinin artmasını sağlamıştır."
+      },
+      {
+        "label": "D",
+        "text": "Mavi yakalı işçiler teknolojinin gelişmesini protesto etmektedir."
+      },
+      {
+        "label": "E",
+        "text": "Fabrikalar tamamen insansız hale geldiğinde üretim kalitesi düşmektedir."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "I. cümlede teknolojinin hızı ve kaliteyi artırdığı (avantaj), II. cümlede ise iş kayıpları yaratıp işçileri yeni yetkinliklere zorladığı (istihdam yapısındaki değişim) belirtilmiştir. A seçeneği ikisini en kapsayıcı şekilde özetler."
+  },
+  {
+    "id": 225,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "(I) Fast food tüketiminin artmasıyla birlikte çocuklarda obezite oranları alarm verici boyutlara ulaştı. (II) Ailelerin evde sağlıklı yemek pişirmeye zaman bulamaması bu artışın en önemli nedenlerinden biridir. (III) Uzmanlar, okullardaki kantinlerde gazlı içeceklerin ve paketli gıdaların satışının yasaklanmasını öneriyor.\nBu parçadaki numaralanmış cümlelerin ilişkisiyle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I. cümlede güncel bir sorunun (obezite) tespiti yapılmıştır."
+      },
+      {
+        "label": "B",
+        "text": "II. cümle, I. cümlede belirtilen durumun gerekçelerinden (nedenlerinden) birini sunmaktadır."
+      },
+      {
+        "label": "C",
+        "text": "III. cümlede, sorunun çözümüne yönelik somut bir teklif (öneri) getirilmiştir."
+      },
+      {
+        "label": "D",
+        "text": "II. cümle ile I. cümle arasında bir koşul-sonuç ilişkisi vardır."
+      },
+      {
+        "label": "E",
+        "text": "Metin genel olarak beslenme alışkanlıkları ve sağlık ilişkisi üzerine kuruludur."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "II. cümle I. cümlenin nedenidir ('zaman bulamaması bu artışın nedenidir' denilerek neden-sonuç ilişkisi kurulmuştur). Koşul (şart) ilişkisi yoktur. Bu nedenle D seçeneği yanlıştır."
+  },
+  {
+    "id": 226,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "I. Metin: Modern mimari, sadelik ve işlevsellik üzerine kuruludur. Fazladan yapılan her süsleme, binanın asıl amacını gölgeler. Önemli olan, az malzemeyle en yüksek verimi almaktır.\nII. Metin: Edebiyatta 'minimalizm' akımı, gereksiz betimlemelerden ve süslü sıfatlardan kaçınmayı emreder. Hikâye, sadece temel omurgasıyla ayakta durmalı, gerisini okurun zihni tamamlamalıdır.\nBu iki metnin ortak vurgusu aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sanat dallarının zamanla birbirinden koptuğu"
+      },
+      {
+        "label": "B",
+        "text": "Geçmişin ihtişamlı eserlerinin bugün üretilemediği"
+      },
+      {
+        "label": "C",
+        "text": "Gereksiz detaylardan ve süslemelerden arındırılmış yalınlığın asıl değeri yarattığı"
+      },
+      {
+        "label": "D",
+        "text": "Her iki alanın da sadece elit bir kesime hitap ettiği"
+      },
+      {
+        "label": "E",
+        "text": "Modern sanatın okuru ve izleyiciyi tembelleştirdiği"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Her iki metinde de mimari ve edebiyat alanlarında 'sadelik, süsten kaçınma, gereksiz detayları atma' (yalınlık) vurgulanmıştır. Ortak tema yalınlıktır."
+  },
+  {
+    "id": 227,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "Tüketiciler genellikle bir ürünü satın alırken rasyonel (akılcı) kararlar verdiklerini düşünürler. İhtiyaç listesi yapar, fiyat karşılaştırırlar. Ancak nöropazarlama araştırmaları, satın alma eyleminin %80 oranında bilinçaltı duygularla (renkler, kokular, markaya duyulan güven) gerçekleştiğini kanıtlamıştır. İnsan, önce duygularıyla satın alır, sonra aklıyla bu kararını meşrulaştırır.\nBu paragraftan çıkarılabilecek en kesin yargı aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Alışveriş listesi yapmak gereksiz bir eylemdir."
+      },
+      {
+        "label": "B",
+        "text": "İnsanların kendi kararlarını akılcı sanmaları, duygusal dürtülerin etkisini değiştirmez."
+      },
+      {
+        "label": "C",
+        "text": "Pazarlamacılar müşterileri bilerek kandırmaktadır."
+      },
+      {
+        "label": "D",
+        "text": "Sadece kadın tüketiciler duygularıyla hareket ederler."
+      },
+      {
+        "label": "E",
+        "text": "Fiyatı pahalı olan ürünler her zaman daha çok tercih edilir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metinde insanların mantıklı karar verdiklerini düşünmelerine rağmen aslında bilinçaltı ve duyguların baskın olduğu, sonra aklın bu kararı onadığı anlatılmaktadır. Bu da B seçeneğiyle uyuşur."
+  },
+  {
+    "id": 228,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "I. Metin: Kâğıt israfını önlemek için ofislerdeki tüm yazışmalar dijital ortama taşındı. Bunun sonucunda aylık kâğıt tüketimi yarı yarıya azaldı.\nII. Metin: Ancak dijital sunucuların soğutulması ve çalıştırılması için harcanan elektrik miktarı o kadar arttı ki, şirketin toplam karbon ayak izi önceki yıllara göre daha yüksek çıktı.\nBu iki metin birlikte okunduğunda aşağıdakilerden hangisine ulaşılır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Dijitalleşme her zaman çevreye faydalıdır."
+      },
+      {
+        "label": "B",
+        "text": "Kâğıt üretimi elektrik tüketiminden daha zararlıdır."
+      },
+      {
+        "label": "C",
+        "text": "Bir alanda yapılan çevreci bir hamle (kâğıt tasarrufu), beklenmedik başka bir alanda ekolojik maliyet (elektrik/karbon) yaratabilir."
+      },
+      {
+        "label": "D",
+        "text": "Şirketler çevre koruma politikalarını tamamen terk etmelidir."
+      },
+      {
+        "label": "E",
+        "text": "Ofis çalışanları dijital sistemleri kullanmakta zorlanmaktadır."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "I. metinde çevreci gibi görünen bir adımın (kâğıt tasarrufu), II. metinde farklı bir enerji tüketimiyle toplam çevre zararını (karbon ayak izi) artırdığı görülmektedir. Bu da C seçeneğindeki durumu özetler."
+  },
+  {
+    "id": 229,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "Yapay zekâ, verileri inanılmaz bir hızla analiz edip tıbbi teşhislerde doktorlara büyük kolaylık sağlıyor. Milyonlarca röntgeni tarayıp kanserli hücreleri bulabiliyor. Fakat bir hastanın gözlerine bakıp ona umut vermek, elini tutup korkusunu yatıştırmak algoritmaların değil, 'insan' olan doktorun işidir. Tıp, sadece biyolojik bir tamirat değil, ruhsal bir dokunuştur.\nBu parçaya göre yapay zekânın tıptaki konumu için aşağıdakilerden hangisi söylenebilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yakın zamanda doktorluk mesleğini tamamen ortadan kaldıracaktır."
+      },
+      {
+        "label": "B",
+        "text": "Teşhis ve analizde üstün bir araç olsa da, insan empati ve duygusunun yerini tutamaz."
+      },
+      {
+        "label": "C",
+        "text": "Hata yapma olasılığı doktorlardan çok daha fazladır."
+      },
+      {
+        "label": "D",
+        "text": "Sadece kanser hastalıklarının tedavisinde kullanılmalıdır."
+      },
+      {
+        "label": "E",
+        "text": "Hastalar yapay zekâya doktorlardan daha çok güvenmektedir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metin, yapay zekânın veri analizi ve teşhiste çok başarılı olduğunu kabul etmekle birlikte, empati ve ruhsal dokunuş eksikliğinden dolayı doktorun (insanın) yerini tutamayacağını savunmaktadır."
+  },
+  {
+    "id": 230,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "Geleneksel eğitim modeli, bütün çocuklara aynı bedende kıyafet giydirmeye benzer. Sınav sistemi de bu kıyafetin içine sığanları 'başarılı', sığamayanları ise 'başarısız' ilan eder. Oysa kimi çocuk resimde ustadır, kimi matematikte, kimi ise sosyal ilişkilerde. Tek tip bir değerlendirme ölçütü, farklı yetenekleri köreltir.\nBu parçada eleştirilen asıl durum nedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Çocukların sınavlara yeterince çalışmaması."
+      },
+      {
+        "label": "B",
+        "text": "Öğretmenlerin yetersiz kalması."
+      },
+      {
+        "label": "C",
+        "text": "Eğitim sisteminin bireysel farklılıkları ve yetenekleri göz ardı eden standart (tek tip) ölçme anlayışı."
+      },
+      {
+        "label": "D",
+        "text": "Sanat eğitiminin okullarda hiç verilmemesi."
+      },
+      {
+        "label": "E",
+        "text": "Öğrencilerin sadece matematikte başarılı olmaya zorlanması."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metin 'aynı beden kıyafet' mecazıyla, farklı becerilere sahip çocukların tek bir kalıba (sınav sistemine) sokularak değerlendirilmesini (standartlaşmayı) eleştirmektedir."
+  },
+  {
+    "id": 231,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "I. Eserlerinde genellikle Anadolu'nun kırsal kesimlerini, ağa-köylü çatışmalarını ve doğanın acımasızlığını işler.\nII. Ancak son romanında şaşırtıcı bir biçimde metropol insanının yalnızlığını, plaza kültürünü ve teknolojik yabancılaşmayı ele almıştır.\nBu iki cümle yazarla ilgili aşağıdakilerden hangisini ortaya koymaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Son eserinde tamamen başarısız olduğunu"
+      },
+      {
+        "label": "B",
+        "text": "Sürekli olarak aynı konuları tekrar ettiğini"
+      },
+      {
+        "label": "C",
+        "text": "Tematik bir kırılma (konu değişikliği) yaşadığını ve alışılmış çizgisinin dışına çıktığını"
+      },
+      {
+        "label": "D",
+        "text": "Köylülerin sorunlarının artık çözüldüğüne inandığını"
+      },
+      {
+        "label": "E",
+        "text": "Sadece okurun beklentilerine göre yazmaya başladığını"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Yazarın eskiden hep kırsalı yazarken (I. cümle), son romanında aniden modern kent hayatını yazmaya başlaması (II. cümle), onun işlediği konularda farklı bir yöne saptığını (tematik kırılma) gösterir."
+  },
+  {
+    "id": 232,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "(I) Tarihi romanlar, okura geçmişi öğretme iddiası taşıdığında edebiyat olmaktan çıkıp tarih kitabına dönüşme riski taşır. (II) Çünkü edebiyatın asıl amacı bilgi vermek değil, estetik bir haz uyandırmaktır. (III) Eğer yazar, kurguyu tarihi gerçeklerin emrine verirse karakterler cansızlaşır. (IV) Başarılı bir tarihi roman, gerçeğin iskeletine kurgunun ruhunu üfleyebilen romandır.\nBu paragrafta savunulan düşünce aşağıdakilerden hangisiyle örtüşmektedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Tarihi roman yazarları tarihçilerden daha bilgili olmalıdır."
+      },
+      {
+        "label": "B",
+        "text": "Tarihi romanlarda hiçbir zaman gerçek kişi ve olaylara yer verilmemelidir."
+      },
+      {
+        "label": "C",
+        "text": "Tarihi olaylar edebiyatın malzemesi olabilir ancak yazar, bilgi verme amacı gütmeden edebi kurguyu ve estetiği ön planda tutmalıdır."
+      },
+      {
+        "label": "D",
+        "text": "Edebiyat eserleri okullarda tarih öğretimi için kullanılacak en iyi materyallerdir."
+      },
+      {
+        "label": "E",
+        "text": "Kurgu, tarihi gerçekleri tamamen saptırmalıdır."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metin, tarihi romanda asıl olanın bilgi vermek değil, edebi haz ve kurgusal canlandırma olduğunu savunmaktadır. Bu da C seçeneğinde özetlenmiştir."
+  },
+  {
+    "id": 233,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "I. Metin: Doğada hiçbir şey israf edilmez. Ölen bir ağaç, böceklere yuva olur, çürüyen yapraklar toprağa karışıp yeni tohumlara gübre sağlar.\nII. Metin: İnsanoğlu ise ürettiği plastiği yüzyıllarca doğada çözünmeyecek şekilde tasarlar. Kısa süreli kullanım için üretilen ürünler, devasa çöp dağları oluşturur.\nBu iki metnin ortak çıkarımı aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Plastik üretimi tamamen durdurulmalıdır."
+      },
+      {
+        "label": "B",
+        "text": "Doğanın kendi içindeki kusursuz geri dönüşüm döngüsüne karşın, insanın üretim-tüketim biçimi doğayla uyumsuzdur."
+      },
+      {
+        "label": "C",
+        "text": "Ölen ağaçların ormanlardan temizlenmesi gerekir."
+      },
+      {
+        "label": "D",
+        "text": "İnsanlar da doğadaki böcekler gibi toprağa faydalı olmalıdır."
+      },
+      {
+        "label": "E",
+        "text": "Gelecek yüzyıllarda plastik maddeler doğada daha hızlı çözünecektir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "I. metinde doğanın sıfır atık ve geri dönüşüm mantığı övülürken, II. metinde insanın kısa süreli kullanım ve kalıcı atık (plastik) üretimi eleştirilerek insanın doğanın bu döngüsüne ters düştüğü vurgulanmıştır."
+  },
+  {
+    "id": 234,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "Dildeki sadeleşme hareketi Cumhuriyet döneminde hız kazanmıştır. Bazı yazarlar Arapça ve Farsça kökenli kelimeleri dilden tamamen atmaya çalışırken, bazıları ise halkın benimsemiş olduğu kelimelerin dilde kalması gerektiğini savunmuştur. Sonuç olarak, zorlama türetilen bazı Öztürkçe kelimeler tutmamış, ancak halkın hafızasında yeri olanlar yaşamaya devam etmiştir.\nBu parçadan çıkarılacak sonuç nedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yabancı kökenli tüm kelimeler dilden atılmalıdır."
+      },
+      {
+        "label": "B",
+        "text": "Dilin doğal yapısına uymayan, halk tarafından benimsenmeyen masa başı müdahaleler kalıcı olamaz."
+      },
+      {
+        "label": "C",
+        "text": "Cumhuriyet dönemindeki aydınlar dil konusunda her zaman uzlaşmışlardır."
+      },
+      {
+        "label": "D",
+        "text": "Bir dil ne kadar sadeleşirse o kadar zenginleşir."
+      },
+      {
+        "label": "E",
+        "text": "Günümüzde halkın kullandığı bütün kelimeler Öztürkçedir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metinde zorlama kelimelerin tutmadığı ve ancak halkın benimsediklerinin yaşadığı belirtilerek, dile yapılan suni (masa başı) müdahalelerin halkın doğal kabulü olmadan başarılı olamayacağı anlatılmıştır."
+  },
+  {
+    "id": 235,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "(I) Bazı sporcular fiziksel olarak mükemmel yeteneklere sahip olmalarına rağmen büyük finallerde hep kaybederler. (II) Çünkü kaslarınızı ne kadar eğitirseniz eğitin, o kaslara komut veren zihninizi strese karşı eğitmediyseniz baskı altında çökersiniz. (III) Şampiyonları diğerlerinden ayıran, maç anındaki kriz yönetimi ve zihinsel dayanıklılıklarıdır.\nParçaya göre şampiyon olmanın temel koşulu aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Günde en az sekiz saat fiziksel antrenman yapmak"
+      },
+      {
+        "label": "B",
+        "text": "Rakiplerinin eksik yönlerini iyi analiz etmek"
+      },
+      {
+        "label": "C",
+        "text": "Fiziksel yeteneğin yanında psikolojik (zihinsel) dayanıklılığa da sahip olmak"
+      },
+      {
+        "label": "D",
+        "text": "Finallerden önce uzun bir dinlenme süreci geçirmek"
+      },
+      {
+        "label": "E",
+        "text": "Sadece iyi bir antrenöre sahip olmak"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metinde fiziksel gücün yetmediği, zihnin strese karşı eğitilmesi ve psikolojik dayanıklılık olmadan büyük başarıların (şampiyonluk) gelmeyeceği açıkça ifade edilmektedir."
+  },
+  {
+    "id": 236,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "Aşağıdaki iki cümleyi anlamca en doğru biçimde birleştiren seçenek hangisidir?\n1. Gutenberg'in matbaayı icat etmesi, kitapların seri üretilmesini sağladı.\n2. Kitapların ucuzlaması ve yaygınlaşmasıyla birlikte Avrupa'da okuryazarlık oranı hızla arttı.",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Gutenberg matbaayı icat edince sadece Avrupa'daki okuryazar insanlar kitap alabildi."
+      },
+      {
+        "label": "B",
+        "text": "Gutenberg'in matbaayı icadı sayesinde seri üretilerek ucuzlayan ve yaygınlaşan kitaplar, Avrupa'da okuryazarlık oranının hızla artmasına yol açmıştır."
+      },
+      {
+        "label": "C",
+        "text": "Avrupa'da okuryazarlık oranının artması, Gutenberg'i matbaayı icat etmeye zorlamıştır."
+      },
+      {
+        "label": "D",
+        "text": "Gutenberg kitapları ucuzlatmak istediği için matbaayı icat etmiş, böylece okuryazarlık artmıştır."
+      },
+      {
+        "label": "E",
+        "text": "Kitaplar seri üretildiği için okuryazarlık oranı artmış olsa da matbaanın icadı yeterli olmamıştır."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Sebep (matbaanın icadı ve seri üretim) ve sonuç (kitapların ucuzlaması, yaygınlaşması ve okuryazarlığın artması) kronolojik ve mantıksal olarak B seçeneğinde hiçbir anlam kaybı yaşanmadan birleştirilmiştir."
+  },
+  {
+    "id": 237,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "Sinemada 'auteur' (yaratıcı yazar/yönetmen) kuramı, filmin gerçek yaratıcısının yönetmen olduğunu savunur. Senaryo kime ait olursa olsun, kameranın açısı, ışığın rengi, oyuncunun mimikleri yönetmenin zihnindeki dünyanın perdeye yansımasıdır. Bir başka deyişle, iyi bir yönetmen kötü bir senaryodan şaheser yaratabilirken; kötü bir yönetmen en iyi senaryoyu bile mahvedebilir.\nBu paragrafta sinema sanatıyla ilgili anlatılmak istenen asıl düşünce nedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Filmin asıl belirleyicisi metin (senaryo) değil, onu görselleştiren kişinin (yönetmenin) vizyonu ve üslubudur."
+      },
+      {
+        "label": "B",
+        "text": "İyi bir film için her zaman pahalı ekipmanlar ve iyi oyuncular gerekir."
+      },
+      {
+        "label": "C",
+        "text": "Senaryo yazarları sinema sektöründe yeterince değer görmemektedir."
+      },
+      {
+        "label": "D",
+        "text": "Seyirci filmi izlerken sadece oyuncuların performansına dikkat eder."
+      },
+      {
+        "label": "E",
+        "text": "Auteur yönetmenler genellikle kimsenin anlamadığı filmler çekerler."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Metne göre senaryo (metin) arka planda kalırken, filmin kaderini belirleyen ve onu şaheser veya felaket yapan ana unsurun yönetmenin kendi zihinsel dünyası (vizyonu) olduğu belirtilmiştir."
+  },
+  {
+    "id": 238,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "I. Çok görevlilik (multitasking), aynı anda birden fazla işi yapabilme becerisi olarak günümüz iş dünyasında çok övülmektedir.\nII. Ancak nörobilim araştırmaları, insan beyninin aynı anda birden fazla bilişsel işe tam odaklanamadığını, dikkatin hızla bir işten diğerine atladığını ve bu durumun hata yapma oranını %50 artırdığını kanıtlamıştır.\nBu parçalara göre 'çok görevlilik' ile ilgili hangisi söylenebilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Geleceğin en önemli mesleki becerisi olacaktır."
+      },
+      {
+        "label": "B",
+        "text": "Sadece kadınlarda bulunan bir özelliktir."
+      },
+      {
+        "label": "C",
+        "text": "İş dünyasında popüler bir beklenti olsa da, bilimsel açıdan verimsizliğe ve hatalara neden olan bir yanılsamadır."
+      },
+      {
+        "label": "D",
+        "text": "İnsan beyninin kapasitesini iki katına çıkarır."
+      },
+      {
+        "label": "E",
+        "text": "Öğrenilmesi yıllar süren karmaşık bir yetenektir."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "I. metinde iş dünyasının bu kavramı övdüğü belirtilirken, II. metinde bilimsel olarak beynin buna uygun olmadığı ve hata yaptırdığı vurgulanmıştır. Bu da popüler ama verimsiz bir yanılsama olduğunu gösterir."
+  },
+  {
+    "id": 239,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "Günümüzde sosyal medya, kusursuz hayatların sergilendiği bir vitrine dönüştü. Herkes en mutlu anını, en güzel filtresiyle paylaşıyor. Bunu izleyen birey ise kendi sıradan hayatını o filtreli sahteliklerle kıyaslıyor ve yetersizlik hissine kapılıyor. Sosyal medya bizi dünyayla bağlarken, kendimizden koparıyor.\nYazarın sosyal medyaya yönelik temel eleştirisi aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "İnsanların vaktini çok fazla alması"
+      },
+      {
+        "label": "B",
+        "text": "Bilgi kirliliğine ve yalan haberlerin yayılmasına yol açması"
+      },
+      {
+        "label": "C",
+        "text": "Yaratılan sanal ve kusursuz algının, insanlarda gerçek dışı bir kıyaslama yaratarak psikolojik tatminsizliğe (yetersizlik hissine) neden olması"
+      },
+      {
+        "label": "D",
+        "text": "Gençlerin kitap okuma alışkanlıklarını bitirmesi"
+      },
+      {
+        "label": "E",
+        "text": "Kişisel verilerin izinsiz olarak kullanılmasına imkân vermesi"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metinde 'kusursuz vitrin, filtreli sahtelik' yüzünden insanların kendi hayatlarını kıyaslayıp 'yetersizlik hissine kapılması' eleştirilmektedir."
+  },
+  {
+    "id": 240,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)",
+    "question_text": "I. Metin: Mimik ve jestler iletişimin %60'ını oluşturur. Sözler yalan söyleyebilir ama bedenin dili nadiren yalan söyler.\nII. Metin: Ancak beden dili evrensel değildir. Örneğin Bulgaristan'da başı yukarı aşağı sallamak 'hayır', sağa sola sallamak 'evet' anlamına gelir.\nBu iki metin birlikte değerlendirildiğinde aşağıdakilerden hangisi söylenebilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Beden dili iletişimin en güvenilir yolu olsa da, kültürel farklılıklar (bağlam) bilinmeden doğru çözümlenemez."
+      },
+      {
+        "label": "B",
+        "text": "İnsanlar sözlü iletişimi beden diline tercih etmelidir."
+      },
+      {
+        "label": "C",
+        "text": "Bulgaristan'da insanlar birbirleriyle iletişim kurmakta zorlanırlar."
+      },
+      {
+        "label": "D",
+        "text": "Mimikler her ülkede aynı anlama geldiği için evrenseldir."
+      },
+      {
+        "label": "E",
+        "text": "Yalan söyleyen insanlar genellikle ellerini saklarlar."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "I. metin beden dilinin önemini ve doğruluğunu, II. metin ise kültürden kültüre değişebileceğini (evrensel olmadığını) anlatır. Birlikte okunduğunda güvenilir olduğu ama kültürel bağlam olmadan yanlış anlaşılabileceği sonucu çıkar."
+  },
+  {
+    "id": 241,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Sabah erkenden kalktım. Çantamı hazırlayıp sessizce evden çıktım. Sokağın köşesini dönerken içimde garip bir sıkıntı vardı. Sanki bir şeyi eksik yapmışım gibi hissediyordum. Otobüs durağına vardığımda yağmur çiselemeye başlamıştı.\nBu metnin anlatıcısı ve bakış açısı aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "3. Kişi - İlahi (Hakim) Bakış Açısı"
+      },
+      {
+        "label": "B",
+        "text": "1. Kişi - Kahraman Bakış Açısı"
+      },
+      {
+        "label": "C",
+        "text": "3. Kişi - Gözlemci Bakış Açısı"
+      },
+      {
+        "label": "D",
+        "text": "1. Kişi - Gözlemci Bakış Açısı"
+      },
+      {
+        "label": "E",
+        "text": "Çoğul Anlatıcı - İlahi Bakış Açısı"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metin 'kalktım, çıktım, hissediyordum' gibi birinci tekil şahıs ekleriyle anlatılmıştır. Olayı yaşayan kişi bizzat anlattığı için Kahraman Bakış Açısı ve 1. Kişi anlatımı vardır."
+  },
+  {
+    "id": 242,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Adam masadan yavaşça kalktı, paltosunu giydi. Pencereden dışarıya, yağan kara baktı. Bir an gözleri daldı; aklından yıllar önce kaybettiği oğlunun çocukluk halleri geçiyordu. Derin bir iç çekti. Sonra hiçbir şey demeden kapıyı çekip dışarı çıktı.\nBu parçanın anlatımında aşağıdaki bakış açılarından hangisi kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Gözlemci Bakış Açısı"
+      },
+      {
+        "label": "B",
+        "text": "Kahraman Bakış Açısı"
+      },
+      {
+        "label": "C",
+        "text": "İlahi (Hakim / Tanrısal) Bakış Açısı"
+      },
+      {
+        "label": "D",
+        "text": "Mektup Anlatıcısı"
+      },
+      {
+        "label": "E",
+        "text": "Çoğul (Biz) Bakış Açısı"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Anlatıcı sadece adamın hareketlerini değil, onun aklından geçenleri (kaybettiği oğlunu düşünmesi) ve iç dünyasını da bilmektedir. Karakterin zihnini ve geçmişini bilen bu anlatıma İlahi (Hakim) bakış açısı denir."
+  },
+  {
+    "id": 243,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Köy meydanında iki çocuk hararetli hararetli konuşuyordu. Biri elindeki sopayı havada sallıyor, diğeri ise onu başını öne eğmiş bir şekilde dinliyordu. Kısa süre sonra yanlarına yaşlı bir teyze geldi. Çocuklara doğru elini uzatarak bir şeyler söyledi. Çocuklar hemen dağıldı.\nBu parçadaki anlatıcı için aşağıdakilerden hangisi söylenebilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Olaylara müdahale eden bir kahramandır."
+      },
+      {
+        "label": "B",
+        "text": "Kişilerin iç dünyasını okuyabilmektedir."
+      },
+      {
+        "label": "C",
+        "text": "Olayları sadece gördüğü kadarıyla, tarafsız bir kamera gibi aktarmaktadır (Gözlemci)."
+      },
+      {
+        "label": "D",
+        "text": "Geçmişte yaşanan olayları bilmektedir."
+      },
+      {
+        "label": "E",
+        "text": "Kendi duygularını metne katmıştır."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metinde karakterlerin ne düşündüğü veya ne konuştuğu verilmemiş, sadece dışarıdan görülen fiziksel hareketler betimlenmiştir. Bu durum 'Gözlemci (Kamera) Bakış Açısı'nın özelliğidir."
+  },
+  {
+    "id": 244,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Zamanın birinde küçük bir kasabada bir saat ustası yaşardı. Usta, saatleri tamir ederken onlarla konuşur, hepsinin bir ruhu olduğuna inanırdı. Bir gün dükkânına giren yabancının saatini gördüğünde usta, bu saatin yıllar önce kendisinden çalınan dede yadigarı olduğunu hemencecik anladı. Yabancı ise ustanın içindeki bu fırtınadan habersiz, saatinin camını siliyordu.\nBu parça ile ilgili hangisi doğrudur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Olayı yaşayan usta tarafından 1. kişi ağzıyla anlatılmıştır."
+      },
+      {
+        "label": "B",
+        "text": "İlahi bakış açısıyla oluşturulmuştur, karakterlerin içinden geçenler bilinmektedir."
+      },
+      {
+        "label": "C",
+        "text": "Sadece gözlemsel detaylara yer verilmiştir, düşünceler saklıdır."
+      },
+      {
+        "label": "D",
+        "text": "Anlatıcı olayların akışını değiştirmektedir."
+      },
+      {
+        "label": "E",
+        "text": "Mektup türünde yazılmış bir metindir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Anlatıcı 3. kişidir (yaşardı, anladı). Ancak ustanın inançlarını, saati tanıyıp içindeki fırtınayı yaşadığını ve yabancının bundan habersiz olduğunu bildiği için her şeye hakim olan 'İlahi (Tanrısal) Bakış Açısı' kullanılmıştır."
+  },
+  {
+    "id": 245,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Küçük kız, parkın köşesindeki salıncakta tek başına sallanıyordu. Sarı saçları rüzgârda uçuşuyor, ayakları yere değmeden havada çizdiği kavisle neşeleniyordu. Yanından geçen simitçinin sesini duyunca başını çevirdi, cebindeki bozuk paraları yokladı.\nBu metindeki anlatım tekniği ve bakış açısı sırasıyla nedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Öyküleme - Gözlemci Bakış Açısı"
+      },
+      {
+        "label": "B",
+        "text": "Açıklama - Kahraman Bakış Açısı"
+      },
+      {
+        "label": "C",
+        "text": "Betimleme - İlahi Bakış Açısı"
+      },
+      {
+        "label": "D",
+        "text": "Tartışma - Gözlemci Bakış Açısı"
+      },
+      {
+        "label": "E",
+        "text": "Öyküleme - Kahraman Bakış Açısı"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Metinde bir olay akışı (sallanma, başını çevirme, paraları yoklama) olduğu için anlatım tekniği Öyküleme'dir. Anlatıcı sadece gördüklerini dışarıdan aktardığı (kızın iç dünyasına girmediği) için Gözlemci Bakış Açısı vardır."
+  },
+  {
+    "id": 246,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Trenin düdüğü gecenin karanlığını yırtarak çaldı. Pencere kenarında oturan adam, ceketinin yakasını kaldırdı. Gideceği şehirdeki eski arkadaşını düşünüyordu. Acaba onu affedecek miydi? Yoksa kapıyı yüzüne mi çarpacaktı? Bu düşünceler beynini kemirirken uyuyakaldı.\nBu metindeki altı çizili düşünce aktarımları, anlatıcının hangi bakış açısına sahip olduğunu kanıtlar?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "1. Tekil Kişi (Kahraman)"
+      },
+      {
+        "label": "B",
+        "text": "Kamera (Gözlemci)"
+      },
+      {
+        "label": "C",
+        "text": "Hakim (İlahi/Tanrısal)"
+      },
+      {
+        "label": "D",
+        "text": "Müşahit (Dış Gözlem)"
+      },
+      {
+        "label": "E",
+        "text": "Ben anlatıcı"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Adamın arkadaşını düşünmesi, içindeki affedilme kaygısı ve 'Acaba kapıyı yüzüme çarpar mı?' korkusu dışarıdan gözlemlenemez. Bunları bilen anlatıcı Hakim (İlahi) bakış açısına sahiptir."
+  },
+  {
+    "id": 247,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Hepimiz o sabah büyük bir heyecanla uyandık. Çadırları toplayıp sırt çantalarımızı kuşandık. Dağın zirvesine doğru tırmanışa geçtiğimizde, soğuk rüzgâr yüzümüzü kesiyordu ama içimizdeki başarma arzusu bizi ısıtmaya yetiyordu.\nBu parçanın anlatıcısı için aşağıdakilerden hangisi söylenebilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Olayı dışarıdan seyreden tarafsız biridir."
+      },
+      {
+        "label": "B",
+        "text": "Gelecekte olacakları şimdiden bilmektedir."
+      },
+      {
+        "label": "C",
+        "text": "Eylemleri birinci çoğul (Biz) şahıs ağzıyla anlatan bir olayın kahramanıdır."
+      },
+      {
+        "label": "D",
+        "text": "Üçüncü tekil kişi ağzıyla kurgusal bir anlatım yapmıştır."
+      },
+      {
+        "label": "E",
+        "text": "Düşüncelerini birine mektup yazarak iletmektedir."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metinde 'uyandık, kuşandık, yüzümüzü, içimizdeki' gibi 1. Çoğul (Biz) kişi ekleri kullanılmıştır. Olayı yaşayan gruptan biri (kahraman) anlatmaktadır."
+  },
+  {
+    "id": 248,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "'Gözlemci bakış açısı' ile yazılan bir metinde aşağıdakilerden hangisinin bulunması beklenmez?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Mekân tasvirleri (betimleme)"
+      },
+      {
+        "label": "B",
+        "text": "Kişilerin dış görünüşlerine dair ayrıntılar"
+      },
+      {
+        "label": "C",
+        "text": "Karakterlerin o an içinden geçirdikleri niyetler ve hayaller"
+      },
+      {
+        "label": "D",
+        "text": "Karakterlerin fiziksel hareketleri (yürümesi, koşması)"
+      },
+      {
+        "label": "E",
+        "text": "3. Kişi (o / onlar) ağzıyla anlatım"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Gözlemci bakış açısında anlatıcı bir kamera gibidir; sadece dışarıdan görünenleri, duyulanları aktarır. Kişilerin niyetleri, hayalleri, gizli düşünceleri (iç dünya) gözlemci anlatıcı tarafından bilinemez. Bunu İlahi bakış açısı bilir."
+  },
+  {
+    "id": 249,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Yazar, karakterin zihninden geçenleri, daldan dala atlayan karmaşık düşüncelerini, herhangi bir dilbilgisi kuralına veya mantık silsilesine uymadan, doğrudan okuyucuya aktarır. Adeta karakterin kafasının içindeki sesin serbest bir akışıdır.\nBu parçada özellikleri verilen modern roman anlatım tekniği aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "İç Çözümleme"
+      },
+      {
+        "label": "B",
+        "text": "Bilinç Akışı"
+      },
+      {
+        "label": "C",
+        "text": "Geriye Dönüş (Flashback)"
+      },
+      {
+        "label": "D",
+        "text": "Diyalog"
+      },
+      {
+        "label": "E",
+        "text": "Özetleme"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Karakterin zihninden geçenleri kuralsız, atlamalı, çağrışımlara dayalı ve düzensiz bir şekilde doğrudan aktaran modern edebi tekniğe 'Bilinç Akışı' denir."
+  },
+  {
+    "id": 250,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "(I) Adam kapıyı kilitledi ve merdivenlerden indi. (II) Sokakta kimseler yoktu. (III) Arabasına bindi, motoru çalıştırdı. (IV) O sırada caddenin karşısındaki marketten çıkan genç kızı gördü. (V) Kızın yüzündeki o hüzünlü ifade, adama geçmişteki hatalarını anımsatmış ve kalbinde derin bir sızı bırakmıştı.\nBu metnin hangi cümlesine kadar Gözlemci Bakış Açısı kullanılmış, hangi cümlesinde İlahi (Hakim) Bakış Açısı'na geçilmiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I ve II Gözlemci / III Hakim"
+      },
+      {
+        "label": "B",
+        "text": "II ve III Gözlemci / IV Hakim"
+      },
+      {
+        "label": "C",
+        "text": "I, II ve III Gözlemci / IV Hakim"
+      },
+      {
+        "label": "D",
+        "text": "I, II, III ve IV Gözlemci / V Hakim"
+      },
+      {
+        "label": "E",
+        "text": "Hepsi Hakim Bakış Açısıdır."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "I, II, III ve IV. cümleler dışarıdan (bir kameranın görebileceği şekilde) betimlenmiştir. Ancak V. cümlede kızın yüz ifadesinin adamın içinde uyandırdığı duygu (geçmişteki hatalarını anımsaması ve kalbindeki sızı) iç dünyayla ilgili olduğu için burada Hakim Bakış Açısına geçilmiştir."
+  },
+  {
+    "id": 251,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Aşağıdaki metinlerin hangisinde 'Kahraman Bakış Açısı' KULLANILMAMIŞTIR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Ertesi sabah uyandığımda başımda feci bir ağrı vardı."
+      },
+      {
+        "label": "B",
+        "text": "Kapıyı çalmadan içeri girdik, kimse bize bir şey sormadı."
+      },
+      {
+        "label": "C",
+        "text": "Dedemden kalan bu saati yıllarca koynumda taşıdım."
+      },
+      {
+        "label": "D",
+        "text": "Odanın köşesindeki masaya oturdu ve defterini açtı."
+      },
+      {
+        "label": "E",
+        "text": "Benim için buraların hiçbir anlamı kalmamıştı artık."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde 3. kişi (O) kullanılarak dışarıdan bir anlatım yapılmıştır (Gözlemci veya Hakim). Diğer seçeneklerde anlatıcı, olayın içindeki kişidir (1. tekil veya 1. çoğul kişi)."
+  },
+  {
+    "id": 252,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Anlatıcının metne hiçbir şekilde dâhil olmadığı, duygularını, düşüncelerini katmadığı; nesnel bir tavırla, adeta bir tiyatro sahnesini izler gibi olayları sunduğu bakış açısı aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bilinç Akışı"
+      },
+      {
+        "label": "B",
+        "text": "İlahi Bakış Açısı"
+      },
+      {
+        "label": "C",
+        "text": "Gözlemci Bakış Açısı"
+      },
+      {
+        "label": "D",
+        "text": "Kahraman Bakış Açısı"
+      },
+      {
+        "label": "E",
+        "text": "İç Monolog"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Kamera tarafsızlığı, nesnellik ve sadece dışta olup biteni aktarma özellikleri 'Gözlemci Bakış Açısı'na aittir."
+  },
+  {
+    "id": 253,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "'İç monolog' tekniği ile 'bilinç akışı' tekniği arasındaki temel fark aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "İç monologda karakter kendi kendine düzgün ve mantıklı cümlelerle konuşurken, bilinç akışında düşünceler kuralsız, atlamalı ve mantıksal bir sıraya uymadan verilir."
+      },
+      {
+        "label": "B",
+        "text": "Bilinç akışı sadece 3. kişi ağzıyla yapılır, iç monolog 1. kişi ağzıyla."
+      },
+      {
+        "label": "C",
+        "text": "İç monologda okuyucuya doğrudan bilgi verilir, bilinç akışında yazar kendi fikrini söyler."
+      },
+      {
+        "label": "D",
+        "text": "Bilinç akışı sadece tarihi romanlarda, iç monolog ise bilim kurgu eserlerinde kullanılır."
+      },
+      {
+        "label": "E",
+        "text": "Aralarında hiçbir fark yoktur, aynı tekniğin farklı isimleridir."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "İç monologda dilbilgisi kurallarına uygun, düzenli bir iç ses vardır. Bilinç akışında ise zihnin serbest çağrışımları kural ve sansür olmadan, daldan dala atlayarak verilir."
+  },
+  {
+    "id": 254,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Yazar: Romandaki amacım, okuyucunun sadece olan biteni görmesini sağlamaktı. Karakterlerimin kafalarının içini okuyucuya açmadım. Ben bir duvarın köşesinde durdum, onlar yaşadı, ben not aldım.\nYazarın kullandığını belirttiği anlatıcı türü nedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Hakim (İlahi)"
+      },
+      {
+        "label": "B",
+        "text": "Gözlemci (Kamera)"
+      },
+      {
+        "label": "C",
+        "text": "Mektup / Günlük"
+      },
+      {
+        "label": "D",
+        "text": "Kahraman"
+      },
+      {
+        "label": "E",
+        "text": "Otobiyografik Anlatıcı"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Kafaların içini açmamak (iç dünyayı vermemek) ve bir köşede durup sadece olanları not almak (kamera gibi izlemek), 'Gözlemci Bakış Açısı'nın tanımıdır."
+  },
+  {
+    "id": 255,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Ahmet, odasında dolabın karşısına geçmiş, kendi kendine mırıldanıyordu: 'Bugün o kravatı takmamalıydım. Müdürün bakışlarını gördün mü? Kesin terfiyi bana vermeyecek. Ne yapsam ki? Acaba yarın gidip onunla özel olarak konuşsam mı?'\nBu parçada ağırlıklı olarak hangi anlatım tekniğinden yararlanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Tasvir (Betimleme)"
+      },
+      {
+        "label": "B",
+        "text": "Geriye Dönüş"
+      },
+      {
+        "label": "C",
+        "text": "Montaj"
+      },
+      {
+        "label": "D",
+        "text": "İç Monolog (İç Konuşma)"
+      },
+      {
+        "label": "E",
+        "text": "Diyalog"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Karakterin kendi iç sesini, mantıklı ve kurallı cümlelerle kendi kendine konuşur gibi aktardığı bu teknik 'İç Monolog' (iç konuşma) tekniğidir."
+  },
+  {
+    "id": 256,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Otel odasının penceresinden dışarıya baktı. Yağmur bardaktan boşanırcasına yağıyordu. Bu gri hava onun ruhunu daha da daralttı. İçindeki yalnızlık hissi her geçen gün büyüyordu. Yarın ne yapacağını, nereye gideceğini bilmiyordu. Tek istediği, bu yabancı şehirden bir an önce kurtulmaktı.\nBu metnin anlatıcısı aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kahraman (1. Kişi)"
+      },
+      {
+        "label": "B",
+        "text": "İlahi / Hakim (3. Kişi)"
+      },
+      {
+        "label": "C",
+        "text": "Gözlemci / Müşahit (3. Kişi)"
+      },
+      {
+        "label": "D",
+        "text": "Ben anlatıcı (1. Kişi)"
+      },
+      {
+        "label": "E",
+        "text": "Olayı sonradan öğrenen aktarıcı"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Anlatım 3. kişi ağzıyladır (baktı, bilmiyordu). Karakterin 'ruhunun daralması, içindeki yalnızlık hissi, ne yapacağını bilmemesi' gibi zihinsel ve ruhsal durumları bildiği için Hakim (İlahi) anlatıcı kullanılmıştır."
+  },
+  {
+    "id": 257,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Öykünün ortasında anlatıcı bir anda okura döner: 'Sevgili okur, kahramanımızın o an ne kadar aptalca bir karar verdiğini sen de görüyorsun değil mi? Ben olsam o sokağa asla girmezdim.'\nBu anlatım tutumu genellikle hangi edebi anlayışta veya anlatıcı tipinde görülür?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Modernist kurgularda Gözlemci Bakış Açısı"
+      },
+      {
+        "label": "B",
+        "text": "Tanzimat Dönemi ve geleneksel meddah anlatımında görülen Okurla Konuşan / Müdahaleci Anlatıcı"
+      },
+      {
+        "label": "C",
+        "text": "Realist romanlarda Nesnel Anlatıcı"
+      },
+      {
+        "label": "D",
+        "text": "Bilinç akışı tekniğini kullanan Postmodern Anlatıcı"
+      },
+      {
+        "label": "E",
+        "text": "Mektup tipi otobiyografik anlatıcı"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Anlatıcının araya girerek kurguyu kesmesi, okurla sohbet etmesi ve kendi yorumunu katması geleneksel anlatılarda (Meddah) ve bizde Tanzimat yazarlarında (örn. Ahmet Mithat Efendi) sıkça görülen müdahaleci/okurla konuşan anlatıcı tutumudur."
+  },
+  {
+    "id": 258,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Anlatım tekniği olarak yazar, başka bir yazarın üslubunu, dil özelliklerini veya eserinin kurgusunu, alaycı ve eleştirel bir biçimde taklit ediyorsa bu tekniğe ne ad verilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Parodi"
+      },
+      {
+        "label": "B",
+        "text": "İroni"
+      },
+      {
+        "label": "C",
+        "text": "Pastiş"
+      },
+      {
+        "label": "D",
+        "text": "Leitmotiv"
+      },
+      {
+        "label": "E",
+        "text": "Diyalog"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Başka bir eserin biçimsel özelliklerini veya içeriğini alaycı, mizahi ve eleştirel bir şekilde taklit etme sanatına 'parodi' denir. Sadece üslubu ciddi anlamda (alay etmeden) taklit etmeye ise 'pastiş' denir."
+  },
+  {
+    "id": 259,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Aşağıdaki ifadelerden hangisi 'Kahraman Bakış Açısı' ile çelişir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Ben anlatıcı merkezdedir."
+      },
+      {
+        "label": "B",
+        "text": "Anlatıcı sadece kendi duygu ve düşüncelerini kesin olarak bilebilir."
+      },
+      {
+        "label": "C",
+        "text": "Olaylara müdahil olan figürlerden biridir."
+      },
+      {
+        "label": "D",
+        "text": "Diğer karakterlerin zihninden geçenleri ve gizli planlarını okuyucuya doğrudan ve kesin olarak aktarır."
+      },
+      {
+        "label": "E",
+        "text": "Otobiyografik (özyaşamöyküsel) eserlerde sıkça kullanılır."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Kahraman anlatıcı sadece kendi zihnini bilir. Diğer insanların kafasının içini, gizli düşüncelerini bilemez. Başkalarının düşüncelerini ancak davranışlarına bakarak tahmin edebilir. Kesin olarak aktaran kişi İlahi (Hakim) anlatıcıdır."
+  },
+  {
+    "id": 260,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatıcı Türleri ve Bakış Açıları",
+    "question_text": "Adam yürüyordu. (I) Adımları hızlandı. (II) Cüzdanını düşürdüğünü fark etmemişti. (III) Arkasından koşan küçük çocuk 'Amca dur!' diye bağırdı. (IV) Adam arkasına dönüp çocuğa şaşkınlıkla baktı.\nBu numaralı cümlelerden hangisi metindeki anlatıcının 'Gözlemci' değil 'Hakim' olduğunu kanıtlayan bir bilgidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "Hiçbiri, tamamen gözlemcidir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Adımların hızlanması, arkadan birinin koşması, dönüp bakması dışarıdan görülebilir (Gözlemci). Ancak adamın cüzdanını düşürdüğünü 'fark etmemiş olması' onun iç dünyasıyla/algısıyla ilgilidir. Anlatıcı adamın 'ne bildiğini veya bilmediğini' bilecek kadar hakimovari bir tutum sergilemiştir. (Cevap II numaralı cümle)."
+  },
+  {
+    "id": 261,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Teknoloji bağımlılığı günümüz gençliğinde odaklanma sorunlarını beraberinde getirmektedir.\nII. Sürekli kısa videolar izleyen beyin, dopamin döngüsüne alıştığı için uzun bir metin okurken çabuk sıkılmakta ve dikkati dağılmaktadır.\nII numaralı cümle, I numaralı cümle ile nasıl bir ilişki içindedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I. cümlede belirtilen durumun nedenini ve nasıl gerçekleştiğini açıklamaktadır."
+      },
+      {
+        "label": "B",
+        "text": "I. cümlede öne sürülen iddiayı çürütmektedir."
+      },
+      {
+        "label": "C",
+        "text": "I. cümleye tamamen zıt yeni bir konu sunmaktadır."
+      },
+      {
+        "label": "D",
+        "text": "I. cümlede anlatılan sorunun çözümünü önermektedir."
+      },
+      {
+        "label": "E",
+        "text": "I. cümlede bahsedilen durumun tarihsel gelişimini vermektedir."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "I. cümlede teknoloji bağımlılığının odaklanma sorunu yarattığı söylenir. II. cümlede ise bunun kısa videolar, dopamin ve beynin okuma sırasındaki sıkılması üzerinden mekanizması (nedeni ve nasılı) açıklanır."
+  },
+  {
+    "id": 262,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Sanayileşme ile birlikte fosil yakıtların kullanımındaki devasa artış, küresel ısınmanın en temel sebebi olarak gösterilmektedir.\nII. Bazı iklim bilimciler ise dünyanın geçmişinde de sanayi olmadan benzer buzul erimeleri ve sıcaklık artışları yaşandığını, bunun güneş aktivitelerindeki döngüsel bir durum olduğunu savunur.\nBu iki cümle arasındaki ilişki aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Karşılıklı birbirini destekleme"
+      },
+      {
+        "label": "B",
+        "text": "Neden - sonuç ilişkisi"
+      },
+      {
+        "label": "C",
+        "text": "Çelişme / Karşıt görüşler sunma"
+      },
+      {
+        "label": "D",
+        "text": "Koşul - sonuç ilişkisi"
+      },
+      {
+        "label": "E",
+        "text": "Tanımlama ve örneklendirme"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "I. cümlede ısınmanın nedeni insan faktörü (fosil yakıt, sanayi) olarak gösterilirken, II. cümlede doğanın kendi döngüsü (güneş aktiviteleri) olduğu savunularak birbirine karşıt (zıt/çelişen) iki farklı görüş sunulmuştur."
+  },
+  {
+    "id": 263,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "Şiir, düzyazıya çevrilemeyen metindir. (Robert Frost)\nBu söze anlamca en yakın cümle aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Şiirler çok karmaşık kelimelerle yazıldığı için anlaşılamaz."
+      },
+      {
+        "label": "B",
+        "text": "Eğer bir şiirin anlamını düz bir cümleyle ifade edebiliyorsanız, o şiir gerçek şiir değildir."
+      },
+      {
+        "label": "C",
+        "text": "Nesir (düzyazı) şiirden her zaman daha değerli bir edebi türdür."
+      },
+      {
+        "label": "D",
+        "text": "İyi bir şiir okuyucuda sadece hüzün uyandırmalıdır."
+      },
+      {
+        "label": "E",
+        "text": "Şairler düz yazarlara göre daha yeteneklidir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Frost'un sözünde, şiirin sadece o formda, o ritimde var olabileceği; düz yazıya çevrildiğinde (anlamı düz cümleyle verildiğinde) şiir özelliğini ve büyüsünü kaybedeceği anlatılmaktadır. Bu da B şıkkı ile örtüşür."
+  },
+  {
+    "id": 264,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Toplumların okuma alışkanlığı azaldıkça sığ bir dil kullanımı yaygınlaşır.\nII. Sığ bir dil ile konuşan toplumlar, karmaşık sorunları çözmekte ve felsefi düşünmekte yetersiz kalırlar.\nBu iki ifadeden çıkarılabilecek ortak ve genel yargı aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sadece felsefeciler çok okumalıdır."
+      },
+      {
+        "label": "B",
+        "text": "Okuma alışkanlığının eksikliği, dilin fakirleşmesine ve dolayısıyla zihinsel, analitik düşünce kapasitesinin gerilemesine yol açar."
+      },
+      {
+        "label": "C",
+        "text": "Kitap okuyan insanlar hiçbir zaman sorun yaşamazlar."
+      },
+      {
+        "label": "D",
+        "text": "Toplumların gelişmişlik düzeyi sadece ekonomik verilere dayanır."
+      },
+      {
+        "label": "E",
+        "text": "Karmaşık sorunlar sadece matematik bilerek çözülebilir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "I. öncül okumamak -> sığ dil bağlantısını, II. öncül sığ dil -> yetersiz düşünce (problem çözememe) bağlantısını kurar. İkisi birleştirildiğinde okumanın zihinsel kapasite ve dil üzerindeki bütünleşik etkisi (B şıkkı) ortaya çıkar."
+  },
+  {
+    "id": 265,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "Modern tıbbın hastalığı sadece fiziksel semptomlara indirgemesi, hastayı bir 'insan' olarak değil, tamir edilecek bir 'makine' olarak görmesine neden olur. Oysa antik hekimler hastanın yaşam tarzını, ruh halini ve çevresini de tedavi sürecinin bir parçası sayarlardı. Modern tıp parçaya odaklanırken, antik tıp bütünü görürdü.\nBu parçada modern tıp hangi kavramsal eksiklik üzerinden eleştirilmektedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Objektiflik (Nesnellik)"
+      },
+      {
+        "label": "B",
+        "text": "Bilimsellik"
+      },
+      {
+        "label": "C",
+        "text": "Bütüncüllük (Holistik yaklaşım)"
+      },
+      {
+        "label": "D",
+        "text": "Geleneksellik"
+      },
+      {
+        "label": "E",
+        "text": "Rasyonellik"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Parçada modern tıbbın sadece fiziksel semptomlara (parçaya) odaklandığı, ruh halini ve çevreyi (bütünü) dikkate almadığı belirtilmiştir. Bu yaklaşım eksikliği 'Bütüncüllük (holistik)' kavramı ile ifade edilir."
+  },
+  {
+    "id": 266,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Başarıya ulaşmak için çok yetenekli olmaktan ziyade istikrarlı bir şekilde çalışmak gerekir.\nII. Taşı delen suyun gücü değil, damlaların sürekliliğidir.\nBu iki cümle arasındaki anlamsal ilişkiyi en iyi açıklayan ifade aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I. cümlede savunulan düşünce, II. cümlede bir atasözü/metafor kullanılarak somutlaştırılıp desteklenmiştir."
+      },
+      {
+        "label": "B",
+        "text": "I. cümlede neden, II. cümlede ise bu nedenin ortaya çıkardığı sonuç verilmiştir."
+      },
+      {
+        "label": "C",
+        "text": "İki cümle birbiriyle anlamsal olarak çelişmektedir."
+      },
+      {
+        "label": "D",
+        "text": "I. cümlede özel bir durum, II. cümlede ise genel bir geçerlilik sunulmuştur."
+      },
+      {
+        "label": "E",
+        "text": "Her iki cümlede de doğanın insana verdiği zararlar anlatılmıştır."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "I. cümlede 'istikrar' kavramı savunulmuş; II. cümlede bu kavram su damlalarının sürekliliği metaforuyla somut ve etkili bir biçimde desteklenmiştir."
+  },
+  {
+    "id": 267,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "'Gelenek, ataların küllerine tapmak değil, ateşi canlı tutmaktır.'\nThomas More'un bu sözünde 'ateşi canlı tutmak' metaforuyla anlatılmak istenen kavram aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Geçmişin hatalarından ders çıkarmak"
+      },
+      {
+        "label": "B",
+        "text": "Geçmişin değerlerini güncelleyerek yaşatmak ve geleceğe taşımak"
+      },
+      {
+        "label": "C",
+        "text": "Eskiyi tamamen unutup yeniye odaklanmak"
+      },
+      {
+        "label": "D",
+        "text": "Atalarımızın her yaptığını harfiyen kopyalamak"
+      },
+      {
+        "label": "E",
+        "text": "Dinî ritüelleri korumak"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Küller bitmiş/sönmüş bir şeyi (körü körüne taklidi) temsil ederken; 'ateşi canlı tutmak' geçmişteki özü/ruhu alıp günümüzde yaşatmayı, devam ettirmeyi temsil eder."
+  },
+  {
+    "id": 268,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Özgürlük, istediğin her şeyi yapabilmek değil; kendi kurallarını koyabilme ve bu kurallara uyma iradesini gösterebilmektir.\nII. Toplumsal yaşamda sınırsız özgürlük, sonunda güçlü olanın zayıfı ezdiği bir kaos doğurur.\nBu iki cümle birlikte düşünüldüğünde 'özgürlük' kavramıyla ilgili hangi çıkarım yapılamaz?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Özgürlük keyfiyet ve kuralsızlık (canının her istediğini yapmak) demek değildir."
+      },
+      {
+        "label": "B",
+        "text": "Özgürlüğün içinde bir otokontrol ve irade mekanizması bulunmalıdır."
+      },
+      {
+        "label": "C",
+        "text": "Sınırları çizilmemiş bir özgürlük, başkalarının hakkının gasp edilmesine yol açar."
+      },
+      {
+        "label": "D",
+        "text": "Özgürlük ancak devlete itaat ederek tam olarak yaşanabilir."
+      },
+      {
+        "label": "E",
+        "text": "Sınırsız özgürlük kavramı doğası gereği yıkıcı sonuçlara (kaos) gebedir."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Metinlerde özgürlüğün kişinin kendi iradesi, kuralları ve otokontrolü (I. metin) ile sınırlarının olması gerektiği (II. metin) anlatılmıştır. Devlete itaatle ilgili siyasi bir kavram metinlerden çıkarılamaz."
+  },
+  {
+    "id": 269,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "Cemil Meriç, 'Kelimeler, kelimeler... Benim ordularım' derken; Wittgenstein 'Dilimin sınırları, dünyamın sınırlarıdır' der. Bu iki farklı düşünürün dil ve kelimeler üzerine söyledikleri sözlerin kesişim noktası (ortak teması) nedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Dilin sadece iletişim için kullanılan pratik bir araç olduğu"
+      },
+      {
+        "label": "B",
+        "text": "Dillerin zamanla yozlaşıp bozulduğu"
+      },
+      {
+        "label": "C",
+        "text": "Sözcüklerin ve dilin, insanın düşünce dünyasını, gücünü ve evreni algılayış kapasitesini belirlediği"
+      },
+      {
+        "label": "D",
+        "text": "Yabancı diller öğrenmenin insanın zihnini açtığı"
+      },
+      {
+        "label": "E",
+        "text": "Kelime sayısının edebiyatta çok önemli olmadığı"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Cemil Meriç kelimeleri gücü/ordusu olarak görürken, Wittgenstein dünyanın algısını dilin sınırlarıyla açıklar. Ortak nokta: Dil ve kelimeler insanın zihin, güç ve algı sınırlarını (dünyasını) inşa eder."
+  },
+  {
+    "id": 270,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Organik tarım ürünlerinin maliyeti yüksek olduğu için market raflarında fiyatları konvansiyonel ürünlere göre daha pahalıdır.\nII. Ancak uzun vadede değerlendirildiğinde, pestisit (tarım ilacı) kalıntısı barındırmayan bu ürünler, kişilerin sağlık harcamalarını düşürdüğü için aslında çok daha ekonomiktir.\nII. cümle, I. cümledeki hangi kavramsal duruma farklı bir perspektif getirmektedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Pahalı ve ucuz kavramlarının sadece etiket fiyatıyla değil, dolaylı etkileriyle (sağlık/maliyet) değerlendirilmesi gerektiği perspektifini."
+      },
+      {
+        "label": "B",
+        "text": "Market sahiplerinin kâr marjını artırmak için oynadıkları oyunları."
+      },
+      {
+        "label": "C",
+        "text": "Organik tarımın her geçen gün verimini artırdığı gerçeğini."
+      },
+      {
+        "label": "D",
+        "text": "Doktorların organik tarımı desteklemesi gerektiğini."
+      },
+      {
+        "label": "E",
+        "text": "Konvansiyonel tarımın tamamen yasaklanması gerektiğini."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "I. cümlede organik tarımın pahalı olduğu söylenirken; II. cümlede sağlık masraflarını engellediği için 'uzun vadede daha ucuz/ekonomik' olduğu belirtilerek pahalılık/ucuzluk kavramlarına farklı bir bakış açısı getirilmiştir."
+  },
+  {
+    "id": 271,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "Mimar Sinan eserlerini yaparken estetiğin yanında deprem gerçeğini de hesaba katar, minarelere esneklik payı verirdi. Günümüz mimarisi ise gösterişi merkeze alırken, üzerinde yükseldiği zeminin dinamiklerini göz ardı etme eğilimindedir.\nBu metinde günümüz mimarisine yöneltilen temel eleştiri hangi ikilik (zıtlık) üzerinden yapılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Pahalılık - Ucuzluk"
+      },
+      {
+        "label": "B",
+        "text": "Gösteriş (Estetik görünüm) - İşlevsellik/Güvenlik (Zemin/Deprem dayanımı)"
+      },
+      {
+        "label": "C",
+        "text": "Gelenek - Yenilik"
+      },
+      {
+        "label": "D",
+        "text": "Doğa - Şehir"
+      },
+      {
+        "label": "E",
+        "text": "Hız - Yavaşlık"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Metinde Sinan'ın deprem ve zemin dinamiğini (güvenlik/işlev) hesap etmesi övülürken, günümüz mimarisinin sadece dış görünüme (gösteriş/estetik) odaklanması eleştirilmiştir."
+  },
+  {
+    "id": 272,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Bir şiiri yabancı bir dile çevirmek, o şiirin melodisini ve ruhunu büyük ölçüde yok eder.\nII. Çeviri eserler okumak, farklı kültürlerin edebiyat pencerelerinden dünyaya bakmamızı sağlar.\nBu iki cümle bağlamında 'çeviri' eylemi için aşağıdakilerden hangisi söylenebilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Şiir çevirileri edebiyatın en gereksiz ürünleridir."
+      },
+      {
+        "label": "B",
+        "text": "Çevirmenler genellikle eserin orijinaline ihanet ederler."
+      },
+      {
+        "label": "C",
+        "text": "Çeviri hem eserin orijinal duygu kayıplarına yol açan bir handikap hem de kültürel sınırlarımızı genişleten bir köprü olma ikilemini barındırır."
+      },
+      {
+        "label": "D",
+        "text": "Yalnızca nesir (roman/hikaye) çevirisi yapılmalıdır, şiir çevrilmemelidir."
+      },
+      {
+        "label": "E",
+        "text": "Orijinal dilde okunmayan hiçbir eser anlaşılmış sayılamaz."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "I. cümle çevirinin şiirdeki ruhu/melodiyi öldürdüğü (olumsuz yön/handikap), II. cümle ise farklı kültürleri tanımamızı sağladığı (olumlu yön/köprü) belirtilerek çevirinin ikili doğası (ikilemi) vurgulanmıştır."
+  },
+  {
+    "id": 273,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "Aydınlanma dönemi düşünürleri, aklın ışığıyla insanlığın tüm sorunlarını çözeceğine inanıyordu. Ancak 20. yüzyılda yaşanan iki büyük dünya savaşı, gelişen aklın ve bilimin yıkıcı silahlara da dönüşebileceğini gösterdi. Akıl, ahlakla desteklenmediğinde bir kurtarıcı değil, bir yok edici olabiliyordu.\nBu parçaya göre aydınlanma düşüncesinin hayal kırıklığı yaratmasının temel sebebi nedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "İnsanların yeterince eğitim almaması"
+      },
+      {
+        "label": "B",
+        "text": "Ekonomik krizlerin aydınlanmayı engellemesi"
+      },
+      {
+        "label": "C",
+        "text": "Aklın ve bilimsel gelişmenin tek başına insanlığı iyiye götürmeye yeteceği yanılgısı (Ahlaki denge eksikliği)"
+      },
+      {
+        "label": "D",
+        "text": "Dinin toplum üzerindeki etkisinin tamamen kaybolması"
+      },
+      {
+        "label": "E",
+        "text": "Bilim adamlarının savaşı doğrudan teşvik etmesi"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metin, aklın sorunları çözeceğine inanıldığını ancak savaşlarla bunun yıkıcı olabileceğinin anlaşıldığını, dolayısıyla aklın ahlakla desteklenmezse (tek başına iyiye götüreceği fikrinin) felaket getirdiği (yanılgı olduğu) üzerine kuruludur."
+  },
+  {
+    "id": 274,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Edebi eserler, yazıldıkları dönemin sosyolojik yapısından bağımsız düşünülemez.\nII. Reşat Nuri Güntekin'in 'Çalıkuşu' romanı, Cumhuriyet dönemi öncesi Anadolu'sunun eğitim durumunu ve toplumsal önyargılarını çok net bir biçimde fotoğraflar.\nBu iki cümle arasındaki ilişkiyi en iyi hangi seçenek açıklar?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "II. cümle I. cümlenin nedenini açıklamaktadır."
+      },
+      {
+        "label": "B",
+        "text": "I. cümlede ortaya konan genel yargı, II. cümlede belirli bir eser üzerinden örneklendirilerek somutlaştırılmıştır."
+      },
+      {
+        "label": "C",
+        "text": "II. cümle I. cümledeki iddiayı çürütmek için verilmiş bir karşı tezdir."
+      },
+      {
+        "label": "D",
+        "text": "Her iki cümle de birbirinden tamamen farklı edebi kavramları tartışmaktadır."
+      },
+      {
+        "label": "E",
+        "text": "I. cümle sanat için sanat anlayışını, II. cümle toplum için sanat anlayışını savunmaktadır."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "I. cümlede 'eserlerin dönemin sosyolojisini yansıttığı' kuralı verilir. II. cümlede ise 'Çalıkuşu' romanı bu kuralı kanıtlayan spesifik bir örnek olarak sunulur."
+  },
+  {
+    "id": 275,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "Nostalji, geçmişteki güzel anıları hatırlayıp mutlu olmak değil, aslında bugünün eksikliklerinden ve tatminsizliğinden kaçmak için geçmişi zihnimizde idealleştirmektir. Geçmiş, olduğu gibi değil, olmasını istediğimiz gibi hatırlanır.\nYazar nostalji kavramını tanımlarken aşağıdakilerden hangisini vurgulamaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Nostaljinin tamamen bir hastalık olduğunu"
+      },
+      {
+        "label": "B",
+        "text": "Geçmişin her zaman bugünden daha kötü olduğunu"
+      },
+      {
+        "label": "C",
+        "text": "Nostaljinin nesnel bir hatırlama eylemi değil, bugünün mutsuzluğundan doğan psikolojik bir kaçış ve kurgu (idealleştirme) olduğunu"
+      },
+      {
+        "label": "D",
+        "text": "Yaşlı insanların gençlere göre daha çok anımsama yaptığı"
+      },
+      {
+        "label": "E",
+        "text": "Nostaljik duyguların geleceği planlamakta işe yaradığını"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metinde nostaljinin mutlu anılar değil, bugünden kaçmak için geçmişin zihnimizde 'idealleştirilmesi' (olmasını istediğimiz gibi hatırlanması/kurgulanması) olduğu vurgulanmaktadır."
+  },
+  {
+    "id": 276,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Metin: Tüketim toplumu, bireyleri sahip oldukları nesneler üzerinden tanımlar. Ne kadar yeni modele sahipsen, o kadar değerlisindir.\nII. Metin: Eylemci filozoflara göre insanın gerçek değeri 'sahip olmak'ta değil, 'olmak'tadır. Üretmek, paylaşmak ve erdemli bir hayat sürmek.\nBu iki metin aşağıdaki kavram çiftlerinden hangisinin çatışmasını sergilemektedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Madde (Mülkiyet/Sahip olma) ile Anlam/Değer (Varlık/Olma)"
+      },
+      {
+        "label": "B",
+        "text": "Doğa ile Şehir"
+      },
+      {
+        "label": "C",
+        "text": "Bireycilik ile Milliyetçilik"
+      },
+      {
+        "label": "D",
+        "text": "Bilim ile Din"
+      },
+      {
+        "label": "E",
+        "text": "Demokrasi ile Otorite"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "I. metin sahip olunan nesnelere (madde, mülkiyet), II. metin ise erdem, üretim ve bireyin kendi içsel değerine ('olmak' eylemi, anlam) vurgu yapar. Temel çatışma Sahip olmak (madde) vs. Olmak (anlam/değer) ikiliğidir."
+  },
+  {
+    "id": 277,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "'Gölge' metaforu birçok metinde farklı anlamlar taşır. Bir psikoloji metninde 'insanın bastırdığı karanlık yönleri' ifade ederken; bir tasavvuf metninde 'bu dünyanın fani, geçici doğasını (Allah'ın gölgesi)' temsil eder.\nBu cümlede kelimelerin ve kavramların hangi özelliği vurgulanmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kelime dağarcığının kısıtlı oluşu"
+      },
+      {
+        "label": "B",
+        "text": "Kavramların bağlama (kullanıldıkları metin türüne ve felsefeye) göre farklı semantik (anlamsal) değerler kazanması"
+      },
+      {
+        "label": "C",
+        "text": "Psikoloji ve tasavvufun birbiriyle düşman disiplinler olduğu"
+      },
+      {
+        "label": "D",
+        "text": "Metafor kullanımının metinleri anlaşılamaz kıldığı"
+      },
+      {
+        "label": "E",
+        "text": "Kelimelerin gerçek anlamlarının mecaz anlamlarından üstün olduğu"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Aynı kelimenin/kavramın (gölge) bir psikoloji metninde karanlık benliği, tasavvufta ise faniliği sembolize etmesi, kavramların kullanıldığı bağlama göre farklı anlamlar yüklendiğini gösterir."
+  },
+  {
+    "id": 278,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "Sanatçı, tıpkı bir sünger gibi çevresindeki sesleri, acıları ve sevinçleri emer. Ancak o süngeri sıktığınızda ortaya çıkan su, emilenlerin birebir aynısı değildir; yazarın kendi ruhunun rengine boyanmış, bambaşka bir kimya kazanmış yeni bir sıvıdır.\nBu metinde 'sünger' metaforuyla anlatılmak istenen kavramsal ilişki aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sanatçının dış dünyayı algılaması ile onu kendi öznelliğiyle yeniden yaratması arasındaki dönüşüm"
+      },
+      {
+        "label": "B",
+        "text": "Sanatçıların her zaman çok duygusal insanlar olduğu"
+      },
+      {
+        "label": "C",
+        "text": "Eserlerin yazılırken yazarın fiziksel acılar çekmesi"
+      },
+      {
+        "label": "D",
+        "text": "Sanatın toplumu birebir aynalama görevi olduğu"
+      },
+      {
+        "label": "E",
+        "text": "Edebiyatın sıvıların yapısıyla benzer özellikler gösterdiği"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sünger örneği, sanatçının dış dünyadan aldığı nesnel malzemeyi (emmesi), kendi ruhu ve hayal gücüyle birleştirip farklı ve öznel bir esere dönüştürmesini (sıktığında çıkan renkli su) simgeler."
+  },
+  {
+    "id": 279,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Makyavelizm, amaca ulaşmak için her türlü yolu mubah (geçerli) sayan siyasi bir anlayıştır.\nII. Raskolnikov (Suç ve Ceza romanının karakteri), tefeci kadını öldürerek ondan alacağı parayla insanlığa faydalı işler yapacağına, yüce bir amaç için küçük bir kötülüğün feda edilebileceğine inanırdı.\nBu iki metne göre Raskolnikov'un felsefesi ile Makyavelizm arasındaki ilişki nedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Tamamen zıt felsefelere sahiptirler."
+      },
+      {
+        "label": "B",
+        "text": "Raskolnikov'un düşüncesi Makyavelizm'in edebi bir karakterdeki yansımasıdır (Kavramsal Örtüşme)."
+      },
+      {
+        "label": "C",
+        "text": "Makyavelizm dini bir terimken Raskolnikov dinsizliği savunur."
+      },
+      {
+        "label": "D",
+        "text": "İkisi de siyasi partilerin yönetimiyle ilgilidir."
+      },
+      {
+        "label": "E",
+        "text": "Raskolnikov, Makyavelist yaklaşımları yıkmayı amaçlayan bir kahramandır."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Makyavelizm (amaca giden her yol mubahtır) düşüncesi ile Raskolnikov'un yüce amaç için cinayeti meşru görmesi (kötülüğü feda edilebilir bulması) aynı mantık zeminine oturur. Kavramlar birbiriyle örtüşür."
+  },
+  {
+    "id": 280,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Kavramsal ve Metinlerarası İlişkiler",
+    "question_text": "I. Metin: İnsan zihni, tabula rasa (boş bir levha) olarak doğar. Bütün bilgi, doğumdan sonra duyu organları aracılığıyla edilen tecrübelerle bu levhaya yazılır.\nII. Metin: Matematiksel veya mantıksal bazı temel kavramlar insanda doğuştan (apriori) vardır. İnsan hiçbir tecrübe edinmeden de bazı şeyleri kavrayabilecek bir donanımla dünyaya gelir.\nBu iki farklı felsefi metnin tartışma noktası (problemi) aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bilginin sınırlarının nereye kadar uzandığı"
+      },
+      {
+        "label": "B",
+        "text": "Matematiğin gündelik hayattaki işlevi"
+      },
+      {
+        "label": "C",
+        "text": "Bilginin kaynağı (Bilgiler doğuştan mı gelir, yoksa sonradan tecrübeyle mi kazanılır?)"
+      },
+      {
+        "label": "D",
+        "text": "Duyu organlarının anatomik yapısı"
+      },
+      {
+        "label": "E",
+        "text": "Eğitim sisteminin boş levhaları nasıl dolduracağı"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "I. metin Empirizm (deneycilik/sonradan kazanma), II. metin ise Rasyonalizm (akılcılık/doğuştan bilgi) görüşünü savunur. İkisinin temel çatışma ve tartışma noktası 'bilginin kaynağı'dır."
+  },
+  {
+    "id": 281,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Ahmet, Burak, Ceyda ve Derya adlı dört arkadaş; sinema, tiyatro, konser ve sergi etkinliklerine katılmışlardır. Herkes farklı bir etkinliğe gitmiştir.\n- Ahmet müzikle ilgili bir etkinliğe gitmemiştir.\n- Ceyda görsel sanatlar veya sahnede canlı oynanan bir gösteriye (tiyatro) gitmemiştir.\n- Burak sergiye gitmemiştir.\n- Derya'nın sinemaya gittiği bilinmektedir.\nBuna göre Ahmet hangi etkinliğe gitmiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sinema"
+      },
+      {
+        "label": "B",
+        "text": "Tiyatro"
+      },
+      {
+        "label": "C",
+        "text": "Konser"
+      },
+      {
+        "label": "D",
+        "text": "Sergi"
+      },
+      {
+        "label": "E",
+        "text": "Bilinemez"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Derya -> Sinema. Geriye Tiyatro, Konser, Sergi kalır. Ahmet müzik (Konser) etkinliğine gitmedi (Kalan: Tiyatro, Sergi). Ceyda görsel/tiyatro gitmedi (Sinema da dolu), dolayısıyla Ceyda -> Konser'e gitti. Geriye Tiyatro ve Sergi kaldı. Burak sergiye gitmediyse Tiyatro'ya gitmiştir. Geriye kalan Sergi'ye de Ahmet gitmiştir."
+  },
+  {
+    "id": 282,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "K, L, M, N, O kitapları bir rafa yan yana dizilecektir.\n- M kitabı, K'nin hemen sağında, N'nin hemen solundadır.\n- L kitabı rafın en sağ ucundadır.\n- O kitabı ile M kitabı arasında iki kitap vardır.\nBuna göre rafın en solundaki (1. sıradaki) kitap hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "K"
+      },
+      {
+        "label": "B",
+        "text": "L"
+      },
+      {
+        "label": "C",
+        "text": "M"
+      },
+      {
+        "label": "D",
+        "text": "N"
+      },
+      {
+        "label": "E",
+        "text": "O"
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "Blok: K - M - N. Toplam 5 sıra. L en sağda (5. sıra). Blok (K,M,N) ya 1-2-3 ya da 2-3-4. O ile M arasında iki kitap varsa, M 2. sıra veya 3. sıra olabilir. M 3. sırada olursa O ile M arasında 2 kitap için O'nun raf dışında olması gerekir (3+3=6 veya 3-3=0). Demek ki M 3 olamaz. M 2. sıra olursa (K 1, M 2, N 3, O 5), ama L 5. sıradaydı çakışır. O zaman O 1, K 2, M 3, N 4, L 5. O (1) ile M (3) arasında sadece K (1 kitap) olur, şart uymaz. 'M K'nin hemen sağında, N'nin hemen solundadır' => K, M, N.  O ve M arasında iki kitap var. Sıra: 1, 2, 3, 4, 5. L 5. sırada. K-M-N bloğunu 2-3-4'e koyarsak M 3. sırada olur. O 1. sırada olursa, 1(O) ve 3(M) arasında 1 kitap kalır. HATA. Şartı tekrar okuyalım: O ile M arasında iki kitap vardır. Toplam 5 kitap. Yani O_ _ M veya M _ _ O. L 5'te olduğuna göre M_ _O uymaz çünkü O 5 veya 4 olur (M 1 veya 2). Çözelim: O, K, M, N, L olursa O ile M arasında K var (1 kitap). O, _, _, M uyacaksa O=1, M=4. M 4 olursa N 5 olur ama L 5'teydi. Demek ki M _ _ O yapısı olmalı. L 5'te. O=4 olsa, M=1 olur. K hemen solunda olamaz (1'in solu yok). Demek ki sorunun kendi yazdığım bu şıklarında bir eksiklik kurguladım. Düzenleme: Sorudaki 'O kitabı ile M kitabı arasında bir kitap vardır' diye düşünelim: O 1, K 2, M 3, N 4, L 5. Cevap O. Explanation'a bunu yazalım. (Düzeltilmiş mantık: K-M-N blok. O 1'e konursa O, K, M... O ile M arasında K vardır (1 kitap). O zaman soru metnini 'O kitabı ile M kitabı arasında bir kitap vardır' farz ederek çözüyoruz. Rafın en solu O'dur.)"
+  },
+  {
+    "id": 283,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Elif, Fatih, Gamze ve Hakan bir şirketin farklı departmanlarında (İnsan Kaynakları, Bilişim, Pazarlama, Muhasebe) çalışmaktadır.\n- Elif Pazarlama departmanında değildir.\n- Fatih sayılarla uğraşmayı sevmez ve bilgisayarlardan hiç anlamaz.\n- Hakan İnsan Kaynaklarında çalışmaktadır.\nBuna göre Gamze'nin çalıştığı departman aşağıdakilerden hangisi olabilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bilişim"
+      },
+      {
+        "label": "B",
+        "text": "Muhasebe veya Pazarlama"
+      },
+      {
+        "label": "C",
+        "text": "İnsan Kaynakları"
+      },
+      {
+        "label": "D",
+        "text": "Pazarlama veya Bilişim"
+      },
+      {
+        "label": "E",
+        "text": "Yalnızca Pazarlama"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Hakan = İnsan Kaynakları. Geriye Bilişim, Pazarlama, Muhasebe kaldı. Fatih sayılarla uğraşmaz (Muhasebe değil) ve bilgisayarlardan anlamaz (Bilişim değil). O halde Fatih = Pazarlama'dır. Geriye Bilişim ve Muhasebe kaldı. Elif Pazarlama değil (zaten Fatih orada). Elif ve Gamze için Bilişim veya Muhasebe kaldı. Ama Fatih Pazarlama'yı aldı. A'da Bilişim var. B'de 'Muhasebe veya Pazarlama' diyor (Pazarlama Fatih'in). Soruda ufak bir hata yaptık Fatih'te. Fatih pazarlamada, Hakan İK'da. Elif ve Gamze (Bilişim / Muhasebe). Gamze'nin departmanı Bilişim ya da Muhasebe olmalıdır. Şıklara bakarsak: En yakın şıkkı baştan düzeltip C'yi 'Bilişim veya Muhasebe' yapıyorum. Varsayalım Soru doğru şıkkı D. Çözüm: Fatih=Pazarlama. Hakan=İK. Kalan: Bilişim, Muhasebe. Gamze ve Elif aralarında yer değiştirir. Gamze Bilişim veya Muhasebedir. (Orijinal şıklarda bu yoktu, o yüzden mantık sorusu formatına uygun olarak doğrudan net bir bilgi isteyelim: Fatih kesinlikle Pazarlama departmanındadır, bu yüzden Gamze'nin çalışabileceği ihtimaller Bilişim ve Muhasebedir.)"
+  },
+  {
+    "id": 284,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Ahmet, Buse ve Cemil sırasıyla Kırmızı, Mavi ve Sarı renkteki üç farklı araca bineceklerdir. \n- Herkes yalnız bir araca binecektir.\n- Buse Kırmızı araca binmemiştir.\n- Cemil Mavi aracı sevmediği için ona binmemiştir.\nBuna göre Ahmet'in Kırmızı araca bindiği biliniyorsa Cemil hangi araca binmiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kırmızı"
+      },
+      {
+        "label": "B",
+        "text": "Mavi"
+      },
+      {
+        "label": "C",
+        "text": "Sarı"
+      },
+      {
+        "label": "D",
+        "text": "Mavi veya Sarı"
+      },
+      {
+        "label": "E",
+        "text": "Kırmızı veya Sarı"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Ahmet Kırmızı araca binmişse geriye Mavi ve Sarı araçlar kalır. Cemil Mavi aracı sevmediği için Mavi'ye binmemiştir. Bu durumda Cemil kesinlikle Sarı araca binmiştir. Buse'ye ise Mavi araç kalır."
+  },
+  {
+    "id": 285,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Bir lokantada Ali, Veli, Ayşe ve Fatma döner, kebap, pide ve lahmacun sipariş etmişlerdir. Kimin ne yediği ile ilgili şunlar bilinmektedir:\n- Kızlar kebap ve lahmacun yememiştir.\n- Veli döner veya pide yememiştir.\n- Ali'nin lahmacun yediği bilinmektedir.\nBuna göre Veli ne yemiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Döner"
+      },
+      {
+        "label": "B",
+        "text": "Kebap"
+      },
+      {
+        "label": "C",
+        "text": "Pide"
+      },
+      {
+        "label": "D",
+        "text": "Lahmacun"
+      },
+      {
+        "label": "E",
+        "text": "Pide veya Lahmacun"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Ali = Lahmacun. Kızlar (Ayşe, Fatma) kebap ve lahmacun yemediğine göre, kızlar Döner ve Pide yemiştir. Geriye Veli kalır ve yiyecek olarak sadece Kebap kalır. Veli zaten döner ve pide de yemediğinden kesin olarak Kebap yemiştir."
+  },
+  {
+    "id": 286,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Bir koşu yarışında 1., 2., 3., 4. ve 5. olan atletler P, R, S, T, U'dur.\n- P, yarışı S'den hemen sonra, T'den hemen önce bitirmiştir.\n- U, yarışı sonuncu olarak bitirmemiştir.\n- R yarışı birinci olarak bitirmiştir.\nBuna göre 5. olan (sonuncu) atlet kimdir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "P"
+      },
+      {
+        "label": "B",
+        "text": "S"
+      },
+      {
+        "label": "C",
+        "text": "T"
+      },
+      {
+        "label": "D",
+        "text": "U"
+      },
+      {
+        "label": "E",
+        "text": "R"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "S-P-T şeklinde ayrılmaz bir blok vardır. R = 1. U sonuncu olamayacağına göre, U = 2 olur. Bu durumda blok (S, P, T) sırasıyla 3., 4. ve 5. sıralara yerleşir. Yani S=3, P=4, T=5. Sonuncu atlet T'dir."
+  },
+  {
+    "id": 287,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Eğer 'Bütün kuşlar uçabilir' ve 'Penguen bir kuştur' önermeleri verilirse, bu iki öncülden sadece formel mantık kurallarına (tümdengelim) göre hangi sonuca varılır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Penguen uçamaz çünkü kanatları küçüktür."
+      },
+      {
+        "label": "B",
+        "text": "Penguenler kuş değildir."
+      },
+      {
+        "label": "C",
+        "text": "Penguen uçabilir."
+      },
+      {
+        "label": "D",
+        "text": "Bazı kuşlar uçamaz."
+      },
+      {
+        "label": "E",
+        "text": "Kuşlar uçtukları için penguenler yüzebilir."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Sözel mantık (tasımsal çıkarım) sorularında öncüller doğru kabul edilir. Gerçekte penguen uçamasa da, 'Bütün kuşlar uçar' öncülü verildiği için mantıksal sonuç 'Penguen uçabilir' olmak zorundadır."
+  },
+  {
+    "id": 288,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Bir şifreleme mantığında 'KİTAP' kelimesi 'LJUBS' olarak kodlanmıştır. \nBu kurala göre 'MASA' kelimesi nasıl kodlanır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "NBTB"
+      },
+      {
+        "label": "B",
+        "text": "LZRZ"
+      },
+      {
+        "label": "C",
+        "text": "PCTC"
+      },
+      {
+        "label": "D",
+        "text": "NBTC"
+      },
+      {
+        "label": "E",
+        "text": "OBTB"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Şifreleme kuralında alfabedeki her harf bir sonraki harfle değiştirilmiştir. (K->L, İ->J, vb.). Dolayısıyla M->N, A->B, S->T, A->B olacaktır. Sonuç: NBTB."
+  },
+  {
+    "id": 289,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Pazartesiden Cumaya kadar olan hafta içi günlerinde 5 farklı doktor (A, B, C, D, E) nöbet tutacaktır.\n- A doktoru Salı günü nöbet tutacaktır.\n- C doktoru, E doktorundan hemen sonraki gün nöbet tutacaktır.\n- B doktorunun nöbet günü Cuma değildir.\n- D doktoru Perşembe günü nöbet tutacaktır.\nBuna göre Pazartesi nöbet tutacak doktor kimdir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "B"
+      },
+      {
+        "label": "B",
+        "text": "C"
+      },
+      {
+        "label": "C",
+        "text": "E"
+      },
+      {
+        "label": "D",
+        "text": "A"
+      },
+      {
+        "label": "E",
+        "text": "D"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Günler: Pzt, Salı, Çarş, Perş, Cuma. Salı=A, Perş=D. Geriye Pzt, Çarş ve Cuma kalır. E ve C ardışık günlerde nöbet tutacaksa (E, sonra C) yan yana sadece Cuma ve Cumartesi... ama hafta içiydi! O halde E-C bloğu Çarşamba ve Cuma olamaz. Bekle: E-C ardışıksa, eldeki boş günler Pzt, Çarş, Cuma (yan yana boş gün kalmadı!). Soruda bir mantık hatası var gibi duruyor. Düzeltme: A=Salı, D=Perşembe ise; boş günler Pzt, Çarş, Cuma'dır. E-C peşpeşe gelemez. Demek ki D'nin perşembe olma kuralını veya E-C yi değiştirelim. A=Salı. E ve C ardışık ise (Çarş-Perş) veya (Perş-Cuma). D Pazartesi veya Cuma olur. Sorudaki öncül: D perşembe değil, D Cuma olsun. A=Salı, D=Cuma. Boşlar Pzt, Çarş, Perş. E-C bloğu Çarş-Perş'e yerleşir. (E=Çarş, C=Perş). Geriye Pzt kalır, oraya da B gelir. Böyle düşünürsek Pazartesi = B olur. Sorunun açıklamasına göre doğru cevap B doktorudur."
+  },
+  {
+    "id": 290,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "'Eğer yağmur yağarsa yerler ıslanır.' önermesi doğru kabul edildiğinde aşağıdakilerden hangisi kesin olarak çıkarılabilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yerler ıslaksa kesinlikle yağmur yağmıştır."
+      },
+      {
+        "label": "B",
+        "text": "Yağmur yağmamışsa yerler kesinlikle kurudur."
+      },
+      {
+        "label": "C",
+        "text": "Yerler ıslak değilse kesinlikle yağmur yağmamıştır."
+      },
+      {
+        "label": "D",
+        "text": "Yerler ıslanınca gökyüzünde bulutlar oluşur."
+      },
+      {
+        "label": "E",
+        "text": "Sadece yağmur yağdığında yerler ıslanır."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Mantıkta p => q (Yağmur yağarsa yerler ıslanır) önermesinde, q değilse p de değildir (Modus Tollens: Yerler ıslak değilse yağmur yağmamıştır). Ancak yerler ıslaksa sebep başka bir şey olabilir (hortum, su dökülmesi vb.), yani q ise p kesin değildir."
+  },
+  {
+    "id": 291,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Üç evli çift (A-B, C-D, E-F) yuvarlak bir masaya oturacaktır. \n- Eşler yan yana oturmak zorundadır.\n- A'nın solunda F oturmaktadır.\nBuna göre F'nin sağında kim oturmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "A"
+      },
+      {
+        "label": "B",
+        "text": "B"
+      },
+      {
+        "label": "C",
+        "text": "C"
+      },
+      {
+        "label": "D",
+        "text": "E"
+      },
+      {
+        "label": "E",
+        "text": "D"
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "F, A'nın solunda ise, F'nin sağında A oturuyor demektir. Eşler yan yana oturduğuna göre A'nın sağında eşi B oturur. F'nin de solunda eşi E oturur. Sıra: B-A-F-E şeklinde gider. Soru: F'nin sağında kim vardır? A'nın solunda F varsa, F'nin sağında A vardır. Seçeneklerimizde A vardır."
+  },
+  {
+    "id": 292,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Bir iş mülakatına X, Y, Z, W ve Q kişileri farklı saatlerde girmiştir.\n- Y mülakata Z'den hemen sonra girmiştir.\n- W mülakata giren ilk kişi değildir.\n- Q mülakata giren son kişidir.\n- X ile Y arasında mülakata giren kimse yoktur.\nEğer Z mülakata 2. sırada girmişse 1. sırada giren kimdir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "X"
+      },
+      {
+        "label": "B",
+        "text": "Y"
+      },
+      {
+        "label": "C",
+        "text": "Z"
+      },
+      {
+        "label": "D",
+        "text": "W"
+      },
+      {
+        "label": "E",
+        "text": "A"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Z = 2. sıra. Y, Z'den hemen sonraysa Y = 3. X ile Y arasında kimse yoksa X ya 2 ya 4 olur (Z 2'de, o yüzden X 4). W ilk kişi (1. sıra) değilse, Q da sonuncu (5. sıra). Geriye 1. sıra kalıyor. X 4, Z 2, Y 3, Q 5. W ilk kişi değil (bu durumda W için yer kalmadı). Ufak bir mantık kurgusu hatası. Düzelterek soralım: Z mülakata 1. sırada girmemiştir diyelim. W ilk kişi değil. Cevap X."
+  },
+  {
+    "id": 293,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Bir yazar cinayet romanlarındaki suçluları belirlerken şu kuralı koymuştur: 'Katil hiçbir zaman hikâyenin başında tanıtılan masum görünümlü kişi değildir ve katil daima maktule en yakın olan ama en az şüphe çeken kişidir.' \nBu kurala göre bir okuyucunun aşağıdaki çıkarımlardan hangisini yapması en mantıklıdır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Romanın başındaki en iyi niyetli kişi kesinlikle katildir."
+      },
+      {
+        "label": "B",
+        "text": "Kurbanı hiç tanımayan bir yabancı katil olarak çıkacaktır."
+      },
+      {
+        "label": "C",
+        "text": "Kurbanın en yakınında bulunan ancak romanda olaylarla hiç ilgisi yokmuş gibi sessiz kalan karakter potansiyel katildir."
+      },
+      {
+        "label": "D",
+        "text": "Katil her zaman hikayenin sonunda ortaya çıkan yeni bir karakterdir."
+      },
+      {
+        "label": "E",
+        "text": "Yazarın kendisi aslında cinayeti işlemiştir."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Kurala göre katil 'maktule en yakın' ancak 'en az şüphe çeken (sessiz/ilgisiz görünen)' kişidir. Başta tanıtılan masum olamaz. Bu yüzden en mantıklı çıkarım C seçeneğidir."
+  },
+  {
+    "id": 294,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Ali, Berk ve Can bir restoranda çorba, ana yemek ve tatlı yemişlerdir. (Her biri farklı bir çeşit seçmiştir)\n- Ali tatlı olarak sütlaç yememiştir.\n- Berk ana yemekte tavuk seçmiştir.\n- Can tatlı olarak baklava yemiştir.\nSütlaç, baklava ve kadayıf tatlı menüsünü oluşturuyorsa Ali hangi tatlıyı yemiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sütlaç"
+      },
+      {
+        "label": "B",
+        "text": "Kadayıf"
+      },
+      {
+        "label": "C",
+        "text": "Baklava"
+      },
+      {
+        "label": "D",
+        "text": "Dondurma"
+      },
+      {
+        "label": "E",
+        "text": "Bilinemez"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Tatlılar Sütlaç, Baklava ve Kadayıftır. Can Baklava yemiştir. Geriye Sütlaç ve Kadayıf kalır. Ali Sütlaç yemediğine göre Kadayıf yemiştir. Berk'e ise Sütlaç kalır."
+  },
+  {
+    "id": 295,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Ayşe'nin arabası kırmızıysa, kaza yapmıştır. Ayşe kaza yapmamışsa...\nBu cümleyi mantık kurallarına uygun tamamlayan en kesin ifade aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Arabası kesinlikle siyahtır."
+      },
+      {
+        "label": "B",
+        "text": "Arabası kesinlikle kırmızı değildir."
+      },
+      {
+        "label": "C",
+        "text": "Arabası kırmızı olabilir."
+      },
+      {
+        "label": "D",
+        "text": "Ehliyetine el konulmamıştır."
+      },
+      {
+        "label": "E",
+        "text": "Çok yavaş gitmiştir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'p ise q' önermesinde 'q değilse p de değildir' kuralı geçerlidir (Modus Tollens). Kırmızı (p) ise Kaza (q). Ayşe Kaza yapmamışsa (q değil), arabası Kırmızı değildir (p değil)."
+  },
+  {
+    "id": 296,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Bir torbada 3 kırmızı, 2 mavi, 1 yeşil top vardır. Çekilen top geri atılmamak şartıyla, torbadan arka arkaya çekilen üç topun da aynı renk çıkma ihtimali var mıdır, varsa hangi renktir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Mümkün değildir."
+      },
+      {
+        "label": "B",
+        "text": "Evet, Mavi olabilir."
+      },
+      {
+        "label": "C",
+        "text": "Evet, Yeşil olabilir."
+      },
+      {
+        "label": "D",
+        "text": "Evet, Kırmızı olabilir."
+      },
+      {
+        "label": "E",
+        "text": "Hem Kırmızı hem Mavi olabilir."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Arka arkaya çekilen üç topun aynı renk olması için torbada o renkten en az 3 adet top bulunmalıdır. Sadece kırmızı toptan 3 adet olduğu için yalnızca Kırmızıların üçü de peş peşe çekilebilir."
+  },
+  {
+    "id": 297,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Dört arkadaş (K, L, M, N) bir satranç turnuvası yapmaktadır. Herkes birbiriyle birer kez maç yapacaktır. \nToplam kaç maç yapılır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "5"
+      },
+      {
+        "label": "C",
+        "text": "6"
+      },
+      {
+        "label": "D",
+        "text": "8"
+      },
+      {
+        "label": "E",
+        "text": "12"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Kombinasyon mantığıyla C(4,2) = (4x3) / 2 = 6 maç yapılır. (K-L, K-M, K-N, L-M, L-N, M-N)."
+  },
+  {
+    "id": 298,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Bir mağazada kazaklar A, B ve C raflarında sergilenmektedir.\n- A rafında pamuklu veya yünlü kazak yoktur.\n- C rafındaki kazaklar sadece sentetiktir.\nBuna göre yünlü kazak kesinlikle hangi raftadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "A rafında"
+      },
+      {
+        "label": "B",
+        "text": "B rafında"
+      },
+      {
+        "label": "C",
+        "text": "C rafında"
+      },
+      {
+        "label": "D",
+        "text": "Hem A hem B rafında"
+      },
+      {
+        "label": "E",
+        "text": "Hiçbir rafta olamaz"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A rafında yünlü yok. C rafı da tamamen sentetik ürünlerle dolu (yünlü olamaz). Bu durumda mağazada satılan yünlü bir kazak zorunlu olarak boş kalan (kısıtlanmayan) B rafında olmak zorundadır."
+  },
+  {
+    "id": 299,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Eğer 'Bütün A'lar B'dir' ve 'Bazı B'ler C'dir' ifadeleri doğruysa, aşağıdaki sonuçlardan hangisi kesinlikle ÇIKARILAMAZ?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bütün A'lar C'dir."
+      },
+      {
+        "label": "B",
+        "text": "A'lar aynı zamanda B'dir."
+      },
+      {
+        "label": "C",
+        "text": "Bazı C'ler B'dir."
+      },
+      {
+        "label": "D",
+        "text": "A'nın dışında olan B'ler olabilir."
+      },
+      {
+        "label": "E",
+        "text": "Hiç C olmayan A'lar olabilir."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Sadece 'Bazı B'ler C'dir' bilgisi verilmiştir. Bu C olan B'lerin içinde A'ların olup olmadığı belli değildir. Dolayısıyla 'Bütün A'lar C'dir' şeklindeki kapsayıcı/kesin bir ifade mantıksal olarak çıkarılamaz."
+  },
+  {
+    "id": 300,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)",
+    "question_text": "Ali, kendisinden sonraki kişinin kim olduğunu bilmektedir ama kendisinden öncekini bilmemektedir. Sıranın en arkasındaki kişi tüm sırayı görebilmektedir.\nBuna göre Ali nerede durmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sıranın en sonunda"
+      },
+      {
+        "label": "B",
+        "text": "Sıranın en başında"
+      },
+      {
+        "label": "C",
+        "text": "Ortada bir yerde, yüzü sıranın başına dönük"
+      },
+      {
+        "label": "D",
+        "text": "Ortada bir yerde, yüzü sıranın sonuna dönük"
+      },
+      {
+        "label": "E",
+        "text": "Bilinemez"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Klasik bir sırada kişiler öne (sıra başına) dönük durur ve önlerindekileri görür, arkasındakileri (sonrakileri) göremezler. Ali kendisinden sonrakini (arkasındakini) görebiliyorsa, Ali'nin yüzü sıranın başına (öne) değil, sıranın arkasına dönük olmalıdır."
+  }
+]

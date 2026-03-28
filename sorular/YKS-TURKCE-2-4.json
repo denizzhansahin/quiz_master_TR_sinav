@@ -1,0 +1,1922 @@
+[
+  {
+    "id": 21,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde 'yanmak' sözcüğü mecaz anlamda kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sobadaki odunlar çıtırdayarak yanıyordu."
+      },
+      {
+        "label": "B",
+        "text": "Bütün yaz güneşin altında tarlada yandık."
+      },
+      {
+        "label": "C",
+        "text": "Ormandaki kuru dallar bir anda tutuşup yandı."
+      },
+      {
+        "label": "D",
+        "text": "Biletlerimiz zamanında yetişemediğimiz için yandı."
+      },
+      {
+        "label": "E",
+        "text": "Elinin üstü kızgın çay dökülünce feci şekilde yandı."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde 'yanmak' sözcüğü ateşle ilgili bir durumu değil, 'geçerliliğini yitirmek, hükmü kalmamak' anlamında kullanılarak mecaz anlam kazanmıştır. Diğer seçeneklerde ısı veya ateşin etkisiyle oluşan fiziksel durumlar (gerçek anlam) söz konusudur."
+  },
+  {
+    "id": 22,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde terim anlamlı bir sözcük kullanılmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Oyunun ikinci perdesi birazdan başlayacak."
+      },
+      {
+        "label": "B",
+        "text": "Hakem, ceza sahası içindeki faule penaltı çaldı."
+      },
+      {
+        "label": "C",
+        "text": "Şiirin ahengini sağlayan en önemli unsurlardan biri uyaktır."
+      },
+      {
+        "label": "D",
+        "text": "Güneş ışınları öğle saatlerinde dik bir açıyla gelir."
+      },
+      {
+        "label": "E",
+        "text": "Bütün zorluklara göğüs gererek bu işi de başardı."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "A'da 'perde' (tiyatro terimi), B'de 'penaltı, ceza sahası' (spor terimi), C'de 'uyak' (edebiyat terimi), D'de 'açı' (matematik/geometri terimi) kullanılmıştır. E seçeneğinde ise herhangi bir bilim, sanat veya meslek dalına ait özel bir terim bulunmamaktadır."
+  },
+  {
+    "id": 23,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Aşağıdaki altı çizili sözcüklerden hangisi sesteş (eş sesli) değildir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yüzerek nehrin karşı kıyısına geçti."
+      },
+      {
+        "label": "B",
+        "text": "Kışlık odunları kırmak için bahçeye çıktı."
+      },
+      {
+        "label": "C",
+        "text": "Çay kenarında oturup biraz dinlendik."
+      },
+      {
+        "label": "D",
+        "text": "Kitabın sayfalarını yavaş yavaş çevirdi."
+      },
+      {
+        "label": "E",
+        "text": "At arabasıyla uzun bir yolculuk yaptık."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'Yüz' (sayı/surat/yüzmek), 'kır' (renk/kırmak/doğa), 'çay' (içecek/akarsu), 'at' (hayvan/atmak) sözcükleri sesteştir. Ancak D seçeneğindeki 'kitap' veya 'sayfa' sözcüklerinin sesteşi (eş seslisi) yoktur."
+  },
+  {
+    "id": 24,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde zıt (karşıt) anlamlı sözcükler bir arada kullanılmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Ağlayarak girdiği odadan gülerek çıktı."
+      },
+      {
+        "label": "B",
+        "text": "İyi kötü geçinip gidiyoruz bu mahallede."
+      },
+      {
+        "label": "C",
+        "text": "Bu işin içinden nasıl çıkacağımı bilmiyorum."
+      },
+      {
+        "label": "D",
+        "text": "Gündüzleri uyuyor, geceleri sürekli çalışıyordu."
+      },
+      {
+        "label": "E",
+        "text": "Büyük adımlarla küçük bir odaya doğru ilerledi."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A'da 'ağlamak-gülmek', B'de 'iyi-kötü', D'de 'gündüz-gece', E'de 'büyük-küçük' zıt anlamlı sözcükler bir arada kullanılmıştır. C seçeneğinde zıt anlamlı sözcükler yoktur."
+  },
+  {
+    "id": 25,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Soyut anlamlı bir sözcük, cümledeki kullanımına göre somut bir varlığı karşılayabilir. Buna somutlaştırma denir. Aşağıdakilerin hangisinde bu duruma örnek vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Aşk, insanı hem mutlu eden hem yoran bir duygudur."
+      },
+      {
+        "label": "B",
+        "text": "Kötülük hiçbir zaman cezasız kalmayacaktır."
+      },
+      {
+        "label": "C",
+        "text": "İçindeki umut kuşları pır pır edip gökyüzüne uçtu."
+      },
+      {
+        "label": "D",
+        "text": "Sevinçten ne yapacağını bilemez haldeydi."
+      },
+      {
+        "label": "E",
+        "text": "Nefret, kalbi kemiren gizli bir zehirdir."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'Umut' soyut bir kavramdır. Ancak C seçeneğinde umut, uçan bir 'kuş'a benzetilerek somut bir varlık gibi anlatılmış ve somutlaştırma yapılmıştır."
+  },
+  {
+    "id": 26,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Ölçülebilen, sayılabilen kavramları anlatan sözcüklere nicel; ölçülemeyen, varlığın niteliğini belirten sözcüklere nitel anlam denir. Buna göre 'büyük' sözcüğü aşağıdakilerin hangisinde nitel anlamda kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Babası ona büyük bir ev miras bıraktı."
+      },
+      {
+        "label": "B",
+        "text": "Bu büyük salonda toplantı yapacağız."
+      },
+      {
+        "label": "C",
+        "text": "Kardeşim benden üç yaş daha büyüktür."
+      },
+      {
+        "label": "D",
+        "text": "Tarihimizde çok büyük liderler yetişmiştir."
+      },
+      {
+        "label": "E",
+        "text": "Arabanın bagajına sadece büyük valizi koyduk."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A, B, C ve E seçeneklerinde 'büyük' sözcüğü hacim, boyut veya yaş olarak ölçülebilir (nicel) özellikleri ifade eder. D seçeneğinde ise 'büyük lider' ifadesindeki 'büyük', ulu, yüce, önemli anlamındadır ve ölçülemez, bu nedenle nitel anlamlıdır."
+  },
+  {
+    "id": 27,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "'Düşmek' sözcüğü aşağıdaki cümlelerin hangisinde 'eksik olmak, azalmak' anlamında kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Çocuk koşarken yere düştü."
+      },
+      {
+        "label": "B",
+        "text": "Sıcaklar başlayınca meyve fiyatları düştü."
+      },
+      {
+        "label": "C",
+        "text": "Bu yıl şubat ayında dağlara epey kar düştü."
+      },
+      {
+        "label": "D",
+        "text": "Sana düşen görev, ailene sahip çıkmaktır."
+      },
+      {
+        "label": "E",
+        "text": "Miranın gözünden düşmemek için çok çabaladı."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde fiyatların 'düşmesi', eksilmesi, değer olarak azalması anlamındadır. A'da fiziksel yere inme, C'de yağmak, D'de payına ayrılmak, E'de ise mecaz olarak değerini yitirmek anlamındadır."
+  },
+  {
+    "id": 28,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde 'göz' sözcüğünü içeren deyimin anlamı yanlış verilmiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Göz yummak: Kusurlarını görmezden gelmek, bağışlamak."
+      },
+      {
+        "label": "B",
+        "text": "Gözden düşmek: Kendine duyulan sevgiyi, güveni kaybetmek."
+      },
+      {
+        "label": "C",
+        "text": "Göze girmek: Davranışlarıyla ilgi ve değer kazanmak."
+      },
+      {
+        "label": "D",
+        "text": "Gözdağı vermek: Birine yardım edeceğini hissettirmek."
+      },
+      {
+        "label": "E",
+        "text": "Göz kulak olmak: Korumak, gözetmek, sahip çıkmak."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Gözdağı vermek deyimi, bir kimseyi korkutmak, tehdit etmek anlamındadır. Yardım edeceğini hissettirmek anlamı taşımaz."
+  },
+  {
+    "id": 29,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde, yapılan işin zorluğunu ve bu uğurda çekilen sıkıntıları ifade eden bir deyim kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Akla karayı seçtik ama sonunda projeyi yetiştirdik."
+      },
+      {
+        "label": "B",
+        "text": "Etekleri zil çalarak annesinin yanına koştu."
+      },
+      {
+        "label": "C",
+        "text": "Olanları duyunca küplere bindi, herkesi azarladı."
+      },
+      {
+        "label": "D",
+        "text": "Kendi halinde, etliye sütlüye karışmayan biriydi."
+      },
+      {
+        "label": "E",
+        "text": "Ağzından girip burnundan çıktı, sonunda babasını ikna etti."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'Akla karayı seçmek' deyimi, bir işi başarabilmek için çok büyük sıkıntılar çekmek, zorlanmak anlamında kullanılır."
+  },
+  {
+    "id": 30,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Tek bir sözcükle anlatılabilecek bir kavramın, birden fazla sözcükle anlatılmasına dolaylama denir. Aşağıdaki cümlelerin hangisinde dolaylamaya başvurulmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yavru vatan, turizm sezonuna oldukça hızlı bir giriş yaptı."
+      },
+      {
+        "label": "B",
+        "text": "Beyaz perdenin usta isimleri bu festivalde bir araya geldi."
+      },
+      {
+        "label": "C",
+        "text": "Bacasız sanayi, ülkemizin en büyük gelir kaynaklarındandır."
+      },
+      {
+        "label": "D",
+        "text": "Derya kuzuları bunlar diyerek tezgâhtaki balıkları satıyordu."
+      },
+      {
+        "label": "E",
+        "text": "Yağmurun ardından gökyüzünde muazzam bir gökkuşağı belirdi."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "A'da Kıbrıs (Yavru vatan), B'de Sinema (Beyaz perde), C'de Turizm (Bacasız sanayi), D'de Balık (Derya kuzusu) kavramları için dolaylama yapılmıştır. E seçeneğinde ise dolaylama yoktur."
+  },
+  {
+    "id": 31,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Doğadaki seslerin taklit edilmesiyle oluşan sözcüklere yansıma sözcük denir. Buna göre aşağıdakilerin hangisinde yansıma sözcük kullanılmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Dışarıdan gelen gürültü hepimizi korkuttu."
+      },
+      {
+        "label": "B",
+        "text": "Rüzgâr uğulduyor, pencereler sarsılıyordu."
+      },
+      {
+        "label": "C",
+        "text": "Derenin şırıltısı ruhumuzu dinlendiriyordu."
+      },
+      {
+        "label": "D",
+        "text": "Mutfaktan bir patırtı geldi, hemen oraya koştum."
+      },
+      {
+        "label": "E",
+        "text": "Sabahleyin kuşların ötüşüyle uyandık."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "Gürültü, uğuldama, şırıltı, patırtı sözcükleri doğadaki duyulan seslerin taklididir ve yansımadır. Ancak kuşların 'ötüşü' bir sesin taklidi değildir, eylemin adıdır. Bu nedenle 'ötmek' yansıma bir sözcük sayılmaz."
+  },
+  {
+    "id": 32,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Aşağıdaki ikilemelerden hangisi oluşumu bakımından diğerlerinden farklıdır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Ses seda"
+      },
+      {
+        "label": "B",
+        "text": "Eş dost"
+      },
+      {
+        "label": "C",
+        "text": "Aşağı yukarı"
+      },
+      {
+        "label": "D",
+        "text": "Mal mülk"
+      },
+      {
+        "label": "E",
+        "text": "Kılık kıyafet"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A, B, D ve E seçeneklerindeki ikilemeler yakın/eş anlamlı sözcüklerin tekrarlanmasıyla oluşmuştur. C seçeneğindeki 'aşağı yukarı' ikilemesi ise zıt anlamlı sözcüklerden oluşmuştur."
+  },
+  {
+    "id": 33,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Bir duyuya ait özelliğin, başka bir duyuya aktarılarak kullanılmasına duyu aktarımı denir. Aşağıdakilerin hangisinde bu duruma örnek vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sıcak havada yürümekten çok bunalmıştık."
+      },
+      {
+        "label": "B",
+        "text": "Uzaklardan çok acı bir fren sesi duyuldu."
+      },
+      {
+        "label": "C",
+        "text": "Yumuşacık yatağında mışıl mışıl uyuyordu."
+      },
+      {
+        "label": "D",
+        "text": "Güneşin parlak ışıkları gözlerimizi kamaştırdı."
+      },
+      {
+        "label": "E",
+        "text": "Taze ekmeğin kokusu bütün sokağı sarmıştı."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Acı' sözcüğü tat alma duyusuyla ilgili bir kavramken, 'acı bir ses' ifadesiyle işitme duyusuna aktarılmış ve duyu aktarımı yapılmıştır."
+  },
+  {
+    "id": 34,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Aşağıdaki atasözlerinden hangisi konusu bakımından diğerlerinden farklıdır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Damlaya damlaya göl olur."
+      },
+      {
+        "label": "B",
+        "text": "Ak akçe kara gün içindir."
+      },
+      {
+        "label": "C",
+        "text": "Ağaç yaşken eğilir."
+      },
+      {
+        "label": "D",
+        "text": "Sakla samanı, gelir zamanı."
+      },
+      {
+        "label": "E",
+        "text": "İşten artmaz, dişten artar."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A, B, D ve E seçeneklerindeki atasözleri 'tasarruf, birikim, tutumluluk' temasını işlemektedir. C seçeneğindeki 'Ağaç yaşken eğilir' atasözü ise eğitimin küçük yaşta verilmesi gerektiği ile ilgilidir."
+  },
+  {
+    "id": 35,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Bir sözcüğün benzetme amacı güdülmeden başka bir sözcük yerine kullanılmasına ad aktarması (mecazımürsel) denir. Aşağıdakilerin hangisinde ad aktarması vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Aslanlarımız dün akşamki maçta harika oynadı."
+      },
+      {
+        "label": "B",
+        "text": "Havalar soğuyunca sobayı yakıp etrafına toplandık."
+      },
+      {
+        "label": "C",
+        "text": "Altın gibi kalbi olan, çok dürüst bir insandı."
+      },
+      {
+        "label": "D",
+        "text": "Sessizce odadan çıkıp kapıyı kapattı."
+      },
+      {
+        "label": "E",
+        "text": "Bulutlar gökyüzünü kaplamış, yağmur habercisi olmuştu."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde 'sobayı yaktık' denilirken kastedilen şey sobanın kendisi değil, içindeki odun ve kömürdür (iç-dış ilişkisi). Bu, benzetme amacı güdülmeden yapılan bir ad aktarmasıdır. A'da benzetme (istiare) vardır."
+  },
+  {
+    "id": 36,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Aşağıdakilerin hangisinde altı çizili kelimeler eş anlamlı (anlamdaş) değildir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "İhtiyar - Yaşlı"
+      },
+      {
+        "label": "B",
+        "text": "Sene - Yıl"
+      },
+      {
+        "label": "C",
+        "text": "Tanık - Şahit"
+      },
+      {
+        "label": "D",
+        "text": "Ayrıntı - Teferruat"
+      },
+      {
+        "label": "E",
+        "text": "Eksik - Yanlış"
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "Eksik (noksan) ve Yanlış (hatalı) kelimeleri eş anlamlı değildir, farklı kavramları karşılarlar."
+  },
+  {
+    "id": 37,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Halkın korktuğu ya da tiksindiği durumları doğrudan söylemek yerine, daha yumuşak ve kabul edilebilir ifadelerle belirtmeye güzel adlandırma denir. Aşağıdakilerin hangisinde güzel adlandırma örneği yoktur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Geçen hafta dedesi hakkın rahmetine kavuşmuş."
+      },
+      {
+        "label": "B",
+        "text": "O yıllarda ince hastalığa yakalanıp gün gün erimiş."
+      },
+      {
+        "label": "C",
+        "text": "Görme engelli vatandaşlarımız için yeni yollar yapıldı."
+      },
+      {
+        "label": "D",
+        "text": "Evin bacasından kapkara bir duman tütüyordu."
+      },
+      {
+        "label": "E",
+        "text": "Köydeki üç harflilerle ilgili hikayeler herkesi ürkütürdü."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A'da 'ölüm' yerine hakkın rahmetine kavuşmak, B'de 'verem' yerine ince hastalık, C'de 'kör' yerine görme engelli, E'de 'cin' yerine üç harfli kullanılarak güzel adlandırma yapılmıştır. D seçeneğinde ise böyle bir kullanım yoktur."
+  },
+  {
+    "id": 38,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "'Bağlamak' sözcüğü aşağıdaki cümlelerin hangisinde 'bir şeyi kurallara uydurmak, sonuca ulaştırmak' anlamında kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Gemiyi sağlam bir halatla iskeleye bağladılar."
+      },
+      {
+        "label": "B",
+        "text": "Bu işi en kısa sürede bir karara bağlamalıyız."
+      },
+      {
+        "label": "C",
+        "text": "Hastanın kanayan yarasını temiz bir bezle bağladı."
+      },
+      {
+        "label": "D",
+        "text": "Söylediği tatlı sözlerle herkesi kendine bağladı."
+      },
+      {
+        "label": "E",
+        "text": "Bütün ümidini gireceği bu son sınava bağlamıştı."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğindeki 'karara bağlamak' ifadesi, süreci sonuca ulaştırmak, neticelendirmek anlamındadır."
+  },
+  {
+    "id": 39,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "İnsana ait özelliklerin doğadaki diğer varlıklara aktarılmasına kişileştirme (teşhis) denir. Bu da bir anlam aktarması türüdür. Aşağıdakilerin hangisinde bu türden bir mecaz yapılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Uçurumun kenarındaki ağaç, yıllara meydan okuyordu."
+      },
+      {
+        "label": "B",
+        "text": "Dalgalar büyük bir gürültüyle kayalara çarpıyordu."
+      },
+      {
+        "label": "C",
+        "text": "Gökyüzü bulutlarla kaplanmış, hava kararmıştı."
+      },
+      {
+        "label": "D",
+        "text": "Köyün hemen yanından şırıl şırıl bir dere akardı."
+      },
+      {
+        "label": "E",
+        "text": "Sıcak rüzgâr yüzümüze çarpıyor, nefesimizi kesiyordu."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'Meydan okumak' insana ait bir özelliktir. Bu özellik ağaca aktarılarak kişileştirme ve doğaya insan özelliği aktarımı (mecaz) yapılmıştır."
+  },
+  {
+    "id": 40,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcükte Anlam (Eş/Zıt Anlam, Deyimler, Terimler)",
+    "question_text": "Bazı sözcükler aralarında eş anlamlıymış gibi görünse de tam olarak birbirinin yerini tutmazlar. Buna yakın anlamlılık denir. Aşağıdakilerin hangisinde altı çizili sözcükler yakın anlamlıdır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Beyaz - Ak"
+      },
+      {
+        "label": "B",
+        "text": "Siyah - Kara"
+      },
+      {
+        "label": "C",
+        "text": "İstemek - Dilemek"
+      },
+      {
+        "label": "D",
+        "text": "Konuk - Misafir"
+      },
+      {
+        "label": "E",
+        "text": "Uzak - Irak"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Beyaz/Ak, Siyah/Kara, Konuk/Misafir ve Uzak/Irak kelimeleri tam eş anlamlıdır (birbirlerinin yerlerine kullanılabilirler). Ancak İstemek ve Dilemek sözcükleri çok benzer anlamlar taşısa da aralarında ince bir nüans (yakın anlamlılık) vardır."
+  },
+  {
+    "id": 41,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Kişiden kişiye değişmeyen, doğruluğu veya yanlışlığı kanıtlanabilen yargılara nesnel yargı denir. Buna göre aşağıdakilerin hangisinde nesnel bir yargı vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bu romanın etkileyici kurgusu okuru hemen sarıyor."
+      },
+      {
+        "label": "B",
+        "text": "Yazar, son kitabında köy yaşamının zorluklarını anlatmış."
+      },
+      {
+        "label": "C",
+        "text": "Sonbahar aylarında İstanbul ayrı bir güzelliğe bürünür."
+      },
+      {
+        "label": "D",
+        "text": "Mavi renkli elbiseler her zaman daha şık durur."
+      },
+      {
+        "label": "E",
+        "text": "Şiir okumak, insanın ruhunu dinlendiren en iyi aktivitedir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğindeki ifade kanıtlanabilir bir bilgidir; kitabın konusuna bakılarak doğruluğu test edilebilir. A, C, D ve E seçenekleri ise kişinin kendi beğenisini ve duygularını içeren öznel yargılardır."
+  },
+  {
+    "id": 42,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde 'neden - sonuç' ilişkisi yoktur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yağmur yağdığı için maç iptal edildi."
+      },
+      {
+        "label": "B",
+        "text": "Sınavı kazanamadığımdan bütün yaz ders çalıştım."
+      },
+      {
+        "label": "C",
+        "text": "Hava çok soğuk olduğundan dışarı çıkamadık."
+      },
+      {
+        "label": "D",
+        "text": "Kitap okumak için kütüphaneye gitti."
+      },
+      {
+        "label": "E",
+        "text": "Beni anlamadığı için ona çok kırıldım."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde eylemin gerçekleşme amacı belirtilmiştir (Kitap okumak amacıyla kütüphaneye gitti). Bu cümle amaç-sonuç cümlesidir. Diğer seçeneklerde ise olayların nedeni (gerekçesi) ile sonuçları verilmiştir."
+  },
+  {
+    "id": 43,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Bir eylemin hangi amaca bağlı olarak gerçekleştiğini belirten cümlelere amaç-sonuç cümlesi denir. Aşağıdakilerin hangisi amaç-sonuç cümlesidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yollar buzlandığından araçlar ilerleyemiyordu."
+      },
+      {
+        "label": "B",
+        "text": "Seni görmek maksadıyla buralara kadar geldim."
+      },
+      {
+        "label": "C",
+        "text": "Çok yorulduğu için erkenden uyumuş."
+      },
+      {
+        "label": "D",
+        "text": "Düzenli çalıştığı takdirde bu sınavı rahat geçer."
+      },
+      {
+        "label": "E",
+        "text": "Hastalandığı için toplantıya katılamadı."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde kişinin 'gelme' eyleminin amacı 'seni görmek'tir. 'Maksadıyla' veya 'amacıyla' kelimeleri getirilerek amaç-sonuç olduğu teyit edilebilir."
+  },
+  {
+    "id": 44,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Çıkarım, var olan nesnel verilerden, ipuçlarından hareketle mantıksal bir sonuca (genellikle öznel bir yoruma) ulaşmaktır. Aşağıdakilerin hangisinde bir çıkarım yapılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Romanın ilk baskısı 1950 yılında yapılmış."
+      },
+      {
+        "label": "B",
+        "text": "Yazarın kullandığı dil, onun halk kültürüyle iç içe büyüdüğünü gösteriyor."
+      },
+      {
+        "label": "C",
+        "text": "Kitaptaki karakterler Anadolu'nun bir kasabasında yaşamaktadır."
+      },
+      {
+        "label": "D",
+        "text": "Eserin son bölümünde kahramanlar İstanbul'a dönüyor."
+      },
+      {
+        "label": "E",
+        "text": "Bu yıl edebiyat ödülünü genç bir yazarımız aldı."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde kişinin kullandığı dilden (veri) hareketle, yazarın 'halk kültürüyle iç içe büyüdüğü' sonucuna ulaşılmıştır (çıkarım). Diğerleri doğrudan nesnel tespitlerdir."
+  },
+  {
+    "id": 45,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Kişinin, geçmişte yapmadığı veya elinden kaçırdığı fırsatlar için duyduğu üzüntüye 'hayıflanma'; yaptığı bir hatadan dolayı duyduğu üzüntüye ise 'pişmanlık' denir. Buna göre aşağıdakilerin hangisinde hayıflanma söz konusudur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Keşke o gün ona o ağır sözleri söylemeseydim."
+      },
+      {
+        "label": "B",
+        "text": "Gençliğimde bir yabancı dil daha öğrenseydim ne iyi olurdu."
+      },
+      {
+        "label": "C",
+        "text": "Bu arabayı almakla hayatımın en büyük hatasını yaptım."
+      },
+      {
+        "label": "D",
+        "text": "Ona sırrımı vermekle ne kadar yanıldığımı şimdi anlıyorum."
+      },
+      {
+        "label": "E",
+        "text": "Keşke toplantıda o kadar öfkeli davranmasaydım."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A, C, D ve E seçenekleri yapılmış olan eylemlerden duyulan pişmanlığı anlatır. B seçeneği ise yapılmamış bir eylemden (yabancı dil öğrenmemek) dolayı duyulan üzüntüyü, yani hayıflanmayı ifade eder."
+  },
+  {
+    "id": 46,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde 'koşula bağlılık' (şart) anlamı vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Akşam erken uyuduğundan sabah dinç kalktı."
+      },
+      {
+        "label": "B",
+        "text": "Kitabını geri vermek üzere alabilirsin."
+      },
+      {
+        "label": "C",
+        "text": "Sınavı kazanmak için çok çaba sarf etti."
+      },
+      {
+        "label": "D",
+        "text": "Tatil yapmak amacıyla memlekete gitti."
+      },
+      {
+        "label": "E",
+        "text": "Onu gördüğümde ne diyeceğimi bilemedim."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde kitabın alınabilmesi, 'geri verme' koşuluna (şartına) bağlanmıştır. '-mek üzere' edatı burada şart anlamı katmıştır."
+  },
+  {
+    "id": 47,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Bir durumun zaman içinde giderek değiştiğini bildiren cümlelere 'aşamalı durum bildiren cümleler' denir. Aşağıdakilerin hangisinde aşamalı bir durumdan söz edilemez?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Hava günden güne daha da soğuyor."
+      },
+      {
+        "label": "B",
+        "text": "Çocuğun boyu her geçen yıl biraz daha uzuyordu."
+      },
+      {
+        "label": "C",
+        "text": "Hastanın durumu gittikçe iyileşiyor."
+      },
+      {
+        "label": "D",
+        "text": "Birdenbire karşıma çıkınca çok korktum."
+      },
+      {
+        "label": "E",
+        "text": "Teknoloji gün geçtikçe hayatımıza daha çok giriyor."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A, B, C ve E seçeneklerinde eylem zaman içine yayılmış bir süreci (günden güne, her geçen yıl, gittikçe vb.) ifade eder. D seçeneğindeki 'birdenbire' ise aniden gelişen bir durumu bildirir, aşamalılık yoktur."
+  },
+  {
+    "id": 48,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Bir sanatçının eseri 'nasıl' anlattığı üslup (biçem); eserde 'ne' anlattığı ise içerik (konu) ile ilgilidir. Buna göre aşağıdakilerin hangisinde üsluba değinilmiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Romanın kahramanları Anadolu'nun ücra bir köyünden seçilmiş."
+      },
+      {
+        "label": "B",
+        "text": "Şiirlerinde Kurtuluş Savaşı yıllarındaki halkın yoksulluğunu işliyor."
+      },
+      {
+        "label": "C",
+        "text": "Yazar, devrik cümleler ve zengin benzetmelerle okuru içine çeken bir dil kurmuş."
+      },
+      {
+        "label": "D",
+        "text": "Bu tiyatro oyununda iki kardeşin miras kavgası anlatılıyor."
+      },
+      {
+        "label": "E",
+        "text": "Kitabın sonunda baş karakter şehri terk edip kasabaya yerleşir."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde yazarın dili nasıl kullandığı, cümle yapıları ve benzetmeleri (nasıl anlatıyor?) ifade edilmiştir, bu üsluptur. Diğer seçenekler ise eserin konusunu ve olay örgüsünü (ne anlatıyor?) belirten içerik cümleleridir."
+  },
+  {
+    "id": 49,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Bir kişinin sözlerini hiç değiştirmeden, olduğu gibi aktarmaya doğrudan anlatım denir. Aşağıdakilerin hangisinde doğrudan anlatım kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Öğretmenimiz, yarınki sınava iyi çalışmamız gerektiğini söyledi."
+      },
+      {
+        "label": "B",
+        "text": "Babam akşam eve erken geleceğini belirtti."
+      },
+      {
+        "label": "C",
+        "text": "Atatürk, 'Hayatta en hakiki mürşit ilimdir.' der."
+      },
+      {
+        "label": "D",
+        "text": "Arkadaşım, bu filmi mutlaka izlememi tavsiye etti."
+      },
+      {
+        "label": "E",
+        "text": "Doktor bana düzenli beslenmemin şart olduğunu anlattı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde Atatürk'ün sözü hiçbir değişikliğe uğratılmadan, tırnak içinde ve 'der' kelimesiyle doğrudan verilmiştir. Diğer seçenekler ise kişinin sözlerinin değiştirilerek/uyarlanarak aktarıldığı dolaylı anlatımlardır."
+  },
+  {
+    "id": 50,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Gerçekleşmemiş bir olayı veya durumu, bir an için gerçekleşmiş gibi kabul etmeye 'varsayım' denir. Aşağıdakilerin hangisinde varsayım anlamı vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Gelecek yıl bir Avrupa turuna çıkmayı planlıyorum."
+      },
+      {
+        "label": "B",
+        "text": "Sanırım o da bizimle gelmekten vazgeçti."
+      },
+      {
+        "label": "C",
+        "text": "Diyelim ki bu sınavı kazanamadın, ne yapmayı düşünüyorsun?"
+      },
+      {
+        "label": "D",
+        "text": "Bence bu kitap, piyasadaki diğer romanlardan daha çok satacak."
+      },
+      {
+        "label": "E",
+        "text": "Keşke tatile giderken o kalın kazağı da alsaydım."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'Diyelim ki, tut ki, farz edelim ki' gibi ifadelerle kurulan cümleler varsayım bildirir. C seçeneğinde sınavın kazanılmama ihtimali bir anlığına gerçekleşmiş gibi kabul edilmiştir."
+  },
+  {
+    "id": 51,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Bir kişi veya olay hakkında, yeterince bilgi sahibi olmadan önceden verilmiş kesin yargılara 'ön yargı (peşin hüküm)' denir. Aşağıdakilerin hangisinde ön yargı içeren bir ifade kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bu filmin gişede çok iyi bir hasılat yapmayacağını biliyorum."
+      },
+      {
+        "label": "B",
+        "text": "Eserin son bölümü okuyucuya farklı bir mesaj veriyor."
+      },
+      {
+        "label": "C",
+        "text": "Yazarın kalemi günden güne daha da güçleniyor."
+      },
+      {
+        "label": "D",
+        "text": "Dünkü toplantıya katılım beklediğimizden daha az oldu."
+      },
+      {
+        "label": "E",
+        "text": "Edebiyat eleştirmenleri bu şiir kitabını olumlu buldu."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A seçeneğinde film henüz vizyona girmemiş veya sonucu belli olmamışken, başarısız olacağı yönünde kesin bir yargıya (ön yargıya) varılmıştır."
+  },
+  {
+    "id": 52,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde 'kanıksama' (bir duruma alışma, onu yadırgamama) anlamı vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Onun bu umursamaz tavırlarına artık kimse tepki göstermiyor."
+      },
+      {
+        "label": "B",
+        "text": "Bu zor şartlar altında yaşamak beni gerçekten çok yoruyor."
+      },
+      {
+        "label": "C",
+        "text": "Her gün aynı yemekleri yemekten hepimize gına geldi."
+      },
+      {
+        "label": "D",
+        "text": "Beklenmedik bir anda karşıma çıkınca çok şaşırdım."
+      },
+      {
+        "label": "E",
+        "text": "Bir daha asla onunla çalışmak istemiyorum."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Kanıksama, sürekli tekrarlanan bir durumun artık alışkanlık haline gelip etkisini yitirmesi, tepkisizliğe yol açmasıdır. A seçeneğinde 'artık kimse tepki göstermiyor' ifadesi durumu kanıksadıklarını (alıştıklarını) gösterir."
+  },
+  {
+    "id": 53,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde 'değerlendirme' yapılmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Şairin son kitabı, öncekilere göre çok daha sade bir dille yazılmış."
+      },
+      {
+        "label": "B",
+        "text": "Bu yazar, öykülerinde sıradan insanların hayatını anlatıyor."
+      },
+      {
+        "label": "C",
+        "text": "Filmdeki müzikler sahnelerin duygusal yoğunluğunu artırmada çok başarılı."
+      },
+      {
+        "label": "D",
+        "text": "Romandaki karakterlerin psikolojik tahlilleri oldukça yüzeysel kalmış."
+      },
+      {
+        "label": "E",
+        "text": "Yönetmen bu eserinde ışık oyunlarını ustaca kullanarak gizemli bir hava yaratmış."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Değerlendirme (eleştiri), bir eserin olumlu ya da olumsuz yönlerini ortaya koymaktır. A, C, D ve E seçeneklerinde eserlerin dili, müziği, tahlili veya yönetimi hakkında bir yargı/değerlendirme vardır. B seçeneğinde ise eserin sadece konusu (nesnel olarak) belirtilmiş, bir değerlendirme yapılmamıştır."
+  },
+  {
+    "id": 54,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Bir kimseye olan kırgınlığı, üzüntüyü öfkelenmeden, yumuşak bir dille yüzüne karşı ifade etmeye sitem denir. Aşağıdakilerin hangisinde sitem anlamı vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Ona verdiğim sırrı gidip herkese anlatması ne ayıp!"
+      },
+      {
+        "label": "B",
+        "text": "Madem bu kadar yakınıma kadar geldin, insan bir uğrayıp hal hatır sorardı."
+      },
+      {
+        "label": "C",
+        "text": "Bunca iyiliğime rağmen arkamdan hep kuyumu kazdı."
+      },
+      {
+        "label": "D",
+        "text": "İşlerimi zamanında teslim etmezsem patron çok kızacak."
+      },
+      {
+        "label": "E",
+        "text": "Bu yıl havalar ısınmak bilmedi, ürünler tarlada kaldı."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde kişinin kendisine beklediği ziyaretin yapılmaması sebebiyle duyduğu kırgınlık, kişinin yüzüne karşı dile getirilmiş ve sitem edilmiştir. A ve C seçenekleri arkadan konuşma (yakınma) içerir."
+  },
+  {
+    "id": 55,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "'Gerçek sanatçı, gördüklerini aynen yansıtan bir ayna değil; o gördüklerini kendi süzgecinden geçirerek yeniden yaratan bir ressamdır.' cümlesinden aşağıdaki yargılardan hangisine ulaşılabilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sanatçı, toplumsal sorunlara ayna tutmalıdır."
+      },
+      {
+        "label": "B",
+        "text": "Sanat eseri gerçeğin birebir kopyası olmamalı, sanatçının yorumunu içermelidir."
+      },
+      {
+        "label": "C",
+        "text": "Ressamlar diğer sanatçılara göre doğayı daha iyi gözlemlerler."
+      },
+      {
+        "label": "D",
+        "text": "İyi bir sanat eseri halkın seviyesine inebilen eserdir."
+      },
+      {
+        "label": "E",
+        "text": "Sanatçı dış dünyadan tamamen kopuk eserler vermelidir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Cümlede sanatçının gördüklerini aynen aktaran bir ayna olmaması, olayları 'kendi süzgecinden geçirip yeniden yaratması' gerektiği vurgulanmıştır. Bu da gerçeğin kopyalanmaması, sanatçının öznel yorumuyla birleşmesi anlamına gelir."
+  },
+  {
+    "id": 56,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde eylemin gerçekleşmesi bir olasılığa (ihtimale) dayandırılmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Hava bulutlandı, akşama doğru yağmur yağabilir."
+      },
+      {
+        "label": "B",
+        "text": "Sanırım o da toplantıya geç kalacak."
+      },
+      {
+        "label": "C",
+        "text": "Bu kitabın yazarının daha önce bir ödül aldığını hatırlıyorum."
+      },
+      {
+        "label": "D",
+        "text": "Belki yarın sabah erkenden yola çıkarız."
+      },
+      {
+        "label": "E",
+        "text": "Sınav sonuçları hafta sonuna kadar açıklanabilir."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A, B, D ve E seçeneklerinde sırasıyla -ebilmek, sanırım, belki gibi ifadeler ihtimal bildirir. C seçeneğinde ise kişi hafızasındaki bir bilgiyi belirtmektedir, eylemde bir olasılık anlamı yoktur."
+  },
+  {
+    "id": 57,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde eşitliğin bozulduğu, adaletsiz bir durumdan şikayet (yakınma) vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bütün gün ev işleriyle tek başıma uğraşmaktan çok yoruldum."
+      },
+      {
+        "label": "B",
+        "text": "Kardeşim sınavlara çalışırken o bütün gün oyun oynuyor."
+      },
+      {
+        "label": "C",
+        "text": "Köydeki herkes hasat zamanı imece usulüyle çalışırdı."
+      },
+      {
+        "label": "D",
+        "text": "Bu projenin bütün yükünü biz çektik ama ödülü başkaları aldı."
+      },
+      {
+        "label": "E",
+        "text": "Her fırsatta bizi arayıp halimizi hatırımızı sorar."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde emeği harcayanlarla ödülü alanların farklı kişiler olması, eşitliğin ve adaletin bozulduğunu göstermekte ve kişi bu durumdan yakınmaktadır."
+  },
+  {
+    "id": 58,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "'Yazılarında sözcükleri o kadar özenle seçer ki, sanki kuyumcu titizliğiyle işler onları.' Bu cümlede vurgulanmak istenen aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yazarın çok az eser verdiği"
+      },
+      {
+        "label": "B",
+        "text": "Eserlerinin çok pahalıya satıldığı"
+      },
+      {
+        "label": "C",
+        "text": "Üslubunun çok ağır ve anlaşılmaz olduğu"
+      },
+      {
+        "label": "D",
+        "text": "Anlatımında çok dikkatli, seçici ve özenli olduğu"
+      },
+      {
+        "label": "E",
+        "text": "Sözcüklerin gerçek anlamlarını kullanmaktan kaçındığı"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'Kuyumcu titizliğiyle işlemek' mecazı, ince elleyip sık dokumayı, çok detaylı, dikkatli ve özenli davranmayı ifade eder."
+  },
+  {
+    "id": 59,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "Gözlem, bir varlığın, yerin veya durumun niteliklerinin dikkatle incelenip aktarılmasıdır. Aşağıdaki cümlelerin hangisinde gözleme yer verilmemiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Adamın yüzündeki derin çizgiler yılların yorgunluğunu ele veriyordu."
+      },
+      {
+        "label": "B",
+        "text": "Eski ve ahşap evin pencereleri boyasızlıktan dökülüyordu."
+      },
+      {
+        "label": "C",
+        "text": "Roman okumak insanın iç dünyasını zenginleştiren bir eylemdir."
+      },
+      {
+        "label": "D",
+        "text": "Sokak lambasının cılız ışığı altında titreyen bir köpek duruyordu."
+      },
+      {
+        "label": "E",
+        "text": "Masanın üzerindeki kitaplar gelişi güzel üst üste yığılmıştı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A, B, D ve E seçenekleri somut ortamda görülüp betimlenebilen, dış dünyadan alınmış gözlemler içerir. C seçeneği ise tamamen zihinsel, öznel bir düşünce/fikir cümlesidir, dış dünyadan bir gözlem içermez."
+  },
+  {
+    "id": 60,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlede Anlam (Öznel/Nesnel, Neden-Sonuç, Çıkarım)",
+    "question_text": "'Başkalarının izinden gidenler, hiçbir zaman ayak izi bırakamazlar.' cümlesiyle anlatılmak istenen temel düşünce nedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Liderler her zaman yalnızdır."
+      },
+      {
+        "label": "B",
+        "text": "Taklitçilik, kişinin özgün olmasını ve kalıcı eserler bırakmasını engeller."
+      },
+      {
+        "label": "C",
+        "text": "Başarıya giden yol daha önce denenmiş yollardan geçmektir."
+      },
+      {
+        "label": "D",
+        "text": "Geçmişe değer vermeyenler geleceği inşa edemezler."
+      },
+      {
+        "label": "E",
+        "text": "Birlikte hareket etmek zorlukları aşmanın en kolay yoludur."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Başkalarının izinden gitmek' taklit etmeyi; 'ayak izi bırakamamak' ise kalıcı, kendine has, özgün (orijinal) bir şeyler ortaya koyamamayı ifade eder."
+  },
+  {
+    "id": 61,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Kimi yazarlar vardır, okura tepeden bakar. Onlara ne yapması gerektiğini, ne hissetmesi gerektiğini uzun uzun dikte eder. Ancak kalıcı eser bırakan sanatçılar böyle yapmaz. Onlar okurla yan yana yürür, ona yolu gösterir ama keşfetme işini okurun kendisine bırakır. Bu sayede okur, eserin içinde kendini yeniden inşa eder.\n\nBu paragrafın ana düşüncesi aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yazarlar her dönemde toplumu eğitmeyi amaçlamıştır."
+      },
+      {
+        "label": "B",
+        "text": "Eserin anlamını okuyucuya doğrudan vermek yerine, okuyucunun kendi çıkarımını yapmasına imkân tanıyan yazarlar başarılı olur."
+      },
+      {
+        "label": "C",
+        "text": "Uzun uzun yazılan edebi eserler okuyucuyu sıkar."
+      },
+      {
+        "label": "D",
+        "text": "Edebi eserler sadece duygu yüklü metinler olmalıdır."
+      },
+      {
+        "label": "E",
+        "text": "İyi bir yazar her zaman toplumun sorunlarına çözüm sunmalıdır."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Paragrafta okura ders veren (dikte eden) yazarlar eleştirilmiş; kalıcı olanların ise okura sadece yol gösterip keşfetmeyi ona bırakan (anlamı doğrudan vermeyen) yazarlar olduğu vurgulanmıştır."
+  },
+  {
+    "id": 62,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "(I) Şiir, sözcüklerin kalıplarından kurtulup özgürce dans etmesidir. (II) Bir romancı sayfalar dolusu tasvirle size bir manzarayı anlatabilir. (III) Oysa şair aynı manzarayı iki dizeyle, hislerinizi doğrudan hedef alarak çizer. (IV) Bu yüzden şiir okumak, roman okumaktan daha çok zihinsel çaba gerektirir. (V) İyi bir şiir, her okunduğunda farklı bir tat bırakır insanda.\n\nYukarıdaki parçada numaralanmış cümlelerin hangisinde karşılaştırma yapılmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "I. cümlede şiirin tanımı (benzetmeyle) yapılmıştır. II ve III. cümleler arasında romancı ve şairin anlatımı karşılaştırılmıştır. IV. cümlede şiir okumak ile roman okumak zihinsel çaba yönünden karşılaştırılmıştır (daha). V. cümlede ise şiirin her okunuşundaki farklı tatları yine 'farklılık' üzerinden örtülü bir kıyas içerir (diğer okunuşlara göre). İlk cümlede hiçbir karşılaştırma unsuru yoktur."
+  },
+  {
+    "id": 63,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Bir metnin giriş cümlesi, kendisinden önce başka bir cümlenin varlığını gerektirmemeli; 'bu yüzden, çünkü, oysa, bu' gibi bağlayıcı unsurlarla başlamamalıdır.\nBuna göre aşağıdakilerden hangisi bir paragrafın giriş cümlesi olmaya en uygundur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bütün bu zorluklar sanatçının üretkenliğini elbette etkiler."
+      },
+      {
+        "label": "B",
+        "text": "Oysa gerçek bir eleştirmen, esere kendi ön yargılarını yansıtmamalıdır."
+      },
+      {
+        "label": "C",
+        "text": "Tarih boyunca insanoğlu her zaman bilinmeyene karşı bir merak duymuştur."
+      },
+      {
+        "label": "D",
+        "text": "Şiirin bu yönünü diğer edebiyat türlerinde bulmak neredeyse imkânsızdır."
+      },
+      {
+        "label": "E",
+        "text": "İşte bu durum, yazarın son kitabında en net haliyle karşımıza çıkıyor."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A'da 'bütün bu', B'de 'Oysa', D'de 'bu yönünü', E'de 'İşte bu' ifadeleri kendilerinden önce başka şeyler söylendiğini gösterir. C seçeneği ise bağımsız bir genel yargıdır ve bir paragrafın ilk cümlesi olmaya uygundur."
+  },
+  {
+    "id": 64,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "(I) Çay, Türk kültüründe sadece bir içecek değil, aynı zamanda dostluğun sembolüdür. (II) Sabah kahvaltılarından tutun da akşam sohbetlerine kadar her anımıza eşlik eder. (III) Kahve ise Osmanlı'dan günümüze gelen çok köklü bir ritüeldir. (IV) Misafirliğe gidildiğinde ilk olarak çay ikram edilmesi bu yüzdendir. (V) Çaysız bir sohbet, Türk insanı için eksik kalmış demektir.\n\nBu parçada düşüncenin akışını bozan cümle hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Paragrafın genelinde 'çayın Türk kültüründeki yeri ve sohbetlerin ayrılmaz parçası olduğu' anlatılmaktadır. Ancak III. numaralı cümlede birdenbire 'kahvenin köklü ritüel' olmasından bahsedilerek konu değiştirilmiş ve düşüncenin akışı bozulmuştur."
+  },
+  {
+    "id": 65,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Kapıyı araladığımda eski, ahşap bir odayla karşılaştım. Odanın köşesinde işlemeleri dökülmüş antika bir masa duruyordu. Masanın hemen üzerinde, sönmeye yüz tutmuş titrek ışıklı bir gaz lambası vardı. Duvarda ise çerçevesi kararmış siyah beyaz bir fotoğraf asılıydı.\n\nBu parçanın anlatımında aşağıdaki anlatım tekniklerinden hangisi ağır basmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Öyküleme"
+      },
+      {
+        "label": "B",
+        "text": "Açıklama"
+      },
+      {
+        "label": "C",
+        "text": "Tartışma"
+      },
+      {
+        "label": "D",
+        "text": "Betimleme"
+      },
+      {
+        "label": "E",
+        "text": "Örneklendirme"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Yazar, gördüğü bir mekanı, nesneleri (ahşap oda, antika masa, titrek ışıklı lamba vb.) kelimelerle okuyucunun gözünde canlandıracak şekilde tasvir etmiştir. Bu tekniğe betimleme denir."
+  },
+  {
+    "id": 66,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Teknoloji insanları asosyal yapıyor diyenlere kesinlikle katılmıyorum. Bilakis günümüzde teknoloji sayesinde dünyanın öbür ucundaki insanlarla anında iletişim kurabiliyoruz. Aynı ilgi alanlarını paylaştığımız topluluklara girip fikir alışverişinde bulunuyoruz. Asosyal olan teknoloji değil, onu yanlış kullanan insanın kendisidir.\n\nBu metnin anlatımında hangi anlatım biçimi ağır basmaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Betimleme"
+      },
+      {
+        "label": "B",
+        "text": "Açıklama"
+      },
+      {
+        "label": "C",
+        "text": "Öyküleme"
+      },
+      {
+        "label": "D",
+        "text": "Tartışma"
+      },
+      {
+        "label": "E",
+        "text": "Tanık Gösterme"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Yazar, karşıt bir fikri (teknolojinin asosyal yaptığı fikrini) eleştirerek kendi görüşünü savunmaktadır. Okuyucuyu ikna etme amacı taşıyan, karşıt fikirleri çürütmeye yönelik yazılan bu tür metinler 'tartışma' tekniğiyle yazılır."
+  },
+  {
+    "id": 67,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Sanatın toplumsal bir işlevi olmak zorundadır. Sadece estetik kaygılarla üretilen bir eser, fildişi kulesine hapsedilmiş demektir. Nitekim ünlü Rus yazar Tolstoy da 'Sanat, insanların birbirlerinin duygularını anlayıp birleşmesini sağlayan bir araçtır.' diyerek sanatın insanları ortak bir paydada buluşturması gerektiğini belirtir.\n\nYazar, düşüncesini inandırıcı kılmak için aşağıdaki yollardan hangisine başvurmuştur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Örneklendirme"
+      },
+      {
+        "label": "B",
+        "text": "Karşılaştırma"
+      },
+      {
+        "label": "C",
+        "text": "Tanık Gösterme"
+      },
+      {
+        "label": "D",
+        "text": "Sayısal Verilerden Yararlanma"
+      },
+      {
+        "label": "E",
+        "text": "Tanımlama"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Yazar, savunduğu 'sanatın toplumsal işlevi olması gerektiği' düşüncesini pekiştirmek için, alanında otorite kabul edilen Tolstoy'un sözünü doğrudan alıntılamıştır. Bu, düşünceyi geliştirme yollarından 'tanık gösterme'dir."
+  },
+  {
+    "id": 68,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "(I) Fotoğrafçılık sanatı, ışığın ustalıkla kullanılması esasına dayanır. (II) İyi bir fotoğrafçı, doğru anı yakalamak için saatlerce beklemeyi göze alır. (III) Dijital makinelerin çıkmasıyla herkes fotoğraf çekmeye başladı. (IV) Eskiden karanlık odada film yıkamak büyük bir ustalık gerektirirdi. (V) Günümüzde ise tek bir tuşla binlerce fotoğraf çekilip filtrelerle düzenlenebiliyor.\n\nBu parça iki paragrafa ayrılmak istense, ikinci paragraf numaralanmış cümlelerin hangisiyle başlar?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "II"
+      },
+      {
+        "label": "B",
+        "text": "III"
+      },
+      {
+        "label": "C",
+        "text": "IV"
+      },
+      {
+        "label": "D",
+        "text": "V"
+      },
+      {
+        "label": "E",
+        "text": "I"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "I ve II. cümlelerde fotoğrafçılık sanatının temeli ve fotoğrafçının sabrı/ustalığı anlatılırken; III. cümleden itibaren dijital makinelerin hayatımıza girmesi ve günümüzdeki kolaylıkları (karanlık oda-dijital kıyası) anlatılarak yepyeni bir alt konuya geçilmiştir. Bu nedenle ikinci paragraf III. cümle ile başlamalıdır."
+  },
+  {
+    "id": 69,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Güneşin kavurucu sıcağında, genzimi yakan bir toz bulutunun içinden geçtik. Biraz ilerideki tepeden gelen çoban köpeğinin havlamaları sessizliği bozuyordu. Yüzümüze çarpan sert rüzgâr, üzerimizdeki yorgunluğu alıp götürüyor gibiydi.\n\nBu parçada aşağıdaki duyulardan hangisine ait bir ayrıntıya yer verilmemiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Görme"
+      },
+      {
+        "label": "B",
+        "text": "İşitme"
+      },
+      {
+        "label": "C",
+        "text": "Dokunma"
+      },
+      {
+        "label": "D",
+        "text": "Tat alma"
+      },
+      {
+        "label": "E",
+        "text": "Koklama"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Toz bulutunu 'görme', köpeğin havlamalarını 'işitme', güneşin sıcağını ve sert rüzgarın yüze çarpmasını 'dokunma', genzi yakan tozu/havayı 'koklama' duyusuyla algılarız. Ancak metinde 'tat alma' duyusuna yönelik bir ayrıntı yoktur."
+  },
+  {
+    "id": 70,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Edebiyatımızın önemli dönemlerinden Servetifünun, içe dönük ve melankolik bir yapıya sahiptir. Bu dönem şairleri, dönemin siyasi baskıları yüzünden toplumsal konulardan uzaklaşıp bireysel acıları işlemişlerdir. ----. Bu yüzden eserlerinin dili oldukça ağır ve süslüdür.\n\nBu parçada boş bırakılan yere düşüncenin akışına göre aşağıdakilerden hangisi getirilmelidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Halkın sorunlarına duyarsız kalmamışlardır."
+      },
+      {
+        "label": "B",
+        "text": "Ayrıca eserlerini geniş kitlelerin okuması için sade bir dil seçmişlerdir."
+      },
+      {
+        "label": "C",
+        "text": "Sadece aydın kesime hitap ettikleri için halkın anlayacağı bir dile ihtiyaç duymamışlardır."
+      },
+      {
+        "label": "D",
+        "text": "Şiirin formundan çok konusuna önem vermişlerdir."
+      },
+      {
+        "label": "E",
+        "text": "Toplumsal değişimin öncüleri olmuşlardır."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Boşluktan sonra gelen cümle 'Bu yüzden eserlerinin dili oldukça ağır ve süslüdür.' yargısıdır. Bu sonucun nedeni, yazarın sadece belli bir elit kesime hitap etmesi, halk için yazmaması olmalıdır. Bu anlama en uygun ifade C seçeneğidir."
+  },
+  {
+    "id": 71,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Eğitim sistemi üzerine tartışırken genellikle müfredatın yoğunluğundan şikayet ederiz. Fakat asıl sorun bilginin çokluğu değil, o bilginin çocuğun hayatına nasıl entegre edileceğidir. Sadece ezberleyen ama o bilgiyi problem çözmede kullanamayan bir nesil yetişiyorsa, müfredatı azaltmak da sorunu çözmeyecektir.\n\nBu parçadan çıkarılabilecek en kapsamlı yargı (ana düşünce) aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Günümüzdeki müfredat öğrencilerin seviyesine uygun değildir."
+      },
+      {
+        "label": "B",
+        "text": "Eğitimde asıl önemli olan, bilginin miktarından ziyade işlevsel olması, günlük hayatta kullanılabilmesidir."
+      },
+      {
+        "label": "C",
+        "text": "Öğrencilere ezber yaptırmak yerine sadece oyunlarla eğitim verilmelidir."
+      },
+      {
+        "label": "D",
+        "text": "Eğitim sistemindeki sorunların tamamı öğretmenlerden kaynaklanmaktadır."
+      },
+      {
+        "label": "E",
+        "text": "Sınav odaklı eğitim öğrencilerin psikolojisini bozmaktadır."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Paragrafın odak noktası bilginin miktarının değil, bilginin hayata nasıl uygulanacağının ve problem çözmede nasıl kullanılacağının önemli olduğudur. B seçeneği bu düşünceyi en kapsamlı şekilde ifade eder."
+  },
+  {
+    "id": 72,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Roman karakterleri çoğu zaman yazarın kendi yaşamından izler taşır. Hatta bazen yazar, kendi söyleyemediklerini kahramanının ağzından cesurca haykırır. Örneğin Dostoyevski'nin 'Suç ve Ceza'sındaki Raskolnikov'un iç çatışmaları, aslında yazarın o dönemdeki ruhani buhranlarının birer yansımasıdır.\n\nBu parçada düşünceyi somutlaştırmak için aşağıdaki yollardan hangisine başvurulmuştur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Örneklendirme"
+      },
+      {
+        "label": "B",
+        "text": "Tanık Gösterme"
+      },
+      {
+        "label": "C",
+        "text": "Tanımlama"
+      },
+      {
+        "label": "D",
+        "text": "Karşılaştırma"
+      },
+      {
+        "label": "E",
+        "text": "Kişileştirme"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Yazar, 'roman karakterlerinin yazardan izler taşıdığı' şeklindeki soyut düşüncesini kanıtlamak ve somutlaştırmak için Dostoyevski ve Raskolnikov karakterini 'örnek' olarak sunmuştur. Burada bir söz alıntısı yoktur (Tanık gösterme değildir)."
+  },
+  {
+    "id": 73,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Eskiden mektuplar vardı. Uzun uzun yazılan, yolları gözlenen, zarfın üzerine düşen gözyaşıyla samimiyetini kanıtlayan mektuplar... Şimdilerde ise anlık mesajlaşma uygulamaları var. İki saniyede gönderilen, çoğunlukla duygudan yoksun, sadece kelimelerin soğukluğunu taşıyan kısa mesajlar.\n\nYukarıdaki parçada yazar hangi düşünceyi geliştirme yolunu kullanmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Örneklendirme"
+      },
+      {
+        "label": "B",
+        "text": "Karşılaştırma"
+      },
+      {
+        "label": "C",
+        "text": "Tanımlama"
+      },
+      {
+        "label": "D",
+        "text": "Sayısal Veri"
+      },
+      {
+        "label": "E",
+        "text": "Benzetme"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Yazar, geçmişteki mektupların samimiyeti, uzunluğu ve duygusallığı ile günümüzdeki anlık mesajların soğukluğu, kısalığı ve duygusuzluğunu birbiriyle kıyaslamıştır (Karşılaştırma)."
+  },
+  {
+    "id": 74,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Birçok insan başarısızlığın zıt anlamlısının başarı olduğunu düşünür. Oysa gerçekte başarı, başarısızlıkların birikimiyle inşa edilir. Edison, ampulü bulmadan önce binlerce kez hata yapmıştır. Hata yapmaktan korkan, risk alamayan birinin gerçek bir başarıya ulaşması olanaksızdır.\n\nBu metinde aşağıdakilerden hangisine değinilmemiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Başarısızlığın, başarının zıttı olmadığına"
+      },
+      {
+        "label": "B",
+        "text": "Başarının ardında yapılan hataların bulunduğuna"
+      },
+      {
+        "label": "C",
+        "text": "Edison'un pes etmeyen bir yapısı olduğuna"
+      },
+      {
+        "label": "D",
+        "text": "Risk almayan insanların başarılı olamayacağına"
+      },
+      {
+        "label": "E",
+        "text": "Başarıya ulaşmak için başkalarından yardım alınması gerektiğine"
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "Metinde başarının hatalarla geldiğine, risk almak gerektiğine ve Edison örneği üzerinden pes etmemeye değinilmiştir. Ancak başkalarından yardım veya destek alma konusu metinde geçmemektedir."
+  },
+  {
+    "id": 75,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Kapıdan içeri girdiği an, içerideki herkesin gözü ona çevrildi. Adamın yüzünde yıllardır aradığı huzuru bulamamış olmanın verdiği derin bir keder vardı. Oysa dışarıdan ne kadar da güçlü ve yenilmez görünüyordu. 'Keşke' diye geçirdi içinden, 'keşke zamanı geriye alabilseydim.'\n\nBu parçanın anlatıcısı hangi bakış açısına sahiptir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kahraman Bakış Açısı"
+      },
+      {
+        "label": "B",
+        "text": "Gözlemci Bakış Açısı"
+      },
+      {
+        "label": "C",
+        "text": "Hakim (İlahi/Tanrısal) Bakış Açısı"
+      },
+      {
+        "label": "D",
+        "text": "Sosyolojik Bakış Açısı"
+      },
+      {
+        "label": "E",
+        "text": "Birinci Çoğul Bakış Açısı"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metindeki anlatıcı, karakterin yüzündeki kederin sebebini bilmekte ve onun içinden geçirdiği ('Keşke...' diye düşündüğü) düşünceleri okuyabilmektedir. Karakterlerin iç dünyasını, zihnini ve geçmişini bilen bu bakış açısına İlahi (Hakim) bakış açısı denir."
+  },
+  {
+    "id": 76,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Bir eserin kalıcılığını sağlayan şey, işlediği konu değil, o konuyu nasıl ele aldığıdır. Yüzlerce yazar aşkı anlatmıştır, yalnızlığı işlemiştir. Fakat sadece birkaçı bu duyguları okura yepyeni bir sesle, farklı bir pencereden sunabilmiştir.\n\nBu paragrafta asıl anlatılmak istenen (ana fikir) aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Aşk ve yalnızlık edebiyatın değişmez konularıdır."
+      },
+      {
+        "label": "B",
+        "text": "Yazarlar her zaman orijinal konular bulmakta zorlanırlar."
+      },
+      {
+        "label": "C",
+        "text": "Edebiyatta kalıcı olmanın yolu, konunun kendisinden çok, yazarın üslubundaki özgünlüğe bağlıdır."
+      },
+      {
+        "label": "D",
+        "text": "Okur, bildiği konulardan çok yeni konular anlatan eserleri okumayı tercih eder."
+      },
+      {
+        "label": "E",
+        "text": "Sıradan konuları işleyen eserler hiçbir zaman kalıcı olamaz."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Metin, aynı konuların (aşk, yalnızlık) işlenmesine rağmen sadece 'nasıl ele aldığı' (üslubu) ve 'yepyeni bir sesle/farklı pencereden' sunanların (özgün olanların) kalıcı olabildiğini vurgulamaktadır."
+  },
+  {
+    "id": 77,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Gazeteci: (I) ---- \nYazar: Yazmaya çocukluğumda, büyükbabamın bana anlattığı masalları küçük defterlere not ederek başladım. Başlangıçta bu sadece bir oyundu.\nGazeteci: (II) ---- \nYazar: İlham beklemiyorum aslında. İlham dedikleri şey masanın başına oturup saatlerce çalışmanın sonucunda ortaya çıkan o kıvılcımdır.\n\nBu diyalogda boş bırakılan yerlere sırasıyla aşağıdakilerden hangisi getirilmelidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "(I) Masalların eserlerinizdeki yeri nedir? (II) Ne sıklıkla yazarsınız?"
+      },
+      {
+        "label": "B",
+        "text": "(I) Yazarlık serüveniniz nasıl başladı? (II) Eserlerinizi kaleme alırken ilham perisini nasıl beklersiniz?"
+      },
+      {
+        "label": "C",
+        "text": "(I) İlk eseriniz hangi yayınevinden çıktı? (II) Çalışma ortamınız nasıl olmalı?"
+      },
+      {
+        "label": "D",
+        "text": "(I) Büyükbabanızın yazar olmanızdaki etkisi nedir? (II) İlham kaynaklarınız kimlerdir?"
+      },
+      {
+        "label": "E",
+        "text": "(I) Çocuk kitapları yazmaya nasıl karar verdiniz? (II) Günde kaç saat çalışırsınız?"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Birinci cevapta yazar yazmaya 'nasıl başladığını' anlatmaktadır. İkinci cevapta ise doğrudan 'İlham beklemiyorum' diyerek ilhamla ilgili sorulan bir soruya yanıt vermektedir. Bu anlam akışına en uygun seçenek B'dir."
+  },
+  {
+    "id": 78,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Ormanın derinliklerindeki bu küçük köyde hayat, gün doğumundan gün batımına kadar aynı monotonlukta ilerlerdi. İnsanların yüzünde güneşe çok bakmaktan oluşmuş derin kırışıklıklar vardı. Evlerin çoğu kerpiçten yapılmıştı ve şiddetli bir yağmurda damları akıtıyordu.\n\nBu metnin anlatımında yazar, aşağıdaki tutumlardan hangisini sergilemiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Olayları birinci tekil şahıs ağzından aktarmıştır."
+      },
+      {
+        "label": "B",
+        "text": "Kişisel görüşlerini ve izlenimlerini okura dayatmıştır."
+      },
+      {
+        "label": "C",
+        "text": "Karşılaştırmalı bir anlatımla okuyucuyu ikna etmeye çalışmıştır."
+      },
+      {
+        "label": "D",
+        "text": "Dış çevreyi bir kamera tarafsızlığıyla (Gözlemci bakış açısıyla) gözlemleyip betimlemiştir."
+      },
+      {
+        "label": "E",
+        "text": "Düşsel (fantastik) ögelere yer vermiştir."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Metinde karakterlerin iç dünyasına girilmemiş, sadece dışarıdan görülenler (kırışıklıklar, kerpiç evler, akan damlar) anlatılmıştır. Bu betimlemeler üçüncü kişi ağzıyla dış gözlem yapılarak aktarılmıştır."
+  },
+  {
+    "id": 79,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Kültür, bir toplumun tarihsel süreç içinde ürettiği maddi ve manevi değerler bütünüdür. Dil ise bu kültürün en önemli taşıyıcısıdır. Bir toplumun kelimelerini, deyimlerini yok ederseniz, o toplumun hafızasını silmiş olursunuz. (I) Dilini kaybeden bir millet, geçmişini ve kültürünü de zamanla kaybeder. (II) Genç nesillerin dedelerinin okuduğu kitapları anlayamaması bunun en acı örneğidir. (III)\n\nYukarıdaki parçanın sonuna düşüncenin akışına göre aşağıdakilerden hangisi getirilebilir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bu yüzden, teknolojinin sunduğu imkanlardan daha fazla yararlanmalıyız."
+      },
+      {
+        "label": "B",
+        "text": "Yani dilin korunması, bir anlamda milletin kendi varlığını ve kimliğini koruması demektir."
+      },
+      {
+        "label": "C",
+        "text": "Farklı kültürlerle etkileşime girmek her zaman faydalı sonuçlar doğurur."
+      },
+      {
+        "label": "D",
+        "text": "Edebiyat eserleri sadece kendi dönemini yansıtan belgeler değildir."
+      },
+      {
+        "label": "E",
+        "text": "Eğitimde ezberci sistemin terk edilmesi işte bu nedenle şarttır."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Paragrafta dilin, kültürün taşıyıcısı olduğu ve dilini kaybeden toplumların hafızasını/kimliğini de kaybettiği anlatılmaktadır. Konunun özetlenip bağlandığı en uygun sonuç cümlesi 'dilin korunmasının milletin kimliğini korumak olduğu'nu belirten B seçeneğidir."
+  },
+  {
+    "id": 80,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Paragrafta Anlam (Ana Düşünce, Yardımcı Düşünce, Yapı, Anlatım Teknikleri)",
+    "question_text": "Bir kitabı okurken her sayfada yazarın ne demek istediğini sözlükten bakmak zorunda kalıyorsam, o kitap benim için cazibesini yitirir. Bence bir eser su gibi akmalı, okuyucunun ayağına kelime takozları koymamalıdır. Edebi olmak, anlaşılmaz olmak anlamına gelmez.\n\nYazar, bu sözleriyle bir edebi eserde bulunması gereken hangi özelliği vurgulamaktadır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Özgünlük"
+      },
+      {
+        "label": "B",
+        "text": "Tutarlılık"
+      },
+      {
+        "label": "C",
+        "text": "Akıcılık ve Yalınlık"
+      },
+      {
+        "label": "D",
+        "text": "Evrensellik"
+      },
+      {
+        "label": "E",
+        "text": "Kalıcılık"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Cümledeki 'su gibi akmalı' ifadesi 'akıcılık' (okurken zorlanmama, sürükleyici olma) kavramını; sözlüğe bakmadan kolayca anlaşılması ve anlaşılmaz kelime (takoz) bulunmaması ise 'yalınlık' (sadelik) kavramını ifade eder."
+  }
+]

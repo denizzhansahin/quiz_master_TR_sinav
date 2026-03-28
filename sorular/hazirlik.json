@@ -1,0 +1,1701 @@
+
+  {
+    "id": 4421,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Avrupa İnsan Hakları Mahkemesi (AİHM), temel hak ve özgürlüklerin ihlal edildiği iddiasıyla yapılan başvuruları inceleyen uluslararası bir yargı organıdır. AİHM, aşağıdaki uluslararası örgütlerden hangisinin bünyesinde faaliyet göstermektedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Avrupa Birliği (AB)" },
+      { "label": "B", "text": "Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT)" },
+      { "label": "C", "text": "Birleşmiş Milletler (BM)" },
+      { "label": "D", "text": "Avrupa Konseyi" },
+      { "label": "E", "text": "Kuzey Atlantik Antlaşması Örgütü (NATO)" }
+    ],
+    "correct_option": "D",
+    "explanation": "Avrupa İnsan Hakları Mahkemesi (AİHM), 1959 yılında kurulan ve merkezi Fransa'nın Strazburg kentinde bulunan, Avrupa İnsan Hakları Sözleşmesi (AİHS) ve ek protokolleriyle güvence altına alınmış hakların ihlal edilip edilmediğini denetleyen 'Avrupa Konseyi'ne bağlı uluslararası bir mahkemedir."
+  },
+  {
+    "id": 4422,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "AİHM'de görev yapan yargıçların sayısı ve bu yargıçları seçen merci aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "27 Yargıç / Avrupa Parlamentosu" },
+      { "label": "B", "text": "Sözleşmeci devlet sayısı kadar yargıç / Avrupa Konseyi Parlamenter Meclisi (AKPM)" },
+      { "label": "C", "text": "15 Yargıç / Birleşmiş Milletler Genel Kurulu" },
+      { "label": "D", "text": "46 Yargıç / Avrupa Konseyi Bakanlar Komitesi" },
+      { "label": "E", "text": "Sözleşmeci devlet sayısı kadar yargıç / Avrupa Birliği Zirvesi" }
+    ],
+    "correct_option": "B",
+    "explanation": "AİHM'de, Avrupa İnsan Hakları Sözleşmesi'ne taraf olan her devlet için bir yargıç bulunur (Günümüzde 46 üye devlet olduğu için 46 yargıç vardır). Yargıçlar, her devletin önereceği üç aday arasından Avrupa Konseyi Parlamenter Meclisi (AKPM) tarafından seçilir."
+  },
+  {
+    "id": 4423,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Avrupa İnsan Hakları Mahkemesi'ne (AİHM) bireysel başvuru yapılabilmesi için gereken ön koşullardan biri olan 'başvuru süresi', 15 No'lu Protokol'ün yürürlüğe girmesiyle birlikte kaç aya düşürülmüştür?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1 ay" },
+      { "label": "B", "text": "2 ay" },
+      { "label": "C", "text": "3 ay" },
+      { "label": "D", "text": "4 ay" },
+      { "label": "E", "text": "6 ay" }
+    ],
+    "correct_option": "D",
+    "explanation": "AİHM'e bireysel başvuru için iç hukuk yollarının tüketilmesinden (nihai kararın tebliğinden) itibaren eski kurala göre 6 ay içinde başvuru yapılması gerekiyordu. 1 Şubat 2022'de yürürlüğe giren 15 No'lu Protokol değişikliği ile bu süre 4 aya düşürülmüştür."
+  },
+  {
+    "id": 4424,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "AİHM yargıçlarının görev süresi ve yeniden seçilebilme durumları ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6 yıl için seçilirler ve bir defa yeniden seçilebilirler." },
+      { "label": "B", "text": "9 yıl için seçilirler ve yeniden seçilemezler." },
+      { "label": "C", "text": "4 yıl için seçilirler, görev süreleri sınırsız olarak uzatılabilir." },
+      { "label": "D", "text": "Ömür boyu görev yapmak üzere atanırlar (kaydı hayat şartıyla)." },
+      { "label": "E", "text": "5 yıl için seçilirler ve görev süreleri bitince otomatik olarak yenilenir." }
+    ],
+    "correct_option": "B",
+    "explanation": "Avrupa İnsan Hakları Mahkemesi yargıçları 9 yıllık bir süre için seçilirler ve bağımsızlıklarını/tarafsızlıklarını güvence altına almak amacıyla süreleri biten yargıçlar yeniden seçilemezler (görevleri tek dönemliktir). Görev yaş sınırı ise 70'tir."
+  },
+  {
+    "id": 4425,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Avrupa İnsan Hakları Mahkemesi (AİHM) kararlarının üye devletler tarafından yerine getirilip getirilmediğini (kararların icrasını) denetlemekle görevli olan ve gerektiğinde devlete karşı ihlal prosedürü başlatabilen siyasi organ aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Avrupa Konseyi Parlamenter Meclisi" },
+      { "label": "B", "text": "Venedik Komisyonu" },
+      { "label": "C", "text": "Avrupa Birliği Adalet Divanı" },
+      { "label": "D", "text": "Avrupa Konseyi Bakanlar Komitesi" },
+      { "label": "E", "text": "Uluslararası Ceza Mahkemesi" }
+    ],
+    "correct_option": "D",
+    "explanation": "AİHM kararları bağlayıcıdır. Mahkemenin verdiği kesinleşmiş kararların üye devlet tarafından uygulanıp uygulanmadığını, ihlalin sonuçlarının giderilip giderilmediğini (tazminat ödemesi vb.) denetleme görevi siyasi bir organ olan Avrupa Konseyi Bakanlar Komitesi'ne aittir."
+  },
+  {
+    "id": 4426,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Aşağıdakilerden hangisi Avrupa İnsan Hakları Mahkemesi'ne (AİHM) bireysel başvuru yapabilecek öznelerden biri değildir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Gerçek kişiler (Vatandaşlar veya yabancılar)" },
+      { "label": "B", "text": "Hükümet dışı sivil toplum kuruluşları (Dernekler, Vakıflar)" },
+      { "label": "C", "text": "Özel hukuk tüzel kişileri (Ticari şirketler)" },
+      { "label": "D", "text": "Kamu tüzel kişileri (Belediyeler, Bakanlıklar)" },
+      { "label": "E", "text": "Kişi grupları (Tüzel kişiliği olmayan topluluklar)" }
+    ],
+    "correct_option": "D",
+    "explanation": "AİHS sistemine göre temel hak ihlaline uğradığını iddia eden gerçek kişiler, sivil toplum örgütleri ve kişi grupları (şirketler dâhil) AİHM'e bireysel başvuru yapabilir. Ancak kamu gücünü kullanan devlet kurumları ve kamu tüzel kişileri (belediyeler vb.) AİHM'e bireysel başvuru yapamazlar."
+  },
+  {
+    "id": 4427,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "AİHM'in çalışma düzeninde, başvuruların kabul edilebilirliğine ilişkin 'açıkça dayanaktan yoksun' veya 'kabul edilemezlik şartlarını taşıyan' başvuruları ilk aşamada eleyerek kesin olarak reddeden ve bu kararına karşı itiraz edilemeyen merci hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Büyük Daire" },
+      { "label": "B", "text": "Tek Yargıç" },
+      { "label": "C", "text": "Komiteler (3 Yargıçlı)" },
+      { "label": "D", "text": "Daireler (7 Yargıçlı)" },
+      { "label": "E", "text": "Genel Kurul" }
+    ],
+    "correct_option": "B",
+    "explanation": "Mahkemenin iş yükünü azaltmak amacıyla 14 No'lu Protokol ile kurulan 'Tek Yargıç' (Single Judge) sistemi, açıkça kabul edilemez olan (süre aşımı, iç hukuk tükenmemesi vb.) başvuruları ek bir incelemeye gerek kalmadan kesin kararla reddetmekle görevlidir."
+  },
+  {
+    "id": 4428,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Avrupa İnsan Hakları Mahkemesi'nde (AİHM) olağan uyuşmazlıkların esastan incelendiği ve karara bağlandığı temel yargısal oluşum 'Daire'lerdir. Bir Daire kural olarak kaç yargıçtan oluşur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1" },
+      { "label": "B", "text": "3" },
+      { "label": "C", "text": "5" },
+      { "label": "D", "text": "7" },
+      { "label": "E", "text": "17" }
+    ],
+    "correct_option": "D",
+    "explanation": "AİHM'in yargısal oluşumları; Tek Yargıç (kabul edilemezlik), Komiteler (3 yargıç - yerleşik içtihatlı davalar), Daireler (7 yargıç - esasa ilişkin ana yargı mercileri) ve Büyük Daire (17 yargıç - temyiz niteliğinde veya çok önemli hukuki meseleler) şeklinde yapılandırılmıştır."
+  },
+  {
+    "id": 4429,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "AİHM'e yapılacak başvuruların 'Kabul Edilebilirlik Şartları' arasında aşağıdakilerden hangisi yer almaz?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Başvurunun isimsiz (anonim) olmaması" },
+      { "label": "B", "text": "Başvurunun Mahkemece daha önce incelenmiş veya uluslararası başka bir merciye sunulmuş bir şikâyetle esasen aynı olmaması" },
+      { "label": "C", "text": "Başvurucunun ihlal nedeniyle 'önemli bir zarara' (significant disadvantage) uğramış olması" },
+      { "label": "D", "text": "Şikâyet edilen hakkın İnsan Hakları Evrensel Bildirgesi'nde değil, Avrupa İnsan Hakları Sözleşmesi'nde (ve ek protokollerinde) yer alması" },
+      { "label": "E", "text": "Başvurunun yapılabilmesi için ilgili devletteki ombudsmanlık (Kamu Denetçiliği) kurumuna başvurunun zorunlu tüketilmesi" }
+    ],
+    "correct_option": "E",
+    "explanation": "AİHM'e başvurmak için 'etkili' iç hukuk yollarının tüketilmesi gerekir. Türkiye'de AYM Bireysel Başvurusu gibi hukuki yollar tüketilmesi zorunlu yollardır. Ancak idari bir tavsiye organı olan Kamu Denetçiliği Kurumuna (Ombudsman) veya TBMM İnsan Hakları Komisyonuna başvuru yapılması zorunlu bir iç hukuk yolu değildir."
+  },
+  {
+    "id": 4430,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Bir devletin sisteminden kaynaklanan yapısal bir sorun nedeniyle aynı konuda binlerce şikâyetin AİHM'e yığılması durumunda, Mahkemenin sadece bir veya birkaç pilot (örnek) davayı inceleyip genel bir ihlal kararı vermesi ve taraf devlete bu yapısal sorunu çözmesi için süre vererek benzer tüm davaları dondurması usulüne ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Dostane Çözüm (Friendly Settlement)" },
+      { "label": "B", "text": "Pilot Karar Usulü" },
+      { "label": "C", "text": "Grup Başvurusu (Class Action)" },
+      { "label": "D", "text": "Hızlandırılmış Yargılama" },
+      { "label": "E", "text": "İhtiyati Tedbir" }
+    ],
+    "correct_option": "B",
+    "explanation": "Pilot Karar Usulü (Pilot Judgment Procedure), ülkelerdeki sistemsel veya yapısal ihlallerden (örneğin yargılamaların çok uzun sürmesi) kaynaklanan tekrarlayan başvuru yığılmalarını önlemek için kullanılan, devletin genel kanuni düzeltme yapmasını emreden etkili bir yöntemdir."
+  },
+  {
+    "id": 4431,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "AİHM Daireleri (7 yargıçlı) tarafından verilen kararlara karşı, davanın tarafları kararın tebliğinden itibaren ne kadar süre içinde davanın Büyük Daire'ye (17 yargıçlı) gönderilmesini talep edebilirler?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1 ay" },
+      { "label": "B", "text": "3 ay" },
+      { "label": "C", "text": "4 ay" },
+      { "label": "D", "text": "6 ay" },
+      { "label": "E", "text": "1 yıl" }
+    ],
+    "correct_option": "B",
+    "explanation": "Dairelerin kararları kural olarak hemen kesinleşmez. Taraflar (başvurucu veya devlet), kararın tebliğinden itibaren 3 ay içinde davanın AİHS'in yorumu ve uygulanması açısından ağır bir nitelik taşıdığını öne sürerek davanın Büyük Daire'ye (Grand Chamber) sevkini isteyebilirler. 3 ay geçince karar kesinleşir."
+  },
+  {
+    "id": 4432,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "AİHM'in çalışma dilleri (resmi dilleri) hangi seçenekte doğru verilmiştir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Yalnızca İngilizce" },
+      { "label": "B", "text": "İngilizce ve Fransızca" },
+      { "label": "C", "text": "İngilizce, Fransızca ve Almanca" },
+      { "label": "D", "text": "Taraf devletlerin tüm dilleri resmi kabul edilir" },
+      { "label": "E", "text": "İngilizce, Fransızca, İspanyolca, Rusça ve Çince" }
+    ],
+    "correct_option": "B",
+    "explanation": "Avrupa Konseyi'nin ve Avrupa İnsan Hakları Mahkemesi'nin iki resmi çalışma dili vardır: İngilizce ve Fransızca. (Bireysel başvurular taraf devletlerin resmi dillerinden biriyle, örneğin Türkçe ile yapılabilir ancak Mahkemenin resmi müzakere ve karar dilleri İngilizce ve Fransızcadır)."
+  },
+  {
+    "id": 4433,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Bir sözleşmeci devletin (örneğin A Devleti), başka bir sözleşmeci devleti (örneğin B Devleti), Avrupa İnsan Hakları Sözleşmesi hükümlerini ihlal ettiği gerekçesiyle doğrudan AİHM'e şikâyet etmesine ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Pilot Başvuru" },
+      { "label": "B", "text": "Bireysel Başvuru" },
+      { "label": "C", "text": "Danışma Görüşü" },
+      { "label": "D", "text": "Devletlerarası Başvuru (Hükümetlerarası Başvuru)" },
+      { "label": "E", "text": "İhtiyati İhlal Başvurusu" }
+    ],
+    "correct_option": "D",
+    "explanation": "AİHS m.33 uyarınca; her Sözleşmeci Devlet, Sözleşme'nin veya protokollerinin başka bir Sözleşmeci Devlet tarafından ihlal edildiği iddiasını Mahkeme'ye bildirebilir. Buna Devletlerarası (Hükümetlerarası) Başvuru adı verilir."
+  },
+  {
+    "id": 4434,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Avrupa İnsan Hakları Sözleşmesi'nin 16 No'lu Protokolü ile yürürlüğe giren ve en yüksek ulusal mahkemelerin (örneğin Türkiye'de Yargıtay, Danıştay, AYM) önlerindeki derdest bir davada Sözleşme'nin yorumlanmasıyla ilgili prensip sorunlarında AİHM'den 'görüş' alabilmesine olanak tanıyan mekanizma nedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Bağlayıcı İhlal Prosedürü" },
+      { "label": "B", "text": "Temyiz İncelemesi" },
+      { "label": "C", "text": "Danışma Görüşü (Advisory Opinion)" },
+      { "label": "D", "text": "Ön Karar İtirazı" },
+      { "label": "E", "text": "Önleyici Tedbir Kararı" }
+    ],
+    "correct_option": "C",
+    "explanation": "16 No'lu Protokol, en yüksek ulusal mahkemelerin/mahkemelerin AİHM'den davalarındaki spesifik hukuki yorumlar (ilkesel meseleler) için bağlayıcı olmayan bir 'Danışma Görüşü' talep edebilmesini sağlamıştır."
+  },
+  {
+    "id": 4435,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "AİHM'in yapısı incelendiğinde 'Büyük Daire' (Grand Chamber) kaç yargıçtan oluşur ve hangi durumda toplanır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "7 Yargıç / Davanın kabuledilebilirlik aşamasında" },
+      { "label": "B", "text": "46 Yargıç / Tüm davaların olağan temyizinde" },
+      { "label": "C", "text": "17 Yargıç / Dairelerin yetki devrinde veya tarafların itirazı üzerine kararın yeniden incelenmesi durumunda" },
+      { "label": "D", "text": "3 Yargıç / Yerleşik içtihatlara dayalı açık davalarda" },
+      { "label": "E", "text": "5 Yargıç / Devletlerarası uyuşmazlıklarda" }
+    ],
+    "correct_option": "C",
+    "explanation": "Büyük Daire (Grand Chamber), 17 yargıçtan oluşur. Mahkemenin Daireleri, Sözleşmenin yorumlanmasını etkileyecek çok önemli bir meseleyle karşılaştıklarında yetkiyi Büyük Daire'ye bırakabilir veya Daire karar verdikten sonra taraflar davanın Büyük Daire'de yeniden görülmesini talep edebilir (şartları varsa kabul edilir)."
+  },
+  {
+    "id": 4436,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "AİHM'e yapılan başvurularda taraflar arasında davanın esastan karara bağlanmasından önce, Mahkemenin hakemliğinde uyuşmazlığın anlaşarak (genellikle tazminat ödenmesiyle) sona erdirilmesini sağlayan mekanizmaya ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Zorunlu Tahkim" },
+      { "label": "B", "text": "İhtiyati Tedbir" },
+      { "label": "C", "text": "Dostane Çözüm (Friendly Settlement)" },
+      { "label": "D", "text": "Tek Yargıç İncelemesi" },
+      { "label": "E", "text": "Kabul Edilemezlik Kararı" }
+    ],
+    "correct_option": "C",
+    "explanation": "AİHM süreci esnasında, devlet ile başvurucu arasında gizlilik çerçevesinde yürütülen ve uzlaşma sağlanması durumunda davanın kayıttan düşmesiyle (tazminat karşılığı) sonuçlanan usule Dostane Çözüm (Friendly Settlement) denir."
+  },
+  {
+    "id": 4437,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Bir devletin olağanüstü durumlarda (savaş veya kamu tehlikesi gibi) Avrupa İnsan Hakları Sözleşmesi kapsamındaki yükümlülüklerini geçici bir süreliğine askıya alması (derogasyon) için hangi kuruma resmi bildirimde bulunması gereklidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Avrupa Birliği Komisyonu" },
+      { "label": "B", "text": "Birleşmiş Milletler Güvenlik Konseyi" },
+      { "label": "C", "text": "Avrupa İnsan Hakları Mahkemesi Başkanlığı" },
+      { "label": "D", "text": "Avrupa Konseyi Genel Sekreterliği" },
+      { "label": "E", "text": "Uluslararası Adalet Divanı" }
+    ],
+    "correct_option": "D",
+    "explanation": "AİHS m.15 uyarınca, savaş veya milletin varlığını tehdit eden olağanüstü durumlarda devletler bazı hakları askıya alabilir. Ancak bunun meşru olması için alınan tedbirlerin ve gerekçelerinin Avrupa Konseyi Genel Sekreteri'ne bildirilmesi (derogasyon bildirimi) şarttır."
+  },
+  {
+    "id": 4438,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Avrupa İnsan Hakları Mahkemesi kararlarının Türk hukukundaki yeri 2004 yılında Anayasa'nın 90. maddesine eklenen bir fıkrayla güçlendirilmiştir. Bu kurala göre; temel hak ve özgürlüklere ilişkin uluslararası antlaşmalar ile kanunlar aynı konuda farklı hükümler içeriyorsa nasıl bir yol izlenir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Uyuşmazlık Anayasa Mahkemesi'ne taşınır." },
+      { "label": "B", "text": "Sonraki tarihli olan norm uygulanır." },
+      { "label": "C", "text": "Uluslararası antlaşma hükümleri esas alınır." },
+      { "label": "D", "text": "Milli kanun hükümleri üstün tutulur." },
+      { "label": "E", "text": "TBMM'nin karar vereceği bir kanun değişikliği beklenir." }
+    ],
+    "correct_option": "C",
+    "explanation": "Anayasa m.90/5 gereğince, usulüne göre yürürlüğe konulmuş temel hak ve özgürlüklere ilişkin uluslararası antlaşmalarla kanunların aynı konuda farklı hükümler içermesi halinde uluslararası antlaşma hükümleri esas alınır. AİHS de bu kapsamdadır."
+  },
+  {
+    "id": 4439,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "Aşağıdakilerden hangisi AİHM'in verdiği kararların hukuki özelliklerinden biri değildir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Mahkeme, ihlalin tespitinin yanı sıra ihlale maruz kalan tarafa adil tatmin (tazminat) ödenmesine karar verebilir." },
+      { "label": "B", "text": "Kararların yerine getirilmesi taraf devletler için bağlayıcıdır." },
+      { "label": "C", "text": "Mahkeme, taraf devletin iç hukuku ihlal eden kanununu doğrudan doğruya iptal edebilir veya değiştirebilir." },
+      { "label": "D", "text": "İhlalin sonucunun giderilmesi için bazen yargılamanın yenilenmesi yoluna gidilebilir." },
+      { "label": "E", "text": "Kararların icrasını Bakanlar Komitesi denetler." }
+    ],
+    "correct_option": "C",
+    "explanation": "AİHM, tespit edici (deklaratif) bir mahkemedir. Taraf devletin yasalarını veya ulusal mahkeme kararlarını iptal etme, bozma veya kendi başına değiştirme yetkisi yoktur. Sadece sözleşmenin ihlal edildiğini tespit eder ve adil tatmin (tazminat) kararı verir. Kanunu değiştirme işi o devlete aittir."
+  },
+  {
+    "id": 4440,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı",
+    "question_text": "AİHM prosedüründe başvuran kişiyi doğrudan bir zarara uğratacak (örneğin haksız sınır dışı edilme, işkence göreceği bir ülkeye iade gibi) geri dönülemez ve acil bir riskin varlığı durumunda, davanın esası görüşülmeden önce Mahkemenin devlete derhal durdurma emri vermesini sağlayan geçici önleme ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Ön Karar İtirazı" },
+      { "label": "B", "text": "İhtiyati Tedbir (Rule 39 / İçtüzük 39. Madde)" },
+      { "label": "C", "text": "Kabul Edilebilirlik Ön İncelemesi" },
+      { "label": "D", "text": "Pilot Yargılama" },
+      { "label": "E", "text": "Tek Yargıç İhtarı" }
+    ],
+    "correct_option": "B",
+    "explanation": "AİHM İçtüzüğü'nün 39. maddesi (Rule 39) gereğince; başvuranın yaşamı veya fiziki bütünlüğü ciddi ve geri dönüşü olmayan bir tehlike altındaysa, Mahkeme esasa girmeden önce devlete geçici olarak o eylemi durdurması için 'İhtiyati Tedbir' kararı verir."
+  },
+  {
+    "id": 4441,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Borçlar hukukuna göre aşağıdakilerden hangisi borç ilişkisini doğuran (borcun kaynaklarından) biri değildir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Hukuki İşlem (Sözleşme)" },
+      { "label": "B", "text": "Haksız Fiil" },
+      { "label": "C", "text": "Sebepsiz Zenginleşme" },
+      { "label": "D", "text": "Hukuka Uygun Fiil" },
+      { "label": "E", "text": "Kanundan Doğan Borçlar (Örn: Nafaka borcu)" }
+    ],
+    "correct_option": "D",
+    "explanation": "Türk Borçlar Kanunu'na göre borcun 3 temel kaynağı vardır: Hukuki İşlem (Sözleşmeler), Haksız Fiil ve Sebepsiz Zenginleşme. Ayrıca doğrudan kanundan doğan borçlar da vardır. 'Hukuka Uygun Fiil' ise kendi başına bir borç kaynağı olarak sınıflandırılamaz (haksız fiilin zıttıdır ve zararı tazmin borcu doğurmaz)."
+  },
+  {
+    "id": 4442,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Bir kimsenin, haklı bir sebep olmaksızın (geçerli bir hukuki işlem veya kanuni neden bulunmaksızın) başkasının malvarlığından faydalanarak kendi malvarlığını artırmasına 'Sebepsiz Zenginleşme' denir. Sebepsiz zenginleşmeden doğan iade talepleri, hak sahibinin iade hakkını öğrendiği tarihten itibaren kaç yıllık zamanaşımı süresine tabidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1 yıl ve her halükarda 5 yıl" },
+      { "label": "B", "text": "2 yıl ve her halükarda 10 yıl" },
+      { "label": "C", "text": "3 yıl ve her halükarda 10 yıl" },
+      { "label": "D", "text": "5 yıl ve her halükarda 20 yıl" },
+      { "label": "E", "text": "10 yıl ve her halükarda 20 yıl" }
+    ],
+    "correct_option": "B",
+    "explanation": "Sebepsiz zenginleşmeden doğan iade talebi, hak sahibinin iade hakkını öğrendiği tarihten başlayarak 2 yılın ve her halde zenginleşmenin gerçekleştiği tarihten başlayarak 10 yılın geçmesiyle zamanaşımına uğrar. (Aynı süreler Haksız Fiil tazminat davaları için de geçerlidir)."
+  },
+  {
+    "id": 4443,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Aşağıdaki hallerden hangisinde sözleşmenin mutlak butlanla batıl (kesin hükümsüz) olması söz konusu değildir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Sözleşmenin konusunun emredici hukuk kurallarına aykırı olması" },
+      { "label": "B", "text": "Sözleşmenin konusunun ahlaka veya kamu düzenine aykırı olması" },
+      { "label": "C", "text": "Sözleşmenin taraflarından birinin yanılma (hata) veya aldatma (hile) sonucu iradesinin sakatlanmış olması" },
+      { "label": "D", "text": "Sözleşmenin konusunun imkansız olması (Objektif imkansızlık)" },
+      { "label": "E", "text": "Sözleşmenin muvazaalı (danışıklı) olarak yapılmış olması" }
+    ],
+    "correct_option": "C",
+    "explanation": "Hata, hile ve ikrah (korkutma) gibi iradeyi sakatlayan durumlarda sözleşme mutlak butlanla geçersiz sayılmaz; 'İptal edilebilirlik (Nispi Butlan)' söz konusudur. İradesi sakatlanan taraf 1 yıl içinde sözleşmeyi iptal edebilir, aksi halde sözleşme geçerli kalır. Diğer seçenekler (emredici normlara/ahlaka aykırılık, imkansızlık, muvazaa) sözleşmeyi baştan itibaren kesin hükümsüz (mutlak butlan) kılar."
+  },
+  {
+    "id": 4444,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Bir sözleşmede karşılıklı edimler arasında açık bir oransızlık bulunması ve bu oransızlığın, zarar görenin zor durumda kalmasından, düşüncesizliğinden veya deneyimsizliğinden (tecrübesizliğinden) faydalanılarak gerçekleştirilmesi durumuna Borçlar Hukukunda ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Muvazaa (Danışıklık)" },
+      { "label": "B", "text": "İkrah (Korkutma)" },
+      { "label": "C", "text": "Gabin (Aşırı Yararlanma)" },
+      { "label": "D", "text": "Hile (Aldatma)" },
+      { "label": "E", "text": "Culpa in Contrahendo (Sözleşme görüşmelerinde kusur)" }
+    ],
+    "correct_option": "C",
+    "explanation": "Edimler arasındaki aşırı oransızlık (objektif unsur) ile bu durumun kişinin müzayaka hali, tecrübesizliği veya düşüncesizliğinden (sübjektif unsur) faydalanılarak yaratılmasına 'Gabin' (Aşırı Yararlanma) denir. Sömürülen taraf 1 yıl (her halde 5 yıl) içinde sözleşmeyi iptal edebilir veya oransızlığın giderilmesini isteyebilir."
+  },
+  {
+    "id": 4445,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Haksız fiilin unsurları dikkate alındığında, kişinin zarar verici eylemi ile meydana gelen zarar arasında mantıksal ve sebep-sonuç ilişkisinin bulunmasına ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Hukuka aykırılık" },
+      { "label": "B", "text": "Kusur" },
+      { "label": "C", "text": "Zarar" },
+      { "label": "D", "text": "İlliyet (Nedensellik) Bağı" },
+      { "label": "E", "text": "Kast" }
+    ],
+    "correct_option": "D",
+    "explanation": "Haksız fiilin dört unsuru vardır: Hukuka aykırı fiil, kusur, zarar ve illiyet bağı. İlliyet (nedensellik) bağı, meydana gelen zararın doğrudan o haksız fiilden kaynaklandığını (sebep-sonuç bağını) ifade eder. Araya mücbir sebep, ağır kusur girerse illiyet bağı kesilir."
+  },
+  {
+    "id": 4446,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Borcun ifa edilmemesi (yerine getirilmemesi) durumunda borçlunun sorumluluğuna gidilir. Vadesi gelmiş (muaccel) bir borcun alacaklının ihtarına rağmen borçlu tarafından zamanında ifa edilmemesi durumunda oluşan hukuki kavrama ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Müteselsil Borçluluk" },
+      { "label": "B", "text": "Borçlu Temerrüdü" },
+      { "label": "C", "text": "Alacaklı Temerrüdü" },
+      { "label": "D", "text": "Kusursuz İmkansızlık" },
+      { "label": "E", "text": "Tecdit (Yenileme)" }
+    ],
+    "correct_option": "B",
+    "explanation": "Zamanı (vadesi) gelmiş, ifası mümkün bir borcun, borçlu tarafından bilerek veya ihmalle zamanında yerine getirilmemesi ve alacaklının ihtarıyla gecikmesi durumuna 'Borçlu Temerrüdü' (gecikmesi) denir."
+  },
+  {
+    "id": 4447,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Türk Borçlar Kanunu'na göre, kural olarak borçlar genel bir zamanaşımı süresine tabidir. Kanunda başka bir süre (istisna) öngörülmemişse, her alacak (örneğin bir sözleşmeden doğan alacak) kaç yıllık genel zamanaşımı süresine tabidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "2 yıl" },
+      { "label": "B", "text": "5 yıl" },
+      { "label": "C", "text": "10 yıl" },
+      { "label": "D", "text": "15 yıl" },
+      { "label": "E", "text": "20 yıl" }
+    ],
+    "correct_option": "C",
+    "explanation": "Borçlar Kanunu Madde 146'ya göre; kanunda aksine bir hüküm bulunmadıkça, her alacak (özellikle sözleşmeden doğanlar) 10 yıllık genel zamanaşımına tabidir. (Kira bedelleri, işçi ücretleri, vekalet ücretleri gibi dönemsel edimler ise 5 yıldır)."
+  },
+  {
+    "id": 4448,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Borcu sona erdiren sebepler arasında; tarafların birbirlerinden olan karşılıklı, aynı cinsten (örneğin para) ve vadesi gelmiş alacaklarını tek taraflı irade beyanıyla, az olan borç miktarınca silmelerine ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "İfa" },
+      { "label": "B", "text": "İbra (Aklama)" },
+      { "label": "C", "text": "Tecdit (Yenileme)" },
+      { "label": "D", "text": "Takas" },
+      { "label": "E", "text": "Birleşme" }
+    ],
+    "correct_option": "D",
+    "explanation": "Karşılıklı ve aynı türden olan (muaccel) alacakların, taraflardan birinin takas beyanında bulunarak az olan borç miktarında birbirini söndürmesi (mahsup edilmesi) işlemine 'Takas' denir."
+  },
+  {
+    "id": 4449,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Alacaklının borçluyu borçtan kurtarması, yani borçtan feragat ettiğini (borcu sildiğini) belirten ve her iki tarafın anlaşmasıyla gerçekleşen borcu sona erdirme sebebi aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "İfa" },
+      { "label": "B", "text": "İbra" },
+      { "label": "C", "text": "Takas" },
+      { "label": "D", "text": "Tecdit" },
+      { "label": "E", "text": "Kusursuz İmkansızlık" }
+    ],
+    "correct_option": "B",
+    "explanation": "Alacaklının borçluyla anlaşarak ondan alacağını talep etmekten vazgeçmesine ve borcu silmesine İbra (aklama/ibralaşma) denir. Tek taraflı bir işlem değildir, alacaklı ile borçlu arasında yapılan bir borçtan kurtarma sözleşmesidir."
+  },
+  {
+    "id": 4450,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Aşağıdakilerden hangisi Borçlar Hukuku'nda 'Kusursuz Sorumluluk' (kendisinin doğrudan bir kusuru olmamasına rağmen kanun gereği sorumlu tutulma) hallerinden biri değildir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Adam çalıştıranın sorumluluğu" },
+      { "label": "B", "text": "Hayvan bulunduranın sorumluluğu" },
+      { "label": "C", "text": "Yapı (bina) malikinin sorumluluğu" },
+      { "label": "D", "text": "Araç sürücüsünün dikkatsizlik sonucu yayaya çarpması (Trafik kazası)" },
+      { "label": "E", "text": "Tehlike sorumluluğu (Motorlu araç işletenin sorumluluğu)" }
+    ],
+    "correct_option": "D",
+    "explanation": "Araç sürücüsünün dikkatsizliği (taksir) sonucu birine çarpması doğrudan kendi 'kusuruna' dayanan bir 'Kusurlu Sorumluluk' halidir (Haksız fiil). Adam çalıştıran, hayvan bulunduran, yapı maliki ve araç sahibi (işleten) ise zararı bizzat vermeseler bile objektif özen yükümlülüğüne dayanan 'Kusursuz Sorumluluk' halleridir."
+  },
+  {
+    "id": 4451,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Birden çok borçlunun, alacaklıya karşı borcun tamamından (sanki tek başınaymış gibi) sorumlu olduğu ve alacaklının dilerse borcun tamamını borçluların sadece birinden talep edebildiği borç ilişkisine ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Müteselsil Borçluluk (Teselsül)" },
+      { "label": "B", "text": "Bölünemez Borç" },
+      { "label": "C", "text": "Eksik Borç" },
+      { "label": "D", "text": "Kefalet Borcu" },
+      { "label": "E", "text": "Parça Borcu" }
+    ],
+    "correct_option": "A",
+    "explanation": "Müteselsil (zincirleme) borçlulukta borçluların her biri borcun tamamından sorumludur. Alacaklı istediği borçluya gidip borcun tümünü tahsil edebilir. Borcu ödeyen borçlu daha sonra diğerlerine kendi payları oranında başvurur (Rücu hakkı)."
+  },
+  {
+    "id": 4452,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Borçlunun kendi eylemi veya kusuru olmadan (örneğin yıldırım düşmesi, deprem, mücbir sebep) borcunu ifa etmesinin imkansız hale gelmesi durumunda borç ilişkisinin akıbeti ne olur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Borçlunun sorumluluğu aynen devam eder." },
+      { "label": "B", "text": "Borçlu, edimin yerine bir mislini bulup vermek zorundadır." },
+      { "label": "C", "text": "Kusursuz imkansızlık nedeniyle borç sona erer ve borçlu borcundan kurtulur." },
+      { "label": "D", "text": "Borçlunun ceza ödemesi (tazminat) şartıyla borç iptal olur." },
+      { "label": "E", "text": "Borç, borçlunun mirasçılarına devredilir." }
+    ],
+    "correct_option": "C",
+    "explanation": "Borcun ifası borçlunun sorumlu tutulamayacağı bir sebeple imkânsızlaşırsa (Kusursuz İmkânsızlık / Sonradan İmkânsızlık), borç sona erer. Borçlu, edimini yerine getirmekten veya tazminat ödemekten kurtulur (Buna karşılık daha önce karşı taraftan aldığı bedeli sebepsiz zenginleşme gereği iade eder)."
+  },
+  {
+    "id": 4453,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Borçlar Hukuku'nda 'Nisbilik İlkesi' geçerlidir. Bu ilke, sözleşmeden doğan hak ve alacakların kural olarak sadece sözleşmenin tarafları arasında ileri sürülebilmesini ifade eder. Ancak kanunlarda belirtilen bazı şahsi haklar tapu siciline işlenerek herkese karşı ileri sürülebilir hale getirilebilir. Bu işleme ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Tescil" },
+      { "label": "B", "text": "Terkin" },
+      { "label": "C", "text": "Beyan" },
+      { "label": "D", "text": "Şerh (Şerh Etme)" },
+      { "label": "E", "text": "Temlik" }
+    ],
+    "correct_option": "D",
+    "explanation": "Kira, önalım, alım veya gerialım gibi normalde nispi (sadece tarafları bağlayan) kişisel haklar, tapu siciline 'Şerh' verildiğinde ayni etki kazanır ve o malı sonradan satın alan üçüncü kişilere (herkese) karşı da ileri sürülebilir hale gelir."
+  },
+  {
+    "id": 4454,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Sözleşme yapılırken, taraflardan birinin borcunu hiç veya gereği gibi yerine getirmemesi ihtimaline karşı önceden belirlenmiş olan ve zarar doğmasa bile alacaklının talep edebildiği maktu (sabit) cezai güvence bedeline ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Pey Akçesi (Bağlanma Parası)" },
+      { "label": "B", "text": "Cayma Parası" },
+      { "label": "C", "text": "Cezai Şart (Ceza Koşulu)" },
+      { "label": "D", "text": "Manevi Tazminat" },
+      { "label": "E", "text": "Zaruret Hali Bedeli" }
+    ],
+    "correct_option": "C",
+    "explanation": "Cezai şart (Ceza Koşulu), asıl borcun ifa edilmemesi veya eksik ifa edilmesi durumunda ödenmesi kararlaştırılan güvence parasıdır. Alacaklının cezai şartı isteyebilmesi için zarara uğradığını ispatlamasına gerek yoktur."
+  },
+  {
+    "id": 4455,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Borç ilişkisinin konusu olan ve borçlunun yerine getirmekle yükümlü olduğu, alacaklının ise talep hakkına sahip olduğu davranış biçimine (verme, yapma veya yapmama eylemine) ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "İrade Beyanı" },
+      { "label": "B", "text": "Edim" },
+      { "label": "C", "text": "Muvazaa" },
+      { "label": "D", "text": "Temerrüt" },
+      { "label": "E", "text": "Tazminat" }
+    ],
+    "correct_option": "B",
+    "explanation": "Borcun konusu olan ve borçlunun alacaklıya karşı yerine getirmeyi üstlendiği (bir malı verme, bir işi yapma veya yapmaktan kaçınma şeklindeki) yükümlülüğe 'Edim' denir."
+  },
+  {
+    "id": 4456,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Zamanaşımı süresi dolmuş, kumar veya bahisten doğmuş alacaklar ya da evlenme tellallığından doğan borçlar gibi; hukuken var olan, borçlu kendi rızasıyla ödediğinde geçerli sayılan ancak alacaklı tarafından dava ve icra yoluyla zorla talep edilemeyen borçlara ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Eksik Borç" },
+      { "label": "B", "text": "Müteselsil Borç" },
+      { "label": "C", "text": "Gelecek Borcu" },
+      { "label": "D", "text": "Muaccel Borç" },
+      { "label": "E", "text": "Sınırlı Sorumluluk" }
+    ],
+    "correct_option": "A",
+    "explanation": "Hukuken bir borç olduğu halde alacaklıya devlet gücüyle (dava ve icra yoluyla) zorla tahsil etme imkânı tanınmayan, ancak borçlu gönüllü öderse iadesi istenemeyen borçlara 'Eksik Borç' denir. (Zamanaşımına uğramış, ahlaki görevler, kumar borcu vb.)."
+  },
+  {
+    "id": 4457,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Alacaklının alacağını, borçlunun rızasına veya onayına ihtiyaç duymaksızın (sadece yazılı bir sözleşmeyle) üçüncü bir şahsa (yeni bir alacaklıya) devretmesi işlemine Borçlar Hukukunda ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Borcun Üstlenilmesi" },
+      { "label": "B", "text": "Takas" },
+      { "label": "C", "text": "İbra" },
+      { "label": "D", "text": "Havale" },
+      { "label": "E", "text": "Alacağın Devri (Temliki)" }
+    ],
+    "correct_option": "E",
+    "explanation": "Alacağın devri (temliki), alacaklının alacak hakkını bir başka kişiye aktarmasıdır. Bunun için borçlunun rızasına gerek yoktur, ancak işlemin mutlaka yazılı yapılması şarttır. (Borcun üstlenilmesinde ise alacaklının rızası şarttır)."
+  },
+  {
+    "id": 4458,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Sözleşme yapılırken taraflardan birinin sözleşmenin kurulduğuna kanıt (delil) olmak üzere karşı tarafa peşin olarak verdiği, halk arasında 'kapora' olarak da bilinen ve cayma amacı taşımayan miktar ne olarak adlandırılır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Cayma Parası" },
+      { "label": "B", "text": "Pey Akçesi (Bağlanma Parası)" },
+      { "label": "C", "text": "Cezai Şart" },
+      { "label": "D", "text": "Avans" },
+      { "label": "E", "text": "Tazminat" }
+    ],
+    "correct_option": "B",
+    "explanation": "Sözleşme yapılırken sözleşmenin kurulduğuna kanıt olması amacıyla verilen paraya Pey Akçesi (Bağlanma Parası / Kapora) denir. Kural olarak cayma hakkı vermez, aksine anlaşıldıkça asıl borçtan düşülür. Caymak için verilen para ise 'Cayma Parası'dır."
+  },
+  {
+    "id": 4459,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "A ve B, C'ye ait bir mala haksız bir fiil ile (birlikte) zarar vermişlerdir. Borçlar Kanunu'na göre, birden çok kişinin aynı zarara birlikte sebep olmaları durumunda aralarındaki sorumluluk ilişkisi nasıldır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Zararı sadece kusuru daha ağır olan öder." },
+      { "label": "B", "text": "Herkes zararın sadece yarısını ödemekle yükümlüdür." },
+      { "label": "C", "text": "Müteselsil (zincirleme) sorumludurlar, mağdur dilerse zararın tamamını sadece birinden isteyebilir." },
+      { "label": "D", "text": "Hiçbiri sorumlu tutulamaz, zarar paylaşılamaz." },
+      { "label": "E", "text": "Zararı devlet karşılar, onlara rücu eder." }
+    ],
+    "correct_option": "C",
+    "explanation": "Birden çok kişi bir zarara birlikte sebep olmuşlarsa (haksız fiilde çokluk), zarar görene karşı 'Müteselsil Sorumludurlar'. Mağdur, zararın tamamını faillerin herhangi birinden (örneğin daha zengin olandan) talep edebilir. Ödeyen kişi daha sonra kusur oranına göre diğerine rücu eder."
+  },
+  {
+    "id": 4460,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Borçlar Hukuku Genel Hükümler",
+    "question_text": "Eski bir borcun (örneğin bir kira borcunun) tarafların anlaşmasıyla iptal edilip, yerine tamamen yeni bir borç (örneğin bir satım borcu) oluşturularak önceki borcun sona erdirilmesi işlemine ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Takas" },
+      { "label": "B", "text": "İbra" },
+      { "label": "C", "text": "İfa" },
+      { "label": "D", "text": "Birleşme" },
+      { "label": "E", "text": "Tecdit (Yenileme)" }
+    ],
+    "correct_option": "E",
+    "explanation": "Mevcut bir borcun yeni bir borç yaratılarak ortadan kaldırılmasına 'Tecdit (Yenileme)' denir. Bu işlemle eski borç silinir ve eski borca bağlı feri haklar (kefalet, rehin vb.) da sona erer."
+  },
+  {
+    "id": 4461,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Türk Ticaret Kanunu'na göre ticaret şirketleri 'Şahıs Şirketleri' ve 'Sermaye Şirketleri' olarak ikiye ayrılır. Aşağıdakilerden hangisi bir Sermaye Şirketi değildir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Anonim Şirket" },
+      { "label": "B", "text": "Limited Şirket" },
+      { "label": "C", "text": "Sermayesi Paylara Bölünmüş Komandit Şirket" },
+      { "label": "D", "text": "Kollektif Şirket" },
+      { "label": "E", "text": "C seçeneğindeki Sermayesi Paylara Bölünmüş Komandit ve A seçeneğindeki Anonim Şirket sermayedir, D seçeneği ise şahıs." }
+    ],
+    "correct_option": "D",
+    "explanation": "Türk Ticaret Kanunu'na göre Kollektif Şirket ve Adi Komandit Şirket 'Şahıs Şirketleri'dir. Anonim Şirket, Limited Şirket ve Sermayesi Paylara Bölünmüş Komandit Şirket ise 'Sermaye Şirketleri'dir. Kollektif şirkette ortakların sorumluluğu sınırsızdır ve şahsi özellikleri önemlidir."
+  },
+  {
+    "id": 4462,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Türk Ticaret Kanunu'nda yapılan değişiklikle, günümüzde Anonim Şirket (A.Ş.) ve Limited Şirket (Ltd. Şti.) kurmak için gerekli olan asgari ortak (kurucu) sayısı kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "En az 2" },
+      { "label": "B", "text": "En az 3" },
+      { "label": "C", "text": "En az 5" },
+      { "label": "D", "text": "En az 1" },
+      { "label": "E", "text": "A.Ş. için 5, Ltd. Şti. için 2" }
+    ],
+    "correct_option": "D",
+    "explanation": "2012 yılında yürürlüğe giren yeni Türk Ticaret Kanunu (TTK) ile birlikte, hem Anonim Şirketler hem de Limited Şirketler artık tek (1) kişi ile kurulabilmektedir (Tek kişilik sermaye şirketine izin verilmiştir)."
+  },
+  {
+    "id": 4463,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Kollektif şirketlerle ilgili aşağıdakilerden hangisi yanlıştır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Şahıs şirketi türündendir." },
+      { "label": "B", "text": "Sadece gerçek kişiler tarafından kurulabilir, tüzel kişiler ortak olamaz." },
+      { "label": "C", "text": "Ortakların şirketin borçlarından dolayı alacaklılara karşı sorumluluğu şirket sermayesi ile sınırlıdır." },
+      { "label": "D", "text": "Ortakların sorumluluğu ikinci dereceden, sınırsız ve müteselsildir." },
+      { "label": "E", "text": "Ticaret unvanında tüm ortakların veya ortaklardan en az birinin ad ve soyadı bulunmak zorundadır." }
+    ],
+    "correct_option": "C",
+    "explanation": "Kollektif şirkette (ve şahıs şirketlerinde) ortaklar, şirketin borçlarına karşı kendi şahsi malvarlıklarıyla 'sınırsız' olarak sorumludurlar (Önce şirkete başvurulur, yetmezse ortaklara gidilir: ikinci dereceden, sınırsız ve müteselsil sorumluluk). Şirket sermayesi ile 'sınırlı' sorumluluk Anonim ve Limited gibi sermaye şirketlerine özgüdür."
+  },
+  {
+    "id": 4464,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Ticari ortaklıklarda sermaye olarak birçok değer konulabilir. Ancak sermaye şirketleri ile şahıs şirketleri arasında bu konuda farklılıklar vardır. Aşağıdakilerden hangisi bir Anonim Şirkete sermaye olarak getirilemez?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Nakdi para" },
+      { "label": "B", "text": "Taşınmaz mallar (Bina, arsa vb.)" },
+      { "label": "C", "text": "Şahsi emek (Kişisel emek ve hizmet)" },
+      { "label": "D", "text": "Fikri mülkiyet hakları (Patent, marka vb.)" },
+      { "label": "E", "text": "Devredilebilir elektronik ortamdaki dijital varlıklar" }
+    ],
+    "correct_option": "C",
+    "explanation": "Anonim ve Limited şirketler (Sermaye şirketleri) sadece parasal değerlerle ayakta durur. Üzerinde haciz ve kısıtlama olmayan nakit, gayrimenkul, patent vb. sermaye olabilir. Ancak 'Şahsi emek' (hizmet ve ticari itibar) sermaye şirketlerine sermaye olarak getirilemez. (Şahsi emek sadece Kollektif ve Adi Komandit gibi şahıs şirketlerine sermaye olabilir)."
+  },
+  {
+    "id": 4465,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Bir Komandit Şirkette iki farklı türde ortak bulunur: 'Komandite' ve 'Komanditer'. Buna göre, bu ortak türleriyle ilgili aşağıdaki ifadelerden hangisi kesinlikle doğrudur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Komandite ortaklar sadece tüzel kişilerden oluşabilir." },
+      { "label": "B", "text": "Komanditer ortağın şirket borçlarından dolayı sorumluluğu sınırsızdır." },
+      { "label": "C", "text": "Komandite ortağın sorumluluğu sınırsızdır ve sadece gerçek kişiler komandite ortak olabilir." },
+      { "label": "D", "text": "Her iki ortağın da sorumluluğu sermayeleri ile sınırlıdır." },
+      { "label": "E", "text": "Komanditer ortaklar şirketi doğrudan yönetme ve temsil etme yetkisine sahiptir." }
+    ],
+    "correct_option": "C",
+    "explanation": "Komandit şirkette 'Komandite' (Ateşten gömleği giyen) ortakların sorumluluğu sınırsızdır, şirketi yönetirler ve sadece gerçek kişiler komandite olabilir. 'Komanditer' (Sermayedar/Yatırımcı) ortakların sorumluluğu ise koydukları sermaye ile sınırlıdır, şirketi yönetemezler, tüzel kişiler de komanditer olabilir."
+  },
+  {
+    "id": 4466,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Eski TTK'da bulunan 'Ultra Vires' ilkesinin yeni TTK ile kaldırılmasının şirketler için doğurduğu sonuç nedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Şirketlerin sadece bir kişiyle kurulabilmesine olanak sağlanmıştır." },
+      { "label": "B", "text": "Ticaret şirketlerinin ehliyetleri sadece ana sözleşmelerinde yazılı işletme konusuyla sınırlı olmaktan çıkmış, şirketler sözleşmelerinde yazmayan alanlarda da işlem yapabilir hale gelmiştir." },
+      { "label": "C", "text": "Şirketlerin yabancı uyruklu kişi çalıştırılması yasaklanmıştır." },
+      { "label": "D", "text": "Anonim şirketlerin genel kurullarını elektronik ortamda yapabilmesine imkân tanınmıştır." },
+      { "label": "E", "text": "Şirketlerin iflas etmeleri tamamen engellenmiştir." }
+    ],
+    "correct_option": "B",
+    "explanation": "Eskiden şirketler sadece ana sözleşmelerinde yazan faaliyeti (Örn: İnşaat Şirketi sadece inşaat) yapabilirdi. İşletme konusu dışındaki işlemleri hükümsüzdü (Ultra Vires). 2012'de bu kural kaldırıldı; şirketler hak ehliyeti kapsamında diledikleri alanda geçerli işlem yapabilirler."
+  },
+  {
+    "id": 4467,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Aşağıdakilerden hangisi bir Anonim Şirketin kanuni organlarından biridir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Müdürler Kurulu" },
+      { "label": "B", "text": "Disiplin Kurulu" },
+      { "label": "C", "text": "Yönetim Kurulu" },
+      { "label": "D", "text": "Ortaklar Kurulu" },
+      { "label": "E", "text": "Denetim Kurulu" }
+    ],
+    "correct_option": "C",
+    "explanation": "Anonim Şirketlerin iki zorunlu organı vardır: Karar organı olan 'Genel Kurul' ve yürütme/temsil organı olan 'Yönetim Kurulu'. Eski kanunda zorunlu olan 'Denetim Kurulu' yeni TTK ile organ olmaktan çıkarılmış, şirketlere 'Bağımsız Denetçi' kurumu getirilmiştir. (Müdürler kurulu ise Limited şirkete aittir)."
+  },
+  {
+    "id": 4468,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Limited Şirketlerle (Ltd. Şti.) ilgili aşağıda verilen bilgilerden hangisi yanlıştır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "En az 1, en fazla 50 ortakla kurulabilir." },
+      { "label": "B", "text": "Ortakların sorumluluğu şirkete koymayı taahhüt ettikleri sermaye payıyla sınırlıdır." },
+      { "label": "C", "text": "Halka açılabilir ve paylarını borsada satabilirler." },
+      { "label": "D", "text": "Yönetim ve temsil organı 'Müdür' veya 'Müdürler Kurulu'dur." },
+      { "label": "E", "text": "Ortaklar tahsil edilemeyen kamu borçlarından (vergi, SGK vb.) sermaye payları oranında şahsen sorumludurlar." }
+    ],
+    "correct_option": "C",
+    "explanation": "Sadece Anonim Şirketler ve Sermayesi Paylara Bölünmüş Komandit Şirketler halka açılabilir (paylarını borsada satabilir). Limited şirketler hisse senedi/tahvil çıkaramaz ve halka açılamazlar."
+  },
+  {
+    "id": 4469,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Anonim şirketler kural olarak izin alınmaksızın (sadece tescil ve ilanla) kurulur. Ancak bankalar, sigorta şirketleri, finansal kiralama şirketleri ve faktoring şirketleri gibi bazı özellikli anonim şirketlerin kuruluşu devletin iznine tabidir. Bu izni verecek olan makam aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Hazine ve Maliye Bakanlığı" },
+      { "label": "B", "text": "Cumhurbaşkanlığı" },
+      { "label": "C", "text": "Ticaret Bakanlığı" },
+      { "label": "D", "text": "Sermaye Piyasası Kurulu (SPK)" },
+      { "label": "E", "text": "Rekabet Kurumu" }
+    ],
+    "correct_option": "C",
+    "explanation": "Türk Ticaret Kanunu'na göre kuruluşu ve esas sözleşme değişikliği izne tabi olan anonim şirketlerin (banka, sigorta vb.) izin makamı 'Ticaret Bakanlığı'dır."
+  },
+  {
+    "id": 4470,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Kooperatifler, ortaklarının ekonomik çıkarlarını ve özellikle meslek/geçimlerine ait ihtiyaçlarını yardımlaşma, dayanışma ve kefalet suretiyle sağlamak üzere kurulan değişir ortaklı ve değişir sermayeli teşekküllerdir. Bir kooperatif kurabilmek için asgari ortak (kurucu) sayısı kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1" },
+      { "label": "B", "text": "2" },
+      { "label": "C", "text": "5" },
+      { "label": "D", "text": "7" },
+      { "label": "E", "text": "50" }
+    ],
+    "correct_option": "D",
+    "explanation": "Kooperatifler Kanunu'na göre bir kooperatifin kurulabilmesi için en az yedi (7) ortak bulunması zorunludur."
+  },
+  {
+    "id": 4471,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Ticaret unvanının devri ve satışı ile ilgili olarak Türk Ticaret Kanunu'nun (TTK) benimsediği kural aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Ticaret unvanı kesinlikle devredilemez." },
+      { "label": "B", "text": "Ticaret unvanı, ticari işletmeden ayrı olarak tek başına (yalın olarak) devredilebilir." },
+      { "label": "C", "text": "Ticaret unvanı, ancak ticari işletme ile birlikte (işletmenin devriyle) devredilebilir." },
+      { "label": "D", "text": "Sadece şahıs şirketlerinin unvanı devredilebilir." },
+      { "label": "E", "text": "Ticaret unvanı her yıl yenilenmek şartıyla kiralanabilir." }
+    ],
+    "correct_option": "C",
+    "explanation": "Türk Ticaret Kanunu'na göre ticaret unvanı, kullanıldığı ticari işletmeden ayrı olarak (tek başına) devredilemez. Unvan ancak işletme ile birlikte devredilebilir."
+  },
+  {
+    "id": 4472,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Hissedarların şirket arkasına saklanarak hileli işlemler yapmalarını ve sorumluluktan kaçmalarını engellemek amacıyla, istisnai durumlarda şirket tüzel kişiliğinin (sınırlı sorumluluk zırhının) bir kenara bırakılıp ortakların şahsi malvarlıklarına başvurulmasını sağlayan hukuki teoriye ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Ultra Vires" },
+      { "label": "B", "text": "Tüzel Kişilik Perdesinin Aralanması Teorisi" },
+      { "label": "C", "text": "İnançlı İşlem Teorisi" },
+      { "label": "D", "text": "Kayıtlı Sermaye Sistemi" },
+      { "label": "E", "text": "Mutlak Sorumluluk" }
+    ],
+    "correct_option": "B",
+    "explanation": "Tüzel kişilik bağımsız bir yapıdır ve ortaklardan ayrıdır (sınırlı sorumluluk). Ancak ortaklar dürüstlük kuralına aykırı davranıp tüzel kişiliği bir maske/kalkan olarak kötüye kullanırlarsa, hâkim bu ayrımı kaldırır ve ortakları doğrudan sorumlu tutar. Buna 'Tüzel kişilik perdesinin aralanması' (Piercing the corporate veil) denir."
+  },
+  {
+    "id": 4473,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "2024 yılında yürürlüğe giren yeni asgari sermaye düzenlemelerine göre, Anonim Şirketler ve Limited Şirketlerin kurulabilmesi için gereken asgari (en düşük) esas sermaye tutarları hangi seçenekte doğru olarak verilmiştir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Anonim: 50.000 TL / Limited: 10.000 TL" },
+      { "label": "B", "text": "Anonim: 100.000 TL / Limited: 50.000 TL" },
+      { "label": "C", "text": "Anonim: 250.000 TL / Limited: 50.000 TL" },
+      { "label": "D", "text": "Anonim: 500.000 TL / Limited: 100.000 TL" },
+      { "label": "E", "text": "Sermaye sınırı kaldırılmıştır." }
+    ],
+    "correct_option": "C",
+    "explanation": "1 Ocak 2024 tarihinden itibaren geçerli olmak üzere Cumhurbaşkanı Kararı ile asgari sermaye tutarları artırılmıştır. Anonim şirketlerin asgari kuruluş sermayesi 50.000 TL'den 250.000 TL'ye; Limited şirketlerin asgari kuruluş sermayesi ise 10.000 TL'den 50.000 TL'ye çıkarılmıştır. (Kayıtlı sermaye sistemini kabul eden halka açık olmayan AŞ'lerde ise başlangıç sermayesi 500.000 TL'dir)."
+  },
+  {
+    "id": 4474,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Ticaret hukukunda, tacir olmayan bir kimsenin sırf kendi hatasıyla etrafa 'tacirmiş gibi' bir izlenim bırakması ve iyi niyetli üçüncü kişilerin buna güvenerek işlem yapması durumunda bu kişiye ne ad verilir ve hukuki durumu nedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Esnaf - Esnaf sayılır ve esnaf sorumluluğu taşır." },
+      { "label": "B", "text": "Görünüşte Tacir - Tacir olmadığı halde iyiniyetli 3. kişilere karşı tacir gibi sorumlu olur (iflasa tabi olur)." },
+      { "label": "C", "text": "Gizli Tacir - İşlemleri mutlak butlanla batıl olur." },
+      { "label": "D", "text": "Komisyoncu - Sadece vekalet hükümleri uygulanır." },
+      { "label": "E", "text": "Yalancı Tacir - Cezai işlem uygulanır fakat borçtan kurtulur." }
+    ],
+    "correct_option": "B",
+    "explanation": "Fiilen bir ticari işletme açmadığı halde, ilanlar veya levhalarla üçüncü kişilere tacir izlenimi veren kişiye 'Görünüşte Tacir' denir. Bu kişi, tacir olmanın nimetlerinden yararlanamaz ancak külfetlerine (iflas, ticari defter tutma, ticari örf adete tabi olma) katlanmak zorundadır."
+  },
+  {
+    "id": 4475,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Aşağıdaki ticari defterlerden hangisi tacirlerin tutmak zorunda olduğu kanuni ticari defterlerden (fiziki veya elektronik ortamda) biri değildir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Yevmiye Defteri (Günlük Defter)" },
+      { "label": "B", "text": "Defter-i Kebir (Büyük Defter)" },
+      { "label": "C", "text": "Envanter Defteri" },
+      { "label": "D", "text": "Veresiyeler Defteri" },
+      { "label": "E", "text": "Yönetim Kurulu Karar Defteri (Sermaye şirketleri için)" }
+    ],
+    "correct_option": "D",
+    "explanation": "Tacirlerin tutmak zorunda olduğu temel ticari defterler; Yevmiye defteri, Defter-i Kebir ve Envanter defteridir. (A.Ş. gibi sermaye şirketleri ayrıca pay defteri, yönetim kurulu karar defteri, genel kurul toplantı ve müzakere defteri de tutar). Bakkal usulü 'Veresiyeler Defteri' kanuni ve resmi bir ticari defter değildir."
+  },
+  {
+    "id": 4476,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Ticaret Siciline tescil işlemleri ile ilgili kural olarak, kanunda aksine bir süre belirtilmemişse, bir olgunun tescili için kaç gün içinde ticaret sicili müdürlüğüne başvurulmalıdır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "7 gün" },
+      { "label": "B", "text": "15 gün" },
+      { "label": "C", "text": "30 gün" },
+      { "label": "D", "text": "45 gün" },
+      { "label": "E", "text": "60 gün" }
+    ],
+    "correct_option": "B",
+    "explanation": "Türk Ticaret Kanunu'na göre; tescil edilmesi gereken hususlar, aksi belirtilmedikçe işlemin veya kararın oluştuğu tarihten itibaren on beş (15) gün içinde ticaret siciline tescil ettirilir."
+  },
+  {
+    "id": 4477,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Bir ticari işletmeyi, ticaret unvanı altında işleten 'Gerçek Kişi Tacir' ile ilgili aşağıdakilerden hangisi yanlıştır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Kendi adına bağımsız hareket edebilmelidir." },
+      { "label": "B", "text": "Ticari işletmeyi kısmen dahi olsa kendi adına işletmelidir." },
+      { "label": "C", "text": "Tacir sıfatını kazanabilmek için mutlaka işletmenin ticaret siciline tescil edilmesi şarttır, tescil yoksa tacir olunamaz." },
+      { "label": "D", "text": "Bir ticari işletmeyi kurup açtığını halka bildirmişse, fiilen faaliyete geçmese bile tacir sayılır." },
+      { "label": "E", "text": "Sorumlulukları tüm malvarlıklarını (kişisel varlıkları dahil) kapsar." }
+    ],
+    "correct_option": "C",
+    "explanation": "Gerçek kişi tacir sıfatının kazanılması fiili bir duruma bağlıdır (İşletmenin kendi adına kısmen de olsa işletilmeye başlanması). Tescil işlemi, tacir sıfatını 'kazandıran' bir şart (kurucu unsur) değildir, bildiren (açıklayıcı) bir unsurdur. Yani tescil etmese bile o kişi kanunen tacirdir."
+  },
+  {
+    "id": 4478,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Limited şirketlerde sermaye paylarının devri, Anonim şirketlerdeki hisse devrine göre daha zordur. Bir Limited şirket ortağının payını devredebilmesi (satabilmesi) için noter onaylı devir sözleşmesi dışında aşağıdaki şartlardan hangisinin gerçekleşmesi zorunludur (Aksi kararlaştırılmadıkça)?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Banka denetleme kurulunun onayı" },
+      { "label": "B", "text": "Ticaret Bakanlığı'nın izni" },
+      { "label": "C", "text": "Genel Kurulun (diğer ortakların) onayı" },
+      { "label": "D", "text": "Yönetim Kurulunun oy birliği" },
+      { "label": "E", "text": "Hiçbir izne gerek yoktur, pay serbestçe devredilir." }
+    ],
+    "correct_option": "C",
+    "explanation": "Limited şirketlerde pay devri için devir sözleşmesinin noter huzurunda yapılması ve 'Genel Kurul (ortaklar) onayı' gerekir. Genel kurul devre onay vermezse (veya 3 ay sessiz kalırsa) devir gerçekleşmez."
+  },
+  {
+    "id": 4479,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Acenta, tellal, komisyoncu ve ticari mümessil kavramları ticari yardımcılar arasında yer alır. Bir ticari işletme sahibine (tacire), 'bağımlı' olarak çalışan ve işletmeyi en geniş şekilde (her türlü işlemi yaparak) temsil yetkisine sahip olan en üst düzey ticari yardımcıya ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Ticari Temsilci (Mümessil)" },
+      { "label": "B", "text": "Ticari Vekil" },
+      { "label": "C", "text": "Acente" },
+      { "label": "D", "text": "Simsar (Tellal)" },
+      { "label": "E", "text": "Pazarlamacı" }
+    ],
+    "correct_option": "A",
+    "explanation": "Tacire 'bağımlı' yardımcılar; ticari temsilci (mümessil), ticari vekil ve pazarlamacıdır. Bunlar içinde yetkisi en geniş olan, taciri işletmenin amacı kapsamındaki her türlü işlemde temsil edebilen yardımcı 'Ticari Temsilci (Mümessil)'dir. Acente ve Simsar tacire 'bağımsız' yardımcılardır."
+  },
+  {
+    "id": 4480,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ticaret Hukuku (Temel Düzey Şirket Tipleri)",
+    "question_text": "Kıymetli evraklar (kambiyo senetleri) tedavül (devir/dolaşım) yeteneğine sahip belgelerdir. Türk Ticaret Kanunu'na göre aşağıdakilerden hangisi kambiyo senetleri arasında yer almaz?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Poliçe" },
+      { "label": "B", "text": "Bono (Emre Muharrer Senet)" },
+      { "label": "C", "text": "Çek" },
+      { "label": "D", "text": "Makbuz" },
+      { "label": "E", "text": "Poliçe ve Çek" }
+    ],
+    "correct_option": "D",
+    "explanation": "TTK'ya göre Kambiyo Senetleri (kıymetli evraklar) 3 tanedir: Poliçe, Bono ve Çek. Makbuz veya fatura kambiyo senedi sayılmaz."
+  },
+  {
+    "id": 4481,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Türk Ceza Kanunu'nda (TCK) yer alan 'Kanunilik İlkesi' uyarınca, kanunun açıkça suç saymadığı bir fiil için kimseye ceza verilemez. Buna göre aşağıdakilerden hangisi kanunilik ilkesinin sonuçlarından veya alt ilkelerinden biri değildir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Suç ve cezaların geriye yürümemesi ilkesi" },
+      { "label": "B", "text": "İdarenin düzenleyici işlemleriyle (yönetmelik, genelge) suç ve ceza ihdas edilememesi" },
+      { "label": "C", "text": "Ceza hukukunda kıyas yasağı bulunması" },
+      { "label": "D", "text": "Hakimin ceza davalarında yazılı bir kural yoksa örf ve adet hukukuna göre ceza verebilmesi" },
+      { "label": "E", "text": "Belirlilik ilkesi (suç ve cezaların net anlaşılır olması)" }
+    ],
+    "correct_option": "D",
+    "explanation": "Ceza Hukuku'nda 'Kanunsuz suç ve ceza olmaz' (Kanunilik) ilkesi gereği; suçlar sadece kanunla yaratılır, ceza kanunlarında boşluk doldurma ve 'kıyas' yasaktır. Hakim yazılı kural yoksa sanığa ceza veremez, örf ve adet kurallarına dayanarak suç ve ceza yaratamaz (Medeni hukuktaki gibi hukuk yaratma yetkisi cezada yoktur)."
+  },
+  {
+    "id": 4482,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Türk Ceza Kanunu'na göre yaş küçüklüğü nedeniyle ceza sorumluluğunun bulunmadığı (hiçbir şartta ceza verilmeyeceği, ancak çocuklara özgü güvenlik tedbirlerinin uygulanabileceği) kesin yaş sınırı aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Fiili işlediği sırada 11 yaşını doldurmamış olanlar" },
+      { "label": "B", "text": "Fiili işlediği sırada 12 yaşını doldurmamış olanlar" },
+      { "label": "C", "text": "Fiili işlediği sırada 15 yaşını doldurmamış olanlar" },
+      { "label": "D", "text": "Fiili işlediği sırada 18 yaşını doldurmamış olanlar" },
+      { "label": "E", "text": "Fiili işlediği sırada 9 yaşını doldurmamış olanlar" }
+    ],
+    "correct_option": "B",
+    "explanation": "TCK m.31'e göre: 'Fiili işlediği sırada on iki (12) yaşını doldurmamış olan çocukların ceza sorumluluğu yoktur.' Bu kişilere sadece çocuklara özgü güvenlik tedbirleri uygulanabilir."
+  },
+  {
+    "id": 4483,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Fiili işlediği sırada 12 yaşını doldurmuş ancak 15 yaşını doldurmamış olan (12-15 yaş grubu) çocuklar için ceza sorumluluğunun belirlenmesindeki temel ölçüt aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Hiçbir surette ceza sorumlulukları yoktur." },
+      { "label": "B", "text": "İşledikleri fiilin hukuki anlam ve sonuçlarını algılama (ayırt etme) gücüne sahip olup olmadıklarına bakılarak, algılama yeteneği varsa indirimli ceza verilir." },
+      { "label": "C", "text": "Tam ceza ehliyetine sahiptirler, yetişkinlerle aynı cezayı alırlar." },
+      { "label": "D", "text": "Sadece kamu davası açılmaz, zararı tazmin etmeleri istenir." },
+      { "label": "E", "text": "Sadece hırsızlık suçlarında cezalandırılabilirler." }
+    ],
+    "correct_option": "B",
+    "explanation": "12-15 yaş grubundaki çocukların ceza ehliyeti 'nispi (bağıl)'dır. İşlediği suçun anlamını ve sonuçlarını algılama (farik ve mümeyyiz olma) yeteneği yoksa ceza verilmez. Algılama yeteneği gelişmişse yaş küçüklüğü nedeniyle indirim yapılarak ceza verilir."
+  },
+  {
+    "id": 4484,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Ceza Hukuku'nda sağır ve dilsizler (işitme ve konuşma engelliler) için yaş sınırları, algılama gelişimlerinin daha geç tamamlandığı varsayılarak standart yaş sınırlarına belli bir yıl eklenerek uygulanır. Sağır ve dilsizlerde tam ceza sorumluluğunun başladığı yaş sınırı (doldurulması gereken yaş) aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "18" },
+      { "label": "B", "text": "19" },
+      { "label": "C", "text": "21" },
+      { "label": "D", "text": "22" },
+      { "label": "E", "text": "24" }
+    ],
+    "correct_option": "C",
+    "explanation": "Normal çocuklarda yaş dilimleri: 0-12 (Ceza ehliyeti yok), 12-15 (Ayırt etme gücüne bakılır), 15-18 (İndirimli ceza), 18 (Tam ehliyet). Sağır ve dilsizlerde ise her sınıra (+3) yaş eklenir: 0-15 (Yok), 15-18 (Ayırt etmeye bakılır), 18-21 (İndirimli), 21 yaşını doldurma ile 'Tam Ehliyet' başlar."
+  },
+  {
+    "id": 4485,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Kişinin, işlediği fiilin suç teşkil ettiğini bilerek (öngörerek) ve sonucunu 'isteyerek' gerçekleştirmesine ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Doğrudan Kast" },
+      { "label": "B", "text": "Olası Kast" },
+      { "label": "C", "text": "Bilinçli Taksir" },
+      { "label": "D", "text": "Bilinçsiz Taksir" },
+      { "label": "E", "text": "İhmal" }
+    ],
+    "correct_option": "A",
+    "explanation": "Suçun manevi unsuru olan kast, suçun kanuni tanımındaki unsurları bilerek ve isteyerek (amacı doğrudan bu sonucu elde etmek olan) gerçekleştirmektir. (Buna doğrudan kast denir). Sonucu 'olursa olsun (kabullenme)' mantığıyla hareket etmek ise Olası Kasttır."
+  },
+  {
+    "id": 4486,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Bir trafik kazasında, şoförün aşırı hız ve makas atarak ilerlemesi neticesinde kaza yapma ihtimalini 'öngörmesine' rağmen, yeteneğine güvenerek 'nasıl olsa bir şey olmaz, ben kurtarırım' düşüncesiyle (neticeyi istemeyerek) kazaya ve ölümlere sebep olması Ceza Hukuku'nda hangi kusur türüyle açıklanır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Olası Kast" },
+      { "label": "B", "text": "Bilinçli Taksir" },
+      { "label": "C", "text": "Basit (Bilinçsiz) Taksir" },
+      { "label": "D", "text": "Doğrudan Kast" },
+      { "label": "E", "text": "Neticesi Sebebiyle Ağırlaşmış Suç" }
+    ],
+    "correct_option": "B",
+    "explanation": "Kişi neticeyi (kazayı) öngörüyor ancak 'istemiyor' ve şansına/yeteneklerine güvenerek neticenin 'gerçekleşmeyeceğini' umut ediyorsa bu 'Bilinçli Taksir'dir. Eğer neticeyi öngörüp 'olursa olsun (umurumda değil, kabulleniyorum)' deseydi 'Olası Kast' olurdu."
+  },
+  {
+    "id": 4487,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Bir kimsenin kendisine veya başkasına yönelik gerçekleşmekte olan (veya kesin olarak gerçekleşecek) haksız bir saldırıyı, o anki hal ve koşullara göre saldırı ile orantılı bir biçimde defetmek zorunluluğu ile işlediği fiillere ceza verilmez. Bu hukuka uygunluk nedenine ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Meşru Müdafaa (Haklı Savunma)" },
+      { "label": "B", "text": "Zaruret Hali (Iztırar Hali)" },
+      { "label": "C", "text": "Hakkın Kullanılması" },
+      { "label": "D", "text": "İlgilinin Rızası" },
+      { "label": "E", "text": "Kanunun Hükmünü Yerine Getirme" }
+    ],
+    "correct_option": "A",
+    "explanation": "Açıklamada tarif edilen, haksız ve ani bir saldırıya karşı orantılı (saldırıyı durduracak kadar) karşılık verilerek kendini veya başkasını savunma haline 'Meşru Müdafaa' (Haklı Savunma) denir. Bu durumda fiil hukuka uygun hale gelir ve kişiye ceza veya tazminat yükletilmez."
+  },
+  {
+    "id": 4488,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Ormanda karşısına çıkan vahşi bir ayıdan kaçan Ahmet, komşusunun evinin kapısını kırarak içeri girmiş ve canını kurtarmıştır. Ahmet'in kapıyı kırması nedeniyle ceza almaması (ancak daha sonra kapının zararını karşılayacak olması) aşağıdaki kurumlardan hangisiyle açıklanır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Meşru Müdafaa" },
+      { "label": "B", "text": "Gönüllü Vazgeçme" },
+      { "label": "C", "text": "Zaruret Hali (Zorunluluk Hali - Iztırar)" },
+      { "label": "D", "text": "Etkin Pişmanlık" },
+      { "label": "E", "text": "Kuvvet Kullanma" }
+    ],
+    "correct_option": "C",
+    "explanation": "Kendisinin veya başkasının hayatını veya malını, bilerek neden olmadığı ağır ve muhakkak bir tehlikeden (vahşi hayvan, deprem, sel vb.) kurtarmak için 'suçsuz bir 3. kişinin' malına zarar vermeye 'Zaruret (Iztırar) Hali' denir. Ceza verilmez ama verilen zarar hakkaniyete göre ödenir (Hukuka aykırılığı tamamen kaldırmaz, sadece kusurluluğu kaldırır)."
+  },
+  {
+    "id": 4489,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Bir kimsenin suç işlemek kastıyla hareket edip icra hareketlerine (fiile) başlaması, ancak elinde olmayan (kendi dışındaki) nedenlerle suçu tamamlayamaması durumuna ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "İştirak" },
+      { "label": "B", "text": "Etkin Pişmanlık" },
+      { "label": "C", "text": "Gönüllü Vazgeçme" },
+      { "label": "D", "text": "Teşebbüs" },
+      { "label": "E", "text": "İhmal" }
+    ],
+    "correct_option": "D",
+    "explanation": "Suç işlemeye başlayıp elinde olmayan sebeplerle (örneğin polis gelmesi, silahın tutukluk yapması) neticeyi meydana getirememeye (suçun yarım kalmasına) 'Teşebbüs' denir. Kişi teşebbüsten ötürü indirimli ceza alır."
+  },
+  {
+    "id": 4490,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Bir hırsız, girdiği evdeki eşyaları torbaya doldurmuş ancak aniden vicdan azabı çekerek kendi hür iradesiyle (dış bir baskı olmadan) eşyaları bırakıp kaçmıştır. Bu kişinin eyleminin tamamlanmamasına kendi rızasıyla karar vermesi durumu aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Teşebbüs" },
+      { "label": "B", "text": "Gönüllü Vazgeçme" },
+      { "label": "C", "text": "Etkin Pişmanlık" },
+      { "label": "D", "text": "Kusursuzluk" },
+      { "label": "E", "text": "Şahsi Cezasızlık Sebebi" }
+    ],
+    "correct_option": "B",
+    "explanation": "Failin, suçun icra hareketlerine başladıktan sonra 'kendi çabasıyla ve iradesiyle' eylemi tamamlamaktan vazgeçmesine 'Gönüllü Vazgeçme' denir. Bu durumda fail, o suça teşebbüsten dolayı cezalandırılmaz (Ancak o ana kadar yaptığı iş başka bir suç oluşturuyorsa -örneğin konut dokunulmazlığını ihlal- ondan ceza alır)."
+  },
+  {
+    "id": 4491,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Ceza hukukunda, aklından bile geçirmeyen (suç işleme niyeti olmayan) bir kişiyi, suç işlemeye ikna eden, azmettiren veya teşvik edip karar verdiren kişiye ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Müşterek Fail" },
+      { "label": "B", "text": "Yardım Eden" },
+      { "label": "C", "text": "Dolaylı Fail" },
+      { "label": "D", "text": "Azmettiren" },
+      { "label": "E", "text": "İştirakçi" }
+    ],
+    "correct_option": "D",
+    "explanation": "Belli bir suçu işleme düşüncesi hiç olmayan bir kişiye, suçu işleme kararı verdirten (ikna eden, teşvik eden) kişiye 'Azmettiren' denir ve azmettiren kişi, suçu işleyen faille aynı cezayı alır."
+  },
+  {
+    "id": 4492,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Bir kişi tarafından, aynı suç işleme kararı (planı) icrası kapsamında, değişik zamanlarda aynı kişiye karşı birden fazla aynı suçun işlenmesi durumunda (Örneğin bir çalışanın patronunun kasasından her ay 100 lira çalması), faile tek bir ceza verilip cezanın belli bir oranda artırılması kuralına ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Fikri İçtima" },
+      { "label": "B", "text": "Zincirleme Suç" },
+      { "label": "C", "text": "Maddi İçtima" },
+      { "label": "D", "text": "Olası Kast" },
+      { "label": "E", "text": "Suçların İştiraki" }
+    ],
+    "correct_option": "B",
+    "explanation": "Aynı suçun, aynı mağdura karşı, aynı kast altında değişik zamanlarda zincirleme olarak tekrar işlenmesine 'Zincirleme Suç' denir. Kişiye her eylem için ayrı ceza değil, tek ceza verilerek ceza dörtte birinden dörtte üçüne kadar artırılır."
+  },
+  {
+    "id": 4493,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Alkollü olarak araç kullanırken kaza yapan ve birinin ölümüne sebep olan bir sürücünün ceza sorumluluğuyla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Alkolün etkisiyle bilincini kaybettiği için ceza ehliyeti yoktur, ceza verilmez." },
+      { "label": "B", "text": "Geçici bir neden olan alkolü kendi rızasıyla (iradi olarak) aldığı için ceza sorumluluğu tamdır ve ceza alır." },
+      { "label": "C", "text": "Akıl hastalığı kapsamında değerlendirilir ve hastaneye yatırılır." },
+      { "label": "D", "text": "Sürücü, ceza almaz ancak ölen kişinin yakınlarına yüklü bir tazminat öder." },
+      { "label": "E", "text": "Alkol alımı sadece taksirli suçlarda cezayı tamamen kaldırır." }
+    ],
+    "correct_option": "B",
+    "explanation": "Kişi, alkol veya uyuşturucu maddeyi kendi hür iradesiyle (isteyerek/iradi) almışsa (geçici neden), sarhoşluğun getirdiği bilinç kaybı onun ceza ehliyetini etkilemez; kişi işlediği suçtan tam sorumlu tutulur. İrade dışı (örneğin zorla içirilme) durumlarda ise ceza ehliyeti kalkar."
+  },
+  {
+    "id": 4494,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Bir kimsenin, işlediği fiilin haksızlık oluşturduğu konusunda kaçınılmaz bir yanılgıya düşmesine (suç olduğunu bilmemesine) Ceza Hukuku'nda 'Hata' denir. Hukuk sistemimizde 'Kanunu bilmemek mazeret sayılmaz' kuralı geçerlidir. Ancak kişinin fiilinin suç olduğunu bilmemesinin istisnai hukuki sonucu nedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Kişi beraat eder, suç tamamen ortadan kalkar." },
+      { "label": "B", "text": "Kaçınılmaz bir hata söz konusuysa, kişiye ceza verilmez (Kusurluluğu kaldıran hata)." },
+      { "label": "C", "text": "Kişi suçsuz sayılır fakat maddi tazminat öder." },
+      { "label": "D", "text": "Ceza iki katına çıkarılır." },
+      { "label": "E", "text": "Kanunu bilmemek her şartta cezayı azaltır." }
+    ],
+    "correct_option": "B",
+    "explanation": "Kural olarak 'Kanunu bilmemek mazeret sayılmaz'. Ancak TCK m.30/4'e göre: 'İşlediği fiilin haksızlık oluşturduğu hususunda kaçınılmaz bir hataya düşen kişi, cezalandırılmaz.' Bu çok istisnai ve özel durumlarda, kişinin hatasında hiçbir kusuru olmaması (kaçınılmaz hata) şartıyla uygulanır."
+  },
+  {
+    "id": 4495,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Ceza davasının düşmesine veya cezanın infaz edilmesinin (uygulanmasının) engellenmesine yol açan süre aşımına 'Zamanaşımı' denir. Türk Ceza Kanunu'nda aşağıdaki suçlardan hangisi için zamanaşımı işlemiyebilir (Zamanaşımına tabi değildir)?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Hırsızlık" },
+      { "label": "B", "text": "Dolandırıcılık" },
+      { "label": "C", "text": "Taksirle Adam Öldürme" },
+      { "label": "D", "text": "İnsanlığa Karşı Suçlar ve Soykırım Suçu" },
+      { "label": "E", "text": "Hakaret ve Tehdit" }
+    ],
+    "correct_option": "D",
+    "explanation": "TCK m.77/4 ve m.78 uyarınca 'Soykırım' ve 'İnsanlığa Karşı Suçlar' hiçbir zaman zamanaşımına uğramaz. Bu suçların cezalandırılması için her zaman dava açılabilir ve infaz yapılabilir."
+  },
+  {
+    "id": 4496,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Akıl hastalığı nedeniyle işlediği fiilin hukuki anlam ve sonuçlarını algılayamayan (veya yönlendirme yeteneği önemli ölçüde azalmış olan) kişilerle ilgili TCK hükümleri aşağıdakilerden hangisini öngörmektedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Yetişkin hapis cezası uygulanır." },
+      { "label": "B", "text": "Ceza verilir ancak cezaları yarı oranında indirilir." },
+      { "label": "C", "text": "Hiçbir adli işlem yapılmaz, evlerine gönderilirler." },
+      { "label": "D", "text": "Ceza verilmez, ancak bu kişiler hakkında yüksek güvenlikli sağlık kurumlarında koruma ve tedavi altına alınma (güvenlik tedbiri) uygulanır." },
+      { "label": "E", "text": "Ailesi onun yerine hapse girer." }
+    ],
+    "correct_option": "D",
+    "explanation": "Akıl hastalığı nedeniyle tam ehliyetsiz olan (algılama ve yönlendirme yeteneği olmayan) kişilerin kusur yeteneği bulunmadığı için onlara 'ceza verilmez'. Ancak toplum güvenliği için onlara 'Güvenlik Tedbiri' uygulanır ve akıl hastanelerinde (şifa bulana kadar) tedaviye alınırlar."
+  },
+  {
+    "id": 4497,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Suçun tamamlandıktan (netice doğduktan) sonra, failin kendi pişmanlığı ile suçun yarattığı zararı tamamen veya kısmen gidermesi (örneğin çaldığı malı geri getirmesi) durumuna ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Gönüllü Vazgeçme" },
+      { "label": "B", "text": "Etkin Pişmanlık" },
+      { "label": "C", "text": "Meşru Müdafaa" },
+      { "label": "D", "text": "Şahsi Cezasızlık" },
+      { "label": "E", "text": "Teşebbüs" }
+    ],
+    "correct_option": "B",
+    "explanation": "Suç TAMAMLANDIKTAN sonra failin vicdan azabı çekerek zararı gidermesine, mağduru eski haline getirmeye çalışmasına 'Etkin Pişmanlık' denir ve bu durum failin cezasında büyük oranda indirim yapılmasını sağlar. (Suç tamamlanmadan vazgeçilseydi 'Gönüllü Vazgeçme' olurdu)."
+  },
+  {
+    "id": 4498,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Bir kimsenin suçu tek başına değil de başkalarını kullanarak, kendi elini sürmeden 'suç ehliyeti olmayan (örneğin 10 yaşında bir çocuğu veya akıl hastasını) aracı kılarak' suçu işletmesine Ceza Hukuku'nda ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Azmettirme" },
+      { "label": "B", "text": "Yardım Etme" },
+      { "label": "C", "text": "Müşterek Faillik" },
+      { "label": "D", "text": "Dolaylı Faillik" },
+      { "label": "E", "text": "Fikri İçtima" }
+    ],
+    "correct_option": "D",
+    "explanation": "Suçun maddi unsurunu kendisi gerçekleştirmeyen ancak suçu bir araç (özellikle kusur yeteneği olmayanları veya hataya düşenleri) vasıtasıyla işleyen kişiye 'Dolaylı Fail' denir. O da asıl fail gibi cezalandırılır."
+  },
+  {
+    "id": 4499,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Bir kişinin eylemi (tek bir fiili) sonucunda birden fazla farklı suçun meydana gelmesi durumunda, faile sadece bu suçlardan cezası 'en ağır olanından' ceza verilmesi kuralına ne ad verilir? (Örneğin, camı kırıp hakaret etmek gibi tek fiille birden fazla ihlal).",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Fikri İçtima" },
+      { "label": "B", "text": "Zincirleme Suç" },
+      { "label": "C", "text": "Şahsilik İlkesi" },
+      { "label": "D", "text": "Maddi İçtima" },
+      { "label": "E", "text": "Ağırlaştırıcı Neden" }
+    ],
+    "correct_option": "A",
+    "explanation": "Bir tek fiil (hareket) ile birden fazla farklı suç tipinin ihlal edilmesine 'Fikri İçtima' denir. Hukukumuzda bu durumda faile, ihlal ettiği bu farklı suçlardan hangisinin cezası en ağırsa, sadece o suçtan tek bir ceza verilir."
+  },
+  {
+    "id": 4500,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları",
+    "question_text": "Türk Ceza Kanunu'nda yer alan ceza yaptırımları 'Hapis Cezaları' ve 'Adli Para Cezaları' olarak ayrılır. Aşağıdakilerden hangisi TCK'da öngörülen hapis cezası türlerinden biri değildir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Süreli hapis cezası" },
+      { "label": "B", "text": "Müebbet hapis cezası" },
+      { "label": "C", "text": "Ağırlaştırılmış müebbet hapis cezası" },
+      { "label": "D", "text": "Disiplin hapsi" },
+      { "label": "E", "text": "Kısa süreli hapis cezası (Süreli hapsin 1 yıl ve altı olanı)" }
+    ],
+    "correct_option": "D",
+    "explanation": "TCK m.45'e göre hapis cezaları: Ağırlaştırılmış Müebbet, Müebbet ve Süreli hapis cezalarıdır (Süreli hapsin 1 yıl veya altına kısa süreli denir). 'Disiplin Hapsi' veya 'Tazyik Hapsi' ceza mahkemelerinde verilen asıl TCK cezalarından değil, mahkeme düzenini veya idari itaatsizliği sağlamaya yönelik özel kanun tedbirlerindendir ve TCK genel hapis ceza listesinde sayılmaz."
+  },
+  {
+    "id": 4501,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Türk Medeni Kanunu'na göre, olağan (normal) evlenme yaşı kadın ve erkekler için kaç yaşın doldurulması ile başlar?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "16 yaşın doldurulması" },
+      { "label": "B", "text": "17 yaşın doldurulması" },
+      { "label": "C", "text": "18 yaşın doldurulması" },
+      { "label": "D", "text": "15 yaşın doldurulması" },
+      { "label": "E", "text": "Erkekler için 18, kadınlar için 17 yaşın doldurulması" }
+    ],
+    "correct_option": "B",
+    "explanation": "Medeni Kanun m.124'e göre; kadın ve erkek (velisinin izni ile) olağan evlenme yaşını 'on yedi (17) yaşını' doldurmakla tamamlar. Çok önemli bir gerekçe varsa hâkim olağanüstü durumlarda on altı (16) yaşını doldurmuş olanların evlenmesine de izin verebilir. Ancak 18 yaşını dolduranlar kimsenin izni olmadan evlenebilir."
+  },
+  {
+    "id": 4502,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Evlenme akdinin kurucu unsurlarından olan 'resmi evlendirme memuru önünde yapılmaması' veya evlenenlerin her ikisinin de (veya birinin) evlenme sırasında aynı cinsiyetten olması hallerinde uygulanan yaptırım aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Mutlak Butlan" },
+      { "label": "B", "text": "Nispi Butlan" },
+      { "label": "C", "text": "İptal Edilebilirlik" },
+      { "label": "D", "text": "Yokluk" },
+      { "label": "E", "text": "Geçici Hükümsüzlük" }
+    ],
+    "correct_option": "D",
+    "explanation": "Evliliğin olmazsa olmaz üç kurucu unsuru vardır: Farklı cinsiyette olmak, resmi memur önünde olmak, irade beyanlarını karşılıklı/aynı anda ve sözlü yapmak. Bunlardan biri eksikse evlilik hukuk dünyasında hiç doğmamıştır ve bu duruma 'Yokluk' yaptırımı uygulanır."
+  },
+  {
+    "id": 4503,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Aşağıdakilerden hangisi evliliğin 'Mutlak Butlan' (kesin hükümsüzlük) ile batıl olmasını gerektiren sebeplerden biridir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Evlenme sırasında taraflardan birinin geçici olarak (alkol, ilaç vb.) ayırt etme gücünden yoksun olması" },
+      { "label": "B", "text": "Taraflardan birinin zorla (silah tehdidi vb. ile) evlendirilmesi (korkutma)" },
+      { "label": "C", "text": "Taraflardan birinin halihazırda (zaten) evli olması" },
+      { "label": "D", "text": "Eşlerden birinin hastalığını gizleyerek (hile ile) diğerini evliliğe razı etmesi" },
+      { "label": "E", "text": "Tarafların evlenme yaşını (17'yi) doldurmadan resmi memur yanıltılarak evlenmesi" }
+    ],
+    "correct_option": "C",
+    "explanation": "Hâlihazırda evli olmak, amca-dayı-hala-teyze-yeğen gibi evlenmeye mani hısımlık, sürekli (iyileşemez) akıl hastalığı evliliği 'Mutlak Butlan' ile geçersiz kılar (savcı veya ilgili herkes dava açabilir). Yanılma, aldatma, korkutma (geçici irade sakatlığı) ise 'Nispi Butlan' (sadece ilgili kişinin dava açmasıyla iptal edilebilirlik) nedenidir."
+  },
+  {
+    "id": 4504,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Boşanma davaları genel ve özel sebepler olmak üzere ikiye ayrılır. Aşağıdakilerden hangisi Medeni Kanun'da sayılan 'Özel Boşanma Sebepleri'nden biri değildir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Zina (Aldatma)" },
+      { "label": "B", "text": "Hayata kast, pek kötü veya onur kırıcı davranış" },
+      { "label": "C", "text": "Suç işleme ve haysiyetsiz hayat sürme" },
+      { "label": "D", "text": "Evlilik birliğinin temelinden sarsılması (Şiddetli geçimsizlik)" },
+      { "label": "E", "text": "Terk ve Akıl Hastalığı" }
+    ],
+    "correct_option": "D",
+    "explanation": "Evlilik birliğinin temelinden sarsılması (halk arasında şiddetli geçimsizlik veya anlaşmalı boşanma da bu kapsama girer) 'Genel' boşanma sebebidir. Zina, hayata kast, suç işleme, terk ve akıl hastalığı kanunda tek tek sayılmış 'Özel' boşanma sebepleridir."
+  },
+  {
+    "id": 4505,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Eşlerden birinin ortak konutu evlilik yükümlülüklerinden kaçınmak maksadıyla terk etmesi durumunda, diğer eşin 'Terk' nedeniyle boşanma davası açabilmesi için terkin aralıksız en az kaç ay sürmüş olması ve eşe 'ihtar' (geri dön çağrısı) çekilmiş olması gereklidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "En az 3 ay (İhtar 2. ayda)" },
+      { "label": "B", "text": "En az 6 ay (İhtar 4. ayın sonunda)" },
+      { "label": "C", "text": "En az 1 yıl (İhtar 6. ayda)" },
+      { "label": "D", "text": "En az 2 yıl (İhtar 1. yılın sonunda)" },
+      { "label": "E", "text": "En az 5 yıl (İhtara gerek yoktur)" }
+    ],
+    "correct_option": "B",
+    "explanation": "Terk sebebiyle boşanma davası açılabilmesi için; ayrılığın kesintisiz en az altı (6) ay sürmüş olması gerekir. Dava açmadan önce, terkin dördüncü (4.) ayı bittikten sonra terk eden eşe hâkim/noter aracılığıyla dönmesi için 'ihtar' çekilmesi ve ihtardan sonra da en az 2 ay (toplamda 6 ay) beklenmesi zorunludur."
+  },
+  {
+    "id": 4506,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Türk Medeni Kanunu'na göre, eşler evlenirken veya daha sonra herhangi bir mal rejimi sözleşmesi (mal ayrılığı vb.) yapmamışlarsa, yasal olarak aralarında geçerli olacak (kanuni/varsayılan) mal rejimi aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Mal Ayrılığı Rejimi" },
+      { "label": "B", "text": "Mal Ortaklığı Rejimi" },
+      { "label": "C", "text": "Edinilmiş Mallara Katılma Rejimi" },
+      { "label": "D", "text": "Paylaşmalı Mal Ayrılığı Rejimi" },
+      { "label": "E", "text": "Birlikte Mülkiyet Rejimi" }
+    ],
+    "correct_option": "C",
+    "explanation": "1 Ocak 2002'de yürürlüğe giren yeni Medeni Kanun ile birlikte yasal (taraflar aksini kararlaştırmadıkça otomatik uygulanan) mal rejimi 'Edinilmiş Mallara Katılma Rejimi' olmuştur. Bu rejimde, evlilik süresince kazanılan mallar eşler arasında (boşanma/ölüm anında) yarı yarıya paylaşılır; kişisel mallar ise paylaşıma dâhil edilmez."
+  },
+  {
+    "id": 4507,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Evlilik dışı doğan bir çocuğun babasıyla arasındaki 'soybağının (nesebin)' kurulması aşağıdaki yollardan hangisi ile gerçekleştirilemez?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Babanın, anne ile sonradan evlenmesiyle" },
+      { "label": "B", "text": "Babanın, nüfus memuru veya noter önünde çocuğu Tanıma (Tanıma beyanı) yapmasıyla" },
+      { "label": "C", "text": "Anne veya çocuğun açtığı 'Babalık Davası'nın mahkemede kanıtlanmasıyla" },
+      { "label": "D", "text": "Evlat edinme yoluyla" },
+      { "label": "E", "text": "Anne ile babanın kendi aralarında yazılı özel bir sözleşme (adi senet) yapmasıyla" }
+    ],
+    "correct_option": "E",
+    "explanation": "Soybağının kurulması resmi/yasal yollarla olur: Evlilik, Tanıma (resmi memur/noter), Babalık hükmü davası veya Evlat Edinme. Anne ve babanın kendi aralarında evde yapacakları sıradan (özel/adi) bir sözleşme, devlette/nüfusta resmi bir soybağı oluşturmaz."
+  },
+  {
+    "id": 4508,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Bir kimsenin başkasının çocuğunu evlat edinebilmesi için bazı yasal şartlar vardır. Türk Medeni Kanunu'na göre evlat edinen kişi ile evlatlık arasında en az kaç yaş fark olması kanuni bir zorunluluktur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "10 Yaş" },
+      { "label": "B", "text": "15 Yaş" },
+      { "label": "C", "text": "18 Yaş" },
+      { "label": "D", "text": "20 Yaş" },
+      { "label": "E", "text": "25 Yaş" }
+    ],
+    "correct_option": "C",
+    "explanation": "Medeni Kanun m.308'e göre; evlat edinen ile evlatlık arasında en az 18 yaş farkı bulunması şarttır. Ayrıca evlat edinenin (bekarsa) en az 30 yaşını doldurmuş olması (veya eşlerin en az 5 yıldan beri evli olması) gerekir."
+  },
+  {
+    "id": 4509,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Miras hukukunda mirasçılar 'Zümre (Derece)' sistemine göre belirlenir. Birinci zümrede mirasçı varsa, mirastan ikinci ve üçüncü zümre pay alamaz. Buna göre mirasbırakanın 'İkinci Zümre (İkinci Derece)' yasal mirasçıları aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Sadece sağ kalan eş" },
+      { "label": "B", "text": "Çocukları ve torunları (Altsoyu)" },
+      { "label": "C", "text": "Anne, babası ve onların altsoyu (Kardeşleri ve yeğenleri)" },
+      { "label": "D", "text": "Büyükanneler, büyükbabalar ve amca, dayı, hala, teyzeler" },
+      { "label": "E", "text": "Devlet (Hazine)" }
+    ],
+    "correct_option": "C",
+    "explanation": "1. Zümre: Altsoy (Çocuklar, torunlar). 2. Zümre: Ana-Baba ve onlardan türeyenler (Kardeşler, yeğenler). 3. Zümre: Büyükana-Büyükbaba ve onlardan türeyenler (Dayı, amca, hala, teyze). Sağ kalan eş her zümreyle (zümrenin durumuna göre) birlikte mirasçıdır, tek bir zümreye ait değildir."
+  },
+  {
+    "id": 4510,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Ölen kişinin (Mirasbırakanın) çocuğu ve eşi hayattadır. Miras birinci zümre (çocuklar) ile paylaşıldığında, 'sağ kalan eşin' yasal miras payı oranı ne kadardır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Mirasın tamamı (1/1)" },
+      { "label": "B", "text": "Mirasın yarısı (1/2)" },
+      { "label": "C", "text": "Mirasın dörtte üçü (3/4)" },
+      { "label": "D", "text": "Mirasın dörtte biri (1/4)" },
+      { "label": "E", "text": "Mirasın beşte biri (1/5)" }
+    ],
+    "correct_option": "D",
+    "explanation": "Sağ kalan eş 1. zümre (çocuklar) ile mirasçı olursa mirasın 1/4'ünü alır. (2. zümre yani ana-baba-kardeşler ile olursa 1/2'sini; 3. zümre ile olursa 3/4'ünü alır. Hiç kimse yoksa tamamını alır)."
+  },
+  {
+    "id": 4511,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Mirasbırakan (Mûris), mirasının büyük bir kısmını vasiyetname ile dışarıdan birine veya bir derneğe bırakmak isteyebilir. Ancak kanun, mirasbırakanın iradesiyle bile (istisnalar hariç) dokunamayacağı ve mutlaka belirli yakın akrabalara (çocuk, eş, anne-baba) verilmesi gereken bir yasal güvence payı belirlemiştir. Bu dokunulmaz miras payına ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Tasarruf Nisabı" },
+      { "label": "B", "text": "Saklı Pay (Mahfuz Hisse)" },
+      { "label": "C", "text": "Denkleştirme Payı" },
+      { "label": "D", "text": "Tenkis Hisse" },
+      { "label": "E", "text": "Ölüme Bağlı Tasarruf" }
+    ],
+    "correct_option": "B",
+    "explanation": "Mirasbırakanın üzerinde serbestçe tasarruf edemeyeceği, vasiyetle başkasına devredemeyeceği yasal mirasçıların kanuni hakkına 'Saklı Pay (Mahfuz Hisse)' denir. Kalan serbest kısma ise 'Tasarruf Nisabı' denir."
+  },
+  {
+    "id": 4512,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Türk Medeni Kanunu'na göre kimler 'Saklı Paylı' mirasçı statüsünde kabul edilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Altsoy (Çocuklar), Anne-Baba ve Sağ Kalan Eş" },
+      { "label": "B", "text": "Sadece Altsoy (Çocuklar) ve Kardeşler" },
+      { "label": "C", "text": "Sadece Sağ Kalan Eş" },
+      { "label": "D", "text": "Anne-Baba, Kardeşler ve Dayı-Amcalar" },
+      { "label": "E", "text": "Devlet, Sağ Kalan Eş ve Altsoy" }
+    ],
+    "correct_option": "A",
+    "explanation": "Saklı paylı mirasçılar: Altsoy (çocuklar, torunlar), Anne ve Baba ile Sağ Kalan Eştir. Kardeşlerin saklı payı 2007 yılında Medeni Kanun'dan çıkarılmıştır."
+  },
+  {
+    "id": 4513,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Bir kimsenin mirasbırakanı kasten öldürmesi veya öldürmeye teşebbüs etmesi, onun mirasçılığını otomatik ve kendiliğinden (mahkeme kararı veya vasiyetnameye gerek kalmadan) sona erdirir. Bu duruma miras hukukunda ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Mirasın Reddi" },
+      { "label": "B", "text": "Mirastan Iskat (Mirasçılıktan Çıkarma)" },
+      { "label": "C", "text": "Mirastan Yoksunluk" },
+      { "label": "D", "text": "Mirasın Feragati" },
+      { "label": "E", "text": "Tenkis" }
+    ],
+    "correct_option": "C",
+    "explanation": "Mirasbırakanı öldüren, ona iftira atan veya vasiyetname yapmasını engelleyen kişinin kanun gereği (otomatik olarak) miras hakkını kaybetmesine 'Mirastan Yoksunluk' denir. Iskat (Mirasçılıktan Çıkarma) ise mirasbırakanın sağlığında bir 'vasiyetname ile' hayırsız çocuğunu (veya mirasçısını) mirastan defetmesidir."
+  },
+  {
+    "id": 4514,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Bir yasal mirasçı, kendisine kalan mirası (genellikle ölenin borcu malvarlığından çok olduğu için) reddetmek isteyebilir. 'Mirasın gerçek reddi' için kanunda öngörülen süre ölümün (veya mirasçılığını öğrenmenin) gerçekleştiği tarihten itibaren ne kadardır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "15 gün" },
+      { "label": "B", "text": "1 ay" },
+      { "label": "C", "text": "3 ay" },
+      { "label": "D", "text": "6 ay" },
+      { "label": "E", "text": "1 yıl" }
+    ],
+    "correct_option": "C",
+    "explanation": "Mirasın gerçek reddi süresi, mirasçıların mirasbırakanın ölümünü (veya mirasçı olduklarını) öğrendikleri tarihten itibaren üç (3) aydır. Bu süre içinde ret beyanı sulh hukuk mahkemesine yapılmazsa miras (borçlarıyla beraber) kabul edilmiş sayılır."
+  },
+  {
+    "id": 4515,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Vasiyetnameler; el yazılı, resmi ve sözlü olmak üzere üç şekilde yapılabilir. Olağanüstü durumlarda (savaş, deprem, ağır hastalık gibi) el yazılı veya resmi vasiyetname yapma imkanı yoksa başvuran son çare olan 'Sözlü Vasiyetname' en az kaç tanık huzurunda yapılmalıdır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1 tanık" },
+      { "label": "B", "text": "2 tanık" },
+      { "label": "C", "text": "3 tanık" },
+      { "label": "D", "text": "4 tanık" },
+      { "label": "E", "text": "Tanığa gerek yoktur, video kaydı yeterlidir" }
+    ],
+    "correct_option": "B",
+    "explanation": "Sözlü vasiyetname sadece olağanüstü durumlarda yapılabilir ve mirasbırakan son isteklerini 'iki (2) tanık' huzurunda sözlü olarak beyan eder. Bu tanıklar vakit kaybetmeden duyduklarını yazıya dökerek mahkemeye onaylatmak zorundadır."
+  },
+  {
+    "id": 4516,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Gaiplik (uzun süre haber alınamama veya ölüm tehlikesiyle kaybolma) kararı alınan bir kişinin mirası, mirasçılara hemen kesin olarak devredilmez. Mirasçıların bu malları teslim alabilmesi için mahkemeye belli bir süre 'teminat (garanti)' vermeleri şarttır. Ölüm tehlikesi içinde kaybolan kişi için bu teminat süresi kaç yıldır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1 yıl" },
+      { "label": "B", "text": "3 yıl" },
+      { "label": "C", "text": "5 yıl" },
+      { "label": "D", "text": "10 yıl" },
+      { "label": "E", "text": "15 yıl" }
+    ],
+    "correct_option": "C",
+    "explanation": "Gaiplik kararında mirasçılar mirası alırken; gaip ölüm tehlikesiyle kaybolmuşsa malları teslim almak için 5 yıl, uzun süredir haber alınamama ile kaybolmuşsa 15 yıl teminat göstermek zorundadırlar (Gaibin geri dönmesi veya üstün hak sahiplerinin çıkması ihtimaline karşı)."
+  },
+  {
+    "id": 4517,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Nişanlılık evlenme vaadiyle olur ve kanunen bir 'sözleşme' (veya hukuki işlem) niteliğindedir. Bir tarafın nişanı haksız yere bozması durumunda, terk edilen nişanlı aşağıdaki taleplerden hangisinde bulunamaz?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Olağandışı (mutat dışı) hediyelerin iadesini isteyebilir." },
+      { "label": "B", "text": "Nişan için yapılan hazırlık (düğün salonu, gelinlik vb.) masraflarını maddi tazminat olarak isteyebilir." },
+      { "label": "C", "text": "Kişilik hakları zedelendiği için manevi tazminat isteyebilir." },
+      { "label": "D", "text": "Hakim kararıyla nişanı zorla evliliğe (nikaha) dönüştürülmesini talep edebilir." },
+      { "label": "E", "text": "Hediyeler tüketilmişse veya kaybolmuşsa sebepsiz zenginleşme kurallarına göre bedelini isteyebilir." }
+    ],
+    "correct_option": "D",
+    "explanation": "Türk Medeni Kanunu'na göre nişanlanma kimseyi evlenmeye zorlamaz. Nişanı bozan taraftan maddi ve manevi tazminat ile olağandışı hediyeler (takılar vb.) talep edilebilir ancak mahkeme yoluyla (dava açılarak) kişinin evliliğe zorlanması kesinlikle mümkün değildir (Evlenmeye zorlamak için dava açılamaz)."
+  },
+  {
+    "id": 4518,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Mirasbırakan, tasarruf özgürlüğünü (saklı pay sınırlarını) aşarak bir kişiye malvarlığından fazla pay bırakmış veya saklı pay sahibi mirasçıların hakkını zedelemişse, hakkı yenilen mirasçıların bu ihlali gidermek ve haklarını kanuni sınırına çekmek için açtıkları davaya ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Tenkis Davası (İndirim Davası)" },
+      { "label": "B", "text": "Muvazaa Davası" },
+      { "label": "C", "text": "İptal Davası" },
+      { "label": "D", "text": "İstihkak Davası" },
+      { "label": "E", "text": "Denkleştirme Davası" }
+    ],
+    "correct_option": "A",
+    "explanation": "Mirasbırakanın vasiyet veya bağışlama ile yasal saklı payları (mahfuz hisse) zedelemesi durumunda, saklı paylı mirasçıların bu taşkın kazandırmaları kanuni sınıra kadar indirtmek için açtıkları davaya 'Tenkis Davası' denir."
+  },
+  {
+    "id": 4519,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Aile hukukunda velayet ve vesayet kurumları koruma amacı taşır. Anne ve babası olmayan (veya velayeti onlardan alınan) küçükler ile mahkemece kısıtlanan ergin bireyleri korumak ve temsil etmek amacıyla atanan yasal temsilciye ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Veli" },
+      { "label": "B", "text": "Kayyım" },
+      { "label": "C", "text": "Vasi" },
+      { "label": "D", "text": "Müşavir" },
+      { "label": "E", "text": "Yediemin" }
+    ],
+    "correct_option": "C",
+    "explanation": "Ergin olmayan veya kısıtlanmış kişileri yasal olarak temsil etmek ve mallarını yönetmek üzere sulh hukuk mahkemesi tarafından atanan kişiye 'Vasi' denir. (Veli ise kanun gereği anne ve babadır). Kayyım ise sürekli değil, belirli bir işi görmek (geçici) için atanır."
+  },
+  {
+    "id": 4520,
+    "examType": "KPSS",
+    "subject": "Vatandaşlık ve Anayasa / Güncel Bilgiler",
+    "topic": "Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)",
+    "question_text": "Medeni Kanun'a göre kişiliğin başlangıcı ve sonu belirli ilkelere tabidir. Kişilik yasal olarak hangi andan itibaren (ne zaman) başlar?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Anne rahmine düşüldüğü (cenin) andan itibaren başlar." },
+      { "label": "B", "text": "Tam ve sağ doğmak şartıyla çocuğun doğduğu andan itibaren başlar." },
+      { "label": "C", "text": "Nüfus kütüğüne kayıt işleminin yapıldığı andan itibaren başlar." },
+      { "label": "D", "text": "Çocuğun göbek bağının kesilmesiyle başlar." },
+      { "label": "E", "text": "Çocuğun 1 yaşını doldurmasıyla kesinlik kazanır." }
+    ],
+    "correct_option": "B",
+    "explanation": "Türk Medeni Kanunu'na göre kişilik (hak ehliyeti); 'çocuğun sağ olarak tamamen doğduğu (tam ve sağ doğum)' andan itibaren başlar. (Cenin ise sağ doğmak şartıyla ana rahmine düştüğü andan itibaren hak ehliyetine sahip olur ancak kişilik doğumla başlar)."
+  }

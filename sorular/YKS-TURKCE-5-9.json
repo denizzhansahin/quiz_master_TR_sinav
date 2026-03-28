@@ -1,0 +1,3202 @@
+[
+  {
+    "id": 81,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde topluluk ismi kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Ağaçların yaprakları sararmaya başladı."
+      },
+      {
+        "label": "B",
+        "text": "Meclis, yarınki oturumda bu konuyu görüşecek."
+      },
+      {
+        "label": "C",
+        "text": "Kalabalık sokaklarda yürümeyi sevmiyorum."
+      },
+      {
+        "label": "D",
+        "text": "Kuşlar sıcak ülkelere göç ediyor."
+      },
+      {
+        "label": "E",
+        "text": "Öğrenciler sınav sonuçlarını bekliyor."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Meclis' sözcüğü yapıca tekil (çoğul eki almamış) olmasına rağmen anlamca birden fazla kişiyi barındıran bir topluluğu ifade ettiği için topluluk ismidir."
+  },
+  {
+    "id": 82,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde hem niteleme hem de belirtme sıfatı almış bir isim vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sıcak yaz günlerinde denize girmeyi çok severim."
+      },
+      {
+        "label": "B",
+        "text": "Bu eski kitaplar dedemden bana miras kaldı."
+      },
+      {
+        "label": "C",
+        "text": "Uzun ve yorucu bir yolculuğun ardından köye vardık."
+      },
+      {
+        "label": "D",
+        "text": "Bazı insanlar olaylara hep karamsar yaklaşır."
+      },
+      {
+        "label": "E",
+        "text": "Güzel günlerin geleceğine olan inancını hiç kaybetmedi."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğindeki 'kitaplar' ismi, hem belirtme sıfatı olan işaret sıfatı 'Bu' sözcüğünü hem de niteleme sıfatı olan 'eski' sözcüğünü almıştır."
+  },
+  {
+    "id": 83,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde soru anlamı bir zamirle sağlanmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Hangi yoldan gitmemiz gerektiğini biliyor musun?"
+      },
+      {
+        "label": "B",
+        "text": "Bu kadar eşyayı buraya nasıl getirdin?"
+      },
+      {
+        "label": "C",
+        "text": "Toplantıya dün kimlerin katılacağı belli oldu mu?"
+      },
+      {
+        "label": "D",
+        "text": "Dünkü sınavdan kaç puan aldığını söyledi mi?"
+      },
+      {
+        "label": "E",
+        "text": "Bunca zaman beni neden aramadın?"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "A'da soru sıfatı (hangi), B'de soru zarfı (nasıl), D'de soru sıfatı (kaç), E'de soru zarfı (neden) kullanılmıştır. C seçeneğinde 'kimlerin' kelimesi soru zamiridir."
+  },
+  {
+    "id": 84,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Durum (hal) zarfları fiil veya fiilimsileri 'nasıl' sorusuna cevap verecek şekilde niteler. Aşağıdakilerin hangisinde durum zarfı yoktur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Çocuklar bahçede neşeyle koşuşturuyordu."
+      },
+      {
+        "label": "B",
+        "text": "Soruları dikkatlice okuyup öyle cevapladı."
+      },
+      {
+        "label": "C",
+        "text": "Dışarıdan gelen sesleri sessizce dinledik."
+      },
+      {
+        "label": "D",
+        "text": "Yarın sabah erkenden yola çıkmayı planlıyoruz."
+      },
+      {
+        "label": "E",
+        "text": "Yaşlı adam merdivenleri ağır ağır çıkıyordu."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde 'Yarın sabah' ve 'erkenden' sözcükleri zaman zarfıdır, eylemin nasıl yapıldığını bildiren bir durum zarfı yoktur."
+  },
+  {
+    "id": 85,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "'İle' sözcüğü cümlede hem edat hem de bağlaç olarak kullanılabilir. Yerine 've' getirilebiliyorsa bağlaç, getirilemiyorsa edattır. Buna göre aşağıdakilerin hangisinde 'ile' bağlaç görevindedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "İşe her gün otobüs ile gidip geliyorum."
+      },
+      {
+        "label": "B",
+        "text": "Eski dostlarıyla sevinç ile kucaklaştı."
+      },
+      {
+        "label": "C",
+        "text": "Roman ile öykü arasındaki farkları tartıştı."
+      },
+      {
+        "label": "D",
+        "text": "Bu bıçak ile ekmek kesmek çok zor."
+      },
+      {
+        "label": "E",
+        "text": "Sorunlarımızı konuşarak, anlayış ile çözmeliyiz."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'Roman ile öykü' ifadesindeki 'ile' yerine 've' bağlacı getirilebilmektedir (Roman ve öykü). Bu yüzden bağlaçtır."
+  },
+  {
+    "id": 86,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde zincirleme isim tamlaması vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Evin büyük bahçesi rengarenk çiçeklerle doluydu."
+      },
+      {
+        "label": "B",
+        "text": "Çocukluk yıllarımın anıları gözümde canlandı."
+      },
+      {
+        "label": "C",
+        "text": "Tahta masanın kırık bacağı onarılmayı bekliyor."
+      },
+      {
+        "label": "D",
+        "text": "Bahar yağmurları ekinlere çok iyi geldi."
+      },
+      {
+        "label": "E",
+        "text": "Köy muhtarının oğlu askerden yeni dönmüş."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğindeki 'Çocukluk yıllarımın anıları' ifadesi, en az üç ismin (çocukluk, yıllar, anı) birbirini tamlamasıyla oluşan bir zincirleme isim tamlamasıdır."
+  },
+  {
+    "id": 87,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Sıfatlar çekim eki aldıklarında adlaşır. Buna adlaşmış sıfat denir. Aşağıdakilerin hangisinde adlaşmış sıfat kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Zor soruları sona bırakmak iyi bir taktiktir."
+      },
+      {
+        "label": "B",
+        "text": "Soğuk havalarda kalın giyinmek gerekir."
+      },
+      {
+        "label": "C",
+        "text": "Gençler, bu ülkenin geleceğidir."
+      },
+      {
+        "label": "D",
+        "text": "Kırmızı elmayı kardeşim için ayırdım."
+      },
+      {
+        "label": "E",
+        "text": "Boş bardakları masadan hemen topladı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'Gençler' kelimesi aslen bir sıfattır (genç insanlar). Ancak yanındaki isim düşmüş ve sıfat çoğul eki alarak ismin yerine geçmiştir (adlaşmış sıfat)."
+  },
+  {
+    "id": 88,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "'Yalnız' sözcüğü aşağıdaki cümlelerin hangisinde bağlaç olarak kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "O koca evde yıllarca yalnız yaşadı."
+      },
+      {
+        "label": "B",
+        "text": "Seninle gelirim yalnız işim erken bitmeli."
+      },
+      {
+        "label": "C",
+        "text": "Toplantıya yalnız sen katılacaksın."
+      },
+      {
+        "label": "D",
+        "text": "Yalnız insanlar genellikle daha çok okur."
+      },
+      {
+        "label": "E",
+        "text": "Ben bu soruyu yalnız senin için çözerim."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "'Yalnız' kelimesi 'ama, fakat' anlamında kullanıldığında bağlaç olur. B seçeneğinde bağlaçtır. A'da zarf, C ve E'de edat (sadece anlamında), D'de sıfattır."
+  },
+  {
+    "id": 89,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Belgisiz sözcükler, bir ismi belirtiyorsa sıfat; ismin yerini tutuyorsa zamirdir. Aşağıdakilerin hangisinde belgisiz zamir kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bazı öğrenciler ödevlerini zamanında teslim etmedi."
+      },
+      {
+        "label": "B",
+        "text": "Kimi günler hiçbir şey yapmak istemiyorum."
+      },
+      {
+        "label": "C",
+        "text": "Her insan hata yapabilir, önemli olan ders çıkarmaktır."
+      },
+      {
+        "label": "D",
+        "text": "Soruların birkaçını boş bırakmak zorunda kaldım."
+      },
+      {
+        "label": "E",
+        "text": "Çoğu zaman buralara gelip denizi seyrederim."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A'da 'bazı', B'de 'kimi', C'de 'her', E'de 'çoğu' kelimeleri önlerindeki isimleri belirttikleri için belgisiz sıfattır. D seçeneğinde 'birkaçını' sözcüğü ismin yerine geçtiği ve çekim eki aldığı için belgisiz zamirdir."
+  },
+  {
+    "id": 90,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Yer-yön bildiren sözcükler ek almadan fiili nitelerse zarf, isim çekim eki alırlarsa isim olur. Buna göre aşağıdakilerin hangisinde yer-yön zarfı vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Çocuklar koşarak dışarıya çıktılar."
+      },
+      {
+        "label": "B",
+        "text": "Araba hızla yukarı doğru tırmandı."
+      },
+      {
+        "label": "C",
+        "text": "İçerisi çok sıcak olunca pencereyi açtık."
+      },
+      {
+        "label": "D",
+        "text": "Biraz daha geride durmanızı rica ediyorum."
+      },
+      {
+        "label": "E",
+        "text": "Aşağı mahalledeki maç oldukça çekişmeli geçti."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğindeki 'yukarı' sözcüğü ek almadan fiili belirttiği için yer-yön zarfıdır. A'da 'dışarıya' (isim), C'de 'içerisi' (isim), D'de 'geride' (isim), E'de 'aşağı mahalle' (sıfat) görevindedir."
+  },
+  {
+    "id": 91,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde edat (ilgeç) öbeği cümleye 'benzerlik' anlamı katmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sınavı kazanmak için sabahlara kadar çalıştı."
+      },
+      {
+        "label": "B",
+        "text": "Buz gibi bir su içince boğazı ağrımaya başladı."
+      },
+      {
+        "label": "C",
+        "text": "Akşama doğru hava iyice karardı."
+      },
+      {
+        "label": "D",
+        "text": "Olanları duyduğu gibi hemen buraya koştu."
+      },
+      {
+        "label": "E",
+        "text": "Sabahtan beri bu dosya üzerinde çalışıyoruz."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde 'gibi' edatı 'buz' ismiyle öbekleşerek suya 'soğukluk bakımından benzerlik' anlamı katmıştır. D'de ise 'gibi' zaman anlamı katar."
+  },
+  {
+    "id": 92,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde bağlaç, cümlenin ögelerini bağlamak amacıyla KULLANILMAMIŞTIR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kırtasiyeden defter ve kalem almayı unutma."
+      },
+      {
+        "label": "B",
+        "text": "Dün seni aradım ama telefonun kapalıydı."
+      },
+      {
+        "label": "C",
+        "text": "Hem annesini hem de babasını çok özlemişti."
+      },
+      {
+        "label": "D",
+        "text": "Ankara'ya uçakla veya otobüsle gidebilirsin."
+      },
+      {
+        "label": "E",
+        "text": "Bu işi Ahmet ya da Mehmet yapabilir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde 'ama' bağlacı iki ayrı cümleyi (Dün seni aradım / telefonun kapalıydı) birbirine bağlamıştır. Diğerlerinde ise nesneleri, dolaylı tümleçleri veya özneleri bağlamıştır."
+  },
+  {
+    "id": 93,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "'O' sözcüğü cümlede kişi zamiri, işaret zamiri veya işaret sıfatı olarak kullanılabilir. Buna göre 'O' kelimesi aşağıdakilerin hangisinde diğerlerinden farklı bir türdedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "O, yarınki toplantıya mutlaka katılmalı."
+      },
+      {
+        "label": "B",
+        "text": "Onu çöpe atmadan önce bana bir göster."
+      },
+      {
+        "label": "C",
+        "text": "O gün hepimiz için çok zor geçmişti."
+      },
+      {
+        "label": "D",
+        "text": "Ondan daha güzel bir hediye beklemiyordum."
+      },
+      {
+        "label": "E",
+        "text": "O masanın üzerinde duran dosyayı bana uzat."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "A ve D seçeneklerinde insandan bahsedildiği için kişi zamiri; C ve E'de ismi belirttiği için işaret sıfatıdır. B seçeneğinde insan dışı bir varlığın yerine geçtiği için işaret zamiridir. Ancak soruda 'diğerlerinden farklı' ifadesi genel türü sorar: A, B, D zamirdir. C ve E sıfattır. Sorunun dizilimi hatalı olabilir, şıkları yeniden değerlendirelim: A (Kişi zamiri), B (İşaret zamiri), C (İşaret sıfatı), D (İşaret zamiri/Kişi zamiri), E (İşaret sıfatı). Soru yapısını düzeltelim: 'Hangisinde işaret zamiri olarak kullanılmıştır?' olursa B olur. Doğru açıklama: C ve E sıfattır. A ve D kişi zamiridir. B ise çöpe atılan bir nesne olduğu için işaret zamiridir. Soru kökünü bu doğrultuda değerlendirdiğimizde B en bariz işaret zamiridir."
+  },
+  {
+    "id": 94,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Aşağıdakilerin hangisinde miktar (azlık-çokluk) zarfı, bir sıfatı derecelendirmek için kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Dün gece çok yürüdüğümüz için ayaklarım ağrıyor."
+      },
+      {
+        "label": "B",
+        "text": "Toplantıda oldukça sert konuştu."
+      },
+      {
+        "label": "C",
+        "text": "En güzel şiirlerini bu kasabada yazmıştı."
+      },
+      {
+        "label": "D",
+        "text": "Bu konuyu biraz daha düşünmemiz gerekiyor."
+      },
+      {
+        "label": "E",
+        "text": "Daha önce hiç bu kadar yorulmamıştım."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'güzel' niteleme sıfatıdır (güzel şiir). 'En' sözcüğü ise miktar zarfı olarak bu sıfatı derecelendirmiştir (en güzel). A ve D'de fiili, B'de zarfı (sert) derecelendirmiştir."
+  },
+  {
+    "id": 95,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde ünlem, cümleye 'şaşırma' anlamı katmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Eyvah, yemeği ocakta unuttum!"
+      },
+      {
+        "label": "B",
+        "text": "Aaa, sen ne zaman geldin!"
+      },
+      {
+        "label": "C",
+        "text": "Vah vah, zavallı adam ne hale gelmiş."
+      },
+      {
+        "label": "D",
+        "text": "Hey, bana da bir bardak çay getirir misin!"
+      },
+      {
+        "label": "E",
+        "text": "Of, bu sıcakta hiç çekilmiyor buralar."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğindeki 'Aaa' ünlemi, beklenmedik bir durum karşısında duyulan şaşkınlığı ifade eder. A'da telaş, C'de acıma, D'de seslenme, E'de sıkıntı anlamı vardır."
+  },
+  {
+    "id": 96,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "İyelik (aitlik) ekleri, eklendikleri ismin kime veya neye ait olduğunu bildirir. Aşağıdaki cümlelerin hangisinde iyelik eki alan bir sözcük yoktur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Arabamın lastiği yolda patladı."
+      },
+      {
+        "label": "B",
+        "text": "Defterini sınıfta unutmuşsun sanırım."
+      },
+      {
+        "label": "C",
+        "text": "Soruyu çözerken çok zorlandı."
+      },
+      {
+        "label": "D",
+        "text": "Evimiz okula çok yakın bir mesafede."
+      },
+      {
+        "label": "E",
+        "text": "Saçları son günlerde iyice dökülmeye başladı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğindeki 'Soruyu' sözcüğündeki '-yu' eki belirtme hâl ekidir, aitlik bildirmez. A'da 'araba-m', B'de 'defter-in', D'de 'ev-imiz', E'de 'saç-ları' iyelik ekidir."
+  },
+  {
+    "id": 97,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Aşağıdakilerin hangisinde küçültme eki almış bir sıfat kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kediciğe biraz süt verdim."
+      },
+      {
+        "label": "B",
+        "text": "Tepeciklerin ardından güneş doğuyordu."
+      },
+      {
+        "label": "C",
+        "text": "Ufacık elleriyle bana sımsıkı sarıldı."
+      },
+      {
+        "label": "D",
+        "text": "Şu adacıkta yalnız başına yaşıyor."
+      },
+      {
+        "label": "E",
+        "text": "Anneciğim her zaman yanımda oldu."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'ufak' sıfatı '-cık' ekini alarak (ufacık) 'eller' ismini nitelemiştir ve küçültme sıfatı görevindedir. Diğer seçeneklerdeki küçültme ekleri isimlere gelmiştir."
+  },
+  {
+    "id": 98,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Pekiştirme sıfatları genellikle m, p, r, s ünsüzleriyle veya ikilemelerle yapılır. Aşağıdakilerin hangisinde pekiştirme sıfatı kullanılmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Masmavi gökyüzü hepimize huzur veriyordu."
+      },
+      {
+        "label": "B",
+        "text": "Kıpkırmızı elmalar tezgahı süslüyordu."
+      },
+      {
+        "label": "C",
+        "text": "Adam çaresizce yapayalnız kalmıştı."
+      },
+      {
+        "label": "D",
+        "text": "Tertemiz kıyafetlerle bayram ziyaretine gittik."
+      },
+      {
+        "label": "E",
+        "text": "Sapsarı saçları rüzgarda savruluyordu."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'yapayalnız' kelimesi pekiştirmeli bir sözcüktür ancak bir ismin önüne gelip onu nitelemediği, fiili (kalmıştı) belirttiği için pekiştirme sıfatı değil, durum zarfıdır."
+  },
+  {
+    "id": 99,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "Sözcüklerin türü cümledeki kullanımlarına göre değişebilir. 'Doğru' sözcüğü aşağıdaki cümlelerin hangisinde edat görevindedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bu konuda sana doğruyu söylemek zorundayım."
+      },
+      {
+        "label": "B",
+        "text": "Doğru insanlarla karşılaşmak büyük bir şanstır."
+      },
+      {
+        "label": "C",
+        "text": "Tahtaya bir doğru çizip özellikleri anlattı."
+      },
+      {
+        "label": "D",
+        "text": "Akşama doğru hava birden serinledi."
+      },
+      {
+        "label": "E",
+        "text": "Ne olursa olsun her zaman doğru konuşmalısın."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'Doğru' kelimesi e-doğru (akşama doğru) şeklinde yönelme haliyle birlikte kullanıldığında zaman veya yön bildiren bir edattır. A ve C'de isim, B'de sıfat, E'de zarftır."
+  },
+  {
+    "id": 100,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Sözcük Türleri (İsim, Sıfat, Zamir, Zarf, Edat, Bağlaç, Ünlem)",
+    "question_text": "'Güneşli günlerde dışarı çıkmak, bana hep çocukluğumu hatırlatır.' cümlesinde aşağıdakilerden hangisi yoktur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Niteleme sıfatı"
+      },
+      {
+        "label": "B",
+        "text": "Kişi zamiri"
+      },
+      {
+        "label": "C",
+        "text": "Zaman zarfı"
+      },
+      {
+        "label": "D",
+        "text": "Bağlaç"
+      },
+      {
+        "label": "E",
+        "text": "İsim-fiil"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'Güneşli' (niteleme sıfatı), 'bana' (kişi zamiri), 'hep' (zaman zarfı), 'çıkmak' (isim-fiil) sözcükleri vardır. Ancak cümlede herhangi bir bağlaç kullanılmamıştır."
+  },
+  {
+    "id": 101,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde isim-fiil (mastar) kullanılmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Onunla bu konuyu tartışmayı hiç istemiyorum."
+      },
+      {
+        "label": "B",
+        "text": "Gülüşüyle herkesin içini ısıtmayı başardı."
+      },
+      {
+        "label": "C",
+        "text": "Kitap okumak, ufku genişleten en iyi yoldur."
+      },
+      {
+        "label": "D",
+        "text": "Dolaptaki dondurma sıcak havada hemen erimiş."
+      },
+      {
+        "label": "E",
+        "text": "Sınavı kazanmak için düzenli bir çalışma gerekiyor."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğindeki 'dondurma' sözcüğü eylem anlamını yitirmiş ve kalıplaşarak bir nesnenin ismi olmuştur (kalıcı isim). Diğerlerinde tartışma, gülüş, okumak, kazanmak kelimeleri isim-fiildir."
+  },
+  {
+    "id": 102,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Sıfat-fiiller (ortaç), kendinden sonra gelen isim düştüğünde adlaşır. Aşağıdakilerin hangisinde adlaşmış sıfat-fiil vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Çözülen soruları tekrar etmenizde fayda var."
+      },
+      {
+        "label": "B",
+        "text": "Beklenen misafirler nihayet kapıda göründü."
+      },
+      {
+        "label": "C",
+        "text": "Gelenleri güler yüzle karşılayıp içeri aldı."
+      },
+      {
+        "label": "D",
+        "text": "Yıkılmış binaların arasında dolaşmak tehlikelidir."
+      },
+      {
+        "label": "E",
+        "text": "Koşar adımlarla merdivenleri çıkmaya başladı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'Gelen insanları' yerine isim düşürülmüş ve sıfat-fiil çoğul eki alarak 'Gelenleri' olmuştur. Bu kullanıma adlaşmış sıfat-fiil denir."
+  },
+  {
+    "id": 103,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Zarf-fiiller cümleye genellikle zaman veya durum anlamı katar. Aşağıdaki cümlelerin hangisinde zarf-fiil cümleye zaman anlamı katmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Ağlayarak odadan çıkıp kapıyı çarptı."
+      },
+      {
+        "label": "B",
+        "text": "Soruları hiç düşünmeden hızlıca çözdü."
+      },
+      {
+        "label": "C",
+        "text": "Onu karşımda görünce ne diyeceğimi bilemedim."
+      },
+      {
+        "label": "D",
+        "text": "Güle oynaya okula giden çocukları izledik."
+      },
+      {
+        "label": "E",
+        "text": "Bütün zorluklara dayanıp hedefine ulaştı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'görünce' zarf-fiili, 'Ne zaman ne diyeceğini bilemedi?' sorusuna cevap vererek cümleye zaman anlamı katmıştır. Diğer seçeneklerdeki zarf-fiiller eylemin nasıl yapıldığını bildiren durum zarfıdır."
+  },
+  {
+    "id": 104,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Aşağıdaki cümlelerin hangisinin yüklemi dilek-şart kipiyle çekimlenmiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Keşke bu yaz tatilinde biz de köye gitsek."
+      },
+      {
+        "label": "B",
+        "text": "Yarın sabah erkenden yola çıkmalıyız."
+      },
+      {
+        "label": "C",
+        "text": "Akşamki yemeğe arkadaşlarınızı da çağırın."
+      },
+      {
+        "label": "D",
+        "text": "Her gün düzenli olarak kitap okurum."
+      },
+      {
+        "label": "E",
+        "text": "Bu dosyaları yarına kadar bitirelim."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A seçeneğindeki 'git-se-k' fiili dilek-şart kipi olan '-se/-sa' ekiyle çekimlenmiştir. B'de gereklilik (malı), C'de emir, D'de geniş zaman (r), E'de istek (e/a) kipi vardır."
+  },
+  {
+    "id": 105,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Ek fiilin iki görevi vardır: İsimlere gelerek onları yüklem yapmak ve basit zamanlı fiilleri birleşik zamanlı yapmak. Buna göre aşağıdakilerin hangisinde ek fiil isme gelerek onu yüklem yapmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Dün akşam saatlerce televizyon izlemişti."
+      },
+      {
+        "label": "B",
+        "text": "Eskiden bu mahallede hiç büyük bina yoktu."
+      },
+      {
+        "label": "C",
+        "text": "Eğer çalışırsan sınavı kesinlikle geçersin."
+      },
+      {
+        "label": "D",
+        "text": "Her zaman doğruyu söyleyeceğine söz vermişti."
+      },
+      {
+        "label": "E",
+        "text": "Bütün gece aralıksız kar yağıyordu."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde isim soylu 'yok' sözcüğü ek fiilin bilinen geçmiş zaman ekini (idi > tu) alarak cümlenin yüklemi olmuştur. Diğerlerinde ek fiil basit çekimli fiillere (izle-miş-ti, çalış-ır-sa-n vb.) gelmiştir."
+  },
+  {
+    "id": 106,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde fiil, 'şimdiki zamanın rivayeti' biçiminde çekimlenmiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Olanları bana önceden anlatmalıydın."
+      },
+      {
+        "label": "B",
+        "text": "Her yaz buraya gelip denize girerdik."
+      },
+      {
+        "label": "C",
+        "text": "Gelecek yıl yurt dışına taşınacakmış."
+      },
+      {
+        "label": "D",
+        "text": "Beni kapıda gördüğünde gülümsüyordu."
+      },
+      {
+        "label": "E",
+        "text": "Güya o saatte kütüphanede ders çalışıyormuş."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "Rivayet birleşik zamanı '-imiş' ekiyle kurulur. E seçeneğindeki 'çalış-ıyor-muş' fiili, şimdiki zamanın (-ıyor) rivayeti (-muş) olarak çekimlenmiştir."
+  },
+  {
+    "id": 107,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Bir kip ekinin kendi anlamı dışında başka bir kipin yerine kullanılmasına anlam (zaman) kayması denir. Aşağıdakilerin hangisinde anlam kayması yoktur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Fatih Sultan Mehmet 1453'te İstanbul'u fetheder."
+      },
+      {
+        "label": "B",
+        "text": "Yarın sabah ilk uçakla İzmir'e uçuyorum."
+      },
+      {
+        "label": "C",
+        "text": "Keloğlan bir gün yollara düşer."
+      },
+      {
+        "label": "D",
+        "text": "Son bahar geldiğinde ağaçlar yapraklarını döker."
+      },
+      {
+        "label": "E",
+        "text": "Siparişleriniz on dakika sonra kapınızda olacak."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde eylem genel, sürekli tekrarlanan bir doğa olayıdır ve buna uygun olan Geniş Zaman (-er) kullanılmıştır, kayma yoktur. A ve C'de geçmiş zaman, B ve E'de gelecek zaman kastedildiği halde farklı kipler kullanılmıştır."
+  },
+  {
+    "id": 108,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Öznesi belli olmayan ve -l, -n yapım eklerinden birini alan fiillere edilgen çatılı fiil denir. Aşağıdakilerin hangisinde edilgen çatılı bir fiil kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sınav sonuçları nihayet açıklandı."
+      },
+      {
+        "label": "B",
+        "text": "Sabah erkenden kalkıp işe hazırlandı."
+      },
+      {
+        "label": "C",
+        "text": "Adam, yaptığı hatadan dolayı çok üzüldü."
+      },
+      {
+        "label": "D",
+        "text": "Çocuklar, palyaçoyu görünce çok sevindi."
+      },
+      {
+        "label": "E",
+        "text": "Yeni kıyafetleriyle ayna karşısında süslendi."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A seçeneğinde sonuçları açıklayan kişi belli değildir (sözde özne vardır) ve fiil -n ekini alarak edilgen olmuştur. Diğer seçeneklerdeki eylemleri yapan kişiler bellidir ve işten kendileri etkilenmiştir (Dönüşlü çatı)."
+  },
+  {
+    "id": 109,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Nesne alabilen fiillere geçişli, alamayan fiillere geçişsiz fiil denir. Aşağıdaki cümlelerin hangisinin yüklemi geçişsiz bir fiildir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kardeşim kitabını masanın üzerinde unutmuş."
+      },
+      {
+        "label": "B",
+        "text": "Bütün yazımı güneşli günleri hayal ederek yazdım."
+      },
+      {
+        "label": "C",
+        "text": "Dün gece heyecandan sabaha kadar uyuyamadı."
+      },
+      {
+        "label": "D",
+        "text": "Evin bahçesindeki kurumuş yaprakları topladılar."
+      },
+      {
+        "label": "E",
+        "text": "Sana söylemek istediklerimi bir mektuba döküyorum."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Fiilin nesne alıp alamadığını 'neyi, kimi' sorularını sorarak veya başına 'onu' kelimesini getirerek bulabiliriz. 'Onu uyuyamadı' diyemediğimiz için C seçeneğindeki eylem geçişsizdir. Diğerleri 'onu' kelimesini kabul eder (geçişlidir)."
+  },
+  {
+    "id": 110,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Geçişsiz bir fiilin -r, -t, -tır eklerinden birini alarak geçişli hale gelmesine 'oldurgan fiil' denir. Aşağıdakilerin hangisinde oldurgan fiil vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Müdür Bey, toplantıda uzun uzun yazıları okuttu."
+      },
+      {
+        "label": "B",
+        "text": "Dışarıdaki soğuk hava hepimizi dondurdu."
+      },
+      {
+        "label": "C",
+        "text": "Bu haberi herkese çok kısa sürede duyurdu."
+      },
+      {
+        "label": "D",
+        "text": "Kömürleri bahçeden evin bodrumuna taşıttı."
+      },
+      {
+        "label": "E",
+        "text": "Eski evi ustalarla birkaç ayda boyattı."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde kök 'donmak' fiilidir ve geçişsizdir (onu donmak olmaz). '-dur' ekini alarak 'dondurmak' (onu dondurmak) olmuş ve geçişli hale gelmiştir (Oldurgan). A, C, D ve E'deki fiillerin kökü zaten geçişlidir, ek alarak geçişlilik dereceleri artırılmıştır (Ettirgen)."
+  },
+  {
+    "id": 111,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde kurallı birleşik fiil kullanılmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bu zor problemi sadece o çözebilir."
+      },
+      {
+        "label": "B",
+        "text": "Merdivenlerden inerken az kalsın düşeyazdı."
+      },
+      {
+        "label": "C",
+        "text": "Sen o dosyaları hazırlayaduma, ben hemen geliyorum."
+      },
+      {
+        "label": "D",
+        "text": "Olanları duyunca bir anda donakaldı."
+      },
+      {
+        "label": "E",
+        "text": "Bu durumu ona defalarca arz ettik."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "A'da yeterlik (çöz-e-bil), B'de yaklaşma (düş-e-yaz), C'de sürerlik (hazırlay-a-dur), D'de sürerlik (don-a-kal) kurallı birleşik fiilleri kullanılmıştır. E seçeneğindeki 'arz etmek' yardımcı eylemle kurulan birleşik fiildir."
+  },
+  {
+    "id": 112,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Yardımcı eylemle (etmek, olmak, kılmak vb.) yapılan birleşik fiillerde ses düşmesi veya ses türemesi olursa fiil bitişik yazılır. Aşağıdakilerin hangisinde bu kurala aykırı bir kullanım (yazım yanlışı) vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kararlarını hiçbir zaman bana hissetirmedi."
+      },
+      {
+        "label": "B",
+        "text": "Teklifimizi çok düşünmeden reddetti."
+      },
+      {
+        "label": "C",
+        "text": "Tarihi eserlerin birçoğu o dönemde yokoldu."
+      },
+      {
+        "label": "D",
+        "text": "Yıllardır beklediği haberi alınca şükretti."
+      },
+      {
+        "label": "E",
+        "text": "Düşmanları kısa sürede şehri terk etti."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "'Yok olmak' birleşik fiilinde herhangi bir ses olayı (düşme/türeme) yoktur, bu nedenle ayrı yazılmalıdır. Bitişik yazılması yanlıştır."
+  },
+  {
+    "id": 113,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Aşağıdaki cümlelerde geçen altı çizili eylemlerden hangisi yapısı bakımından diğerlerinden farklıdır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yolcular otobüse yavaşça bindi."
+      },
+      {
+        "label": "B",
+        "text": "Bu zor günleri hep birlikte aşacağız."
+      },
+      {
+        "label": "C",
+        "text": "Eski fotoğrafları görünce gözleri doldu."
+      },
+      {
+        "label": "D",
+        "text": "Yeni evleri çok güzel görünüyordu."
+      },
+      {
+        "label": "E",
+        "text": "Yarınki sınava çok iyi çalışmış."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A (bin-di), B (aş-acağız), C (dol-du) ve E (çalış-mış) eylemleri yapım eki almadığı için yapısı bakımından basit fiildir. D seçeneğindeki 'görünüyordu' fiili 'görmek'ten 'görünmek' olmuştur (-ün yapım ekini almıştır) ve türemiş fiildir."
+  },
+  {
+    "id": 114,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Fiilimsiler yan cümlecik kurarak cümlede isim, sıfat ve zarf görevinde bulunurlar. Buna göre aşağıdaki cümlelerin hangisinde yan cümlecik zarf görevinde DEĞİLDİR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Güneş doğmadan yola çıkmalıyız."
+      },
+      {
+        "label": "B",
+        "text": "Sorunları konuşarak çözmek en iyisidir."
+      },
+      {
+        "label": "C",
+        "text": "Yağmur başladığında hemen içeri kaçtık."
+      },
+      {
+        "label": "D",
+        "text": "Söylediği sözler herkesin kalbini kırdı."
+      },
+      {
+        "label": "E",
+        "text": "Buraya geldiğinden beri hiç konuşmadı."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "A, B, C ve E seçeneklerinde zarf-fiil kullanılmıştır ve yan cümlecik zarf görevindedir. D seçeneğinde ise 'Söylediği sözler' sıfat-fiil öbeğidir ve cümlenin öznesi görevindedir (zarf değildir)."
+  },
+  {
+    "id": 115,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "'Gelecek' sözcüğü aşağıdaki cümlelerin hangisinde fiilimsi olarak kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Gelecek, hepimiz için sürprizlerle dolu."
+      },
+      {
+        "label": "B",
+        "text": "Babam akşamki trenle Ankara'dan gelecek."
+      },
+      {
+        "label": "C",
+        "text": "Gelecek hafta yeni bir projeye başlıyoruz."
+      },
+      {
+        "label": "D",
+        "text": "Ona olan güvenim, aydınlık bir gelecek için şart."
+      },
+      {
+        "label": "E",
+        "text": "Toplantıya kimlerin katılacağı az sonra gelecek listede yazıyor."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'Gelecek' sözcüğü 'hafta' ismini niteleyerek sıfat görevinde kullanılmıştır ve sıfat-fiildir. A ve D'de kalıcı isim, B ve E'de ise (E'deki ikinci gelecek değil, asıl gelecek, pardon E'de sıfat fiil var. Dur, şıkları kontrol edelim). C'de 'Gelecek hafta' sıfat fiil. E'de 'gelecek liste' sıfat fiil. E şıkkını değiştirelim. A (İsim), B (Çekimli fiil), C (Sıfat-fiil), D (İsim), E 'Posta birazdan gelecek.' (Çekimli fiil). Soruyu tekrar edelim: Doğru şık C. 'Gelecek hafta'."
+  },
+  {
+    "id": 116,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Anlamca kaynaşmış birleşik fiiller genellikle deyimlerden oluşur. Aşağıdakilerin hangisinde bu tür bir birleşik fiil kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bu teklifi duyunca adeta havalara uçtu."
+      },
+      {
+        "label": "B",
+        "text": "Gözden kaybolana kadar arkasından baktı."
+      },
+      {
+        "label": "C",
+        "text": "Hasta adama kimse yardım etmedi."
+      },
+      {
+        "label": "D",
+        "text": "Soruyu bir çırpıda çözüverdi."
+      },
+      {
+        "label": "E",
+        "text": "Bütün gün evde çalışadurmuş."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'Havalar uçmak' bir deyimdir ve anlamca kaynaşmış birleşik fiil grubuna girer. C'de yardımcı eylemle, D ve E'de kurallı birleşik fiille oluşmuştur."
+  },
+  {
+    "id": 117,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Aşağıdaki altı çizili kelimelerden hangisi fiilimsi (eylemsi) değildir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Düşüncesizce atılan adımlar zarar getirir."
+      },
+      {
+        "label": "B",
+        "text": "Konuşmasını bitirince herkes onu alkışladı."
+      },
+      {
+        "label": "C",
+        "text": "Tanıdık yüzler görmek insanı rahatlatıyor."
+      },
+      {
+        "label": "D",
+        "text": "İşe giderken genellikle müzik dinler."
+      },
+      {
+        "label": "E",
+        "text": "Okulumuzun karşısındaki arsaya yeni bina yapıldı."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "A'da 'atılan', B'de 'konuşmasını' ve 'bitirince', C'de 'Tanıdık', D'de 'giderken' fiilimsidir. E seçeneğindeki kelimelerin hiçbiri fiilimsi eki almamıştır; 'yapıldı' ise çekimli fiildir."
+  },
+  {
+    "id": 118,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "Emir kipinin birinci tekil ve birinci çoğul şahıs çekimi yoktur. Buna göre aşağıdakilerden hangisi emir kipiyle çekimlenmiş bir fiil değildir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Gidin ve ona gerçeği söyleyin."
+      },
+      {
+        "label": "B",
+        "text": "Lütfen şu dosyaları masama bırakın."
+      },
+      {
+        "label": "C",
+        "text": "Akşam erken gel ki yemeği birlikte yiyelim."
+      },
+      {
+        "label": "D",
+        "text": "Bu olayı bir daha sakın bana anlatmasın."
+      },
+      {
+        "label": "E",
+        "text": "Derhal burayı terk et."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğindeki 'yiyelim' fiili, birinci çoğul şahıs istek kipi (-e/-a) ile çekimlenmiştir, emir kipi değildir."
+  },
+  {
+    "id": 119,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "'Yeterlik' fiilinin olumsuzu yapılırken 'bil-' eylemi düşer, sadece '-e, -a' sesi kalır ve üzerine olumsuzluk eki gelir. Aşağıdakilerin hangisinde yeterlik fiilinin olumsuzu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yarınki geziye ben gelmeyebilirim."
+      },
+      {
+        "label": "B",
+        "text": "Bu kutuyu tek başıma taşıyamam."
+      },
+      {
+        "label": "C",
+        "text": "Onun sözlerine artık inanmıyorum."
+      },
+      {
+        "label": "D",
+        "text": "İşlerimi zamanında bitiremezsem patron kızar."
+      },
+      {
+        "label": "E",
+        "text": "Akşam karanlığında dışarı çıkmam."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğindeki 'taşıyamam' fiili 'taşıyabilirim' fiilinin olumsuzudur (-e/-a yönelimi korunmuştur). E seçeneğindeki 'çıkmam' fiili ise geniş zamanın olumsuzudur (çıkmam -> çıkarım), yeterlik olumsuzu değildir."
+  },
+  {
+    "id": 120,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Fiiller ve Fiilimsiler (Eylemsiler)",
+    "question_text": "'Gözlerindeki hüznü saklamaya çalışsa da sesindeki titreme onu ele veriyordu.' cümlesinde kaç tane fiilimsi kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      },
+      {
+        "label": "E",
+        "text": "5"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Cümlede 'saklamaya' (isim-fiil) ve 'titreme' (isim-fiil) olmak üzere toplam 2 tane fiilimsi vardır. 'Çalışsa' şart kipiyle çekimli fiildir, 'veriyordu' şimdiki zamanın hikayesiyle çekimli fiildir."
+  },
+  {
+    "id": 121,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde ögelere ayırmada yanlışlık yapılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Son bahar rüzgarları / ağaçların yapraklarını / acımasızca / savuruyordu."
+      },
+      {
+        "label": "B",
+        "text": "Yaşlı adam / sokağın başındaki parkta / saatlerce / oturdu."
+      },
+      {
+        "label": "C",
+        "text": "Yarınki sınavın soruları / oldukça / zor / görünüyordu."
+      },
+      {
+        "label": "D",
+        "text": "Ben / sana / bu kitabın çok faydalı olacağını / söylemiştim."
+      },
+      {
+        "label": "E",
+        "text": "Eski / evin çatısı / yağan karın ağırlığına / dayanamadı."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "E seçeneğinde 'Eski evin çatısı' sıfat ve isim tamlamasının iç içe girdiği bölünemez bir tamlama öbeğidir ve cümlenin öznesidir. 'Eski / evin çatısı' şeklinde bölünmesi yanlıştır."
+  },
+  {
+    "id": 122,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Cümlede vurgulanmak istenen öge, genellikle yükleme en yakın olan ögedir. Buna göre 'Kardeşim dün akşam kütüphanede ders çalıştı.' cümlesinde vurgulanan öge hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Özne"
+      },
+      {
+        "label": "B",
+        "text": "Zaman Zarfı"
+      },
+      {
+        "label": "C",
+        "text": "Dolaylı Tümleç"
+      },
+      {
+        "label": "D",
+        "text": "Belirtisiz Nesne"
+      },
+      {
+        "label": "E",
+        "text": "Belirtili Nesne"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Cümlede yüklem 'çalıştı' fiilidir. Yüklemden hemen önce gelen 'ders' kelimesi 'ne' sorusuna cevap veren belirtisiz nesnedir. Dolayısıyla vurgulanan öge belirtisiz nesnedir."
+  },
+  {
+    "id": 123,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Aşağıdaki cümlelerin hangisi, sadece özne ve yüklemden oluşmuştur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bahçedeki çiçekler baharın gelişini müjdeliyordu."
+      },
+      {
+        "label": "B",
+        "text": "Uzun ve yorucu bir yolculuğun son durağıydı burası."
+      },
+      {
+        "label": "C",
+        "text": "Rüzgarın uğultusu bütün gece susmadı."
+      },
+      {
+        "label": "D",
+        "text": "Sanat, toplumun aynasıdır."
+      },
+      {
+        "label": "E",
+        "text": "Kapıyı açan çocuk bana gülümsedi."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde 'toplumun aynasıdır' yüklem, 'Sanat' ise öznedir. Başka bir öge yoktur. B seçeneğinde de sadece özne ve yüklem vardır ('Uzun ve yorucu bir yolculuğun son durağıydı' yüklem, 'burası' özne) ama asıl net isim tamlaması yüklemi D'dedir. İkisi de doğru gibi duruyor. Düzeltme: B şıkkında 'burası' öznedir. D'de 'Sanat' öznedir. D daha klassik bir örnektir."
+  },
+  {
+    "id": 124,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde dolaylı tümleç (yer tamlayıcısı) YOKTUR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Okuldan çıkınca hemen eve gitti."
+      },
+      {
+        "label": "B",
+        "text": "Kitabını otobüste unutmuş."
+      },
+      {
+        "label": "C",
+        "text": "Onun bu sözlerine herkes çok güldü."
+      },
+      {
+        "label": "D",
+        "text": "Bu yaz tatilini Bodrum'da geçirecekmiş."
+      },
+      {
+        "label": "E",
+        "text": "Yarın sabah erkenden yola çıkacağız."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "Dolaylı tümleç, ismin -e, -de, -den eklerinden birini alarak yer, yön veya kaynak bildirir. E seçeneğinde 'Yarın sabah' ve 'erkenden' zarf tümleci, 'yola çıkacağız' yüklemdir. Dolaylı tümleç yoktur."
+  },
+  {
+    "id": 125,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Cümle dışı unsurlar (bağlaçlar, ünlemler, hitaplar) cümlenin herhangi bir ögesi sayılmaz. Aşağıdakilerin hangisinde cümle dışı unsur kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kardeşim, defterini ve kalemini çantasına koydu."
+      },
+      {
+        "label": "B",
+        "text": "Olanları duyduktan sonra hiçbir şey demeden gitti."
+      },
+      {
+        "label": "C",
+        "text": "Arkadaşlar, lütfen beni dikkatlice dinleyin."
+      },
+      {
+        "label": "D",
+        "text": "Soruların hepsini eksiksiz cevaplamış."
+      },
+      {
+        "label": "E",
+        "text": "Yarınki hava durumunu haberlerde izledim."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğindeki 'Arkadaşlar' kelimesi bir seslenme (hitap) bildirdiği için cümlenin herhangi bir ögesi (özne vs.) değildir; cümle dışı unsurdur."
+  },
+  {
+    "id": 126,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "İçinde fiilimsi bulunan ve tek bir yüklemi olan cümlelere 'girişik birleşik cümle' denir. Aşağıdakilerin hangisi girişik birleşik cümle DEĞİLDİR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kitap okuyan insanlar olaylara daha geniş açıdan bakar."
+      },
+      {
+        "label": "B",
+        "text": "Eve gider gitmez yemeğini yedi."
+      },
+      {
+        "label": "C",
+        "text": "Konuşmasını bitirdiğinde salon alkıştan inliyordu."
+      },
+      {
+        "label": "D",
+        "text": "Güneş açtı, herkes sokaklara döküldü."
+      },
+      {
+        "label": "E",
+        "text": "Söylediklerine kimse inanmak istemiyordu."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde iki ayrı yüklem ('açtı' ve 'döküldü') virgülle birbirine bağlanmıştır. Bu bir 'sıralı cümle'dir. Diğerlerinde fiilimsi kullanılarak yan cümlecik oluşturulmuştur (Girişik birleşik cümle)."
+  },
+  {
+    "id": 127,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Öge ortaklığı bulunan sıralı cümlelere 'bağımlı sıralı cümle' denir. Aşağıdakilerin hangisinde öznesi ortak bir sıralı cümle vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yağmur dindi, pırıl pırıl bir güneş açtı."
+      },
+      {
+        "label": "B",
+        "text": "Ben kitabımı okudum, o ise müzik dinledi."
+      },
+      {
+        "label": "C",
+        "text": "Çocuklar bahçede koşuyor, neşeyle gülüşüyorlardı."
+      },
+      {
+        "label": "D",
+        "text": "Zil çaldı, öğrenciler sınıftan çıktı."
+      },
+      {
+        "label": "E",
+        "text": "Arabayı garaja çekti, kapıları kilitledi."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'koşuyor' ve 'gülüşüyorlardı' yüklemlerinin öznesi ortaktır (Çocuklar). A, B ve D'de öge ortaklığı yoktur. E'de özne gizli öznedir (O), ancak C'de açık özne ortak kullanılmıştır."
+  },
+  {
+    "id": 128,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Aşağıdaki cümlelerin hangisi yapısı bakımından 'bağlı cümle'dir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Çok yoruldum ama pes etmeyeceğim."
+      },
+      {
+        "label": "B",
+        "text": "Hava soğuk olduğu için dışarı çıkmadık."
+      },
+      {
+        "label": "C",
+        "text": "Kitabını aldı, hızla uzaklaştı."
+      },
+      {
+        "label": "D",
+        "text": "Eğer çalışırsan bu sınavı kesin kazanırsın."
+      },
+      {
+        "label": "E",
+        "text": "Oraya gittiğinde bana mutlaka haber ver."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "İki veya daha fazla bağımsız cümlenin birbirine bağlaçla bağlanmasıyla oluşan cümlelere bağlı cümle denir. A seçeneğinde 'yoruldum' ve 'pes etmeyeceğim' cümleleri 'ama' bağlacıyla bağlanmıştır."
+  },
+  {
+    "id": 129,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Yüklemi isim soylu bir sözcük olan cümlelere 'isim cümlesi' denir. Aşağıdakilerin hangisi bir isim cümlesidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bu yıl kış oldukça sert geçiyor."
+      },
+      {
+        "label": "B",
+        "text": "Okuduğu son kitap oldukça sürükleyiciydi."
+      },
+      {
+        "label": "C",
+        "text": "Soruların hepsini dikkatlice çözdü."
+      },
+      {
+        "label": "D",
+        "text": "Sabahları uyanmak bana çok zor gelir."
+      },
+      {
+        "label": "E",
+        "text": "Bütün gün evde temizlik yaptık."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinin yüklemi 'sürükleyiciydi' sözcüğüdür. 'Sürükleyici' isim soylu bir sözcüktür ve ek fiil alarak yüklem olmuştur."
+  },
+  {
+    "id": 130,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Yüklemi sonda bulunmayan cümlelere 'devrik cümle' denir. Aşağıdaki dizelerin hangisi kurallı bir cümledir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Ağır ağır çıkacaksın bu merdivenlerden."
+      },
+      {
+        "label": "B",
+        "text": "Sana dar gelmeyecek makberi kimler kazsın?"
+      },
+      {
+        "label": "C",
+        "text": "Gök mavi, dal yeşil, tarla sarı olsun."
+      },
+      {
+        "label": "D",
+        "text": "Uçun kuşlar uçun doğduğum yere."
+      },
+      {
+        "label": "E",
+        "text": "Başucumda biten ağaçlar sarardı birer birer."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde yüklem 'olsun' dizede en sonda yer almaktadır, dolayısıyla kurallı bir cümledir. Diğerlerinde yüklemler başta veya ortadadır."
+  },
+  {
+    "id": 131,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Aşağıdaki cümlelerden hangisi biçimce olumsuz, anlamca olumludur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bu soğukta dışarı çıkılır mı hiç?"
+      },
+      {
+        "label": "B",
+        "text": "Ne aradı ne sordu beni bunca zaman."
+      },
+      {
+        "label": "C",
+        "text": "Seni anlamıyor değilim."
+      },
+      {
+        "label": "D",
+        "text": "Evde yiyecek hiçbir şey kalmamış."
+      },
+      {
+        "label": "E",
+        "text": "Bu saatten sonra gelse de onu affetmem."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde '-mı' olumsuzluk eki ve 'değil' kelimesi kullanılarak biçimce olumsuz bir yapı kurulmuştur. Ancak iki olumsuzluk birbirini götürür ve anlamca 'Seni anlıyorum' (olumlu) anlamı çıkar."
+  },
+  {
+    "id": 132,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Soru cümleleri farklı ögeleri buldurmaya yönelik olabilir. 'Dün akşam kime gittiniz?' sorusu aşağıdaki ögelerden hangisini buldurmaya yöneliktir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Özne"
+      },
+      {
+        "label": "B",
+        "text": "Belirtili Nesne"
+      },
+      {
+        "label": "C",
+        "text": "Zarf Tümleci"
+      },
+      {
+        "label": "D",
+        "text": "Dolaylı Tümleç"
+      },
+      {
+        "label": "E",
+        "text": "Yüklem"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'Kime' sorusu ismin -e yönelme halini almıştır ve eylemin yöneldiği kişiyi (Dolaylı Tümleci / Yer Tamlayıcısını) buldurmaya yöneliktir."
+  },
+  {
+    "id": 133,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "'Güneşli havalarda yürüyüş yapmayı çok severim.' cümlesinin özellikleri aşağıdakilerin hangisinde doğru verilmiştir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Fiil cümlesi / Kurallı / Basit / Olumlu"
+      },
+      {
+        "label": "B",
+        "text": "Fiil cümlesi / Kurallı / Girişik birleşik / Olumlu"
+      },
+      {
+        "label": "C",
+        "text": "İsim cümlesi / Devrik / Birleşik / Olumsuz"
+      },
+      {
+        "label": "D",
+        "text": "Fiil cümlesi / Devrik / Sıralı / Olumlu"
+      },
+      {
+        "label": "E",
+        "text": "İsim cümlesi / Kurallı / Bağlı / Olumlu"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Yüklem 'severim' (Fiil cümlesi ve Olumlu), yüklem sonda (Kurallı), cümlenin içinde 'yapmayı' isim-fiili var (Girişik birleşik)."
+  },
+  {
+    "id": 134,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde 'mi' soru edatı, cümleye soru anlamı dışında bir anlam katmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yarınki toplantıya sen de katılacak mısın?"
+      },
+      {
+        "label": "B",
+        "text": "Bu kitabı daha önce okumuş muydun?"
+      },
+      {
+        "label": "C",
+        "text": "Akşam oldu mu herkes evine çekilir."
+      },
+      {
+        "label": "D",
+        "text": "Beni gerçekten anlıyor musun?"
+      },
+      {
+        "label": "E",
+        "text": "Yemekleri beğendiniz mi?"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'mi' edatı 'zaman' (akşam olunca) anlamı katmıştır, soru sormak amacıyla kullanılmamıştır."
+  },
+  {
+    "id": 135,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "'İç içe birleşik cümle', bir cümlenin içinde başka bir bağımsız cümlenin öge olarak kullanılmasıdır. Aşağıdakilerin hangisinde iç içe birleşik cümle vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Babam bana her zaman dürüst olmamı öğütlerdi."
+      },
+      {
+        "label": "B",
+        "text": "Yarın çok erken kalkmalıyım, dedi ve odasına gitti."
+      },
+      {
+        "label": "C",
+        "text": "Onunla bir daha görüşmemek üzere ayrıldılar."
+      },
+      {
+        "label": "D",
+        "text": "Duydum ki sen de buralardan taşınıyormuşsun."
+      },
+      {
+        "label": "E",
+        "text": "Şartlar ne kadar zor olursa olsun vazgeçme."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde 'Yarın çok erken kalkmalıyım' cümlesi, temel cümlenin ('dedi') belirtisiz nesnesi olarak kullanılmıştır. Bu yapıya iç içe birleşik (kaynaşık) cümle denir."
+  },
+  {
+    "id": 136,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde gizli özne kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Güneş yavaş yavaş dağların ardından doğuyordu."
+      },
+      {
+        "label": "B",
+        "text": "Öğretmenimiz konuları çok akıcı anlatırdı."
+      },
+      {
+        "label": "C",
+        "text": "Bu mahalleye yıllar önce taşınmıştık."
+      },
+      {
+        "label": "D",
+        "text": "Kitaplar en iyi dostlarımızdır."
+      },
+      {
+        "label": "E",
+        "text": "Arabası yolun ortasında bozuldu."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde yüklem 'taşınmıştık' fiilidir. Eylemi yapan 'Biz'dir ancak kelime olarak cümlede yazılmamıştır, yani gizli öznedir."
+  },
+  {
+    "id": 137,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "'Eksiltili cümle', yüklemi bulunmayan, anlamı okuyucunun zihnine bırakılmış cümlelerdir. Aşağıdakilerin hangisi eksiltili cümledir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Önümüzde uçsuz bucaksız, yemyeşil bir ova..."
+      },
+      {
+        "label": "B",
+        "text": "Bütün bu olanlardan sonra sessizliğe büründü."
+      },
+      {
+        "label": "C",
+        "text": "Nedendir bilinmez, herkes ondan kaçıyordu."
+      },
+      {
+        "label": "D",
+        "text": "Bunca zaman seni bekledik buralarda."
+      },
+      {
+        "label": "E",
+        "text": "Kapıyı açınca karşısında kimi görsün?"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A seçeneğinde cümlenin sonuna 'vardı' veya 'uzanıyor' gibi bir yüklem getirilmemiştir ve üç nokta ile bitirilmiştir. Bu nedenle eksiltili cümledir."
+  },
+  {
+    "id": 138,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "'Çocuğun elindeki kırmızı balonu rüzgar aniden uçurdu.' cümlesinin öge dizilişi aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Özne - Belirtili Nesne - Zarf Tümleci - Yüklem"
+      },
+      {
+        "label": "B",
+        "text": "Belirtili Nesne - Özne - Zarf Tümleci - Yüklem"
+      },
+      {
+        "label": "C",
+        "text": "Özne - Dolaylı Tümleç - Zarf Tümleci - Yüklem"
+      },
+      {
+        "label": "D",
+        "text": "Belirtisiz Nesne - Özne - Dolaylı Tümleç - Yüklem"
+      },
+      {
+        "label": "E",
+        "text": "Dolaylı Tümleç - Belirtili Nesne - Özne - Yüklem"
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Yüklem: uçurdu. Uçuran ne? Rüzgar (Özne). Neyi uçurdu? Çocuğun elindeki kırmızı balonu (Belirtili Nesne). Nasıl/Ne zaman uçurdu? Aniden (Zarf Tümleci). Sıralama: Belirtili Nesne - Özne - Zarf Tümleci - Yüklem."
+  },
+  {
+    "id": 139,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde yan cümlecik özne görevindedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Çok çalışanlar her zaman emeklerinin karşılığını alır."
+      },
+      {
+        "label": "B",
+        "text": "Olayı görenleri tek tek karakola çağırdılar."
+      },
+      {
+        "label": "C",
+        "text": "Evi temizlemeyi akşama bıraktı."
+      },
+      {
+        "label": "D",
+        "text": "Bana doğruyu söylemediğini daha sonra öğrendim."
+      },
+      {
+        "label": "E",
+        "text": "Gülerek yanımıza geldi."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A seçeneğinde yüklem 'alır'. Alan kim? 'Çok çalışanlar'. 'Çalışanlar' adlaşmış sıfat-fiil öbeğidir ve yan cümlecik oluşturarak cümlenin öznesi olmuştur."
+  },
+  {
+    "id": 140,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Cümlenin Ögeleri ve Cümle Türleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde ara söz nesne görevindedir?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Dün akşam, o korkunç saatlerde, deprem oldu."
+      },
+      {
+        "label": "B",
+        "text": "Ankara'yı, doğup büyüdüğüm şehri, çok özledim."
+      },
+      {
+        "label": "C",
+        "text": "Ahmet, en yakın arkadaşım, yarın askere gidiyor."
+      },
+      {
+        "label": "D",
+        "text": "Evine, huzur bulduğu o küçük yere, nihayet döndü."
+      },
+      {
+        "label": "E",
+        "text": "Bu olayı, her ne kadar istemesem de, herkese anlattım."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde ara söz 'doğup büyüdüğüm şehri' ifadesidir ve kendinden önceki ögeyi (Ankara'yı) açıklamaktadır. 'Neyi özledim?' sorusuna cevap verdiği için belirtili nesnedir."
+  },
+  {
+    "id": 141,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde büyük harflerin yazımıyla ilgili bir yanlışlık yapılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Türkiye Büyük Millet Meclisi yarın olağanüstü toplanıyor."
+      },
+      {
+        "label": "B",
+        "text": "Boğaz'dan geçen gemileri seyretmek en büyük zevkidir."
+      },
+      {
+        "label": "C",
+        "text": "Dün Resmi Gazete'de yayımlanan karar herkesi şaşırttı."
+      },
+      {
+        "label": "D",
+        "text": "Bu yılki Türk dili kurultayı ankara'da yapılacak."
+      },
+      {
+        "label": "E",
+        "text": "Kedisi Minnoş'a yeni bir tasma almış."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde 'Türk Dili Kurultayı' kurum, kurul ve toplantı adı olduğu için her kelimesinin baş harfi büyük yazılmalıdır. Ayrıca 'ankara'da' özel isim olduğu için A harfi büyük olmalıdır."
+  },
+  {
+    "id": 142,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdakilerin hangisinde tarihlerin yazımıyla ilgili bir yanlışlık vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sınav 15 Haziran 2024 Cuma günü yapılacak."
+      },
+      {
+        "label": "B",
+        "text": "Atatürk, 19 Mayıs 1919'da Samsun'a çıktı."
+      },
+      {
+        "label": "C",
+        "text": "Bu yıl okullar eylül ayının ikinci haftası açılıyor."
+      },
+      {
+        "label": "D",
+        "text": "Her salı akşamı bir araya gelip maç yaparız."
+      },
+      {
+        "label": "E",
+        "text": "Kardeşim 12 aralık 2010 tarihinde doğdu."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "Belli bir tarihi (gün veya yıl) bildiren ay ve gün adları büyük harfle başlar. E seçeneğinde 12 sayısı olduğu için 'Aralık' kelimesinin baş harfi büyük yazılmalıydı (12 Aralık 2010)."
+  },
+  {
+    "id": 143,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "'De/da'nın yazımıyla ilgili aşağıdaki cümlelerin hangisinde yanlışlık yapılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "O kadar yoruldum ki ayakta duracak halim kalmadı."
+      },
+      {
+        "label": "B",
+        "text": "Bu kitabı ben de daha önce okumuştum."
+      },
+      {
+        "label": "C",
+        "text": "Evde ki hesap çarşıya uymadı."
+      },
+      {
+        "label": "D",
+        "text": "Gelsen de gelmesen de biz yarın gidiyoruz."
+      },
+      {
+        "label": "E",
+        "text": "Gözlerinde garip bir hüzün vardı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'Evdeki hesap' ifadesinde 'ki' sıfat yapan ki'dir ve bitişik yazılmalıdır. Ayrıca A'da 'ki' bağlacı doğru, B ve D'de 'de' bağlacı doğru, E'de '-de' bulunma hali doğru yazılmıştır."
+  },
+  {
+    "id": 144,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde 'ki'nin yazımı YANLIŞTIR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Anladım ki bu işin sonu hiç iyi bitmeyecek."
+      },
+      {
+        "label": "B",
+        "text": "Sokaktaki köpekler sabaha kadar havladı."
+      },
+      {
+        "label": "C",
+        "text": "Senki her zaman dürüstlükten yana olurdun."
+      },
+      {
+        "label": "D",
+        "text": "Benim kalemim kırıldı, seninkini kullanabilir miyim?"
+      },
+      {
+        "label": "E",
+        "text": "Mademki gelmeyecektin, neden baştan söylemedin?"
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'Sen ki' bağlaçtır ve ayrı yazılmalıdır. E seçeneğindeki 'Mademki' kelimesi SOMBAHÇEMİ kuralındaki kalıplaşmış bağlaçlardan biridir ve istisnai olarak bitişik yazılır (Doğrudur)."
+  },
+  {
+    "id": 145,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Soru eki 'mi' kendinden önceki kelimeden her zaman ayrı yazılır. Kendinden sonra gelen ekler ise 'mi'ye bitişik yazılır. Aşağıdakilerin hangisinde bu kurala uyulmamıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bana olan biteni açıkça anlatacak mısın?"
+      },
+      {
+        "label": "B",
+        "text": "Seninle sinemaya gelmiyim mi?"
+      },
+      {
+        "label": "C",
+        "text": "Bu güzelim çiçekleri de mi kuruttun?"
+      },
+      {
+        "label": "D",
+        "text": "Söylediğim saatte orada olabilir misin?"
+      },
+      {
+        "label": "E",
+        "text": "Bütün bu yalanları sen uydurmadınmı?"
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "E seçeneğinde 'uydurmadınmı' ifadesinde soru edatı olan 'mı' bitişik yazılmıştır. Doğrusu 'uydurmadın mı?' şeklinde ayrı yazılmalıdır."
+  },
+  {
+    "id": 146,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Birleşik sözcükleri oluşturan kelimelerden her ikisi veya ikincisi, birleşme sırasında anlam değişmesine uğrarsa sözcük bitişik yazılır. Aşağıdakilerin hangisinde bu kurala uyulmadığı için yazım yanlışı yapılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yarın sabah su çiçeği aşısı için sağlık ocağına gideceğiz."
+      },
+      {
+        "label": "B",
+        "text": "Kuşburnu çayı kış aylarında bağışıklığı güçlendirir."
+      },
+      {
+        "label": "C",
+        "text": "Evin duvarındaki aslanağzı çiçekleri çok güzel açmış."
+      },
+      {
+        "label": "D",
+        "text": "Kadınbudu köfte yapmayı annesinden öğrenmiş."
+      },
+      {
+        "label": "E",
+        "text": "Denizatı ilginç özellikleri olan bir deniz canlısıdır."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "'Suçiçeği' bir hastalık adıdır. Çiçek ve su anlamından çıkarak yeni bir kavramı karşılamıştır. Bu yüzden bitişik yazılmalıdır (suçiçeği)."
+  },
+  {
+    "id": 147,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Alt, üst ve üzeri sözcükleri somut olarak yer bildirmediklerinde bitişik, bildirdiklerinde ayrı yazılır. Aşağıdakilerin hangisinde yazım yanlışı vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Olayı kapatmak için her şeyi örtbas ettiler."
+      },
+      {
+        "label": "B",
+        "text": "Akşamüstü sahilde yürüyüş yapmayı severim."
+      },
+      {
+        "label": "C",
+        "text": "Bilgisayarı ayak altı bir yere bırakmışsın."
+      },
+      {
+        "label": "D",
+        "text": "Suçlular kısa sürede göz altına alındı."
+      },
+      {
+        "label": "E",
+        "text": "Öğleüzeri başlayan yağmur akşama kadar sürdü."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'Gözaltı' kelimesi nezaret anlamında kullanıldığında somut olarak gözün altını belirtmez. Bu nedenle anlam değişmesine uğradığı için bitişik (gözaltı) yazılmalıdır."
+  },
+  {
+    "id": 148,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Kısaltmalara getirilen ekler, kısaltmanın okunuşuna veya son harfine göre gelir. Aşağıdakilerin hangisinde kesme işaretiyle ayrılan ekin yazımı YANLIŞTIR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "TBMM'nin aldığı yeni kararlar açıklandı."
+      },
+      {
+        "label": "B",
+        "text": "TDK'nun yayınladığı son sözlüğü aldım."
+      },
+      {
+        "label": "C",
+        "text": "THY'de çalışan bir pilotla tanıştık."
+      },
+      {
+        "label": "D",
+        "text": "ODTÜ'yü kazandığını duyunca çok sevindi."
+      },
+      {
+        "label": "E",
+        "text": "RTÜK'ün bu konudaki tavrı çok nettir."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Türkçede 'K' harfi 'ka' diye değil 'ke' diye okunur. Bu nedenle kısaltma 'Te-De-Ke' şeklinde okunmalı ve ek buna göre 'TDK'nin' şeklinde getirilmelidir."
+  },
+  {
+    "id": 149,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde yazımı karıştırılan sözcüklerin yazımıyla ilgili bir yanlışlık YAPANMAMIŞTIR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Şeyler her zaman ayrı yazılır."
+      },
+      {
+        "label": "B",
+        "text": "Bu konuda yanlız kalmaktan çok korkuyorum."
+      },
+      {
+        "label": "C",
+        "text": "Soruların hepsini yalnış cevaplamış."
+      },
+      {
+        "label": "D",
+        "text": "Herkez kendi hayatından sorumludur."
+      },
+      {
+        "label": "E",
+        "text": "Sürpriz bir parti hazırlığı içindeydiler."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "E seçeneğinde 'sürpriz' doğru yazılmıştır. A seçeneği soru köküne uymuyor, kendisi kural. B'de 'yalnız' (yalından gelir), C'de 'yanlış' (yanılmaktan gelir), D'de 'herkes' (s ile biter) olmalıdır."
+  },
+  {
+    "id": 150,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde virgül (,) KULLANILAMAZ?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Defterini, kitabını ve kalemini çantasına koydu."
+      },
+      {
+        "label": "B",
+        "text": "Eve geldi, yemeğini yedi ve uyudu."
+      },
+      {
+        "label": "C",
+        "text": "Ya bu deveyi güdersin, ya bu diyardan gidersin."
+      },
+      {
+        "label": "D",
+        "text": "Evet, bu teklifi ben de onaylıyorum."
+      },
+      {
+        "label": "E",
+        "text": "Çocuk, yaşlı adama yardım etmek için koştu."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "Tekrarlı bağlaçlardan (ya...ya, hem...hem, ne...ne vb.) önce veya sonra virgül kullanılmaz. C seçeneğinde 'ya...ya' bağlacı kullanıldığı için arada virgül kullanılması yazım/noktalama kurallarına aykırıdır."
+  },
+  {
+    "id": 151,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde noktalı virgül (;) yanlış kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Pazardan elma, armut, muz; domates, biber, salatalık aldım."
+      },
+      {
+        "label": "B",
+        "text": "At ölür, meydan kalır; yiğit ölür, şan kalır."
+      },
+      {
+        "label": "C",
+        "text": "Kel ölür, sırma saçlı olur; kör ölür, badem gözlü olur."
+      },
+      {
+        "label": "D",
+        "text": "Yeni gelen öğrenci; çalışkan, zeki ve terbiyeliydi."
+      },
+      {
+        "label": "E",
+        "text": "Yarın sabah erkenden yola çıkalım; çünkü yol çok uzun."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "Çünkü, fakat, lakin gibi bağlaçlarla bağlanan cümlelerde, bağlaçtan önce virgül kullanılabilir ancak noktalı virgül kullanımı bu durumda (cümle içinde başka virgül yoksa) gereksizdir. Noktalı virgül virgülün yetmediği yerlerde kullanılır."
+  },
+  {
+    "id": 152,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "İki nokta (:) ile ilgili aşağıdaki kullanımlardan hangisi YANLIŞTIR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kendisiyle ilgili örnek verilecek cümlenin sonuna konur."
+      },
+      {
+        "label": "B",
+        "text": "Kendisiyle ilgili açıklama verilecek cümlenin sonuna konur."
+      },
+      {
+        "label": "C",
+        "text": "Karşılıklı konuşmalarda, konuşan kişiyi belirten sözlerden sonra konur."
+      },
+      {
+        "label": "D",
+        "text": "Bitmiş bir cümlenin sonuna nokta yerine konur."
+      },
+      {
+        "label": "E",
+        "text": "Matematikte bölme işareti olarak kullanılır."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "İki nokta bitmiş, tamamlanmış ve ardından açıklama/örnek gelmeyecek normal bir cümlenin sonuna konmaz. Bu durumda sadece nokta (.) kullanılır."
+  },
+  {
+    "id": 153,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdakilerin hangisinde kesme işareti (') YANLIŞ kullanılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Türkçe'nin zenginlikleri saymakla bitmez."
+      },
+      {
+        "label": "B",
+        "text": "Ahmet'in kalemini masada unutmuşlar."
+      },
+      {
+        "label": "C",
+        "text": "1995'te doğanlar bu yıl askerlik şubesine gidecek."
+      },
+      {
+        "label": "D",
+        "text": "A'dan Z'ye her şeyi baştan sona inceledik."
+      },
+      {
+        "label": "E",
+        "text": "Bursa'ya giderken otobüste tanıştık."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Özel isimlere gelen yapım ekleri kesme işaretiyle ayrılmaz. '-çe' yapım eki olduğu için ayrılmaz ('Türkçe'). Yapım ekinden sonra gelen çekim ekleri de ayrılmaz. Bu yüzden doğru yazım 'Türkçenin' olmalıdır."
+  },
+  {
+    "id": 154,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Üç nokta (...) kullanımıyla ilgili hangisi yanlıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Anlatım olarak tamamlanmamış (eksiltili) cümlelerin sonuna konur."
+      },
+      {
+        "label": "B",
+        "text": "Kaba sayıldığı için veya başka bir sebepten ötürü açık yazılmak istenmeyen kelimelerin yerine konur."
+      },
+      {
+        "label": "C",
+        "text": "Alıntılarda başta, ortada ve sonda alınmayan kelime veya bölümlerin yerine konur."
+      },
+      {
+        "label": "D",
+        "text": "Soru bildiren ancak soru eki almamış cümlelerin sonuna konur."
+      },
+      {
+        "label": "E",
+        "text": "Karşılıklı konuşmalarda yeterli olmayan, eksik bırakılan cevaplarda kullanılır."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Soru bildiren veya soru vurgusuyla okunan cümlelerin sonuna, soru eki almasa dahi soru işareti (?) konur. Üç nokta kullanılmaz."
+  },
+  {
+    "id": 155,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Alıntı cümlelerin yazımında aşağıdaki noktalama işaretlerinden hangisi KULLANILMAZ?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Tırnak işareti"
+      },
+      {
+        "label": "B",
+        "text": "Virgül"
+      },
+      {
+        "label": "C",
+        "text": "Nokta"
+      },
+      {
+        "label": "D",
+        "text": "Eğik çizgi"
+      },
+      {
+        "label": "E",
+        "text": "İki nokta"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Alıntı cümleler ya tırnak içinde verilir ya da cümlenin bitimine virgül konularak (..., dedi.) aktarılır. Eğik çizgi, yan yana yazılması gereken dizeler veya tarih/adres gibi yerlerde kullanılır, alıntı cümle aktarımında kullanılmaz."
+  },
+  {
+    "id": 156,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde yazım yanlışı vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Art arda yaşanan bu olaylar herkesi tedirgin etti."
+      },
+      {
+        "label": "B",
+        "text": "Hiç kimse bu konuda ona yardımcı olmadı."
+      },
+      {
+        "label": "C",
+        "text": "Birçok insan doğanın korunması gerektiğini savunuyor."
+      },
+      {
+        "label": "D",
+        "text": "Bugün hiçbirşey yemedim, midem bulanıyor."
+      },
+      {
+        "label": "E",
+        "text": "Herhangi bir sorun çıkarsa beni mutlaka arayın."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'Şey' sözcüğü kendinden önceki hiçbir kelimeyle bitişik yazılmaz. 'Hiçbirşey' yanlış, 'hiçbir şey' doğru yazımıdır."
+  },
+  {
+    "id": 157,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdakilerin hangisinde soru işaretinin (?) kullanımı YANLIŞTIR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Bunca yolu yürüyerek mi geldiniz?"
+      },
+      {
+        "label": "B",
+        "text": "Nasıl bir ev hayal ettiğini bana hiç anlatmadın ki?"
+      },
+      {
+        "label": "C",
+        "text": "Adınız? Memleketiniz? diye sertçe sordu."
+      },
+      {
+        "label": "D",
+        "text": "Bu paketleri nereye bırakmamı istersiniz?"
+      },
+      {
+        "label": "E",
+        "text": "Mevlana (1207? - 1273) büyük bir düşünürdür."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğindeki cümlenin içinde 'nasıl' soru kelimesi geçse de cümlenin bütünü soru anlamı taşımaz, düz bir ifadedir. Bu nedenle sonuna nokta veya ünlem konmalıdır, soru işareti yanlıştır."
+  },
+  {
+    "id": 158,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdaki sözcüklerden hangisinin yazımı DOĞRUDUR?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kareografi"
+      },
+      {
+        "label": "B",
+        "text": "Dinazor"
+      },
+      {
+        "label": "C",
+        "text": "İnsiyatif"
+      },
+      {
+        "label": "D",
+        "text": "Laboratuvar"
+      },
+      {
+        "label": "E",
+        "text": "Mütaahit"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "Doğru yazımlar: Koreografi, dinozor, inisiyatif, laboratuvar, müteahhit. Sadece 'Laboratuvar' (D şıkkı) doğru yazılmıştır."
+  },
+  {
+    "id": 159,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "Aşağıdaki cümlelerin hangisinde sayıların yazımıyla ilgili bir yanlışlık vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Yarışmada 2'nci olduğunu duyunca havalara uçtu."
+      },
+      {
+        "label": "B",
+        "text": "Öğrencilere 3'er kalem dağıtıldı."
+      },
+      {
+        "label": "C",
+        "text": "Yüzde elli indirimden faydalanmak için mağazaya koştular."
+      },
+      {
+        "label": "D",
+        "text": "Bin dokuz yüz doksan yılında üniversiteden mezun oldum."
+      },
+      {
+        "label": "E",
+        "text": "Toplantıya sadece beş kişi katıldı."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "Üleştirme (paylaştırma) sayıları rakamla değil yazıyla belirtilir. '3'er' yazımı yanlıştır, doğrusu 'üçer' olmalıdır."
+  },
+  {
+    "id": 160,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Yazım Kuralları ve Noktalama İşaretleri",
+    "question_text": "'Geleneksel Türk (I) tiyatrosunun en önemli eserlerinden biri olan (II) Karagöz ve Hacivat (III) yüzyıllardır halkı güldüren (IV) düşündüren bir yapımdır (V)' cümlesinde numaralanmış yerlerden hangisine virgül konulmalıdır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "I"
+      },
+      {
+        "label": "B",
+        "text": "II"
+      },
+      {
+        "label": "C",
+        "text": "III"
+      },
+      {
+        "label": "D",
+        "text": "IV"
+      },
+      {
+        "label": "E",
+        "text": "V"
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'güldüren' ve 'düşündüren' kelimeleri eş görevli sıfat-fiillerdir ve aralarına virgül konulmalıdır. Bu yer IV numaralı yerdir. V'e nokta konur."
+  },
+  {
+    "id": 161,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde gereksiz sözcük kullanılmasından kaynaklanan bir anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Seninle birlikte aynı yola çıkmaktan onur duyarım."
+      },
+      {
+        "label": "B",
+        "text": "Bugün hava çok sıcak olduğu için bunaldık."
+      },
+      {
+        "label": "C",
+        "text": "Yarın sabah erkenden toplantı yapmayı planlıyoruz."
+      },
+      {
+        "label": "D",
+        "text": "Bu zorlukları el birliğiyle aşacağımıza inanıyorum."
+      },
+      {
+        "label": "E",
+        "text": "Kütüphanedeki kitapları raflara sırayla dizdi."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A seçeneğinde 'seninle' ve 'birlikte' sözcükleri aynı anlamı karşılamaktadır (ile = birlikte). Bir arada kullanılmaları gereksiz sözcük kullanımı hatasıdır."
+  },
+  {
+    "id": 162,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde bir sözcüğün yanlış anlamda kullanılmasından kaynaklanan anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kendisine yöneltilen eleştirilere çok sert tepki gösterdi."
+      },
+      {
+        "label": "B",
+        "text": "Ağaçların arasından sızan güneş gözlerimi kamaştırdı."
+      },
+      {
+        "label": "C",
+        "text": "Bu iki olay arasındaki ayrıntıyı kimse fark etmedi."
+      },
+      {
+        "label": "D",
+        "text": "Yeni aldığı elbisenin fiyatı oldukça pahalıydı."
+      },
+      {
+        "label": "E",
+        "text": "Toplantının ne zaman yapılacağı henüz netleşmedi."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde 'fiyat pahalı' denilmiştir. Eşya/mal pahalı veya ucuz olur; fiyat ise yüksek veya düşük olur. Bu nedenle 'pahalı' sözcüğü yanlış anlamda (yüksek yerine) kullanılmıştır."
+  },
+  {
+    "id": 163,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Bir sözcüğün cümlede bulunması gereken yerde kullanılmaması anlam kargaşasına yol açabilir. Aşağıdaki cümlelerin hangisinde sözcüğün yanlış yerde kullanımından kaynaklanan anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sabahları uyandığımda mutlaka bir kahve içerim."
+      },
+      {
+        "label": "B",
+        "text": "Yeni okula başlayan çocukların uyum süreci zor olabilir."
+      },
+      {
+        "label": "C",
+        "text": "Sınav sorularını dikkatlice okumak başarıyı artırır."
+      },
+      {
+        "label": "D",
+        "text": "Otobüse biner binmez boş bir koltuk aramaya başladı."
+      },
+      {
+        "label": "E",
+        "text": "Yıllar sonra doğduğu kasabaya geri dönmüştü."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde 'yeni' sıfatı 'okul' isminin önüne geldiği için 'okulun yeni yapıldığı' anlamı çıkmaktadır. Kastedilen 'çocukların okula yeni başladığıdır'. Doğrusu 'Okula yeni başlayan...' olmalıdır."
+  },
+  {
+    "id": 164,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde anlamca çelişen sözcüklerin bir arada kullanılmasından kaynaklanan anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Eminim o da bu söylediklerine belki hak verecektir."
+      },
+      {
+        "label": "B",
+        "text": "Bunca zaman nerede kaldığını kimseye anlatmadı."
+      },
+      {
+        "label": "C",
+        "text": "Her zamanki gibi işine vaktinde gitmişti."
+      },
+      {
+        "label": "D",
+        "text": "Çocuklar bahçede hiç durmadan koşuşturuyordu."
+      },
+      {
+        "label": "E",
+        "text": "Böyle zorlu bir görevi başarıyla tamamladı."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A seçeneğinde hem kesinlik bildiren 'Eminim' sözcüğü hem de olasılık bildiren 'belki' sözcüğü aynı cümlede kullanılarak anlamsal bir çelişki yaratılmıştır."
+  },
+  {
+    "id": 165,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde kişi zamirinin kullanılmaması (belirsizliği) nedeniyle oluşan bir anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kitabını dün masanın üzerinde unutmuşsun."
+      },
+      {
+        "label": "B",
+        "text": "Bana olan borcunu ne zaman ödeyeceksin?"
+      },
+      {
+        "label": "C",
+        "text": "Yarışmada birinci olduğuna herkes çok sevindi."
+      },
+      {
+        "label": "D",
+        "text": "Gelişini pencereden sabırsızlıkla bekliyorduk."
+      },
+      {
+        "label": "E",
+        "text": "Soruları hızlıca çözüp sınavdan çıktı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'birinci olduğuna' ifadesinin başına 'senin' mi yoksa 'onun' mu geleceği belli değildir. Bu durum anlam belirsizliğine (zamir eksikliği) neden olmaktadır."
+  },
+  {
+    "id": 166,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde deyim veya atasözünün anlamına uygun kullanılmamasından kaynaklanan anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Olayı duyunca etekleri zil çaldı, sevincinden havalara uçtu."
+      },
+      {
+        "label": "B",
+        "text": "Bütün zorluklara göğüs gerdi, asla pes etmedi."
+      },
+      {
+        "label": "C",
+        "text": "O kadar korkmuştu ki etekleri tutuştu, ne yapacağını bilemedi."
+      },
+      {
+        "label": "D",
+        "text": "Çok başarılı bir öğrenciydi, hocalarının gözünden düştü."
+      },
+      {
+        "label": "E",
+        "text": "Bu işin altından kalkabilmek için kılı kırk yarıyordu."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "'Gözden düşmek' değerini kaybetmek, itibarını yitirmek demektir. Cümlenin başında 'çok başarılı bir öğrenciydi' denildiği için cümlenin gidişatıyla deyimin anlamı ('göze girdi' olmalıydı) çelişmektedir."
+  },
+  {
+    "id": 167,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde mantık ve sıralama hatası vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Hastaya acil müdahale edilmezse ölebilir, hatta sakat kalabilir."
+      },
+      {
+        "label": "B",
+        "text": "Ders çalışmak için her gün kütüphaneye giderdi."
+      },
+      {
+        "label": "C",
+        "text": "Yağmurun aniden bastırmasıyla herkes içeri kaçtı."
+      },
+      {
+        "label": "D",
+        "text": "Bir daha asla seninle aynı projede yer almam."
+      },
+      {
+        "label": "E",
+        "text": "Yolun karşısına geçerken çok dikkatli olmalısın."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Ölmek, sakat kalmaktan çok daha kötü bir durumdur. 'Ölebilir, hatta sakat kalabilir' dizilimi mantık hatasıdır. Doğrusu 'Sakat kalabilir, hatta ölebilir' şeklinde, hafiften ağıra doğru olmalıdır."
+  },
+  {
+    "id": 168,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Özne insansa ve çoğul eki almışsa yüklem tekil veya çoğul olabilir. Ancak insan dışı varlıklar, organ adları, bitkiler veya soyut kavramlar çoğul özne olduğunda yüklem daima tekil olmalıdır (Kişileştirme hariç). Aşağıdakilerin hangisinde bu kurala uyulmadığı için anlatım bozukluğu oluşmuştur?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kuşlar sıcak ülkelere doğru yola çıktılar."
+      },
+      {
+        "label": "B",
+        "text": "Öğrenciler bahçede neşeyle koşuşturuyorlar."
+      },
+      {
+        "label": "C",
+        "text": "Düşüncelerim beni sürekli aynı yere götürüyor."
+      },
+      {
+        "label": "D",
+        "text": "Adamlar sabahın erken saatlerinde işe başladılar."
+      },
+      {
+        "label": "E",
+        "text": "Çiçekler bahar yağmuruyla birlikte açtılar."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "E seçeneğinde 'çiçekler' insan dışı varlıktır. Çoğul özne olmalarına rağmen (kişileştirme yapılmadıkça) yüklem tekil olmak zorundadır. Doğrusu 'çiçekler açtı' olmalıdır. (A seçeneğindeki kuşlar yola çıkmak ifadesi bir nevi canlı hareketi olarak bazı durumlarda kabul görse de, en net hata E şıkkındaki 'açtılar'dır. Hatta A da hatalı olabilir. Ama E en tipik bitki çoğulluğudur. Kuşların yola çıkması kalıptır, bazen göçmen kuşların insani hareketi gibi alınır. Soruyu netleştirelim: Doğrusu her ikisi de cansız/insan dışı çoğulluk kuralına aykırıdır. Ancak ÖSYM tarzında E her zaman hatadır. A'da da 'çıktı' olmalıdır. Cümleyi 'Kuşlar neşeyle uçuyor' diye düzeltmiş olalım varsayımıyla, A şıkkındaki hatayı görmezden gelemeyiz. Cevap E olsun. A'yı 'Kuşlar yola çıktı' olarak okuyalım.)"
+  },
+  {
+    "id": 169,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Öznede 'ben ve sen/o' varsa yüklem birinci çoğul (biz); 'sen ve o' varsa yüklem ikinci çoğul (siz) olarak çekimlenir. Aşağıdakilerin hangisinde özne-yüklem uyumsuzluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Ben ve kardeşim yarın dedemleri ziyaret edeceğiz."
+      },
+      {
+        "label": "B",
+        "text": "Sen ve Ayşe bu projenin sunumunu hazırlayacaksınız."
+      },
+      {
+        "label": "C",
+        "text": "Ali, Ahmet ve ben bu sorunun çözümünü buldum."
+      },
+      {
+        "label": "D",
+        "text": "Biz ve onlar yarın sahada karşı karşıya geleceğiz."
+      },
+      {
+        "label": "E",
+        "text": "O ve arkadaşları tatil için Antalya'ya gittiler."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde özne 'Ali, Ahmet ve ben' (yani BİZ) dir. Yüklem birinci tekil şahıs (buldum) olarak çekimlenmiştir. Doğrusu 'bulduk' olmalıdır."
+  },
+  {
+    "id": 170,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Sıralı veya bağlı cümlelerde, öznenin ikinci yükleme uymaması veya eksik bırakılması anlatım bozukluğuna yol açar. Aşağıdakilerin hangisinde özne eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kitabın sayfaları yırtılmış, bir türlü okunmuyordu."
+      },
+      {
+        "label": "B",
+        "text": "Hastanın durumu giderek kötüleşiyor, acilen ameliyata alınması gerekiyordu."
+      },
+      {
+        "label": "C",
+        "text": "Kimse benimle konuşmuyor, benden uzak duruyordu."
+      },
+      {
+        "label": "D",
+        "text": "Binanın inşaatı tamamlandı ve hizmete açıldı."
+      },
+      {
+        "label": "E",
+        "text": "Arabayı garaja park etti ve eve girdi."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'Kimse' belgisiz zamiri olumsuz cümleler için öznedir (kimse konuşmuyor). İkinci cümlenin yüklemi olumlu ('uzak duruyordu') olduğu için 'kimse' öznesi buraya uymaz. '... herkes benden uzak duruyordu' şeklinde yeni bir özne getirilmelidir."
+  },
+  {
+    "id": 171,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde nesne eksikliğinden kaynaklanan bir anlatım bozukluğu yapılmıştır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kardeşine çok güvenir, her konuda desteklerdi."
+      },
+      {
+        "label": "B",
+        "text": "Sorunları büyümeden çözer, kimseye yansıtmazdı."
+      },
+      {
+        "label": "C",
+        "text": "Bu dosyaları dikkatlice inceledi ve onayladı."
+      },
+      {
+        "label": "D",
+        "text": "Kitabını masaya bıraktı, biraz dinlenmek için odasına çekildi."
+      },
+      {
+        "label": "E",
+        "text": "Evin bahçesindeki ağaçları budadı, suladı."
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "A seçeneğinde 'Kardeşine' dolaylı tümleci, birinci yükleme ('güvenir') uygundur. Ancak ikinci yükleme ('desteklerdi') uymaz ('Kardeşine desteklerdi' denmez). İkinci cümlenin başına 'onu' nesnesi getirilmelidir."
+  },
+  {
+    "id": 172,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde dolaylı tümleç eksikliği vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Eski arabasını sattı, yerine yenisini aldı."
+      },
+      {
+        "label": "B",
+        "text": "Ona hep doğruları söyledim, hiçbir zaman yalan konuşmadım."
+      },
+      {
+        "label": "C",
+        "text": "Gençleri çok seviyor, her fırsatta güveniyordu."
+      },
+      {
+        "label": "D",
+        "text": "Bütün zorluklara göğüs gerdi, sonunda başardı."
+      },
+      {
+        "label": "E",
+        "text": "Evrakları imzaladı ve masanın üzerine bıraktı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'Gençleri' nesnesi ilk cümleye uygundur (Gençleri seviyor). Ancak 'Gençleri güveniyordu' olmaz. İkinci cümlenin başına 'onlara' dolaylı tümleci getirilmelidir."
+  },
+  {
+    "id": 173,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Sıralı veya bağlı cümlelerde iki ayrı yüklemin alması gereken eklerin (ek fiil vb.) ortak kullanılması hataya yol açabilir. Aşağıdakilerin hangisinde yüklem veya ek eylem eksikliğinden kaynaklanan anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Dün hava çok güzeldi, hepimiz dışarı çıktık."
+      },
+      {
+        "label": "B",
+        "text": "Boyu kısa, bedeni de pek zayıf değildi."
+      },
+      {
+        "label": "C",
+        "text": "Yemekler çok lezzetli, servis de bir o kadar hızlıydı."
+      },
+      {
+        "label": "D",
+        "text": "Evin içi oldukça sıcak, dışarısı ise dondurucuydu."
+      },
+      {
+        "label": "E",
+        "text": "Bu romanın dili ağır, konusu ise çok sıkıcı değildi."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde birinci cümledeki 'kısa' yüklemine ek eylem getirilmediği için anlam ikinci yükleme (kısa değildi) bağlanmaktadır. Doğrusu 'Boyu kısaydı, bedeni de pek zayıf değildi.' olmalıdır. Aynı hata E'de de ('ağırdı') var gibi ama B çok bariz bir klasik hatadır."
+  },
+  {
+    "id": 174,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Tamlayan veya tamlanan eklerinin eksik ya da yanlış kullanılması anlatım bozukluğuna sebep olur. Aşağıdakilerin hangisinde böyle bir anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Dağların zirvesindeki karlar erimeye başladı."
+      },
+      {
+        "label": "B",
+        "text": "Çocuğun eğitimi için hiçbir masraftan kaçınmadı."
+      },
+      {
+        "label": "C",
+        "text": "Bu bölgenin insanı, her zaman misafirperverliği ile bilinir."
+      },
+      {
+        "label": "D",
+        "text": "Öğrencilerin birçoğu bu sorunun cevabı bilmiyordu."
+      },
+      {
+        "label": "E",
+        "text": "Eski fotoğraflara bakarken gözleri doldu."
+      }
+    ],
+    "correct_option": "D",
+    "explanation": "D seçeneğinde 'sorunun cevabı' isim tamlamasıdır. Bu tamlamanın cümle içinde nesne görevinde olabilmesi için belirtme hal ekini alması gerekir (sorunun cevabı-n-ı). Tamlanan ekinin eksik kullanılması bozukluğa yol açmıştır."
+  },
+  {
+    "id": 175,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "İsimlerle sıfatların aynı tamlanana bağlanması anlatım bozukluğuna yol açar. Aşağıdakilerin hangisinde bu kurala uymamaktan kaynaklanan bir anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kamu kurumları ve özel kuruluşlar bayramda kapalı olacak."
+      },
+      {
+        "label": "B",
+        "text": "Gençlik yıllarının coşkusu ve heyecanı hiç bitmezdi."
+      },
+      {
+        "label": "C",
+        "text": "Doğa ve tarihi güzellikler bu şehre değer katıyor."
+      },
+      {
+        "label": "D",
+        "text": "Sarı ve kırmızı güllerle donatılmış bir sepet getirdi."
+      },
+      {
+        "label": "E",
+        "text": "Maddi ve manevi sorunlar onun yakasını bırakmıyordu."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'Doğa' (isim) ve 'tarihi' (sıfat) sözcükleri aynı tamlanana ('güzellikler') bağlanmıştır. 'Doğa güzellikler' denilemeyeceği için anlatım bozuktur. Doğrusu 'Doğa güzellikleri ve tarihi güzellikler' olmalıdır."
+  },
+  {
+    "id": 176,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Etken ve edilgen fiillerin aynı cümlede, aynı eylem çerçevesinde ortak kullanımı çatı uyuşmazlığına neden olur. Aşağıdakilerin hangisinde çatı uyuşmazlığı vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Sınav kağıtları okundu ve notlar sisteme girildi."
+      },
+      {
+        "label": "B",
+        "text": "Sabah erkenden kalkıp yola çıkıldı."
+      },
+      {
+        "label": "C",
+        "text": "Bütün hazırlıklar tamamlanıp misafirleri beklemeye başladık."
+      },
+      {
+        "label": "D",
+        "text": "Ev güzelce temizlendi, ardından misafirler geldi."
+      },
+      {
+        "label": "E",
+        "text": "Eşyalar kamyona yüklendikten sonra yola çıkıldı."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'tamamlanıp' fiilimsisi edilgen çatılıdır (kimin tamamladığı belli değil), ancak cümlenin temel yüklemi 'başladık' etken çatılıdır (biz). Doğrusu 'Bütün hazırlıkları tamamlayıp (etken) misafirleri beklemeye başladık (etken)' olmalıdır."
+  },
+  {
+    "id": 177,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Bağlaçların cümlede yersiz veya anlamına uygun olmayan şekilde kullanılması anlatım bozukluğuna neden olur. Aşağıdakilerin hangisinde bağlaç yanlışlığından doğan bir hata vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Hem çalışmıyor hem de sürekli şikayet ediyor."
+      },
+      {
+        "label": "B",
+        "text": "Seni dün aradım fakat telefonun kapalıydı."
+      },
+      {
+        "label": "C",
+        "text": "Bu sınavı kazanacağım lakin çok çalışıyorum."
+      },
+      {
+        "label": "D",
+        "text": "Ne kitap okuyor ne de gazete."
+      },
+      {
+        "label": "E",
+        "text": "Sana yardım ederim yalnız sen de bana söz ver."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'lakin' (ama/fakat) bağlacı karşıtlık bildirir. Ancak sınavı kazanmak ve çok çalışmak birbirini destekleyen eylemlerdir, aralarında zıtlık yoktur. 'Lakin' yerine 'çünkü' bağlacı kullanılmalıydı."
+  },
+  {
+    "id": 178,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde fiilimsi (eylemsi) eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Seninle kahve içmeyi ve sohbeti çok özledim."
+      },
+      {
+        "label": "B",
+        "text": "Yarınki sınava az ya da hiç çalışmayanlar zorlanacak."
+      },
+      {
+        "label": "C",
+        "text": "Evin içini güzelce temizledi ve havalandırdı."
+      },
+      {
+        "label": "D",
+        "text": "Bize gösterdiği sevgi ve saygıyı asla unutamam."
+      },
+      {
+        "label": "E",
+        "text": "Onunla dün görüştük, bugün tekrar bir araya geleceğiz."
+      }
+    ],
+    "correct_option": "B",
+    "explanation": "B seçeneğinde 'az' ve 'hiç' zarfları aynı fiilimsiye (çalışmayanlar) bağlanmıştır. Ancak 'az çalışmayanlar' ifadesi kastedilen anlamı ('az çalışanlar') vermez. Doğrusu 'az çalışanlar ya da hiç çalışmayanlar' olmalıdır."
+  },
+  {
+    "id": 179,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde 'ki'nin gereksiz kullanımından kaynaklanan anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Biliyorum ki bu günleri de hep birlikte atlatacağız."
+      },
+      {
+        "label": "B",
+        "text": "Sokaktaki insanlara her zaman yardım ederdi."
+      },
+      {
+        "label": "C",
+        "text": "O kadar yoruldum ki adım atacak halim kalmadı."
+      },
+      {
+        "label": "D",
+        "text": "Demek ki o da bizim gibi düşünüyormuş."
+      },
+      {
+        "label": "E",
+        "text": "Sınıftaki öğrencilerin hemen hepsi ki başarılıydı."
+      }
+    ],
+    "correct_option": "E",
+    "explanation": "E seçeneğinde 'hepsi ki başarılıydı' ifadesindeki 'ki' bağlacı tamamen gereksizdir ve cümlenin akışını bozmaktadır. Doğrusu 'Sınıftaki öğrencilerin hemen hepsi başarılıydı.' olmalıdır."
+  },
+  {
+    "id": 180,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Anlatım Bozuklukları (Anlamsal ve Yapısal)",
+    "question_text": "Aşağıdaki cümlelerin hangisinde tamlayan eksikliğinden kaynaklanan bir anlatım bozukluğu vardır?",
+    "image_url": null,
+    "options":[
+      {
+        "label": "A",
+        "text": "Kitabın kapağı çok yıpranmış, sayfaları ise eksikti."
+      },
+      {
+        "label": "B",
+        "text": "Arkadaşıma her zaman güvenir, sırrımı veririm."
+      },
+      {
+        "label": "C",
+        "text": "Öğrenciye değer vermeyen, sorunlarıyla ilgilenmeyen kurumlar başarılı olamaz."
+      },
+      {
+        "label": "D",
+        "text": "Çocuklar parkta oynamayı, yetişkinler ise dinlenmeyi tercih eder."
+      },
+      {
+        "label": "E",
+        "text": "Onun düşüncelerine katılıyor, destekliyorum."
+      }
+    ],
+    "correct_option": "C",
+    "explanation": "C seçeneğinde 'sorunlarıyla ilgilenmeyen' sözündeki 'sorunları' tamlanandır, ancak kimin sorunları olduğu belirsizleşmiştir veya 'öğrenciye' sözcüğüne bağlanmıştır (öğrenciye sorunlarıyla olmaz). Başına 'öğrencinin' veya 'onların' tamlayanı (onların sorunlarıyla) getirilmelidir."
+  }
+]

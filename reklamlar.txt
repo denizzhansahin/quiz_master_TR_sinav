@@ -1,0 +1,22 @@
+Expo projesi klasörü içine .env dosyası oluştur ve içine bunları ekle:
+
+androidAppId=""
+iosAppId=""
+
+
+adUnitIdAdManager=""
+
+homeReward=""
+homeBanner=""
+homeBannerSticky=""
+
+modeSelectionReward=""
+quizEngineReward=""
+
+statisticsReward=""
+statisticsBanner=""
+statisticsBannerSticky=""
+
+subjectTreeReward=""
+subjectTreeBanner=""
+subjectTreeBannerSticky=""

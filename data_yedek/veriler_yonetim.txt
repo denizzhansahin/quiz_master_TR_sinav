@@ -1,0 +1,90 @@
+Veri tabanı ve JSON yapısı, uygulamanın performansı ve genişletilebilirliği için en kritik kısımdır. Sadece soruları sunucuda tutup geri kalan her şeyi yerelde saklayacak olman, maliyetini düşürür ve uygulamayı hızlandırır.
+
+İşte bu yapı için önerilerim:
+
+---
+
+## 1. Veri Tabanı Önerisi
+
+Soruları saklamak için iki ana yolun var:
+
+* **Firebase Firestore (Önerilen):** NoSQL yapısı sayesinde JSON verilerini doğrudan tutabilirsin. "Üyelik yok" dediğin için "Salt Okunur (Read-Only)" güvenlik kurallarıyla soruları herkese açık hale getirebilirsin. En büyük avantajı, sadece ihtiyacın olan dersin sorularını çekmene (Query) izin vermesidir.
+* **Statik JSON Dosyası (CDN/GitHub):** Eğer soru sayın çok devasa değilse (örn: 5.000 altı), tüm soruları bir `questions.json` dosyasında tutup bir CDN (veya GitHub Pages) üzerinden uygulamanın başında bir kez çekebilirsin. Ancak soru sayısı arttıkça bu dosya boyutu şişer ve uygulamanın açılışını yavaşlatır.
+
+---
+
+## 2. JSON Şema Yapısı (Questions.json)
+
+Veriyi "Dersler -> Konular -> Sorular" şeklinde iç içe (nested) yapmak yerine, **düz (flat)** bir yapıda tutmak arama ve filtreleme için daha performanslıdır.
+
+### Soru Şeması:
+```json
+{
+  "questions": [
+    {
+      "id": "kpss_mat_001",           // Benzersiz ID (Sınav_Ders_No)
+      "examType": "KPSS",            // KPSS, ALES, YKS
+      "subject": "Matematik",        // Ders adı
+      "topic": "Üslü Sayılar",       // Konu adı
+      "questionText": "3^x = 81 ise x kaçtır?", // Soru metni
+      "image": "https://cdn.com/q1.jpg", // Varsa görsel URL, yoksa null
+      "options": [                   // 5 Seçenek
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswerIndex": 3,      // Doğru şıkkın indeksi (Örn: 3 -> '4')
+      "solution": "3'ün 4. kuvveti 81 eder, bu yüzden x=4'tür.", // Çözüm metni
+      "difficulty": "easy"           // opsiyonel: easy, medium, hard
+    }
+  ]
+}
+```
+
+---
+
+## 3. Veri Yapısı Açıklaması (Schema Logic)
+
+1.  **`id`:** Sorunun kimliğidir. Kullanıcı bir soruyu çözdüğünde, yerel hafızaya "bu ID'li soru çözüldü" diye kaydetmek için kullanılır.
+2.  **`examType` ve `subject`:** Filtreleme anahtarlarıdır. Kullanıcı "KPSS Matematik" seçtiğinde, veri tabanından sadece bu iki etikete sahip soruları filtreleyip 40 tane rastgele seçersin.
+3.  **`options`:** Dizi (Array) olarak tutulmalıdır. Tasarımda bunları döngü ile (map) ekrana basabilirsin.
+4.  **`correctAnswerIndex`:** Harf (A, B, C) yerine rakam (0, 1, 2, 3, 4) tutmak kod tarafında karşılaştırma yapmayı kolaylaştırır.
+
+---
+
+## 4. Kullanıcının Yerel Veri Yapısı (Local Storage)
+
+Uygulamanın kullanıcının ilerlemesini takip etmesi için tarayıcıda/telefonda tutacağı yapı şöyle olmalı:
+
+```json
+{
+  "userStats": {
+    "totalSolved": 450,
+    "totalCorrect": 380,
+    "totalWrong": 70,
+    "subjectStats": {
+      "Matematik": { "correct": 100, "wrong": 20, "net": 95.0 },
+      "Tarih": { "correct": 50, "wrong": 10, "net": 47.5 }
+    },
+    "solvedQuestionIds": ["kpss_mat_001", "ales_tur_050"] // Tekrar aynı soru gelmesin diye
+  }
+}
+```
+
+### Net Hesaplama Formülü
+Uygulama içinde netleri şu şekilde hesaplayıp kaydedebilirsin:
+$$Net = Doğru - (Yanlış \times 0.25)$$
+
+---
+
+## Neden Bu Yapı?
+
+* **Esneklik:** Yarın bir gün "YKS" yanına "DGS" eklemek istersen sadece JSON'a yeni bir `examType` eklemen yeterli olur, kodun yapısını bozmazsın.
+* **Hız:** Üyelik olmadığı için veri tabanı sorgusuyla vakit kaybetmezsin; kullanıcı dersi seçer, soruları toplu çeker ve çevrimdışı bile çözebilir.
+* **Maliyet:** Firebase gibi servislerin "ücretsiz kotası" bu tür sadece okuma yapılan projelerde binlerce kullanıcıya kadar yeterli olur.
+
+Google Stitch üzerinde tasarım yaparken, **"Soru Görseli"** için opsiyonel bir alan bırakmayı unutma; bazı sorular sadece metin, bazıları ise (özellikle Geometri) görsel ağırlıklı olacaktır.
+
+**Veri tabanı tarafında soruları kategorize etmek için kullanacağın bir "Admin Paneli" veya "Soru Ekleme Ekranı" tasarımı da düşünmeli miyiz?**

@@ -1,0 +1,190 @@
+şimdi sana bir belge vereceğim.buradaki MD dosyası içinde dosyalar var.
+
+[
+  {
+    "id": 1,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Ses Bilgisi (Ünlü Düşmesi, Ünsüz Benzeşmesi vb.)",
+    "question_text": "[YKS] Türkçe - Ses Bilgisi (Ünlü Düşmesi, Ünsüz Benzeşmesi vb.) konusu için Temel Soru 1.",
+    "image_url": null,
+    "options": [
+      {
+        "label": "A",
+        "text": "Doğru Cevap Seçeneği"
+      },
+      {
+        "label": "B",
+        "text": "Yanlış Seçenek 1"
+      },
+      {
+        "label": "C",
+        "text": "Yanlış Seçenek 2"
+      },
+      {
+        "label": "D",
+        "text": "Yanlış Seçenek 3"
+      },
+      {
+        "label": "E",
+        "text": "Yanlış Seçenek 4"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Temel veritabanı sorusu."
+  },
+  {
+    "id": 2,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Ses Bilgisi (Ünlü Düşmesi, Ünsüz Benzeşmesi vb.)",
+    "question_text": "[YKS] Türkçe - Ses Bilgisi (Ünlü Düşmesi, Ünsüz Benzeşmesi vb.) konusu için Temel Soru 2.",
+    "image_url": null,
+    "options": [
+      {
+        "label": "A",
+        "text": "Doğru Cevap Seçeneği"
+      },
+      {
+        "label": "B",
+        "text": "Yanlış Seçenek 1"
+      },
+      {
+        "label": "C",
+        "text": "Yanlış Seçenek 2"
+      },
+      {
+        "label": "D",
+        "text": "Yanlış Seçenek 3"
+      },
+      {
+        "label": "E",
+        "text": "Yanlış Seçenek 4"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Temel veritabanı sorusu."
+  },
+  {
+    "id": 3,
+    "examType": "YKS",
+    "subject": "Türkçe",
+    "topic": "Ses Bilgisi (Ünlü Düşmesi, Ünsüz Benzeşmesi vb.)",
+    "question_text": "[YKS] Türkçe - Ses Bilgisi (Ünlü Düşmesi, Ünsüz Benzeşmesi vb.) konusu için Temel Soru 3.",
+    "image_url": null,
+    "options": [
+      {
+        "label": "A",
+        "text": "Doğru Cevap Seçeneği"
+      },
+      {
+        "label": "B",
+        "text": "Yanlış Seçenek 1"
+      },
+      {
+        "label": "C",
+        "text": "Yanlış Seçenek 2"
+      },
+      {
+        "label": "D",
+        "text": "Yanlış Seçenek 3"
+      },
+      {
+        "label": "E",
+        "text": "Yanlış Seçenek 4"
+      }
+    ],
+    "correct_option": "A",
+    "explanation": "Temel veritabanı sorusu."
+  }, ] bu formatta veriler vereceksin.
+
+
+İlk olarak senden şunu istiyorum. ID numarası x değerinden başlayıp 
+"sinav" sınavının
+"ders" dersinini
+"konu" konusu için bana x tane soru hazırla.
+Soruları basit değil orta üst ve ÖSYM(uzun veya detaylı) tarzında sorabilirsin.
+
+İlk olarak senden şunu istiyorum. ID numarası 1 değerinden başlayıp 
+"1. YKS / YGS-LYS / ÖSS-ÖYS (Üniversiteye Giriş Sınavları)" sınavının
+"İleri Matematik" dersinini
+"İkinci Dereceden Denklemler, Eşitsizlikler ve Eşitsizlik Sistemleri" konusu için bana 20 tane soru hazırla.
+Soruları basit değil orta üst ve ÖSYM(uzun veya detaylı) tarzında sorabilirsin.
+
+
+Kaldığımız yerden ise şöyle devam edelim.
+Soruları basit değil orta üst ve ÖSYM(uzun veya detaylı) tarzında sorabilirsin.
+İlk olarak senden şunu istiyorum. ID numarası değerini kaldığımız yerden başlayıp
+"1. YKS / YGS-LYS / ÖSS-ÖYS (Üniversiteye Giriş Sınavları)" sınavının
+"İleri Matematik" dersininin
+"İkinci Dereceden Denklemler, Eşitsizlikler ve Eşitsizlik Sistemleri" konusu için bana 20 tane soru hazırla. 
+Daha sonra "Parabol"  konusu için bana 20 tane soru hazırla. 
+Daha sonra "Karmaşık Sayılar"  konusu için bana 20 tane soru hazırla. 
+
+
+Kaldığımız yerden ise şöyle devam edelim. 2. Sürüm
+İlk olarak senden şunu istiyorum. ID numarası değerini kaldığımız yerden başlayıp
+"1. YKS / YGS-LYS / ÖSS-ÖYS (Üniversiteye Giriş Sınavları)" sınavının
+"Türkçe" dersine ait aşağıdali konulardan her biri için 20 tane soru hazırla.
+Soruları basit değil orta üst ve ÖSYM(uzun veya detaylı) tarzında sorabilirsin.
+    * Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)
+    * Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)
+    * Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)
+    * Anlatıcı Türleri ve Bakış Açıları
+    * Kavramsal ve Metinlerarası İlişkiler
+    * Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)
+
+
+Kaldığımız yerden ise şöyle devam edelim. 2. Sürüm
+İlk olarak senden şunu istiyorum. ID numarası değerini kaldığımız yerden başlayıp
+"1. YKS / YGS-LYS / ÖSS-ÖYS (Üniversiteye Giriş Sınavları)" sınavının
+"Türkçe" dersine ait aşağıdali konulardan her biri için 20 tane soru hazırla.
+    * Sözcükte Yapı (Kökler, Yapım ve Çekim Ekleri)
+    * Düşüncenin Akışını Bozan Cümleler (Eski Sistem Spesifik Tipi)
+    * Çoklu Paragraf Analizi (Ales Tarzı Yeni Nesil)
+    * Anlatıcı Türleri ve Bakış Açıları
+    * Kavramsal ve Metinlerarası İlişkiler
+    * Sözel Mantık ve Akıl Yürütme (Son Yılların TYT Eğilimi)
+
+
+
+Kaldığımız yerden ise şöyle devam edelim. 2. Sürüm
+İlk olarak senden şunu istiyorum. ID numarası değerini kaldığımız yerden başlayıp
+"1. YKS / YGS-LYS / ÖSS-ÖYS (Üniversiteye Giriş Sınavları)" sınavının
+"Geometri" dersine ait aşağıdali konulardan her biri için 20 tane soru hazırla. 
+Soruları basit değil orta üst ve ÖSYM(uzun veya detaylı) tarzında sorabilirsin.
+    * Vektörler (Eski 1. Aşama Müfredatı)
+    * Çemberde Kuvvet ve Teğet Özellikleri (Eski Müfredat)
+    * Düzlem Geometri ve Uzay Geometrisi Temelleri
+    * Katı Cisimlerde Kesit Alma ve Açınım Çizimleri
+    * Fraktallar ve Kaplamalar (Eski YGS)
+    * Dönüşüm Geometrisi (Temel Düzey Yansıma/Öteleme)
+
+
+Kaldığımız yerden ise şöyle devam edelim. 2. Sürüm
+İlk olarak senden şunu istiyorum. ID numarası değerini kaldığımız yerden başlayıp
+"1. YKS / YGS-LYS / ÖSS-ÖYS (Üniversiteye Giriş Sınavları)" sınavının
+"İleri Matematik" dersine ait aşağıdali konulardan her biri için 20 tane soru hazırla. 
+Soruları basit değil orta üst ve ÖSYM(uzun veya detaylı) tarzında sorabilirsin.
+    * Limit ve Süreklilik
+    * Türev ve Türevin Uygulamaları
+    * İntegral ve İntegralin Uygulamaları
+
+
+Kaldığımız yerden ise şöyle devam edelim. 2. Sürüm
+İlk olarak senden şunu istiyorum. ID numarası değerini kaldığımız yerden başlayıp
+"KPSS / KMS / DMS (Kamu Personeli Seçme Sınavları)" sınavının
+"Vatandaşlık ve Anayasa / Güncel Bilgiler" dersine ait aşağıdali konulardan belirtilen miktarlar kadar soru hazırla. 
+Soruları basit değil orta üst ve ÖSYM(uzun veya detaylı) tarzında sorabilirsin. HER KONU için 20 TANE SORU HAZIRLA!
+    * Avrupa İnsan Hakları Mahkemesi (AİHM) Yapısı
+    * Borçlar Hukuku Genel Hükümler
+    * Ticaret Hukuku (Temel Düzey Şirket Tipleri)
+    * Ceza Hukuku ve Kusur Yeteneği Yaş Sınırları
+    * Miras ve Aile Hukuku Temelleri (Medeni Hukuk Detayı)
+
+İlk olarak senden şunu istiyorum. ID numarası değerini kaldığımız yerden başlayıp, en son 1820 ID numaralı soruyu ürettik biz.
+"1. YKS / YGS-LYS / ÖSS-ÖYS (Üniversiteye Giriş Sınavları)" sınavının
+"İleri Matematik" dersine ait aşağıdali konulardan belirtilen miktarlar kadar soru hazırla. 
+Soruları basit değil orta üst ve ÖSYM(uzun veya detaylı) tarzında sorabilirsin. HER KONU için 20 TANE SORU HAZIRLA! 
+    * Diziler (Aritmetik ve Geometrik Diziler)
+    * Trigonometri

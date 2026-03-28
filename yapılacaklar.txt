@@ -1,0 +1,18 @@
+Hatalarım havuzuna link ile ulaşmak olsun, en başarısız konu veya ders için-yapildi
+sınav sonucu ekranındaki butonlarda ise kaldır ya da bir özellik ekle-yapildi
+Daha sonra uygulama navbarındaki alarmı kaldır gerek yok ona-yapildi
+Ayrıca anasayfaya ise verimli ders çalışma gibi birkaç özellikli sayfa ekle aynı tasarım ile - yapildi
+uygulama bilgileri, eposta, sürüm adı, yıl vb. güncelle-yapildi
+alt menü bar - safeaeraview vb. uyumlu olsun çünkü sanal tuşların arkasında var.-yapildi
+daha fazla soru için veri tabanı oluştur ücretsiz birtaneden.-yapildi
+rastgele test başlatma ve sınav ekranındaki altbar yükseğe kalkması gerekiyor, sanal tuşlar arkasında kaldılar.-yapildi
+Admob reklam çalıştırma için ise ayrı bir layout çalıştıralım layout.native olarak-yapildi
+Admob reklamları için ise yayınlanacak yerleri bul ve video reklamlara da bak.-yapildi
+
+
+şimdi ise orijinal en az 500 soru yazalım.-yapildi
+* Genel testlerde her sınav için kendi sorusunun gelmeme sorunu. (DÜZELTİLDİ)-yapidli
+* Özel konu testlerinde soru olmaması durumu. (DÜZELTİLDİ - Boş state eklendi, veri eksikliği not edildi)-yapildi
+Admob reklamları için ID bilgilerini gir şimdi - yapildi
+siteyi yükle, siteye reklamları koy, 
+mobil uygulamaya reklamları koy ve yayınla.

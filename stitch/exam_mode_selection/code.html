@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+
+<html class="light" lang="tr"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Sınav Modu Seçimi | Cognitive Sanctuary</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@700;800&amp;family=Inter:wght@400;500;600&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "tertiary": "#b61722",
+              "secondary-container": "#6cf8bb",
+              "inverse-on-surface": "#eff0fa",
+              "on-error-container": "#93000a",
+              "surface": "#f9f9ff",
+              "on-tertiary-fixed": "#410004",
+              "primary-fixed-dim": "#adc6ff",
+              "surface-container": "#ecedf7",
+              "surface-container-lowest": "#ffffff",
+              "on-tertiary": "#ffffff",
+              "primary-container": "#2170e4",
+              "surface-dim": "#d8d9e3",
+              "tertiary-container": "#da3437",
+              "error": "#ba1a1a",
+              "surface-container-low": "#f2f3fd",
+              "primary": "#0058be",
+              "surface-tint": "#005ac2",
+              "surface-container-high": "#e6e7f2",
+              "secondary-fixed-dim": "#4edea3",
+              "surface-bright": "#f9f9ff",
+              "surface-variant": "#e1e2ec",
+              "on-tertiary-fixed-variant": "#930013",
+              "error-container": "#ffdad6",
+              "on-surface": "#191b23",
+              "on-background": "#191b23",
+              "on-secondary-fixed-variant": "#005236",
+              "outline": "#727785",
+              "tertiary-fixed": "#ffdad7",
+              "on-primary-container": "#fefcff",
+              "inverse-primary": "#adc6ff",
+              "inverse-surface": "#2e3038",
+              "primary-fixed": "#d8e2ff",
+              "on-error": "#ffffff",
+              "secondary-fixed": "#6ffbbe",
+              "on-primary-fixed-variant": "#004395",
+              "on-surface-variant": "#424754",
+              "background": "#f9f9ff",
+              "on-secondary-fixed": "#002113",
+              "on-primary-fixed": "#001a42",
+              "on-secondary-container": "#00714d",
+              "secondary": "#006c49",
+              "outline-variant": "#c2c6d6",
+              "on-tertiary-container": "#fffbff",
+              "on-primary": "#ffffff",
+              "tertiary-fixed-dim": "#ffb3ad",
+              "on-secondary": "#ffffff",
+              "surface-container-highest": "#e1e2ec"
+            },
+            fontFamily: {
+              "headline": ["Manrope"],
+              "body": ["Inter"],
+              "label": ["Inter"]
+            },
+            borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+      .material-symbols-outlined {
+        font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+      }
+      .premium-gradient {
+        background: linear-gradient(135deg, #0058be 0%, #2170e4 100%);
+      }
+      .glass-effect {
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+      }
+    </style>
+</head>
+<body class="bg-surface font-body text-on-surface antialiased">
+<!-- TopAppBar Shell -->
+<header class="fixed top-0 w-full z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md shadow-sm dark:shadow-none flex justify-between items-center px-6 h-16 w-full">
+<div class="flex items-center gap-2">
+<span class="text-xl font-extrabold tracking-tighter text-blue-800 dark:text-blue-300">Cognitive Sanctuary</span>
+</div>
+<div class="flex items-center gap-4">
+<button class="p-2 rounded-full hover:bg-blue-50 dark:hover:bg-blue-900/30 transition-colors scale-95 active:opacity-80 transition-all">
+<span class="material-symbols-outlined text-blue-700 dark:text-blue-400">timer</span>
+</button>
+<button class="p-2 rounded-full hover:bg-blue-50 dark:hover:bg-blue-900/30 transition-colors scale-95 active:opacity-80 transition-all">
+<span class="material-symbols-outlined text-blue-700 dark:text-blue-400">notifications_active</span>
+</button>
+<div class="w-8 h-8 rounded-full border-2 border-primary-container p-0.5 overflow-hidden">
+<img alt="User profile avatar with progress ring" class="w-full h-full object-cover rounded-full" data-alt="User profile avatar with progress ring" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDxK8DnsdoqHJl213ltiJJSTR9Aa1Ig14IoPkGf9u7kLDkh8f0QW-bZqUYpIZ7loUhGD0WvB4bmwCwnCJUhBOPPbl6yR78Uv5uBONXZapWN12q0SstX1levnkUib7cBpEMZ0x6MDDHvSvH72IF9NVC_aOIW50LswQLcov7HxJyD0Y8LcNaR704TXgq2eTcZK1CrDmIqAOeNZ0aJ3WYEe8sdr53VqgTd0DfGgpDPbnZqc7EHdTWMPohET1oS5VY3Rz0KeSJdUHQJQ8zH"/>
+</div>
+</div>
+</header>
+<!-- Main Content Canvas (Underlying Subject Selection Screen) -->
+<main class="pt-24 pb-32 px-6 max-w-5xl mx-auto min-h-screen">
+<header class="mb-10">
+<h1 class="text-4xl font-headline font-bold tracking-tight text-on-surface mb-2">Konu Seçimi</h1>
+<p class="text-on-surface-variant font-medium">Hazırlanmak istediğiniz dersi ve konuyu belirleyin.</p>
+</header>
+<!-- Subjects Grid (Visual Background Context) -->
+<div class="grid grid-cols-1 md:grid-cols-2 gap-6 opacity-40 select-none pointer-events-none">
+<div class="bg-surface-container-lowest p-6 rounded-3xl shadow-sm border border-outline-variant/15">
+<div class="flex items-start justify-between mb-8">
+<div class="p-3 bg-primary-fixed rounded-2xl">
+<span class="material-symbols-outlined text-primary text-3xl">function</span>
+</div>
+<span class="text-xs font-bold uppercase tracking-widest text-on-surface-variant">MATEMATİK</span>
+</div>
+<h3 class="text-2xl font-headline font-bold mb-4">Türev ve Uygulamaları</h3>
+<div class="flex items-center gap-4">
+<div class="flex-1 h-2 bg-surface-container-highest rounded-full overflow-hidden">
+<div class="h-full premium-gradient w-[65%]"></div>
+</div>
+<span class="text-sm font-bold text-primary">65%</span>
+</div>
+</div>
+<div class="bg-surface-container-lowest p-6 rounded-3xl shadow-sm border border-outline-variant/15">
+<div class="flex items-start justify-between mb-8">
+<div class="p-3 bg-secondary-fixed rounded-2xl">
+<span class="material-symbols-outlined text-secondary text-3xl">biotech</span>
+</div>
+<span class="text-xs font-bold uppercase tracking-widest text-on-surface-variant">BİYOLOJİ</span>
+</div>
+<h3 class="text-2xl font-headline font-bold mb-4">Hücre Bölünmeleri</h3>
+<div class="flex items-center gap-4">
+<div class="flex-1 h-2 bg-surface-container-highest rounded-full overflow-hidden">
+<div class="h-full premium-gradient w-[22%]"></div>
+</div>
+<span class="text-sm font-bold text-primary">22%</span>
+</div>
+</div>
+</div>
+</main>
+<!-- Modal Overlay -->
+<div class="fixed inset-0 z-[100] flex items-center justify-center p-4 bg-on-surface/20 backdrop-blur-sm">
+<!-- Modal Container -->
+<div class="w-full max-w-xl bg-surface-container-lowest rounded-[2rem] shadow-[0_20px_40px_rgba(25,27,35,0.12)] overflow-hidden relative border border-white/40">
+<!-- Modal Header -->
+<div class="p-8 pb-4 flex justify-between items-start">
+<div>
+<h2 class="text-3xl font-headline font-bold tracking-tight text-on-surface">Sınav Modu Seçimi</h2>
+<p class="text-on-surface-variant mt-2 font-medium">Türev ve Uygulamaları konusuna devam ediyorsunuz.</p>
+</div>
+<button class="p-2 hover:bg-surface-container-high rounded-full transition-colors">
+<span class="material-symbols-outlined text-on-surface-variant">close</span>
+</button>
+</div>
+<!-- Selection Grid -->
+<div class="p-8 pt-4 space-y-4">
+<!-- Option 1: Konu Odaklı -->
+<label class="group relative flex flex-col p-6 rounded-[1.5rem] bg-surface-container-low cursor-pointer transition-all duration-300 hover:bg-surface-container-high">
+<input checked="" class="hidden peer" name="exam_mode" type="radio"/>
+<!-- Active State indicator - Managed via peer-checked -->
+<div class="absolute inset-0 rounded-[1.5rem] ring-2 ring-primary opacity-0 peer-checked:opacity-100 transition-opacity pointer-events-none"></div>
+<div class="flex items-center justify-between mb-3">
+<div class="flex items-center gap-3">
+<div class="p-2.5 rounded-xl bg-primary-fixed text-primary group-hover:scale-110 transition-transform">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">target</span>
+</div>
+<span class="text-lg font-bold font-headline">Konu Odaklı Çöz</span>
+</div>
+<div class="px-3 py-1 bg-surface-container-highest rounded-full text-[10px] font-extrabold uppercase tracking-tighter text-on-surface-variant">
+                            40 SORU
+                        </div>
+</div>
+<p class="text-on-surface-variant text-sm leading-relaxed pr-8">
+                        Sadece <span class="text-on-surface font-semibold">Türev ve Uygulamaları</span> konusundan rastgele seçilmiş uzmanlık soruları.
+                    </p>
+<div class="mt-4 flex justify-end">
+<div class="w-6 h-6 rounded-full border-2 border-outline-variant peer-checked:bg-primary peer-checked:border-primary flex items-center justify-center transition-colors">
+<div class="w-2 h-2 bg-white rounded-full opacity-0 peer-checked:opacity-100"></div>
+</div>
+</div>
+</label>
+<!-- Option 2: Karışık Çöz -->
+<label class="group relative flex flex-col p-6 rounded-[1.5rem] bg-surface-container-low cursor-pointer transition-all duration-300 hover:bg-surface-container-high">
+<input class="hidden peer" name="exam_mode" type="radio"/>
+<!-- Active State indicator -->
+<div class="absolute inset-0 rounded-[1.5rem] ring-2 ring-primary opacity-0 peer-checked:opacity-100 transition-opacity pointer-events-none"></div>
+<div class="flex items-center justify-between mb-3">
+<div class="flex items-center gap-3">
+<div class="p-2.5 rounded-xl bg-secondary-fixed text-secondary group-hover:scale-110 transition-transform">
+<span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">shuffle</span>
+</div>
+<span class="text-lg font-bold font-headline">Karışık Çöz</span>
+</div>
+<div class="px-3 py-1 bg-surface-container-highest rounded-full text-[10px] font-extrabold uppercase tracking-tighter text-on-surface-variant">
+                            40 SORU
+                        </div>
+</div>
+<p class="text-on-surface-variant text-sm leading-relaxed pr-8">
+                        Seçilen <span class="text-on-surface font-semibold">Matematik</span> dersinin tüm konularından harmanlanmış dengeli test.
+                    </p>
+<div class="mt-4 flex justify-end">
+<div class="w-6 h-6 rounded-full border-2 border-outline-variant flex items-center justify-center transition-colors">
+<div class="w-2 h-2 bg-white rounded-full opacity-0"></div>
+</div>
+</div>
+</label>
+</div>
+<!-- Footer Action -->
+<div class="p-8 pt-0">
+<button class="w-full premium-gradient text-white font-label font-bold py-5 rounded-2xl uppercase tracking-widest text-sm shadow-[0_10px_25px_rgba(0,88,190,0.3)] hover:scale-[1.02] active:scale-95 transition-all">
+                    Sınavı Başlat
+                </button>
+</div>
+</div>
+</div>
+<!-- BottomNavBar Shell -->
+<nav class="fixed bottom-0 left-0 w-full z-50 bg-white/90 dark:bg-slate-950/90 backdrop-blur-xl shadow-[0_-4px_20px_rgba(0,0,0,0.05)] flex justify-around items-center pt-2 pb-6 px-4 rounded-t-3xl border-t border-slate-100 dark:border-slate-800">
+<a class="flex flex-col items-center justify-center text-slate-400 dark:text-slate-500 px-5 py-2 hover:text-blue-500 transition-colors" href="#">
+<span class="material-symbols-outlined mb-1">school</span>
+<span class="text-[11px] font-semibold uppercase tracking-wider font-label">Exams</span>
+</a>
+<a class="flex flex-col items-center justify-center bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-200 rounded-2xl px-5 py-2 translate-y-[-2px] duration-300 ease-out" href="#">
+<span class="material-symbols-outlined mb-1" style="font-variation-settings: 'FILL' 1;">menu_book</span>
+<span class="text-[11px] font-semibold uppercase tracking-wider font-label">Topics</span>
+</a>
+<a class="flex flex-col items-center justify-center text-slate-400 dark:text-slate-500 px-5 py-2 hover:text-blue-500 transition-colors" href="#">
+<span class="material-symbols-outlined mb-1">leaderboard</span>
+<span class="text-[11px] font-semibold uppercase tracking-wider font-label">Statistics</span>
+</a>
+<a class="flex flex-col items-center justify-center text-slate-400 dark:text-slate-500 px-5 py-2 hover:text-blue-500 transition-colors" href="#">
+<span class="material-symbols-outlined mb-1">person</span>
+<span class="text-[11px] font-semibold uppercase tracking-wider font-label">Profile</span>
+</a>
+</nav>
+</body></html>

@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+
+<html class="light" lang="tr"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Cognitive Sanctuary - Quiz Engine</title>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;700;800&amp;family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+        tailwind.config = {
+            darkMode: "class",
+            theme: {
+                extend: {
+                    colors: {
+                        "tertiary": "#b61722",
+                        "secondary-container": "#6cf8bb",
+                        "inverse-on-surface": "#eff0fa",
+                        "on-error-container": "#93000a",
+                        "surface": "#f9f9ff",
+                        "on-tertiary-fixed": "#410004",
+                        "primary-fixed-dim": "#adc6ff",
+                        "surface-container": "#ecedf7",
+                        "surface-container-lowest": "#ffffff",
+                        "on-tertiary": "#ffffff",
+                        "primary-container": "#2170e4",
+                        "surface-dim": "#d8d9e3",
+                        "tertiary-container": "#da3437",
+                        "error": "#ba1a1a",
+                        "surface-container-low": "#f2f3fd",
+                        "primary": "#0058be",
+                        "surface-tint": "#005ac2",
+                        "surface-container-high": "#e6e7f2",
+                        "secondary-fixed-dim": "#4edea3",
+                        "surface-bright": "#f9f9ff",
+                        "surface-variant": "#e1e2ec",
+                        "on-tertiary-fixed-variant": "#930013",
+                        "error-container": "#ffdad6",
+                        "on-surface": "#191b23",
+                        "on-background": "#191b23",
+                        "on-secondary-fixed-variant": "#005236",
+                        "outline": "#727785",
+                        "tertiary-fixed": "#ffdad7",
+                        "on-primary-container": "#fefcff",
+                        "inverse-primary": "#adc6ff",
+                        "inverse-surface": "#2e3038",
+                        "primary-fixed": "#d8e2ff",
+                        "on-error": "#ffffff",
+                        "secondary-fixed": "#6ffbbe",
+                        "on-primary-fixed-variant": "#004395",
+                        "on-surface-variant": "#424754",
+                        "background": "#f9f9ff",
+                        "on-secondary-fixed": "#002113",
+                        "on-primary-fixed": "#001a42",
+                        "on-secondary-container": "#00714d",
+                        "secondary": "#006c49",
+                        "outline-variant": "#c2c6d6",
+                        "on-tertiary-container": "#fffbff",
+                        "on-primary": "#ffffff",
+                        "tertiary-fixed-dim": "#ffb3ad",
+                        "on-secondary": "#ffffff",
+                        "surface-container-highest": "#e1e2ec"
+                    },
+                    fontFamily: {
+                        "headline": ["Manrope"],
+                        "body": ["Inter"],
+                        "label": ["Inter"]
+                    },
+                    borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+                },
+            },
+        }
+    </script>
+<style>
+        .material-symbols-outlined {
+            font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+        }
+        .active-nav-item {
+            font-variation-settings: 'FILL' 1;
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f9f9ff;
+        }
+        .headline-font {
+            font-family: 'Manrope', sans-serif;
+        }
+        .hide-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        .hide-scrollbar {
+            -ms-overflow-style: none;
+            scrollbar-width: none;
+        }
+    </style>
+</head>
+<body class="text-on-surface bg-surface min-h-screen pb-32">
+<!-- TopAppBar -->
+<header class="fixed top-0 w-full z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md shadow-sm dark:shadow-none flex justify-between items-center px-6 h-16 w-full">
+<div class="flex items-center gap-4">
+<button class="text-on-surface-variant hover:bg-blue-50 transition-colors p-2 rounded-full">
+<span class="material-symbols-outlined">arrow_back</span>
+</button>
+<div class="flex flex-col">
+<h1 class="text-xl font-extrabold tracking-tighter text-blue-800 dark:text-blue-300 headline-font leading-tight">YKS Deneme Sınavı #4</h1>
+<span class="text-xs font-medium text-on-surface-variant">Matematik: Türev ve Uygulamaları</span>
+</div>
+</div>
+<div class="flex items-center gap-4">
+<div class="flex items-center gap-2 bg-surface-container-high px-4 py-2 rounded-full">
+<span class="material-symbols-outlined text-primary text-sm" style="font-variation-settings: 'FILL' 1;">timer</span>
+<span class="text-sm font-bold text-primary headline-font">42:15</span>
+</div>
+<button class="scale-95 active:opacity-80 transition-all p-2 rounded-full hover:bg-blue-50">
+<span class="material-symbols-outlined text-on-surface-variant">notifications_active</span>
+</button>
+<div class="w-8 h-8 rounded-full bg-primary-fixed flex items-center justify-center overflow-hidden ring-2 ring-primary-container">
+<img alt="User profile avatar with progress ring" class="w-full h-full object-cover" data-alt="Close up of a student avatar" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCJYeEPFr6JQREGRu6AAj_ttdeP5X7Gp_Hq9w38YRGd5TEr1T_-_dfO31JaLWVUuEh7Z4bERWDyYCJgKnYTfus7VOiP_aMtB387eUaMc1CtgqRvK-RqErlTxSrqUY3dwjQgZpX_rf7vi1GgLLtrYclhwF-b5GXA7A5fUOiv8LA9yw-5HnRH-_NTkO2CM0rz1mGlHIAAZ0XcgT7KUtrQFIIMweDdnF68Sbq6IPThNT9ERYWyv16PPVPGdprwdqTUkx65HwFMDf65sEBM"/>
+</div>
+</div>
+</header>
+<!-- Main Content Area -->
+<main class="pt-24 px-4 max-w-4xl mx-auto flex flex-col gap-8">
+<!-- Progress Bar -->
+<div class="w-full space-y-2">
+<div class="flex justify-between items-end px-1">
+<span class="text-xs font-bold text-primary tracking-widest uppercase">Soru 12 / 40</span>
+<span class="text-xs font-semibold text-on-surface-variant uppercase">%30 Tamamlandı</span>
+</div>
+<div class="h-3 w-full bg-surface-container-highest rounded-full overflow-hidden">
+<div class="h-full w-[30%] bg-gradient-to-r from-primary to-primary-container rounded-full"></div>
+</div>
+</div>
+<!-- Question Section -->
+<section class="flex flex-col gap-10">
+<!-- Question Card -->
+<div class="bg-surface-container-lowest p-8 md:p-12 rounded-[2rem] shadow-[0_20px_40px_rgba(25,27,35,0.06)] relative overflow-hidden">
+<div class="absolute top-0 left-0 w-1.5 h-full bg-primary"></div>
+<div class="flex flex-col gap-6">
+<div class="prose prose-slate max-w-none">
+<p class="text-lg md:text-xl font-medium text-on-surface leading-relaxed body-lg">
+                            f(x) = x³ - 3x² + 4 fonksiyonunun [0, 3] aralığındaki yerel maksimum noktasının koordinatları toplamı kaçtır?
+                        </p>
+</div>
+<!-- Question Image (If any) -->
+<div class="w-full aspect-video rounded-2xl bg-surface-container overflow-hidden group">
+<img alt="Mathematical function graph on coordinate plane" class="w-full h-full object-contain p-4 group-hover:scale-105 transition-transform duration-500" data-alt="A clean mathematical graph showing a cubic function" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD6lOoRC3tODrFYghDpelLlJTZQf8iLSa3kNOYTFRxu6Aczpv-mBhsxCnb_huxvrMWSK_guXalYT4rnAil4qL5_WO9xochr07NomSorB5i2AO3wEXuC_8O2IXmECQcXnrTbfzGstHOQI7sSEiLk0eNoXAkdwbAsvqNruPZQvaka1IhbiWS-NIK7H1JpdsI3km76DEvhXUlFV9BQ9b0tgCxPRs02JnjnR5zEhDblxaT3xHkG4ei1Py89L9BBzIx7mTfvUeNZI5_jY-Pr"/>
+</div>
+</div>
+</div>
+<!-- Options Grid -->
+<div class="grid grid-cols-1 gap-4">
+<!-- Option A -->
+<button class="group flex items-center p-5 bg-surface-container-high hover:bg-surface-container-highest transition-all duration-300 rounded-2xl text-left border-2 border-transparent hover:border-primary/20">
+<div class="w-10 h-10 rounded-xl bg-surface-container-lowest flex items-center justify-center text-primary font-bold mr-4 shadow-sm group-hover:bg-primary group-hover:text-on-primary transition-colors">A</div>
+<span class="text-on-surface font-semibold body-lg">2</span>
+</button>
+<!-- Option B (Selected State) -->
+<button class="group flex items-center p-5 bg-primary transition-all duration-300 rounded-2xl text-left shadow-lg translate-y-[-2px]">
+<div class="w-10 h-10 rounded-xl bg-on-primary flex items-center justify-center text-primary font-extrabold mr-4">B</div>
+<span class="text-on-primary font-semibold body-lg">4</span>
+<span class="material-symbols-outlined ml-auto text-on-primary" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+</button>
+<!-- Option C -->
+<button class="group flex items-center p-5 bg-surface-container-high hover:bg-surface-container-highest transition-all duration-300 rounded-2xl text-left border-2 border-transparent">
+<div class="w-10 h-10 rounded-xl bg-surface-container-lowest flex items-center justify-center text-primary font-bold mr-4 shadow-sm group-hover:bg-primary group-hover:text-on-primary transition-colors">C</div>
+<span class="text-on-surface font-semibold body-lg">6</span>
+</button>
+<!-- Option D -->
+<button class="group flex items-center p-5 bg-surface-container-high hover:bg-surface-container-highest transition-all duration-300 rounded-2xl text-left border-2 border-transparent">
+<div class="w-10 h-10 rounded-xl bg-surface-container-lowest flex items-center justify-center text-primary font-bold mr-4 shadow-sm group-hover:bg-primary group-hover:text-on-primary transition-colors">D</div>
+<span class="text-on-surface font-semibold body-lg">8</span>
+</button>
+<!-- Option E -->
+<button class="group flex items-center p-5 bg-surface-container-high hover:bg-surface-container-highest transition-all duration-300 rounded-2xl text-left border-2 border-transparent">
+<div class="w-10 h-10 rounded-xl bg-surface-container-lowest flex items-center justify-center text-primary font-bold mr-4 shadow-sm group-hover:bg-primary group-hover:text-on-primary transition-colors">E</div>
+<span class="text-on-surface font-semibold body-lg">10</span>
+</button>
+</div>
+</section>
+<!-- Navigation Controls -->
+<section class="flex justify-between items-center py-6">
+<button class="flex items-center gap-2 px-6 py-3 rounded-xl font-bold text-primary hover:bg-blue-50 transition-all active:scale-95">
+<span class="material-symbols-outlined">chevron_left</span>
+<span>Önceki Soru</span>
+</button>
+<button class="flex items-center gap-2 px-8 py-3 rounded-xl font-bold bg-gradient-to-br from-primary to-primary-container text-on-primary shadow-lg shadow-primary/20 hover:shadow-primary/40 transition-all active:scale-95">
+<span>Sonraki Soru</span>
+<span class="material-symbols-outlined">chevron_right</span>
+</button>
+</section>
+</main>
+<!-- Navigation & Action Panel -->
+<div class="fixed bottom-0 left-0 w-full z-40 bg-white/95 backdrop-blur-xl shadow-[0_-10px_40px_rgba(0,0,0,0.08)] border-t border-surface-container-high px-6 py-4 flex flex-col md:flex-row gap-6 items-center">
+<!-- Question Grid -->
+<div class="flex-1 w-full overflow-x-auto hide-scrollbar">
+<div class="flex gap-2 min-w-max">
+<!-- Solved -->
+<button class="w-9 h-9 rounded-lg bg-secondary-container text-on-secondary-container text-xs font-bold flex items-center justify-center hover:scale-105 transition-transform">1</button>
+<button class="w-9 h-9 rounded-lg bg-secondary-container text-on-secondary-container text-xs font-bold flex items-center justify-center hover:scale-105 transition-transform">2</button>
+<button class="w-9 h-9 rounded-lg bg-secondary-container text-on-secondary-container text-xs font-bold flex items-center justify-center hover:scale-105 transition-transform">3</button>
+<button class="w-9 h-9 rounded-lg bg-secondary-container text-on-secondary-container text-xs font-bold flex items-center justify-center hover:scale-105 transition-transform">4</button>
+<button class="w-9 h-9 rounded-lg bg-secondary-container text-on-secondary-container text-xs font-bold flex items-center justify-center hover:scale-105 transition-transform">5</button>
+<!-- Marked as Important -->
+<button class="w-9 h-9 rounded-lg bg-tertiary-fixed text-on-tertiary-fixed text-xs font-bold flex items-center justify-center ring-2 ring-tertiary/20">6</button>
+<!-- Active -->
+<button class="w-9 h-9 rounded-lg bg-primary text-on-primary text-xs font-bold flex items-center justify-center ring-4 ring-primary/20 shadow-md">12</button>
+<!-- Unsolved -->
+<div class="flex gap-2">
+<button class="w-9 h-9 rounded-lg bg-surface-container-high text-on-surface-variant text-xs font-bold flex items-center justify-center hover:bg-surface-container-highest">13</button>
+<button class="w-9 h-9 rounded-lg bg-surface-container-high text-on-surface-variant text-xs font-bold flex items-center justify-center hover:bg-surface-container-highest">14</button>
+<button class="w-9 h-9 rounded-lg bg-surface-container-high text-on-surface-variant text-xs font-bold flex items-center justify-center hover:bg-surface-container-highest">15</button>
+<button class="w-9 h-9 rounded-lg bg-surface-container-high text-on-surface-variant text-xs font-bold flex items-center justify-center hover:bg-surface-container-highest">16</button>
+<button class="w-9 h-9 rounded-lg bg-surface-container-high text-on-surface-variant text-xs font-bold flex items-center justify-center hover:bg-surface-container-highest">17</button>
+<button class="w-9 h-9 rounded-lg bg-surface-container-high text-on-surface-variant text-xs font-bold flex items-center justify-center hover:bg-surface-container-highest">18</button>
+</div>
+<button class="w-9 h-9 rounded-lg border-2 border-dashed border-outline-variant text-on-surface-variant text-[10px] font-bold flex items-center justify-center opacity-50">40</button>
+</div>
+</div>
+<div class="flex gap-3 w-full md:w-auto shrink-0">
+<button class="flex-1 md:flex-none flex items-center justify-center gap-2 px-6 h-12 rounded-xl font-bold border-2 border-error text-error hover:bg-error-container/20 transition-all active:scale-95">
+<span class="material-symbols-outlined text-xl">flag</span>
+<span class="hidden sm:inline">İşaretle</span>
+</button>
+<button class="flex-1 md:flex-none flex items-center justify-center gap-2 px-8 h-12 rounded-xl font-bold bg-on-surface text-surface-lowest shadow-xl hover:bg-on-surface-variant transition-all active:scale-95">
+<span class="material-symbols-outlined text-xl">done_all</span>
+<span>Sınavı Bitir</span>
+</button>
+</div>
+</div>
+</body></html>

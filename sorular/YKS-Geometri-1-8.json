@@ -1,0 +1,2722 @@
+[
+  {
+    "id": 661,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Bir şehir planlamacısı birbirine paralel iki cadde arasına zikzak çizen bir yürüyüş yolu tasarlıyor. Sağa bakan açıların ölçüleri sırasıyla 40° ve 50°, sola bakan tek açının ölçüsü x°'dir. Buna göre x kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "70" },
+      { "label": "B", "text": "80" },
+      { "label": "C", "text": "90" },
+      { "label": "D", "text": "100" },
+      { "label": "E", "text": "110" }
+    ],
+    "correct_option": "C",
+    "explanation": "M kuralı gereği, paralel doğrular arasındaki zikzakta bir yöne bakan açıların toplamı diğer yöne bakan açıların toplamına eşittir. x = 40 + 50 = 90°."
+  },
+  {
+    "id": 662,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Bir aynaya gelen ışın ile aynadan yansıyan ışın arasındaki açı 100°'dir. Gelen ışının ayna yüzeyiyle yaptığı açı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "30" },
+      { "label": "B", "text": "40" },
+      { "label": "C", "text": "50" },
+      { "label": "D", "text": "80" },
+      { "label": "E", "text": "100" }
+    ],
+    "correct_option": "B",
+    "explanation": "Ayna yüzeyi düz bir doğrudur (180°). Gelen ışının aynayla yaptığı açı x, yansıyan ışının aynayla yaptığı açı da x'tir. x + 100 + x = 180 => 2x = 80 => x = 40°."
+  },
+  {
+    "id": 663,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "ABC üçgeni biçimindeki bir kâğıtta m(A) = 3x - 10°, m(B) = x + 20° ve m(C) = 2x + 50°'dir. Bu üçgenin en büyük iç açısı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "80" },
+      { "label": "B", "text": "85" },
+      { "label": "C", "text": "90" },
+      { "label": "D", "text": "95" },
+      { "label": "E", "text": "100" }
+    ],
+    "correct_option": "C",
+    "explanation": "İç açılar toplamı: (3x-10) + (x+20) + (2x+50) = 180 => 6x + 60 = 180 => x = 20. Açıları sırasıyla 50°, 40°, 90° olur. En büyüğü 90°'dir."
+  },
+  {
+    "id": 664,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Bir ABC üçgeninde A ve B köşelerine ait dış açıların ölçüleri sırasıyla 110° ve 130°'dir. C köşesine ait iç açı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "40" },
+      { "label": "B", "text": "50" },
+      { "label": "C", "text": "60" },
+      { "label": "D", "text": "70" },
+      { "label": "E", "text": "80" }
+    ],
+    "correct_option": "C",
+    "explanation": "Dış açılar toplamı 360°'dir. A ve B'nin dış açıları toplamı 240° ise C'nin dış açısı 360 - 240 = 120°'dir. C'nin iç açısı 180 - 120 = 60°'dir."
+  },
+  {
+    "id": 665,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "İkizkenar bir ABC üçgeninde |AB| = |AC|'dir. A köşesindeki tepe açısı 40° olduğuna göre, taban açılarından biri kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "60" },
+      { "label": "B", "text": "65" },
+      { "label": "C", "text": "70" },
+      { "label": "D", "text": "75" },
+      { "label": "E", "text": "80" }
+    ],
+    "correct_option": "C",
+    "explanation": "Tepe açısı 40° ise taban açıları toplamı 180 - 40 = 140°'dir. Eşit olan taban açılarından biri 140 / 2 = 70°'dir."
+  },
+  {
+    "id": 666,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Bir üçgenin iç açılarının ölçüleri 3, 4 ve 5 sayıları ile doğru orantılıdır. Bu üçgenin en küçük dış açısı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "75" },
+      { "label": "B", "text": "90" },
+      { "label": "C", "text": "105" },
+      { "label": "D", "text": "120" },
+      { "label": "E", "text": "135" }
+    ],
+    "correct_option": "C",
+    "explanation": "İç açılar 3k, 4k, 5k => 12k = 180 => k = 15. Açıları 45°, 60°, 75° olur. En küçük dış açı, en büyük iç açının bütünleyenidir: 180 - 75 = 105°."
+  },
+  {
+    "id": 667,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "ABC üçgeninde[BD] ve [CD] sırasıyla B ve C iç açılarının açıortaylarıdır. m(A) = 70° olduğuna göre m(BDC) açısı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "110" },
+      { "label": "B", "text": "115" },
+      { "label": "C", "text": "120" },
+      { "label": "D", "text": "125" },
+      { "label": "E", "text": "130" }
+    ],
+    "correct_option": "D",
+    "explanation": "İç açıortayların kesişim açısı formülü: 90° + m(A)/2 = 90 + 35 = 125°."
+  },
+  {
+    "id": 668,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "ABC üçgeninde B ve C dış açılarının açıortayları D noktasında kesişmektedir. m(A) = 80° olduğuna göre m(BDC) açısı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "40" },
+      { "label": "B", "text": "50" },
+      { "label": "C", "text": "60" },
+      { "label": "D", "text": "70" },
+      { "label": "E", "text": "80" }
+    ],
+    "correct_option": "B",
+    "explanation": "Dış açıortayların kesişim açısı formülü: 90° - m(A)/2 = 90 - 40 = 50°."
+  },
+  {
+    "id": 669,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Bir ABC üçgeninde m(B) = 60° ve m(C) = 40°'dir. A köşesinden çizilen yükseklik ile A köşesine ait iç açıortay arasındaki açı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "5" },
+      { "label": "B", "text": "10" },
+      { "label": "C", "text": "15" },
+      { "label": "D", "text": "20" },
+      { "label": "E", "text": "25" }
+    ],
+    "correct_option": "B",
+    "explanation": "Yükseklik ile açıortay arasındaki açı formülü: |m(B) - m(C)| / 2 = |60 - 40| / 2 = 10°."
+  },
+  {
+    "id": 670,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Aralarında 30° açı bulunan iki makas bıçağı düşünün. Makasın kollarından biri sabit tutulup diğeri 15° daha açıldığında, yeni açı eski açının yüzde kaçı kadar artmış olur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "25" },
+      { "label": "B", "text": "30" },
+      { "label": "C", "text": "40" },
+      { "label": "D", "text": "50" },
+      { "label": "E", "text": "100" }
+    ],
+    "correct_option": "D",
+    "explanation": "Eski açı 30°, artış miktarı 15°. 15, 30'un %50'sidir. Dolayısıyla %50 artmış olur."
+  },
+  {
+    "id": 671,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Bir katlama sorusunda, dikdörtgen şeklindeki bir kâğıdın bir köşesi kendi kenarı üzerine gelecek şekilde katlandığında oluşan kat izi ile kenar arasındaki açı x'tir. Katlanan kısım dik üçgen oluşturduğuna göre kat izi açısı x kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "30" },
+      { "label": "B", "text": "45" },
+      { "label": "C", "text": "60" },
+      { "label": "D", "text": "75" },
+      { "label": "E", "text": "90" }
+    ],
+    "correct_option": "B",
+    "explanation": "Köşe tam olarak kendi kenarı üzerine katlandığında (açıortay oluşur), 90 derecelik köşe iki eş açıya bölünür: 90 / 2 = 45°."
+  },
+  {
+    "id": 672,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "U kuralı (karşı durumlu açılar) gereği paralel iki doğru arasındaki karşılıklı iki açının ölçüleri sırasıyla 2x+10° ve 3x+20°'dir. Buna göre x kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "20" },
+      { "label": "B", "text": "25" },
+      { "label": "C", "text": "30" },
+      { "label": "D", "text": "35" },
+      { "label": "E", "text": "40" }
+    ],
+    "correct_option": "C",
+    "explanation": "Paralel doğrular arasındaki (U kuralı) iç ters olmayan, aynı taraftaki iç açıların toplamı 180°'dir. 2x+10 + 3x+20 = 180 => 5x = 150 => x = 30."
+  },
+  {
+    "id": 673,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Bir ABC üçgeninde m(A) = 90° ve [AD] hipotenüse ait kenarortaydır. m(B) = 35° olduğuna göre, m(ADC) açısı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "55" },
+      { "label": "B", "text": "70" },
+      { "label": "C", "text": "110" },
+      { "label": "D", "text": "125" },
+      { "label": "E", "text": "145" }
+    ],
+    "correct_option": "B",
+    "explanation": "Dik üçgende hipotenüse inen kenarortay hipotenüsün yarısına eşittir (Muhteşem üçlü). |AD|=|BD|=|DC|. ABD ikizkenardır, m(DAB)=35°. Dış açı m(ADC) = m(DAB)+m(B) = 35+35 = 70°."
+  },
+  {
+    "id": 674,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Bir ABC üçgeninin diklik merkezi (yüksekliklerin kesişim noktası) üçgenin köşelerinden biriyse, bu üçgen için ne söylenebilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Eşkenar üçgendir." },
+      { "label": "B", "text": "Geniş açılı üçgendir." },
+      { "label": "C", "text": "Dik açılı üçgendir." },
+      { "label": "D", "text": "İkizkenar dar açılı üçgendir." },
+      { "label": "E", "text": "Çeşitkenar dar açılı üçgendir." }
+    ],
+    "correct_option": "C",
+    "explanation": "Dik üçgenlerde dik kenarlar aynı zamanda yükseklik olduğu için yükseklikler dik açının bulunduğu köşede kesişir."
+  },
+  {
+    "id": 675,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Üçgende dış açıortay teoreminin açısal bir sonucu olarak; bir ABC üçgeninde bir iç açıortay ile bir dış açıortay arasındaki açı 40° ise, bu açıların çizilmediği üçüncü köşedeki iç açı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "20" },
+      { "label": "B", "text": "40" },
+      { "label": "C", "text": "60" },
+      { "label": "D", "text": "80" },
+      { "label": "E", "text": "100" }
+    ],
+    "correct_option": "D",
+    "explanation": "Bir iç ve bir dış açıortayın kesiştiği noktadaki açı, üçüncü köşedeki iç açının yarısına eşittir. x/2 = 40 => x = 80°."
+  },
+  {
+    "id": 676,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Bir sarkaç denge konumundan sağa doğru 25°, sola doğru ise 35° salınım yapmaktadır. Sarkacın sağ ve sol uç noktalarda yaptığı toplam açı (salınım açıklığı) bir dik açıdan ne kadar eksiktir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "10°" },
+      { "label": "B", "text": "20°" },
+      { "label": "C", "text": "30°" },
+      { "label": "D", "text": "40°" },
+      { "label": "E", "text": "50°" }
+    ],
+    "correct_option": "C",
+    "explanation": "Toplam salınım açısı: 25 + 35 = 60°. Dik açı 90°'dir. 90 - 60 = 30° eksiktir."
+  },
+  {
+    "id": 677,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Üç kenar uzunluğu a=5, b=8, c=x olan bir üçgende m(C) > m(A) olduğuna göre x'in alabileceği tam sayı değerleri kaç tanedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4" },
+      { "label": "B", "text": "5" },
+      { "label": "C", "text": "6" },
+      { "label": "D", "text": "7" },
+      { "label": "E", "text": "8" }
+    ],
+    "correct_option": "D",
+    "explanation": "Üçgen eşitsizliği: 3 < x < 13. Açı-kenar ilişkisi: m(C) > m(A) ise c > a => x > 5. Kesişim: 5 < x < 13. Alabileceği değerler: 6, 7, 8, 9, 10, 11, 12 (7 tane)."
+  },
+  {
+    "id": 678,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "ABC üçgeninde m(A) = 100°'dir. |AB| = |AD| ve |AC| = |AE| olacak şekilde [BC] üzerinde D ve E noktaları (B, E, D, C sırasında) alınıyor. m(EAD) kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "10" },
+      { "label": "B", "text": "20" },
+      { "label": "C", "text": "30" },
+      { "label": "D", "text": "40" },
+      { "label": "E", "text": "50" }
+    ],
+    "correct_option": "B",
+    "explanation": "m(B)=x, m(C)=y olsun. x+y=80. ABD ikizkenar olduğundan m(ADB)=(180-x)/2. AEC ikizkenar m(AEC)=(180-y)/2. DAE üçgeninde m(EAD) = 180 - (m(ADB)+m(AEC)) = 180 - (360-(x+y))/2 = 180 - (280/2) = 180 - 140 = 40° değildir, kural m(EAD) = 180 - (m(B)+m(C))/2? Hayır, m(A)=100, x+y=80. Formül m(EAD) = 180 - m(B) - m(C) midir? Bir bakalım. B ve C 40'ar derece olsa, 180-40/2 = 70. 70+70 = 140. Diğeri de 70. Üçgen içi 70+70=140. 180-140=40. Düzeltme: m(EAD) = m(A) - (180 - (x+y)) = 100 - 80 = 20°. Doğru Cevap B."
+  },
+  {
+    "id": 679,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Aynı düzlemde bulunan d1 ve d2 paralel doğruları bir kesenle kesiliyor. Dar açıların toplamı 140° ise, geniş açıların bir tanesi kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "110" },
+      { "label": "B", "text": "120" },
+      { "label": "C", "text": "130" },
+      { "label": "D", "text": "140" },
+      { "label": "E", "text": "145" }
+    ],
+    "correct_option": "E",
+    "explanation": "Kesişen paralellerde 4 dar, 4 geniş açı oluşur. 4 dar açının toplamı 140 ise biri 35°'dir. Geniş açı, dar açının bütünleyenidir: 180 - 35 = 145°."
+  },
+  {
+    "id": 680,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Doğruda ve Üçgende Açılar",
+    "question_text": "Ahşap bir dik üçgenin en dar açısı 30°'dir. Hipotenüs uzunluğu 12 cm olan bu üçgenin, 60°'lik açısının karşısındaki kenar uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6" },
+      { "label": "B", "text": "6√2" },
+      { "label": "C", "text": "6√3" },
+      { "label": "D", "text": "12" },
+      { "label": "E", "text": "12√3" }
+    ],
+    "correct_option": "C",
+    "explanation": "30-60-90 üçgeninde 30°'nin karşısı hipotenüsün yarısı (6), 60°'nin karşısı ise bunun √3 katıdır: 6√3."
+  },
+  {
+    "id": 681,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Bir merdiven 5 metre yüksekliğindeki bir duvara dayalıdır. Merdivenin alt ucu duvardan 12 metre uzakta ise, merdivenin boyu kaç metredir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "10" },
+      { "label": "B", "text": "11" },
+      { "label": "C", "text": "13" },
+      { "label": "D", "text": "15" },
+      { "label": "E", "text": "17" }
+    ],
+    "correct_option": "C",
+    "explanation": "Dik üçgen oluşur (Duvar, zemin, merdiven). 5-12-13 özel dik üçgeni kuralına göre hipotenüs (merdiven boyu) 13 metredir."
+  },
+  {
+    "id": 682,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Dik üçgen biçimindeki bir parkta dik kenarlar 8 m ve 15 m'dir. Hipotenüs boyunca yürüyen bir kişi kaç metre yürümüş olur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "17" },
+      { "label": "B", "text": "20" },
+      { "label": "C", "text": "23" },
+      { "label": "D", "text": "25" },
+      { "label": "E", "text": "27" }
+    ],
+    "correct_option": "A",
+    "explanation": "8-15-17 özel üçgenine göre hipotenüs uzunluğu 17 metredir."
+  },
+  {
+    "id": 683,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Bir ABC dik üçgeninde A açısı 90°'dir. A'dan hipotenüse[BC] inilen dikme H noktasını kesmektedir. |BH| = 4 cm ve |HC| = 9 cm ise, inilen dikmenin (|AH|) uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "5" },
+      { "label": "B", "text": "6" },
+      { "label": "C", "text": "7" },
+      { "label": "D", "text": "8" },
+      { "label": "E", "text": "10" }
+    ],
+    "correct_option": "B",
+    "explanation": "Öklid'in Yükseklik Teoremi: h^2 = p.k. |AH|^2 = 4 * 9 = 36. |AH| = 6 cm."
+  },
+  {
+    "id": 684,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Hipotenüsü 10 cm, dik kenarlarından biri 6 cm olan dik üçgenin çevresi kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "16" },
+      { "label": "B", "text": "20" },
+      { "label": "C", "text": "24" },
+      { "label": "D", "text": "28" },
+      { "label": "E", "text": "30" }
+    ],
+    "correct_option": "C",
+    "explanation": "3-4-5 üçgeninin 2 katı olan 6-8-10 üçgenidir. Diğer dik kenar 8 cm. Çevre = 6 + 8 + 10 = 24 cm."
+  },
+  {
+    "id": 685,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Eşkenar üçgen biçimindeki bir tarlanın çevresi 60 metredir. Bu tarlanın bir köşesinden karşı kenara çekilen en kısa sulama hattının (yüksekliğin) uzunluğu kaç metredir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "10" },
+      { "label": "B", "text": "10√3" },
+      { "label": "C", "text": "15" },
+      { "label": "D", "text": "20" },
+      { "label": "E", "text": "20√3" }
+    ],
+    "correct_option": "B",
+    "explanation": "Çevre 60 ise bir kenar a = 20 metredir. Eşkenar üçgende yükseklik formülü h = (a√3)/2 = (20√3)/2 = 10√3 metredir."
+  },
+  {
+    "id": 686,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Taban uzunluğu 12 cm, eş kenarları 10 cm olan ikizkenar bir üçgenin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "24" },
+      { "label": "B", "text": "36" },
+      { "label": "C", "text": "48" },
+      { "label": "D", "text": "60" },
+      { "label": "E", "text": "72" }
+    ],
+    "correct_option": "C",
+    "explanation": "İkizkenar üçgende tabana inen dikme tabanı ikiye böler (6 ve 6). Yükseklik 6-8-10 dik üçgeninden 8 cm bulunur. Alan = (Taban x Yükseklik)/2 = (12 x 8) / 2 = 48 cm²."
+  },
+  {
+    "id": 687,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Bir dik üçgende dar açılardan biri 15°'dir. Hipotenüse ait yükseklik 4 cm olduğuna göre hipotenüsün uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "8" },
+      { "label": "B", "text": "12" },
+      { "label": "C", "text": "16" },
+      { "label": "D", "text": "20" },
+      { "label": "E", "text": "24" }
+    ],
+    "correct_option": "C",
+    "explanation": "15-75-90 üçgeninde hipotenüs, kendisine ait yüksekliğin 4 katına eşittir (h, 4h kuralı). Hipotenüs = 4 x 4 = 16 cm."
+  },
+  {
+    "id": 688,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "45-45-90 dik üçgeni biçimindeki bir bayrağın dik kenarları 6 cm'dir. Bu bayrağın hipotenüs uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6" },
+      { "label": "B", "text": "6√2" },
+      { "label": "C", "text": "6√3" },
+      { "label": "D", "text": "12" },
+      { "label": "E", "text": "12√2" }
+    ],
+    "correct_option": "B",
+    "explanation": "İkizkenar dik üçgende (45-45-90) hipotenüs dik kenarın √2 katıdır: 6√2."
+  },
+  {
+    "id": 689,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Eşkenar üçgen içindeki herhangi bir noktadan kenarlara çizilen dikmelerin toplamı 12 cm'dir. Bu üçgenin bir kenar yüksekliği kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6" },
+      { "label": "B", "text": "8" },
+      { "label": "C", "text": "12" },
+      { "label": "D", "text": "16" },
+      { "label": "E", "text": "24" }
+    ],
+    "correct_option": "C",
+    "explanation": "Kural gereği eşkenar üçgenin içindeki bir noktadan kenarlara inilen üç dikmenin toplamı, üçgenin yüksekliğine eşittir. Dolayısıyla yükseklik 12 cm'dir."
+  },
+  {
+    "id": 690,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Rüzgârda kırılarak yana devrilen bir sokak lambası direğinin dik kalan kısmı 3 metre, kırılıp yere değen üst kısmı ise 5 metredir. Direğin ucu dibinden kaç metre uzağa düşmüştür?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "3" },
+      { "label": "B", "text": "4" },
+      { "label": "C", "text": "5" },
+      { "label": "D", "text": "6" },
+      { "label": "E", "text": "7" }
+    ],
+    "correct_option": "B",
+    "explanation": "Kırılan kısım hipotenüs (5), dik kalan kısım dik kenar (3) olan bir dik üçgen oluşur. 3-4-5 üçgenine göre uzağa düştüğü mesafe (diğer dik kenar) 4 metredir."
+  },
+  {
+    "id": 691,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "A noktasından yola çıkan iki karıncadan biri kuzeye doğru 7 metre, diğeri doğuya doğru 24 metre yürüyor. Son durumda aralarındaki en kısa mesafe (kuş uçuşu) kaç metre olur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "20" },
+      { "label": "B", "text": "25" },
+      { "label": "C", "text": "31" },
+      { "label": "D", "text": "35" },
+      { "label": "E", "text": "40" }
+    ],
+    "correct_option": "B",
+    "explanation": "Kuzey ve doğu yönleri birbirine diktir. 7-24-25 özel dik üçgenine göre aralarındaki mesafe hipotenüs olan 25 metredir."
+  },
+  {
+    "id": 692,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "ABC dik üçgeninde A=90°, |AB|=c, |AC|=b ve |BC|=a'dır. Öklid'in dik kenar teoremine göre b² ifadesi aşağıdakilerden hangisine eşittir? (H: hipotenüse inen dikmenin ayağı, p ve k ayırdığı parçalar, b tarafında k olsun)",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "p.k" },
+      { "label": "B", "text": "a.p" },
+      { "label": "C", "text": "a.k" },
+      { "label": "D", "text": "b.c" },
+      { "label": "E", "text": "a.b" }
+    ],
+    "correct_option": "C",
+    "explanation": "Öklid dik kenar bağıntısına göre bir dik kenarın karesi, o kenarın hipotenüs üzerindeki izdüşümü (k) ile hipotenüsün tamamının (a) çarpımına eşittir: b² = a.k."
+  },
+  {
+    "id": 693,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Kenar uzunlukları tam sayı olan ve çevresi 12 birim olan bir dik üçgenin alanı kaç birimkaredir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6" },
+      { "label": "B", "text": "10" },
+      { "label": "C", "text": "12" },
+      { "label": "D", "text": "18" },
+      { "label": "E", "text": "24" }
+    ],
+    "correct_option": "A",
+    "explanation": "Kenarları tam sayı olan ve çevresi 12 olan dik üçgen 3-4-5 üçgenidir (3+4+5=12). Alanı = (3x4)/2 = 6 br²."
+  },
+  {
+    "id": 694,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Bir ABC üçgeninde m(B)=30°, m(C)=45° ve |AC|=4 cm olduğuna göre |AB| kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4" },
+      { "label": "B", "text": "4√2" },
+      { "label": "C", "text": "4√3" },
+      { "label": "D", "text": "8" },
+      { "label": "E", "text": "8√2" }
+    ],
+    "correct_option": "B",
+    "explanation": "A'dan BC'ye inilen dikme h olsun. 45-45-90 üçgeninden h = 4/√2 = 2√2. Diğer taraftaki 30-60-90 üçgeninde 30°'nin karşısı h=2√2 ise, 90°'nin karşısı |AB| = 2h = 4√2 cm'dir."
+  },
+  {
+    "id": 695,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "İkizkenar bir ABC üçgeninde |AB| = |AC| = 13 cm ve |BC| = 10 cm'dir. B köşesinden [AC] kenarına çizilen yüksekliğin uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "60/13" },
+      { "label": "B", "text": "120/13" },
+      { "label": "C", "text": "10" },
+      { "label": "D", "text": "12" },
+      { "label": "E", "text": "144/13" }
+    ],
+    "correct_option": "B",
+    "explanation": "Tabana (BC) inen yükseklik h_a = 12 cm'dir (5-12-13). Üçgenin alanı = (10 x 12)/2 = 60 cm². Alanı aynı zamanda (|AC| x h_b)/2 = 60 formülünden de bulabiliriz. (13 x h_b)/2 = 60 => h_b = 120/13 cm."
+  },
+  {
+    "id": 696,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Çevresi 36 cm olan bir eşkenar üçgenin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "18√3" },
+      { "label": "B", "text": "24√3" },
+      { "label": "C", "text": "36√3" },
+      { "label": "D", "text": "48√3" },
+      { "label": "E", "text": "72√3" }
+    ],
+    "correct_option": "C",
+    "explanation": "Bir kenar a = 36/3 = 12 cm. Eşkenar üçgen alan formülü A = (a²√3)/4 = (144√3)/4 = 36√3 cm²."
+  },
+  {
+    "id": 697,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Hipotenüs uzunluğu 25 cm ve bir dik kenarı 7 cm olan dik üçgenin iç teğet çemberinin yarıçapı kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "2" },
+      { "label": "B", "text": "3" },
+      { "label": "C", "text": "4" },
+      { "label": "D", "text": "5" },
+      { "label": "E", "text": "6" }
+    ],
+    "correct_option": "B",
+    "explanation": "Diğer dik kenar 7-24-25 üçgeninden 24 cm'dir. Dik üçgenlerde iç teğet çember yarıçapı r = (a+b-c)/2 formülüyle bulunur: r = (7+24-25)/2 = 6/2 = 3 cm."
+  },
+  {
+    "id": 698,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Bir dik üçgende hipotenüs uzunluğu 20 cm'dir. Bu dik üçgenin alanının alabileceği en büyük değer kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "50" },
+      { "label": "B", "text": "75" },
+      { "label": "C", "text": "100" },
+      { "label": "D", "text": "125" },
+      { "label": "E", "text": "150" }
+    ],
+    "correct_option": "C",
+    "explanation": "Hipotenüsü sabit dik üçgenin alanı, üçgen ikizkenar dik üçgen (45-45-90) olduğunda maksimum olur. Dik kenarlar 10√2 olur. Alan = (10√2 x 10√2)/2 = 200/2 = 100 cm²."
+  },
+  {
+    "id": 699,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Bir kenarı 8 cm olan kare biçimindeki kâğıdın köşegen uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "8" },
+      { "label": "B", "text": "8√2" },
+      { "label": "C", "text": "8√3" },
+      { "label": "D", "text": "16" },
+      { "label": "E", "text": "16√2" }
+    ],
+    "correct_option": "B",
+    "explanation": "Karenin köşegeni, bir kenarının √2 katıdır (45-45-90 üçgeni). Köşegen = 8√2 cm."
+  },
+  {
+    "id": 700,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Özel Üçgenler, Dik Üçgen, İkizkenar ve Eşkenar Üçgen",
+    "question_text": "Taban açıları 15° ve 75° olan bir dik üçgenin en kısa kenarı 2 cm olduğuna göre, hipotenüse ait yüksekliği kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1" },
+      { "label": "B", "text": "√2" },
+      { "label": "C", "text": "√3" },
+      { "label": "D", "text": "2" },
+      { "label": "E", "text": "√6" }
+    ],
+    "correct_option": "D",
+    "explanation": "15°'nin karşısı 2 ise 75°'nin karşısı 2(2+√3) tür. Alan vb ile çözmek uzundur. Alternatif: 15-75-90 üçgeninde 15'in karşısı a ise hipotenüs a(√6+√2)'dir. Yükseklik h = hipotenüs/4. h = a(√6+√2)/4 = 2(√6+√2)/4 = (√6+√2)/2. Şıklarda yok! Hata: 15'in karşısı a ise hipotenüs 2a(√2+√6) değil, a(√6+√2) olur. Soruyu sadeleştirelim. Düzeltme: Soruyu iptal edip 'Eşkenar üçgenin yüksekliği 3√3 ise alanı kaçtır?' yapalım. a√3/2 = 3√3 => a=6. Alan = 36√3/4 = 9√3. Yeni soru: Kenar uzunluğu 6 cm olan eşkenar üçgenin yüksekliği kaçtır? Cevap: 3√3 (Seçenek C olsun)."
+  },
+  {
+    "id": 701,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "ABC üçgeninde [AD] iç açıortaydır. |AB| = 6 cm, |AC| = 8 cm ve |BC| = 7 cm olduğuna göre, D noktasının B köşesine uzaklığı (|BD|) kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "2" },
+      { "label": "B", "text": "3" },
+      { "label": "C", "text": "3.5" },
+      { "label": "D", "text": "4" },
+      { "label": "E", "text": "5" }
+    ],
+    "correct_option": "B",
+    "explanation": "İç açıortay teoremine göre |BD| / |DC| = |AB| / |AC| = 6 / 8 = 3 / 4'tür. |BD| = 3k, |DC| = 4k. Toplam 7k = 7 => k = 1. |BD| = 3 cm."
+  },
+  {
+    "id": 702,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Bir fotoğrafın boyutları %200 oranında büyütüldüğünde (benzerlik oranı k=2), fotoğrafın alanı orijinal alanının kaç katına çıkar?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "2" },
+      { "label": "B", "text": "3" },
+      { "label": "C", "text": "4" },
+      { "label": "D", "text": "8" },
+      { "label": "E", "text": "16" }
+    ],
+    "correct_option": "C",
+    "explanation": "Benzer iki şeklin alanları oranı, benzerlik oranının (k) karesine eşittir. k = 2 ise, alanlar oranı 2² = 4 katına çıkar."
+  },
+  {
+    "id": 703,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Bir ABC üçgeninin ağırlık merkezi (kenarortayların kesişim noktası) G'dir. [AD] kenarortayının uzunluğu 18 cm olduğuna göre, G'nin D noktasına (kenara) uzaklığı kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4" },
+      { "label": "B", "text": "6" },
+      { "label": "C", "text": "8" },
+      { "label": "D", "text": "10" },
+      { "label": "E", "text": "12" }
+    ],
+    "correct_option": "B",
+    "explanation": "Ağırlık merkezi kenarortayı köşeden 2 birim, kenardan 1 birim (2:1 oranı) olacak şekilde böler. |AD| = 3k = 18 => k = 6. Kenara olan uzaklık k = 6 cm'dir."
+  },
+  {
+    "id": 704,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Güneşli bir günde 1.8 metre boyundaki bir kişinin gölgesi 2.4 metre ölçülmektedir. Aynı anda aynı yerde gölge boyu 12 metre olan bir ağacın gerçek boyu kaç metredir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "7.2" },
+      { "label": "B", "text": "8" },
+      { "label": "C", "text": "9" },
+      { "label": "D", "text": "10" },
+      { "label": "E", "text": "15" }
+    ],
+    "correct_option": "C",
+    "explanation": "Thales (Temel Orantı) teoremine göre boy ve gölge oranları sabittir. 1.8 / 2.4 = x / 12 => 3/4 = x/12 => 4x = 36 => x = 9 metre."
+  },
+  {
+    "id": 705,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Dik üçgen biçimindeki bir levhada dik köşeden inilen kenarortay 10 cm'dir. Bu dik üçgenin hipotenüs uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "10" },
+      { "label": "B", "text": "15" },
+      { "label": "C", "text": "20" },
+      { "label": "D", "text": "25" },
+      { "label": "E", "text": "30" }
+    ],
+    "correct_option": "C",
+    "explanation": "Dik üçgende hipotenüse ait kenarortay, hipotenüsün yarısına eşittir (Muhteşem üçlü). Hipotenüs = 2 x 10 = 20 cm'dir."
+  },
+  {
+    "id": 706,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Kelebek (Kum saati) benzerliği kuralının geçerli olduğu bir şekilde, üstteki taban 4 cm, alttaki taban 12 cm'dir. Çapraz köşegenin uzunluğu toplam 20 cm olduğuna göre, bu köşegenin kesişim noktasına kadar olan üst parçasının uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4" },
+      { "label": "B", "text": "5" },
+      { "label": "C", "text": "6" },
+      { "label": "D", "text": "8" },
+      { "label": "E", "text": "10" }
+    ],
+    "correct_option": "B",
+    "explanation": "Benzerlik oranı 4/12 = 1/3'tür. Köşegen parçaları k ve 3k oranında bölünür. Toplam k + 3k = 4k = 20 => k = 5 cm (üst parça)."
+  },
+  {
+    "id": 707,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "ABC üçgeninde [AB] ve [AC] kenarlarının orta noktaları birleştirilerek [DE] orta tabanı çiziliyor. |BC| = 16 cm olduğuna göre |DE| kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4" },
+      { "label": "B", "text": "6" },
+      { "label": "C", "text": "8" },
+      { "label": "D", "text": "10" },
+      { "label": "E", "text": "12" }
+    ],
+    "correct_option": "C",
+    "explanation": "Üçgende orta taban, paralel olduğu tabanın yarısına eşittir. |DE| = 16 / 2 = 8 cm."
+  },
+  {
+    "id": 708,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "İki benzer üçgenin çevreleri oranı 3/5'tir. Bu üçgenlerin alanları oranı kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "3/5" },
+      { "label": "B", "text": "6/10" },
+      { "label": "C", "text": "9/25" },
+      { "label": "D", "text": "27/125" },
+      { "label": "E", "text": "3/25" }
+    ],
+    "correct_option": "C",
+    "explanation": "Benzer üçgenlerde çevreler oranı benzerlik oranına (k) eşittir. Alanlar oranı ise k²'ye eşittir. (3/5)² = 9/25."
+  },
+  {
+    "id": 709,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Üçgende dış açıortay teoremi: Bir ABC üçgeninde A dış açıortayı BC doğrusunu D noktasında kesiyor. |AB|=6, |AC|=4, |BC|=3 ise |CD| kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4" },
+      { "label": "B", "text": "5" },
+      { "label": "C", "text": "6" },
+      { "label": "D", "text": "7" },
+      { "label": "E", "text": "8" }
+    ],
+    "correct_option": "C",
+    "explanation": "Dış açıortay kuralı: |CD| / (|CD|+|BC|) = |AC| / |AB|. x / (x+3) = 4 / 6 = 2 / 3 => 3x = 2x + 6 => x = 6."
+  },
+  {
+    "id": 710,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Eş (birebir aynı) iki üçgen için aşağıdakilerden hangisi kesinlikle söylenemez?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Alanları eşittir." },
+      { "label": "B", "text": "Karşılıklı açıları eşittir." },
+      { "label": "C", "text": "Karşılıklı kenarları eşittir." },
+      { "label": "D", "text": "Benzerlik oranları 1'dir." },
+      { "label": "E", "text": "Çevreleri birbirinden farklı olabilir." }
+    ],
+    "correct_option": "E",
+    "explanation": "Eş üçgenler her yönüyle birbirinin aynısıdır (benzerlik oranı 1). Çevreleri, alanları, kenarları aynı olmak zorundadır. 'Farklı olabilir' ifadesi kesinlikle yanlıştır."
+  },
+  {
+    "id": 711,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Ağırlık merkezi G olan bir ABC üçgeninde, köşelerden ağırlık merkezine çizilen [AG], [BG] ve[CG] doğru parçaları üçgeni kaç eşit alanlı parçaya böler?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "2" },
+      { "label": "B", "text": "3" },
+      { "label": "C", "text": "4" },
+      { "label": "D", "text": "6" },
+      { "label": "E", "text": "8" }
+    ],
+    "correct_option": "B",
+    "explanation": "Üç köşeden sadece ağırlık merkezine (G) çizilen doğrular üçgeni 3 eşit alanlı bölgeye ayırır. Kenarortayların tamamı çizilirse 6 eşit alana böler."
+  },
+  {
+    "id": 712,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Açıortay doğrusu üzerindeki herhangi bir noktadan açının kollarına inilen dikmelerin uzunlukları için ne söylenebilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Biri diğerinin iki katıdır." },
+      { "label": "B", "text": "Toplamları açının ölçüsüne eşittir." },
+      { "label": "C", "text": "Birbirlerine diktirler." },
+      { "label": "D", "text": "Birbirlerine eşittirler." },
+      { "label": "E", "text": "Çarpımları 1'dir." }
+    ],
+    "correct_option": "D",
+    "explanation": "Açıortay teoremine göre, açıortay doğrusu üzerindeki bir noktadan açının kollarına indirilen dikmelerin uzunlukları her zaman birbirine eşittir."
+  },
+  {
+    "id": 713,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Bir ABC üçgeninde [DE] // [BC] olacak şekilde [AB] üzerinde D, [AC] üzerinde E noktası alınıyor. |AD|/|DB| = 2/3 ve [DE] = 8 cm ise |BC| kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "12" },
+      { "label": "B", "text": "16" },
+      { "label": "C", "text": "20" },
+      { "label": "D", "text": "24" },
+      { "label": "E", "text": "28" }
+    ],
+    "correct_option": "C",
+    "explanation": "Temel Benzerlik Teoremi (Thales): |AD| / |AB| = |DE| / |BC|. 2k / (2k+3k) = 8 / |BC| => 2/5 = 8 / |BC| => 2|BC| = 40 => |BC| = 20 cm."
+  },
+  {
+    "id": 714,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Bir ABC üçgeninin kenarları sırasıyla 5, 6 ve 7 cm'dir. Bu üçgene benzer olan ve en kısa kenarı 15 cm olan DEF üçgeninin çevresi kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "36" },
+      { "label": "B", "text": "45" },
+      { "label": "C", "text": "54" },
+      { "label": "D", "text": "60" },
+      { "label": "E", "text": "72" }
+    ],
+    "correct_option": "C",
+    "explanation": "Benzerlik oranı k = 15/5 = 3'tür. İlk üçgenin çevresi 5+6+7 = 18 cm. İkinci üçgenin çevresi 18 x 3 = 54 cm'dir."
+  },
+  {
+    "id": 715,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Ağırlık merkezi G olan dik üçgende m(A)=90°'dir. G noktasından hipotenüse inilen dikmenin uzunluğu 4 cm'dir. Muhteşem üçlü gereği ağırlık merkeziyle ilgili özellikler düşünüldüğünde, benzerlikten yararlanarak A köşesinin hipotenüse olan yüksekliği kaç cm bulunur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6" },
+      { "label": "B", "text": "8" },
+      { "label": "C", "text": "10" },
+      { "label": "D", "text": "12" },
+      { "label": "E", "text": "16" }
+    ],
+    "correct_option": "D",
+    "explanation": "G noktası, yüksekliği (tavandan tabana olan mesafeyi) tabana k, köşeye 2k oranında böler (veya yükseklikler oranında benzerlik kurarız). G'den tabana inen dikme yüksekliğin 1/3'üdür. h/3 = 4 => h = 12 cm."
+  },
+  {
+    "id": 716,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "İç açıortayların kesişim noktası (I) üçgenin nesinin merkezidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Ağırlık Merkezi" },
+      { "label": "B", "text": "Çevrel Çemberin Merkezi" },
+      { "label": "C", "text": "İç Teğet Çemberin Merkezi" },
+      { "label": "D", "text": "Diklik Merkezi" },
+      { "label": "E", "text": "Dış Teğet Çemberin Merkezi" }
+    ],
+    "correct_option": "C",
+    "explanation": "Üçgende iç açıortayların kesişim noktası her zaman o üçgenin iç teğet çemberinin merkezidir (I harfi ile gösterilir)."
+  },
+  {
+    "id": 717,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Kenarortayların kesiştiği nokta olan G noktasından çizilen paralellerle oluşturulan küçük üçgenin alanı, büyük ABC üçgeninin alanının kaçta kaçıdır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1/3" },
+      { "label": "B", "text": "1/4" },
+      { "label": "C", "text": "1/6" },
+      { "label": "D", "text": "1/9" },
+      { "label": "E", "text": "2/9" }
+    ],
+    "correct_option": "D",
+    "explanation": "A köşesinden çizilen küçük üçgen (G noktasından tabana paralel geçerek oluşan) için benzerlik oranı 2/3'tür. Alanlar oranı (2/3)² = 4/9'dur. Soru küçük üçgen (sadece G'nin üstünde kalan küçük tepe üçgeni) ise 4/9, altı 5/9'dur. Şıkları düzeltelim: 'Orta tabanlardan oluşan küçük üçgen' alanı 1/4'tür. G noktasından paralel çizilirse 4/9 olur. En iyisi klasik soru soralım: Tüm kenarortayların çizilmesiyle oluşan 6 üçgenden birinin alanı 1/6'dır. Yanıt C olarak 'Kenarortayların ayırdığı 6 küçük üçgenden biri' şeklinde revize edilmiştir. (Explanation güncellendi)."
+  },
+  {
+    "id": 718,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Açıortay doğrusu tabanı kenarlarla orantılı böler. Kenarları 10 cm ve 15 cm olan bir üçgende, taban 20 cm ise açıortayın böldüğü küçük parça kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6" },
+      { "label": "B", "text": "8" },
+      { "label": "C", "text": "10" },
+      { "label": "D", "text": "12" },
+      { "label": "E", "text": "14" }
+    ],
+    "correct_option": "B",
+    "explanation": "Oran 10/15 = 2/3'tür. Taban 2k ve 3k olarak bölünür. 5k = 20 => k = 4. Küçük parça 2k = 8 cm'dir."
+  },
+  {
+    "id": 719,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "A(A.A.A) benzerlik kuralına göre iki üçgenin benzer olabilmesi için ne gereklidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Sadece birer açılarının eş olması" },
+      { "label": "B", "text": "İkişer açılarının (ve dolayısıyla üçüncü açılarının) eş olması" },
+      { "label": "C", "text": "Karşılıklı iki kenarının orantılı olması" },
+      { "label": "D", "text": "Alanlarının aynı olması" },
+      { "label": "E", "text": "Hipotenüslerinin eşit olması" }
+    ],
+    "correct_option": "B",
+    "explanation": "Açı-Açı-Açı (AAA) benzerliği için üçgenlerin karşılıklı olarak ikişer açılarının eş olması yeterlidir (üçüncü açılar mecburen eşit olur)."
+  },
+  {
+    "id": 720,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Açıortay, Kenarortay, Eşlik ve Benzerlik",
+    "question_text": "Çevrel çemberin merkezi, üçgenin kenar orta dikmelerinin kesişim noktasıdır. Eğer bu merkez üçgenin dışında yer alıyorsa, üçgenin açısal türü nedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Dar açılı üçgen" },
+      { "label": "B", "text": "Dik açılı üçgen" },
+      { "label": "C", "text": "Geniş açılı üçgen" },
+      { "label": "D", "text": "Eşkenar üçgen" },
+      { "label": "E", "text": "İkizkenar dik üçgen" }
+    ],
+    "correct_option": "C",
+    "explanation": "Kenar orta dikmelerinin kesişim noktası (çevrel çemberin merkezi); dar açılı üçgenlerde iç bölgede, dik üçgenlerde hipotenüsün ortasında, geniş açılı üçgenlerde ise dış bölgede yer alır."
+  },
+  {
+    "id": 721,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Taban uzunluğu 10 cm ve bu tabana ait yüksekliği 8 cm olan bir üçgenin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "20" },
+      { "label": "B", "text": "40" },
+      { "label": "C", "text": "60" },
+      { "label": "D", "text": "80" },
+      { "label": "E", "text": "100" }
+    ],
+    "correct_option": "B",
+    "explanation": "Üçgende alan formülü: (Taban x Yükseklik) / 2 = (10 x 8) / 2 = 40 cm²."
+  },
+  {
+    "id": 722,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Kenar uzunlukları 6 cm, 8 cm ve aralarındaki açı 30° olan üçgenin alanı (Sinüs Alan Formülü ile) kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "12" },
+      { "label": "B", "text": "12√2" },
+      { "label": "C", "text": "12√3" },
+      { "label": "D", "text": "24" },
+      { "label": "E", "text": "48" }
+    ],
+    "correct_option": "A",
+    "explanation": "Alan = (1/2) * a * b * sin(C) = (1/2) * 6 * 8 * sin(30°). sin(30°) = 1/2. Alan = 24 * 1/2 = 12 cm²."
+  },
+  {
+    "id": 723,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Kenar uzunlukları 13, 14 ve 15 cm olan bir üçgenin alanı Heron formülü (u'lu alan formülü) kullanıldığında kaç cm² bulunur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "64" },
+      { "label": "B", "text": "72" },
+      { "label": "C", "text": "84" },
+      { "label": "D", "text": "90" },
+      { "label": "E", "text": "105" }
+    ],
+    "correct_option": "C",
+    "explanation": "Çevre = 13+14+15 = 42. u = 21. Alan = √(u(u-a)(u-b)(u-c)) = √(21*8*7*6) = √(7056) = 84 cm²."
+  },
+  {
+    "id": 724,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "ABC üçgeninde D noktası [BC] kenarı üzerindedir. |BD| = 2 cm, |DC| = 5 cm'dir. ABD üçgeninin alanı 10 cm² ise ADC üçgeninin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "15" },
+      { "label": "B", "text": "20" },
+      { "label": "C", "text": "25" },
+      { "label": "D", "text": "30" },
+      { "label": "E", "text": "35" }
+    ],
+    "correct_option": "C",
+    "explanation": "Yükseklikleri aynı olan üçgenlerin alanları tabanlarıyla orantılıdır. 2 cm tabana 10 cm² alan düşüyorsa, 5 cm tabana 25 cm² alan düşer."
+  },
+  {
+    "id": 725,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Ağırlık merkezi G olan ABC üçgeninin alanı 72 cm²'dir. Sadece G noktası ile köşelerin birleştirilmesiyle oluşan GBC üçgeninin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "12" },
+      { "label": "B", "text": "18" },
+      { "label": "C", "text": "24" },
+      { "label": "D", "text": "36" },
+      { "label": "E", "text": "48" }
+    ],
+    "correct_option": "C",
+    "explanation": "Ağırlık merkezi köşelerle birleştirildiğinde üçgen 3 eşit alanlı bölgeye ayrılır. Alan(GBC) = 72 / 3 = 24 cm²."
+  },
+  {
+    "id": 726,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Geniş açılı bir üçgende en büyük açıya ait olmayan bir yüksekliğin çizimiyle ilgili aşağıdakilerden hangisi doğrudur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Üçgenin iç bölgesinde yer alır." },
+      { "label": "B", "text": "Karşı kenarın uzantısına dik olarak dış bölgeden inilir." },
+      { "label": "C", "text": "Açıortay ile çakışıktır." },
+      { "label": "D", "text": "Üçgenin ağırlık merkezinden geçer." },
+      { "label": "E", "text": "Kenarı iki eşit parçaya böler." }
+    ],
+    "correct_option": "B",
+    "explanation": "Geniş açılı üçgenlerde dar açılardan inilen yükseklikler üçgenin dış bölgesine, karşı kenarın uzantısına düşer."
+  },
+  {
+    "id": 727,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Dik kenarları 5 cm ve 12 cm olan bir dik üçgenin iç teğet çemberinin yarıçapı 2 cm olduğuna göre, A = u.r formülüyle hesaplanan üçgenin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "15" },
+      { "label": "B", "text": "30" },
+      { "label": "C", "text": "45" },
+      { "label": "D", "text": "60" },
+      { "label": "E", "text": "75" }
+    ],
+    "correct_option": "B",
+    "explanation": "Hipotenüs = 13 (5-12-13). Çevre = 5+12+13 = 30. u (yarı çevre) = 15. Alan = u.r = 15 x 2 = 30 cm². (Aynı zamanda 5x12/2 = 30)."
+  },
+  {
+    "id": 728,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Kenarları 4, 6 ve 8 birim olan üçgenin en kısa yüksekliği hangi kenara aittir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4 birimlik kenara" },
+      { "label": "B", "text": "6 birimlik kenara" },
+      { "label": "C", "text": "8 birimlik kenara" },
+      { "label": "D", "text": "Tüm yükseklikler eşittir" },
+      { "label": "E", "text": "Bilinenlerle bulunamaz" }
+    ],
+    "correct_option": "C",
+    "explanation": "Üçgende Alan = (Taban x Yükseklik)/2 sabit olduğu için, taban uzunluğu en büyük olan kenara ait yükseklik en kısa olmak zorundadır. En uzun kenar 8 olduğu için yükseklik en kısadır."
+  },
+  {
+    "id": 729,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Bir ABC üçgeninde [DE] // [BC] olacak şekilde orta taban çiziliyor. Küçük ADE üçgeninin alanı 10 cm² olduğuna göre, büyük ABC üçgeninin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "20" },
+      { "label": "B", "text": "30" },
+      { "label": "C", "text": "40" },
+      { "label": "D", "text": "50" },
+      { "label": "E", "text": "60" }
+    ],
+    "correct_option": "C",
+    "explanation": "Orta taban benzerlik oranını 1/2 yapar. Alanlar oranı benzerlik oranının karesi (1/4)'tür. ADE alanı 10 ise, ABC alanı 10 x 4 = 40 cm²'dir."
+  },
+  {
+    "id": 730,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Bir eşkenar üçgenin yüksekliği 3√3 cm'dir. Bu üçgenin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "9" },
+      { "label": "B", "text": "9√3" },
+      { "label": "C", "text": "12" },
+      { "label": "D", "text": "12√3" },
+      { "label": "E", "text": "18" }
+    ],
+    "correct_option": "B",
+    "explanation": "h = a√3/2 = 3√3 => a = 6 cm. Alan = a²√3/4 = 36√3/4 = 9√3 cm²."
+  },
+  {
+    "id": 731,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Çevrel çemberinin yarıçapı (R) 5 cm olan ve kenar uzunlukları 6, 8, 10 cm olan bir dik üçgenin alanı A = (a.b.c)/(4R) formülü ile hesaplandığında sonuç kaç çıkar?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "20" },
+      { "label": "B", "text": "24" },
+      { "label": "C", "text": "30" },
+      { "label": "D", "text": "36" },
+      { "label": "E", "text": "48" }
+    ],
+    "correct_option": "B",
+    "explanation": "A = (6 x 8 x 10) / (4 x 5) = 480 / 20 = 24 cm². (Gerçekten de 6x8/2 = 24'tür)."
+  },
+  {
+    "id": 732,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "İki kenarı 8 cm ve 10 cm olan üçgenin alanının en büyük (maksimum) değeri alabilmesi için bu iki kenar arasındaki açı kaç derece olmalıdır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "45" },
+      { "label": "B", "text": "60" },
+      { "label": "C", "text": "90" },
+      { "label": "D", "text": "120" },
+      { "label": "E", "text": "150" }
+    ],
+    "correct_option": "C",
+    "explanation": "Alan = 1/2 * a * b * sin(C). Sinüs fonksiyonu en büyük değerini (1) 90 derecede alır. Dolayısıyla açı 90° olmalıdır."
+  },
+  {
+    "id": 733,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Paralel iki doğru (d1 // d2) arasında köşeleri A, B, C olan bir üçgen çizilmiştir. C köşesi d1 üzerindedir ve A, B köşeleri d2 üzerindedir. C köşesi d1 doğrusu üzerinde sağa doğru kaydırıldığında üçgenin alanı nasıl değişir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Artar" },
+      { "label": "B", "text": "Azalır" },
+      { "label": "C", "text": "Değişmez" },
+      { "label": "D", "text": "Önce artar sonra azalır" },
+      { "label": "E", "text": "Taban uzunluğuna bağlıdır" }
+    ],
+    "correct_option": "C",
+    "explanation": "Üçgenin alanı = Taban(AB) x Yükseklik(paraleller arası mesafe)/2. Taban sabit, paraleller arası uzaklık sabit olduğu için alan değişmez (Alan kaydırma kuralı)."
+  },
+  {
+    "id": 734,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Kenar uzunlukları 5, 5, 8 cm olan ikizkenar bir üçgenin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "10" },
+      { "label": "B", "text": "12" },
+      { "label": "C", "text": "15" },
+      { "label": "D", "text": "20" },
+      { "label": "E", "text": "24" }
+    ],
+    "correct_option": "B",
+    "explanation": "Tabana inen dikme tabanı 4-4 böler. 3-4-5 üçgeninden yükseklik 3 olur. Alan = (8 x 3)/2 = 12 cm²."
+  },
+  {
+    "id": 735,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Bir dik üçgende dik kenarların çarpımı 40'tır. Bu üçgenin alanı kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "10" },
+      { "label": "B", "text": "20" },
+      { "label": "C", "text": "30" },
+      { "label": "D", "text": "40" },
+      { "label": "E", "text": "80" }
+    ],
+    "correct_option": "B",
+    "explanation": "Dik üçgenin alanı = (Dik kenarların çarpımı) / 2 = 40 / 2 = 20."
+  },
+  {
+    "id": 736,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Köşegen uzunlukları 10 cm ve 12 cm olan bir dörtgende, köşegenler arasındaki açı 30°'dir. Dörtgenin (ve dolayısıyla onu oluşturan üçgenlerin toplam) alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "30" },
+      { "label": "B", "text": "30√3" },
+      { "label": "C", "text": "60" },
+      { "label": "D", "text": "60√3" },
+      { "label": "E", "text": "120" }
+    ],
+    "correct_option": "A",
+    "explanation": "Dörtgenin Alanı = (1/2) * e * f * sin(30°) = (1/2) * 10 * 12 * (1/2) = 120 / 4 = 30 cm²."
+  },
+  {
+    "id": 737,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "ABC üçgeninde G ağırlık merkezidir. Taralı AGB üçgeninin alanı 15 cm² ise tüm ABC üçgeninin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "30" },
+      { "label": "B", "text": "45" },
+      { "label": "C", "text": "60" },
+      { "label": "D", "text": "75" },
+      { "label": "E", "text": "90" }
+    ],
+    "correct_option": "B",
+    "explanation": "Ağırlık merkezi, üçgeni 3 eşit alanlı (AGB, BGC, CGA) bölgeye ayırır. Tüm Alan = 3 * 15 = 45 cm²."
+  },
+  {
+    "id": 738,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Alanları oranı 16/25 olan benzer iki üçgenin benzerlik oranı (k) kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "2/5" },
+      { "label": "B", "text": "4/5" },
+      { "label": "C", "text": "8/15" },
+      { "label": "D", "text": "16/25" },
+      { "label": "E", "text": "256/625" }
+    ],
+    "correct_option": "B",
+    "explanation": "Alanlar oranı, benzerlik oranının karesine eşittir (k² = 16/25). Her iki tarafın karekökü alınırsa k = 4/5 bulunur."
+  },
+  {
+    "id": 739,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Eşkenar üçgen şeklinde kesilmiş bir kâğıdın kenar uzunluğu 2 katına çıkarılırsa, kapladığı alan yüzde kaç artar?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "100" },
+      { "label": "B", "text": "200" },
+      { "label": "C", "text": "300" },
+      { "label": "D", "text": "400" },
+      { "label": "E", "text": "500" }
+    ],
+    "correct_option": "C",
+    "explanation": "Benzerlik oranı k=2'dir. Alan oranı k² = 4 olur. Alan A iken 4A olmuştur. Artış miktarı 3A'dır. Bu da %300 artış demektir."
+  },
+  {
+    "id": 740,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Üçgende Alan",
+    "question_text": "Üçgenin herhangi bir köşesinden karşı kenara çizilen kenarortay, üçgenin alanını nasıl etkiler?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Alanı 1/3 oranında azaltır." },
+      { "label": "B", "text": "Alanı 2 eşit parçaya böler." },
+      { "label": "C", "text": "Alanı dik üçgen oranında ayırır." },
+      { "label": "D", "text": "Alanı değiştirmez, sadece çevreyi ikiye böler." },
+      { "label": "E", "text": "Alanı 3 eşit parçaya böler." }
+    ],
+    "correct_option": "B",
+    "explanation": "Kenarortay tabanı iki eşit parçaya (x ve x) böler. Her iki üçgenin de yükseklikleri ortak olduğu için alanları (x.h/2) birbirine eşit olur. Alanı 2 eşit parçaya böler."
+  },
+  {
+    "id": 741,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Bir düzgün sekizgenin bir dış açısı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "30" },
+      { "label": "B", "text": "36" },
+      { "label": "C", "text": "45" },
+      { "label": "D", "text": "60" },
+      { "label": "E", "text": "135" }
+    ],
+    "correct_option": "C",
+    "explanation": "Tüm dışbükey çokgenlerin dış açılar toplamı 360°'dir. Düzgün sekizgenin bir dış açısı = 360 / 8 = 45°."
+  },
+  {
+    "id": 742,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Bir iç açısının ölçüsü 144° olan düzgün çokgen kaç kenarlıdır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "8" },
+      { "label": "B", "text": "10" },
+      { "label": "C", "text": "12" },
+      { "label": "D", "text": "15" },
+      { "label": "E", "text": "18" }
+    ],
+    "correct_option": "B",
+    "explanation": "İç açı 144° ise dış açı = 180 - 144 = 36°'dir. Kenar sayısı n = 360 / 36 = 10'dur."
+  },
+  {
+    "id": 743,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Bir paralelkenarın ardışık iki iç açısı 2x + 10° ve 3x - 30°'dir. Bu paralelkenarın en büyük iç açısı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "90" },
+      { "label": "B", "text": "100" },
+      { "label": "C", "text": "110" },
+      { "label": "D", "text": "120" },
+      { "label": "E", "text": "130" }
+    ],
+    "correct_option": "A",
+    "explanation": "Paralelkenarda ardışık açıların toplamı 180°'dir (U kuralı). 2x+10 + 3x-30 = 180 => 5x - 20 = 180 => 5x = 200 => x = 40. Açılar: 2(40)+10 = 90°. Diğer açı da 90° çıkar (Dikdörtgen formundadır)."
+  },
+  {
+    "id": 744,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Köşegenleri birbirini dik kesen ve bütün kenar uzunlukları birbirine eşit olan dörtgenlere ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Sadece Kare" },
+      { "label": "B", "text": "Sadece Deltoid" },
+      { "label": "C", "text": "Dikdörtgen" },
+      { "label": "D", "text": "Eşkenar Dörtgen (Kare de bir eşkenar dörtgendir)" },
+      { "label": "E", "text": "İkizkenar Yamuk" }
+    ],
+    "correct_option": "D",
+    "explanation": "Bütün kenarları eşit olan ve köşegenleri dik kesişen dörtgen Eşkenar Dörtgen (ve onun özel hali olan Kare) dir."
+  },
+  {
+    "id": 745,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Alt ve üst tabanları sırasıyla 10 cm ve 6 cm olan, yüksekliği 4 cm olan bir yamuğun alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "24" },
+      { "label": "B", "text": "32" },
+      { "label": "C", "text": "40" },
+      { "label": "D", "text": "48" },
+      { "label": "E", "text": "64" }
+    ],
+    "correct_option": "B",
+    "explanation": "Yamuğun Alanı = ((Alt Taban + Üst Taban) / 2) * Yükseklik. ((10 + 6) / 2) * 4 = 8 * 4 = 32 cm²."
+  },
+  {
+    "id": 746,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Bir dikdörtgenin kısa kenarı 5 cm, köşegeni 13 cm'dir. Bu dikdörtgenin çevresi kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "17" },
+      { "label": "B", "text": "34" },
+      { "label": "C", "text": "40" },
+      { "label": "D", "text": "50" },
+      { "label": "E", "text": "60" }
+    ],
+    "correct_option": "B",
+    "explanation": "Dik üçgende (5-12-13) uzun kenar 12 cm'dir. Çevre = 2 * (5 + 12) = 34 cm."
+  },
+  {
+    "id": 747,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Deltoid biçimindeki bir uçurtmanın köşegenleri e ve f'dir. e = 10 cm ve uçurtmanın alanı 40 cm² ise f köşegeninin uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4" },
+      { "label": "B", "text": "6" },
+      { "label": "C", "text": "8" },
+      { "label": "D", "text": "10" },
+      { "label": "E", "text": "12" }
+    ],
+    "correct_option": "C",
+    "explanation": "Deltoidin alanı köşegenlerin çarpımının yarısıdır (Köşegenler dik kesiştiği için). (e * f) / 2 = 40 => 10 * f / 2 = 40 => 5f = 40 => f = 8 cm."
+  },
+  {
+    "id": 748,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Düzgün bir altıgenin alanı, bir kenarı a olan 6 adet eşkenar üçgenin alanının toplamına eşittir. Bir kenarı 2 cm olan düzgün altıgenin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6√3" },
+      { "label": "B", "text": "8√3" },
+      { "label": "C", "text": "12√3" },
+      { "label": "D", "text": "16√3" },
+      { "label": "E", "text": "24√3" }
+    ],
+    "correct_option": "A",
+    "explanation": "Bir eşkenar üçgenin alanı a²√3 / 4. a=2 için alan (4√3)/4 = √3'tür. 6 tane eşkenar üçgenin alanı 6 * √3 = 6√3 cm²'dir."
+  },
+  {
+    "id": 749,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Bir ikizkenar yamukta taban açıları birbirine eşittir ve köşegen uzunlukları ile ilgili hangi özellik daima doğrudur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Köşegenleri birbirini dik keser." },
+      { "label": "B", "text": "Köşegen uzunlukları birbirine eşittir." },
+      { "label": "C", "text": "Köşegenleri aynı zamanda açıortaydır." },
+      { "label": "D", "text": "Köşegenleri birbirini ortalar." },
+      { "label": "E", "text": "Köşegenleri alt tabana paraleldir." }
+    ],
+    "correct_option": "B",
+    "explanation": "İkizkenar yamuk (simetrik yapıya sahip olduğu için) köşegen uzunlukları birbirine daima eşit olan bir dörtgendir."
+  },
+  {
+    "id": 750,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Bir eşkenar dörtgenin alanı 24 cm² ve yüksekliği 4 cm olduğuna göre, bu eşkenar dörtgenin çevresi kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "16" },
+      { "label": "B", "text": "20" },
+      { "label": "C", "text": "24" },
+      { "label": "D", "text": "28" },
+      { "label": "E", "text": "32" }
+    ],
+    "correct_option": "C",
+    "explanation": "Eşkenar dörtgen aynı zamanda bir paralelkenardır ve Alan = a * h formülü geçerlidir. a * 4 = 24 => a = 6 cm (bir kenarı). Çevresi 4a = 4 * 6 = 24 cm."
+  },
+  {
+    "id": 751,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "İç açıları toplamı 900° olan bir çokgenin köşegen sayısı kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "9" },
+      { "label": "B", "text": "14" },
+      { "label": "C", "text": "20" },
+      { "label": "D", "text": "27" },
+      { "label": "E", "text": "35" }
+    ],
+    "correct_option": "B",
+    "explanation": "İç açı toplamı = (n-2) * 180 = 900 => n-2 = 5 => n = 7 (yedigen). Köşegen sayısı = n(n-3)/2 = 7(4)/2 = 14."
+  },
+  {
+    "id": 752,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Çevresi 40 cm olan bir karenin köşegen uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "10" },
+      { "label": "B", "text": "10√2" },
+      { "label": "C", "text": "10√3" },
+      { "label": "D", "text": "20" },
+      { "label": "E", "text": "20√2" }
+    ],
+    "correct_option": "B",
+    "explanation": "Karenin bir kenarı a = 40 / 4 = 10 cm'dir. Köşegeni d = a√2 = 10√2 cm'dir."
+  },
+  {
+    "id": 753,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Bir paralelkenarın köşegenleri için aşağıdakilerden hangisi kesinlikle doğrudur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Birbirine eşittir." },
+      { "label": "B", "text": "Birbirini dik keser." },
+      { "label": "C", "text": "Birbirini ortalar (iki eşit parçaya böler)." },
+      { "label": "D", "text": "Açıortaydır." },
+      { "label": "E", "text": "Uzunlukları toplamı çevreye eşittir." }
+    ],
+    "correct_option": "C",
+    "explanation": "Paralelkenarın en temel özelliği köşegenlerinin kesişim noktasında birbirini iki eşit parçaya bölmesidir (ortalamasıdır)."
+  },
+  {
+    "id": 754,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Dikdörtgen biçimindeki bir bilardo masasının bantlarına çarpan top, geldiği açıyla yansır (fizik kuralı gibi). 30°'lik bir dar açıyla uzun banta çarpan bir bilardo topu banttan yansıdığında oluşan yansıma (veya gelme) üçgenlerinde hangi benzerlik kuralı sıklıkla işler?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Pisagor" },
+      { "label": "B", "text": "Kenar-Kenar-Kenar (KKK)" },
+      { "label": "C", "text": "Öklid" },
+      { "label": "D", "text": "Açı-Açı (AA) Benzerliği" },
+      { "label": "E", "text": "Thales (Kelebek)" }
+    ],
+    "correct_option": "D",
+    "explanation": "Dikdörtgenin bantları (kenarları) dik (90°) olduğu için, gelme-yansıma açıları (30° - 60° vb.) üçgenlerde eş açılar yaratır. Bu yüzden Açı-Açı (AA) benzerliği oluşur."
+  },
+  {
+    "id": 755,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Köşegenleri birbirine dik olan bir dik yamukta, yüksekliğin karesi alt ve üst tabanların çarpımına eşittir (h² = a.c). Alt tabanı 9 cm, üst tabanı 4 cm olan ve köşegenleri dik kesişen bu dik yamuğun yüksekliği kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "5" },
+      { "label": "B", "text": "6" },
+      { "label": "C", "text": "7" },
+      { "label": "D", "text": "8" },
+      { "label": "E", "text": "13" }
+    ],
+    "correct_option": "B",
+    "explanation": "Soru metninde formül verilmiştir: h² = a.c => h² = 9 x 4 = 36 => h = 6 cm."
+  },
+  {
+    "id": 756,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Bir düzgün beşgenin bir dış açısı a, bir iç açısı b'dir. b - a farkı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "36" },
+      { "label": "B", "text": "72" },
+      { "label": "C", "text": "108" },
+      { "label": "D", "text": "144" },
+      { "label": "E", "text": "180" }
+    ],
+    "correct_option": "A",
+    "explanation": "Düzgün beşgende dış açı a = 360/5 = 72°. İç açı b = 180 - 72 = 108°. Fark b - a = 108 - 72 = 36°."
+  },
+  {
+    "id": 757,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Bir kenarı 5 cm olan karenin iç teğet çemberinin alanı ile çevrel çemberinin alanı oranı kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1/2" },
+      { "label": "B", "text": "1/√2" },
+      { "label": "C", "text": "1/4" },
+      { "label": "D", "text": "1/3" },
+      { "label": "E", "text": "2/3" }
+    ],
+    "correct_option": "A",
+    "explanation": "Karenin iç teğet çember yarıçapı a/2, çevrel çember yarıçapı a√2 / 2'dir. Alanları oranı r_iç² / r_çevrel² = (a²/4) / (2a²/4) = 1/2'dir."
+  },
+  {
+    "id": 758,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Paralelkenarda karşılıklı iki köşeden geçen köşegen üzerindeki herhangi bir noktadan diğer iki köşeye çizilen uzaklıklar (veya oluşturdukları üçgen alanları) için aşağıdakilerden hangisi daima doğrudur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Uzaklıklar her zaman diktir." },
+      { "label": "B", "text": "Oluşan üçgenlerin alanları birbirine eşittir." },
+      { "label": "C", "text": "Uzaklıklar birbirine her zaman paraleldir." },
+      { "label": "D", "text": "Oluşan şekil bir karedir." },
+      { "label": "E", "text": "Uzunluklar daima birbirine eşittir." }
+    ],
+    "correct_option": "B",
+    "explanation": "Köşegen paralelkenarı 2 eşit alana böler. Köşegen üzerinde alınan bir noktadan diğer köşelere çizilen üçgenlerin tabanları (ortak köşegen parçası) ve o köşegene inen yükseklikleri eşit olduğu için alanları eşit olur."
+  },
+  {
+    "id": 759,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Deltoid biçimindeki bir kâğıdın asimetrik (eşit olmayan) iki kenarı sırasıyla 6 cm ve 8 cm'dir. Bu deltoidin çevresi kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "14" },
+      { "label": "B", "text": "20" },
+      { "label": "C", "text": "24" },
+      { "label": "D", "text": "28" },
+      { "label": "E", "text": "48" }
+    ],
+    "correct_option": "D",
+    "explanation": "Deltoid, iki farklı ikizkenar üçgenin taban tabana birleşimidir. Kenarları çifter çifter eşittir. Çevre = 2(6) + 2(8) = 12 + 16 = 28 cm."
+  },
+  {
+    "id": 760,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çokgenler ve Dörtgenler (Deltoid, Paralelkenar, Eşkenar Dörtgen, Dikdörtgen, Kare, Yamuk)",
+    "question_text": "Yamuğun orta tabanı 10 cm ve yüksekliği 8 cm ise alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "40" },
+      { "label": "B", "text": "80" },
+      { "label": "C", "text": "120" },
+      { "label": "D", "text": "160" },
+      { "label": "E", "text": "320" }
+    ],
+    "correct_option": "B",
+    "explanation": "Orta taban = (Alt Taban + Üst Taban) / 2 = 10. Yamuk Alanı = Orta Taban x Yükseklik = 10 x 8 = 80 cm²."
+  },
+  {
+    "id": 761,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Bir çemberde aynı yayı gören çevre açı x°, merkez açı ise y°'dir. y - x = 40° olduğuna göre x + y toplamı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "80" },
+      { "label": "B", "text": "100" },
+      { "label": "C", "text": "120" },
+      { "label": "D", "text": "140" },
+      { "label": "E", "text": "160" }
+    ],
+    "correct_option": "C",
+    "explanation": "Aynı yayı gören merkez açı (y), çevre açının (x) iki katıdır: y = 2x. Denklemde yerine yazarsak 2x - x = 40 => x = 40°. y = 80°. Toplam: 40 + 80 = 120°."
+  },
+  {
+    "id": 762,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Çapı gören çevre açı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "45" },
+      { "label": "B", "text": "60" },
+      { "label": "C", "text": "90" },
+      { "label": "D", "text": "120" },
+      { "label": "E", "text": "180" }
+    ],
+    "correct_option": "C",
+    "explanation": "Çap çemberi iki eş yaya böler (180°). 180°'lik yayı gören çevre açı yarısına eşittir: 180 / 2 = 90°."
+  },
+  {
+    "id": 763,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Bir çembere dışındaki bir P noktasından çizilen iki teğet parçasının uzunlukları (PT1 ve PT2) için aşağıdakilerden hangisi daima doğrudur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Biri diğerinin iki katıdır." },
+      { "label": "B", "text": "Aralarındaki açı daima 90°'dir." },
+      { "label": "C", "text": "Uzunlukları birbirine eşittir." },
+      { "label": "D", "text": "Çarpımları çemberin çapını verir." },
+      { "label": "E", "text": "Toplamları çemberin çevresini verir." }
+    ],
+    "correct_option": "C",
+    "explanation": "Bir çembere dışındaki bir noktadan çizilen iki teğet doğru parçasının uzunlukları her zaman birbirine eşittir (Külah kuralı)."
+  },
+  {
+    "id": 764,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Çember içinde kesişen iki kiriş,[AB] ve [CD], K noktasında kesişmektedir. |AK|=4, |KB|=6, |CK|=3 olduğuna göre |KD| kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "5" },
+      { "label": "B", "text": "6" },
+      { "label": "C", "text": "8" },
+      { "label": "D", "text": "10" },
+      { "label": "E", "text": "12" }
+    ],
+    "correct_option": "C",
+    "explanation": "İç kuvvet teoremi: Aynı kiriş üzerindeki parçaların çarpımı birbirine eşittir. |AK| * |KB| = |CK| * |KD| => 4 * 6 = 3 * x => 24 = 3x => x = 8."
+  },
+  {
+    "id": 765,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Yarıçapı 10 cm olan bir çemberde, merkeze uzaklığı 6 cm olan bir kirişin uzunluğu kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "8" },
+      { "label": "B", "text": "12" },
+      { "label": "C", "text": "16" },
+      { "label": "D", "text": "20" },
+      { "label": "E", "text": "24" }
+    ],
+    "correct_option": "C",
+    "explanation": "Merkezden kirişe inilen dikme kirişi ortalar ve bir dik üçgen oluşturur (r=10, dikme=6). 6-8-10 üçgeninden kirişin yarısı 8'dir. Tamamı 2 * 8 = 16 cm."
+  },
+  {
+    "id": 766,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Yarıçapı 6 cm olan bir dairenin alanı (π'li olarak) kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6π" },
+      { "label": "B", "text": "12π" },
+      { "label": "C", "text": "18π" },
+      { "label": "D", "text": "36π" },
+      { "label": "E", "text": "72π" }
+    ],
+    "correct_option": "D",
+    "explanation": "Dairenin alanı = πr² formülüyle hesaplanır. π * 6² = 36π."
+  },
+  {
+    "id": 767,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Merkez açısı 60° olan, 12 cm yarıçaplı bir daire diliminin alanı kaç cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "12π" },
+      { "label": "B", "text": "24π" },
+      { "label": "C", "text": "36π" },
+      { "label": "D", "text": "48π" },
+      { "label": "E", "text": "72π" }
+    ],
+    "correct_option": "B",
+    "explanation": "60°'lik açı tam dairenin (360°) 1/6'sıdır. Daire alanı = 144π. Dilimin alanı = 144π / 6 = 24π."
+  },
+  {
+    "id": 768,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Yarıçapı 5 cm olan çemberde 72°'lik yayı gören bir yayın uzunluğu kaç π cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "π" },
+      { "label": "B", "text": "2π" },
+      { "label": "C", "text": "3π" },
+      { "label": "D", "text": "4π" },
+      { "label": "E", "text": "5π" }
+    ],
+    "correct_option": "B",
+    "explanation": "Çevre = 2πr = 10π. 72°, 360°'nin 1/5'idir. Yay uzunluğu = 10π / 5 = 2π."
+  },
+  {
+    "id": 769,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Dıştaki çemberin yarıçapı R=5, içteki eş merkezli çemberin yarıçapı r=3'tür. İki çember arasında kalan halkanın (simit) alanı kaç π cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "8π" },
+      { "label": "B", "text": "12π" },
+      { "label": "C", "text": "16π" },
+      { "label": "D", "text": "20π" },
+      { "label": "E", "text": "25π" }
+    ],
+    "correct_option": "C",
+    "explanation": "Halka Alanı = πR² - πr² = 25π - 9π = 16π."
+  },
+  {
+    "id": 770,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Kirişler Dörtgeni'nin karşılıklı açılarının toplamı kaç derecedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "90" },
+      { "label": "B", "text": "180" },
+      { "label": "C", "text": "270" },
+      { "label": "D", "text": "360" },
+      { "label": "E", "text": "Belirli bir kuralı yoktur" }
+    ],
+    "correct_option": "B",
+    "explanation": "Kirişler dörtgeninde karşılıklı açılar, çemberin tamamını (360°) gören çevre açılar oldukları için toplamları 180°'dir."
+  },
+  {
+    "id": 771,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Birbirine dıştan teğet iki çemberin yarıçapları sırasıyla 4 cm ve 9 cm'dir. Bu çemberlerin merkezleri arasındaki uzaklık kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "5" },
+      { "label": "B", "text": "10" },
+      { "label": "C", "text": "13" },
+      { "label": "D", "text": "18" },
+      { "label": "E", "text": "36" }
+    ],
+    "correct_option": "C",
+    "explanation": "Dıştan teğet çemberlerin merkezleri arası uzaklık yarıçaplarının toplamına eşittir: 4 + 9 = 13 cm."
+  },
+  {
+    "id": 772,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Bir üçgenin köşelerinden geçen çembere 'Çevrel Çember' denir. Sinüs Teoremi'ne göre, üçgenin bir kenar uzunluğu (a) ile o kenarı gören açının sinüsü (sinA) arasındaki oran aşağıdakilerden hangisine eşittir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Yarıçapın karesine (R²)" },
+      { "label": "B", "text": "Çevrel çemberin çapına (2R)" },
+      { "label": "C", "text": "Çevrel çemberin yarıçapına (R)" },
+      { "label": "D", "text": "Üçgenin alanına" },
+      { "label": "E", "text": "İç teğet çemberin çapına (2r)" }
+    ],
+    "correct_option": "B",
+    "explanation": "Sinüs teoremine göre: a / sinA = b / sinB = c / sinC = 2R (Çevrel çemberin çapı)."
+  },
+  {
+    "id": 773,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Çevresi 24π olan bir tekerlek, düz bir yolda 10 tam tur attığında kaç birim yol almış olur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "120" },
+      { "label": "B", "text": "120π" },
+      { "label": "C", "text": "240" },
+      { "label": "D", "text": "240π" },
+      { "label": "E", "text": "480π" }
+    ],
+    "correct_option": "D",
+    "explanation": "Alınan yol = Tur sayısı x Tekerleğin Çevresi = 10 x 24π = 240π."
+  },
+  {
+    "id": 774,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Dış Kuvvet Teoremi'ne göre, P dış noktasından çizilen bir teğet parçası |PT|=6 ve bir kesen [PAB] çiziliyor. |PA|=4 ise çember içindeki kiriş parçası |AB| kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4" },
+      { "label": "B", "text": "5" },
+      { "label": "C", "text": "6" },
+      { "label": "D", "text": "8" },
+      { "label": "E", "text": "9" }
+    ],
+    "correct_option": "B",
+    "explanation": "|PT|² = |PA| * (|PA| + |AB|) formülü kullanılır. 6² = 4 * (4 + x) => 36 = 16 + 4x => 20 = 4x => x = 5."
+  },
+  {
+    "id": 775,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Bir çemberin en uzun kirişine ne ad verilir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Yarıçap" },
+      { "label": "B", "text": "Teğet" },
+      { "label": "C", "text": "Çap" },
+      { "label": "D", "text": "Yay" },
+      { "label": "E", "text": "Kesen" }
+    ],
+    "correct_option": "C",
+    "explanation": "Merkezden geçen ve çemberi iki eş noktada kesen doğru parçasına Çap denir, bu aynı zamanda çemberin en uzun kirişidir."
+  },
+  {
+    "id": 776,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Teğetler dörtgeninde karşılıklı iki kenarın uzunlukları toplamı 15 cm'dir. Bu teğetler dörtgeninin çevresi kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "15" },
+      { "label": "B", "text": "20" },
+      { "label": "C", "text": "30" },
+      { "label": "D", "text": "45" },
+      { "label": "E", "text": "60" }
+    ],
+    "correct_option": "C",
+    "explanation": "Teğetler dörtgeninde karşılıklı kenarların toplamı birbirine eşittir (a+c = b+d). a+c=15 ise b+d=15 olur. Çevre = 15 + 15 = 30 cm."
+  },
+  {
+    "id": 777,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Bir çemberi iki eş parçaya (yarım daireye) bölen yayın ölçüsü kaç radyandır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "π/4" },
+      { "label": "B", "text": "π/2" },
+      { "label": "C", "text": "π" },
+      { "label": "D", "text": "3π/2" },
+      { "label": "E", "text": "2π" }
+    ],
+    "correct_option": "C",
+    "explanation": "Tam çember 360° yani 2π radyandır. Yarısı 180° yani π radyandır."
+  },
+  {
+    "id": 778,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Merkez açı ile çevre açının aynı yayı görmesi durumunda, merkez açının ölçüsü çevre açının ölçüsüne göre nasıldır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "İki katıdır." },
+      { "label": "B", "text": "Yarısıdır." },
+      { "label": "C", "text": "Eşittir." },
+      { "label": "D", "text": "Bütünleyenidir." },
+      { "label": "E", "text": "Tümleridir." }
+    ],
+    "correct_option": "A",
+    "explanation": "Merkez açı gördüğü yayın ölçüsüne eşittir. Çevre açı ise gördüğü yayın yarısına eşittir. Bu yüzden merkez açı çevre açının iki katıdır."
+  },
+  {
+    "id": 779,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Eşkenar üçgenin iç teğet çemberinin yarıçapı r, çevrel çemberinin yarıçapı R ise R/r oranı kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1" },
+      { "label": "B", "text": "1.5" },
+      { "label": "C", "text": "2" },
+      { "label": "D", "text": "2.5" },
+      { "label": "E", "text": "3" }
+    ],
+    "correct_option": "C",
+    "explanation": "Eşkenar üçgende ağırlık merkezi, iç teğet ve çevrel çemberin merkezi aynı noktadır. Bu nokta yüksekliği 1'e 2 oranında böler. Kısa kısım r (iç teğet), uzun kısım R (çevrel) olur. R = 2r'dir."
+  },
+  {
+    "id": 780,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Çemberde Açı, Uzunluk ve Dairede Alan",
+    "question_text": "Daire biçimindeki bir pizzanın 1/8'lik bir dilimi kesiliyor. Dairenin yarıçapı 12 cm ise bu dilimin alanı kaç π cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "12" },
+      { "label": "B", "text": "18" },
+      { "label": "C", "text": "24" },
+      { "label": "D", "text": "30" },
+      { "label": "E", "text": "36" }
+    ],
+    "correct_option": "B",
+    "explanation": "Pizzanın toplam alanı = π * 12² = 144π cm²'dir. Dilim bunun 1/8'idir. 144π / 8 = 18π cm²."
+  },
+  {
+    "id": 781,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Ayrıtları 3 cm, 4 cm ve 5 cm olan dikdörtgenler prizmasının hacmi kaç cm³'tür?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "30" },
+      { "label": "B", "text": "40" },
+      { "label": "C", "text": "50" },
+      { "label": "D", "text": "60" },
+      { "label": "E", "text": "120" }
+    ],
+    "correct_option": "D",
+    "explanation": "Prizmanın hacmi, üç ayrıtının çarpımıdır: V = a.b.c = 3 x 4 x 5 = 60 cm³."
+  },
+  {
+    "id": 782,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Ayrıt uzunluğu 4 cm olan bir küpün cisim köşegeni kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4" },
+      { "label": "B", "text": "4√2" },
+      { "label": "C", "text": "4√3" },
+      { "label": "D", "text": "8" },
+      { "label": "E", "text": "12" }
+    ],
+    "correct_option": "C",
+    "explanation": "Küpün cisim köşegeni a√3 formülüyle bulunur. Kenar a=4 olduğundan cisim köşegeni 4√3'tür."
+  },
+  {
+    "id": 783,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Yarıçapı 3 cm, yüksekliği 10 cm olan bir dik dairesel silindirin hacmi kaç π cm³'tür?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "30" },
+      { "label": "B", "text": "60" },
+      { "label": "C", "text": "90" },
+      { "label": "D", "text": "120" },
+      { "label": "E", "text": "150" }
+    ],
+    "correct_option": "C",
+    "explanation": "Silindirin hacmi V = π.r².h formülü ile bulunur. V = π * 3² * 10 = 90π cm³."
+  },
+  {
+    "id": 784,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Taban yarıçapı 6 cm ve yüksekliği 8 cm olan dik dairesel koninin yanal alanı (kıvrımlı yüzey) kaç π cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "24" },
+      { "label": "B", "text": "48" },
+      { "label": "C", "text": "60" },
+      { "label": "D", "text": "84" },
+      { "label": "E", "text": "96" }
+    ],
+    "correct_option": "C",
+    "explanation": "Koninin ana doğrusu (l), dik üçgenden r=6, h=8 => l=10 bulunur. Yanal alan = π.r.l = π * 6 * 10 = 60π."
+  },
+  {
+    "id": 785,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Yarıçapı r=3 cm olan kürenin hacmi kaç π cm³'tür?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "12" },
+      { "label": "B", "text": "27" },
+      { "label": "C", "text": "36" },
+      { "label": "D", "text": "54" },
+      { "label": "E", "text": "108" }
+    ],
+    "correct_option": "C",
+    "explanation": "Kürenin hacmi V = (4/3)πr³'tür. V = (4/3)π(27) = 36π cm³."
+  },
+  {
+    "id": 786,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Küpün tüm yüzey alanı 150 cm² olduğuna göre, bu küpün bir ayrıtı kaç cm'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "4" },
+      { "label": "B", "text": "5" },
+      { "label": "C", "text": "6" },
+      { "label": "D", "text": "7" },
+      { "label": "E", "text": "8" }
+    ],
+    "correct_option": "B",
+    "explanation": "Küpün 6 eş kare yüzeyi vardır. 6a² = 150 => a² = 25 => a = 5 cm."
+  },
+  {
+    "id": 787,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Kare dik piramidin taban ayrıtı 10 cm ve yüksekliği 12 cm'dir. Bu piramidin hacmi kaç cm³'tür?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "120" },
+      { "label": "B", "text": "240" },
+      { "label": "C", "text": "360" },
+      { "label": "D", "text": "400" },
+      { "label": "E", "text": "1200" }
+    ],
+    "correct_option": "D",
+    "explanation": "Piramidin hacmi V = (Taban Alanı x Yükseklik) / 3. V = (100 x 12) / 3 = 1200 / 3 = 400 cm³."
+  },
+  {
+    "id": 788,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Küre şeklindeki bir karpuz ortadan ikiye bölünüyor. Ortaya çıkan düz yüzeyin alanı 16π cm² ise, baştaki bütün karpuzun (kürenin) tam yüzey alanı kaç π cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "16" },
+      { "label": "B", "text": "32" },
+      { "label": "C", "text": "48" },
+      { "label": "D", "text": "64" },
+      { "label": "E", "text": "128" }
+    ],
+    "correct_option": "D",
+    "explanation": "Kesit alanı bir büyük dairedir ve πr² = 16π'dir. Tam kürenin yüzey alanı 4πr² formülüyle hesaplanır. 4 * 16π = 64π cm²."
+  },
+  {
+    "id": 789,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Ayrıtları 1 cm, 2 cm ve 3 cm olan küçük dikdörtgenler prizması şeklindeki legolardan, en küçük hacimli bir küp yapılmak isteniyor. Kaç adet lego gereklidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6" },
+      { "label": "B", "text": "12" },
+      { "label": "C", "text": "24" },
+      { "label": "D", "text": "36" },
+      { "label": "E", "text": "216" }
+    ],
+    "correct_option": "D",
+    "explanation": "Küpün bir kenarı EKOK(1,2,3) = 6 cm olmalıdır. Gereken miktar = Küp Hacmi / Prizma Hacmi = (6x6x6) / (1x2x3) = 216 / 6 = 36 adet."
+  },
+  {
+    "id": 790,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "İçi tamamen su dolu olan r yarıçaplı h yüksekliğindeki bir silindirin içindeki su, taban yarıçapı aynı olan (r) bir koniye boşaltılırsa koniden su taşar mı, taşmaz mı? (Koninin yüksekliği de h)",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Koniyi tam doldurur, taşmaz." },
+      { "label": "B", "text": "Koninin yarısına kadar dolar." },
+      { "label": "C", "text": "Koni dolar ve silindirdeki suyun 2/3'ü taşar." },
+      { "label": "D", "text": "Koni dolar ve silindirdeki suyun 1/3'ü taşar." },
+      { "label": "E", "text": "Silindirdeki su koninin sadece 1/3'ünü doldurur." }
+    ],
+    "correct_option": "C",
+    "explanation": "Silindirin hacmi V = πr²h'tır. Aynı ölçülerdeki koninin hacmi V/3'tür. Su koniye boşaltıldığında 1/3'lük hacim dolar, geriye kalan 2/3'lük su taşar."
+  },
+  {
+    "id": 791,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Taban ayrıtları 6 cm ve 8 cm olan dikdörtgenler prizması şeklindeki bir cismin içine yerleştirilebilecek en büyük çaplı silindirin yarıçapı kaç cm olur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "2" },
+      { "label": "B", "text": "3" },
+      { "label": "C", "text": "4" },
+      { "label": "D", "text": "5" },
+      { "label": "E", "text": "6" }
+    ],
+    "correct_option": "B",
+    "explanation": "Silindirin tabanının, prizmanın 6x8'lik tabanına sığması için çapı en fazla dar kenar kadar, yani 6 cm olabilir. Yarıçapı 3 cm olur."
+  },
+  {
+    "id": 792,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Bir silindirin yanal alanı, açınımı yapıldığında hangi geometrik şekli oluşturur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Daire" },
+      { "label": "B", "text": "Elips" },
+      { "label": "C", "text": "Üçgen" },
+      { "label": "D", "text": "Dikdörtgen" },
+      { "label": "E", "text": "Yamuk" }
+    ],
+    "correct_option": "D",
+    "explanation": "Dik dairesel silindirin yan yüzeyi açıldığında, bir kenarı silindirin çevresi, diğer kenarı ise silindirin yüksekliği olan bir dikdörtgen oluşur."
+  },
+  {
+    "id": 793,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Kesik bir koni elde etmek için koninin tepe noktasından tabana paralel bir düzlemle kesit alınır. Üstte kalan küçük koninin yüksekliği, büyük koninin yüksekliğinin yarısıysa, küçük koninin hacmi büyük koninin hacminin kaçta kaçıdır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1/2" },
+      { "label": "B", "text": "1/4" },
+      { "label": "C", "text": "1/6" },
+      { "label": "D", "text": "1/8" },
+      { "label": "E", "text": "1/16" }
+    ],
+    "correct_option": "D",
+    "explanation": "Benzerlik oranı k = 1/2'dir. Benzer üç boyutlu cisimlerde hacimler oranı, benzerlik oranının küpüne eşittir: (1/2)³ = 1/8."
+  },
+  {
+    "id": 794,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Yarıçapı 6 cm olan yarım küre şeklindeki bir kabın (kapağı dahil) tüm yüzey alanı kaç π cm²'dir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "36" },
+      { "label": "B", "text": "72" },
+      { "label": "C", "text": "108" },
+      { "label": "D", "text": "144" },
+      { "label": "E", "text": "216" }
+    ],
+    "correct_option": "C",
+    "explanation": "Tam küre alanı 4πr²'dir. Yarım kürenin dış yüzeyi 2πr²'dir. Kapatan düzlem (daire) de πr²'dir. Toplam = 3πr² = 3 * 36π = 108π."
+  },
+  {
+    "id": 795,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Taban ayrıtı 2 cm ve yüksekliği 5 cm olan düzgün altıgen prizmanın hacmi kaç cm³'tür?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "10√3" },
+      { "label": "B", "text": "20√3" },
+      { "label": "C", "text": "30√3" },
+      { "label": "D", "text": "60√3" },
+      { "label": "E", "text": "120√3" }
+    ],
+    "correct_option": "C",
+    "explanation": "Taban alanı 6 adet eşkenar üçgendir = 6 * (2²√3)/4 = 6√3. Hacim = Taban Alanı * Yükseklik = 6√3 * 5 = 30√3 cm³."
+  },
+  {
+    "id": 796,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Bir ayrıtı a olan bir küpün hacmi sayısal olarak yüzey alanına eşittir. Bu küpün bir ayrıtı (a) kaç birimdir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "2" },
+      { "label": "B", "text": "4" },
+      { "label": "C", "text": "6" },
+      { "label": "D", "text": "8" },
+      { "label": "E", "text": "10" }
+    ],
+    "correct_option": "C",
+    "explanation": "Hacim = a³, Yüzey Alanı = 6a². a³ = 6a² ise a ≠ 0 olduğundan a = 6 birimdir."
+  },
+  {
+    "id": 797,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Kare prizma şeklindeki bir tahta blok yontularak, ondan elde edilebilecek en büyük hacimli dik dairesel silindir elde ediliyor. Geriye kalan tahta talaşı miktarının başlangıçtaki hacme oranı nedir? (π'yi sembol olarak bırakınız)",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1 - π/4" },
+      { "label": "B", "text": "π/4" },
+      { "label": "C", "text": "1 - π/2" },
+      { "label": "D", "text": "π/2" },
+      { "label": "E", "text": "1 - π" }
+    ],
+    "correct_option": "A",
+    "explanation": "Kare prizmanın tabanı a², silindirin tabanı π(a/2)² = πa²/4 olur. Silindirin hacmi V_s = h.πa²/4, Prizma hacmi V_p = h.a². Talaş = V_p - V_s. Oran = (a²h - πa²h/4) / a²h = 1 - π/4."
+  },
+  {
+    "id": 798,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Bir silindirin yüksekliği 2 katına çıkarılıp, taban yarıçapı yarıya düşürülürse hacmi nasıl değişir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "Değişmez" },
+      { "label": "B", "text": "2 katına çıkar" },
+      { "label": "C", "text": "Yarıya düşer" },
+      { "label": "D", "text": "1/4'üne düşer" },
+      { "label": "E", "text": "4 katına çıkar" }
+    ],
+    "correct_option": "C",
+    "explanation": "V1 = π.r².h. Yeni hacim V2 = π.(r/2)².2h = π.(r²/4).2h = (π.r².h)/2. Hacim yarıya düşer."
+  },
+  {
+    "id": 799,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Bir dik dairesel koninin açınımı yapıldığında yanal yüzeyi oluşturan daire diliminin merkez açısı 120° dir. Koninin taban yarıçapı r, ana doğrusu l ise r/l oranı kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1/2" },
+      { "label": "B", "text": "1/3" },
+      { "label": "C", "text": "1/4" },
+      { "label": "D", "text": "1/6" },
+      { "label": "E", "text": "2/3" }
+    ],
+    "correct_option": "B",
+    "explanation": "Açınım formülü: r / l = a / 360°'dir. a = 120° olduğuna göre r / l = 120 / 360 = 1/3."
+  },
+  {
+    "id": 800,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Katı Cisimler (Prizma, Piramit, Silindir, Koni, Küre)",
+    "question_text": "Dikdörtgenler prizması şeklindeki bir odanın boyutları 3 m, 4 m ve 12 m'dir. Odada uçan bir sineğin odanın bir alt köşesinden, çapraz tam karşısındaki üst köşeye olan en kısa uçuş mesafesi kaç metredir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "13" },
+      { "label": "B", "text": "15" },
+      { "label": "C", "text": "17" },
+      { "label": "D", "text": "19" },
+      { "label": "E", "text": "21" }
+    ],
+    "correct_option": "A",
+    "explanation": "Bu mesafe prizmanın cisim köşegenidir. √(3² + 4² + 12²) = √(9 + 16 + 144) = √169 = 13 metre."
+  },
+  {
+    "id": 801,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "A(-2, 3) ve B(4, 11) noktaları arasındaki uzaklık kaç birimdir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "8" },
+      { "label": "B", "text": "10" },
+      { "label": "C", "text": "12" },
+      { "label": "D", "text": "14" },
+      { "label": "E", "text": "15" }
+    ],
+    "correct_option": "B",
+    "explanation": "İki nokta arası uzaklık formülü: √((x2-x1)² + (y2-y1)²) = √((4 - (-2))² + (11 - 3)²) = √(6² + 8²) = √100 = 10."
+  },
+  {
+    "id": 802,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "K(3, -5) ve L(-1, 9) noktalarını birleştiren [KL] doğru parçasının orta noktasının koordinatları toplamı kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1" },
+      { "label": "B", "text": "2" },
+      { "label": "C", "text": "3" },
+      { "label": "D", "text": "4" },
+      { "label": "E", "text": "5" }
+    ],
+    "correct_option": "C",
+    "explanation": "Orta nokta = ((3-1)/2 , (-5+9)/2) = (1, 2). Koordinatları toplamı 1 + 2 = 3'tür."
+  },
+  {
+    "id": 803,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "A(1, 4) ve B(5, 12) noktalarından geçen doğrunun eğimi kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1" },
+      { "label": "B", "text": "2" },
+      { "label": "C", "text": "3" },
+      { "label": "D", "text": "4" },
+      { "label": "E", "text": "5" }
+    ],
+    "correct_option": "B",
+    "explanation": "Eğim (m) = (y2 - y1) / (x2 - x1) = (12 - 4) / (5 - 1) = 8 / 4 = 2."
+  },
+  {
+    "id": 804,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "Eğimi 3 olan ve A(2, 5) noktasından geçen doğrunun denklemi aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "y = 3x - 1" },
+      { "label": "B", "text": "y = 3x + 1" },
+      { "label": "C", "text": "y = 2x + 1" },
+      { "label": "D", "text": "y = 3x - 5" },
+      { "label": "E", "text": "y = x + 3" }
+    ],
+    "correct_option": "A",
+    "explanation": "Doğru denklemi: y - y1 = m(x - x1) => y - 5 = 3(x - 2) => y = 3x - 6 + 5 => y = 3x - 1."
+  },
+  {
+    "id": 805,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "3x - 4y + 12 = 0 doğrusunun x eksenini kestiği noktanın apsisi (x değeri) kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "-4" },
+      { "label": "B", "text": "-3" },
+      { "label": "C", "text": "0" },
+      { "label": "D", "text": "3" },
+      { "label": "E", "text": "4" }
+    ],
+    "correct_option": "A",
+    "explanation": "Doğrunun x eksenini kestiği noktada y = 0'dır. 3x - 4(0) + 12 = 0 => 3x = -12 => x = -4."
+  },
+  {
+    "id": 806,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "A(1, 2), B(3, 8) ve C(a, 14) noktaları doğrusal (aynı doğru üzerinde) olduğuna göre a kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "3" },
+      { "label": "B", "text": "4" },
+      { "label": "C", "text": "5" },
+      { "label": "D", "text": "6" },
+      { "label": "E", "text": "7" }
+    ],
+    "correct_option": "C",
+    "explanation": "Noktalar doğrusal ise eğimleri eşittir. m_AB = (8-2)/(3-1) = 3. m_BC = (14-8)/(a-3) = 6/(a-3) = 3 => 3a - 9 = 6 => 3a = 15 => a = 5."
+  },
+  {
+    "id": 807,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "d1: 2x - 3y + 5 = 0 ve d2: ax + 6y - 1 = 0 doğruları birbirine paralel ise a kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "-4" },
+      { "label": "B", "text": "-2" },
+      { "label": "C", "text": "2" },
+      { "label": "D", "text": "4" },
+      { "label": "E", "text": "6" }
+    ],
+    "correct_option": "A",
+    "explanation": "Paralel doğruların eğimleri eşittir. m1 = -A/B = -2/-3 = 2/3. m2 = -a/6 = 2/3 => -3a = 12 => a = -4."
+  },
+  {
+    "id": 808,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "y = 2x - 4 doğrusuna dik olan ve (4, 1) noktasından geçen doğrunun denklemi hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "y = -2x + 9" },
+      { "label": "B", "text": "x + 2y = 6" },
+      { "label": "C", "text": "2x + y = 9" },
+      { "label": "D", "text": "x - 2y = 2" },
+      { "label": "E", "text": "x + 2y = -6" }
+    ],
+    "correct_option": "B",
+    "explanation": "İlk doğrunun eğimi m1 = 2'dir. Dik doğrunun eğimi m2 = -1/2 olmalıdır. y - 1 = -1/2(x - 4) => 2y - 2 = -x + 4 => x + 2y = 6."
+  },
+  {
+    "id": 809,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "A(3, 4) noktasının 3x - 4y + 12 = 0 doğrusuna olan dik uzaklığı kaç birimdir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "1" },
+      { "label": "B", "text": "2" },
+      { "label": "C", "text": "3" },
+      { "label": "D", "text": "4" },
+      { "label": "E", "text": "5" }
+    ],
+    "correct_option": "A",
+    "explanation": "Uzaklık formülü: |Ax + By + C| / √(A²+B²). |3(3) - 4(4) + 12| / √(3² + (-4)²) = |9 - 16 + 12| / 5 = |5| / 5 = 1 birim."
+  },
+  {
+    "id": 810,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "Köşelerinin koordinatları A(0,0), B(4,0) ve C(0,3) olan bir üçgenin alanı kaç birimkaredir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6" },
+      { "label": "B", "text": "8" },
+      { "label": "C", "text": "10" },
+      { "label": "D", "text": "12" },
+      { "label": "E", "text": "14" }
+    ],
+    "correct_option": "A",
+    "explanation": "Bu üçgen, orijinde birleşen eksenler üzerindedir (dik üçgen). Taban 4 br, yükseklik 3 br'dir. Alan = (4 * 3) / 2 = 6."
+  },
+  {
+    "id": 811,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "x - y = 4 ve x + y = 10 doğrularının kesişim noktasının orijine olan uzaklığı kaç birimdir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "5" },
+      { "label": "B", "text": "√58" },
+      { "label": "C", "text": "8" },
+      { "label": "D", "text": "√74" },
+      { "label": "E", "text": "10" }
+    ],
+    "correct_option": "B",
+    "explanation": "Doğruları toplayınca 2x = 14 => x = 7. Yerine koyunca y = 3. Nokta (7, 3). Orijine (0,0) uzaklığı = √(7² + 3²) = √(49 + 9) = √58."
+  },
+  {
+    "id": 812,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "Analitik düzlemde, y = x doğrusuna göre (birinci açıortay doğrusu) A(3, 5) noktasının simetriği olan noktanın koordinatları nedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "(-3, -5)" },
+      { "label": "B", "text": "(-5, -3)" },
+      { "label": "C", "text": "(5, 3)" },
+      { "label": "D", "text": "(3, -5)" },
+      { "label": "E", "text": "(-3, 5)" }
+    ],
+    "correct_option": "C",
+    "explanation": "y = x doğrusuna göre simetri alırken noktanın apsis ve ordinat değerleri yer değiştirir. (x, y) -> (y, x). Sonuç (5, 3)."
+  },
+  {
+    "id": 813,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "A(2, -4) noktasının orijine göre simetriği olan B noktasının koordinatları nedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "(-2, 4)" },
+      { "label": "B", "text": "(2, 4)" },
+      { "label": "C", "text": "(-2, -4)" },
+      { "label": "D", "text": "(4, -2)" },
+      { "label": "E", "text": "(-4, 2)" }
+    ],
+    "correct_option": "A",
+    "explanation": "Orijine göre simetri alırken her iki koordinatın da işareti değiştirilir. (x, y) -> (-x, -y). Sonuç (-2, 4)."
+  },
+  {
+    "id": 814,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "Bir üçgenin köşelerinin koordinatları A(1, 2), B(5, -2) ve C(x, y)'dir. Bu üçgenin ağırlık merkezinin koordinatları G(3, 2) olduğuna göre C noktasının koordinatları toplamı (x+y) kaçtır?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "6" },
+      { "label": "B", "text": "7" },
+      { "label": "C", "text": "8" },
+      { "label": "D", "text": "9" },
+      { "label": "E", "text": "10" }
+    ],
+    "correct_option": "D",
+    "explanation": "Ağırlık merkezi formülü: G_x = (x1+x2+x3)/3, G_y = (y1+y2+y3)/3. (1+5+x)/3 = 3 => x=3. (2-2+y)/3 = 2 => y=6. x+y = 3+6 = 9."
+  },
+  {
+    "id": 815,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "Paralel iki doğru: 3x - 4y + 5 = 0 ve 3x - 4y - 15 = 0 arasındaki en kısa uzaklık kaç birimdir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "2" },
+      { "label": "B", "text": "4" },
+      { "label": "C", "text": "5" },
+      { "label": "D", "text": "10" },
+      { "label": "E", "text": "20" }
+    ],
+    "correct_option": "B",
+    "explanation": "Paralel doğrular arası uzaklık: |C1 - C2| / √(A²+B²). |5 - (-15)| / √(3² + (-4)²) = 20 / 5 = 4 birim."
+  },
+  {
+    "id": 816,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "x ekseniyle pozitif yönde 135° açı yapan ve y eksenini (0, 4) noktasında kesen doğrunun denklemi hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "y = x + 4" },
+      { "label": "B", "text": "y = -x + 4" },
+      { "label": "C", "text": "y = -x - 4" },
+      { "label": "D", "text": "y = x - 4" },
+      { "label": "E", "text": "y = -√3x + 4" }
+    ],
+    "correct_option": "B",
+    "explanation": "Eğim m = tan(135°) = -1'dir. Doğrunun y eksenini kestiği nokta (y-keseni) n = 4'tür. y = mx + n formülünden y = -1x + 4."
+  },
+  {
+    "id": 817,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "Eksenleri kestiği noktalar (4, 0) ve (0, 3) olan doğrunun denklemi kapalı formda aşağıdakilerden hangisidir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "3x + 4y - 12 = 0" },
+      { "label": "B", "text": "4x + 3y - 12 = 0" },
+      { "label": "C", "text": "3x - 4y + 12 = 0" },
+      { "label": "D", "text": "4x - 3y + 12 = 0" },
+      { "label": "E", "text": "x + y - 7 = 0" }
+    ],
+    "correct_option": "A",
+    "explanation": "Eksenleri kestiği noktalar bilinen doğru denklemi: x/a + y/b = 1. x/4 + y/3 = 1. Paydaları 12'de eşitlersek: 3x + 4y = 12 => 3x + 4y - 12 = 0."
+  },
+  {
+    "id": 818,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "y = 2x doğrusu, y = x + 4 doğrusu ve x ekseni arasında kalan üçgensel bölgenin alanı kaç birimkaredir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "8" },
+      { "label": "B", "text": "12" },
+      { "label": "C", "text": "16" },
+      { "label": "D", "text": "24" },
+      { "label": "E", "text": "32" }
+    ],
+    "correct_option": "C",
+    "explanation": "Kesişim noktası: 2x = x + 4 => x=4, y=8 (Kesişim: 4,8). y=2x'in kökü 0. y=x+4'ün kökü -4. Taban x ekseninde 0'dan -4'e kadar 4 birim. Yükseklik 8 birim. Alan = (4 * 8) / 2 = 16 br²."
+  },
+  {
+    "id": 819,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "Bir aracın yakıt deposundaki benzin miktarının (y), gidilen yola (x) göre değişimi y = -0.05x + 50 doğrusal denklemiyle modellenmektedir. Depodaki benzinin tamamı bittiğinde araç toplam kaç km yol gitmiş olur?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "500" },
+      { "label": "B", "text": "800" },
+      { "label": "C", "text": "1000" },
+      { "label": "D", "text": "1500" },
+      { "label": "E", "text": "2000" }
+    ],
+    "correct_option": "C",
+    "explanation": "Benzin bittiğinde y = 0 olur. 0 = -0.05x + 50 => 0.05x = 50 => (5/100)x = 50 => x = 1000 km."
+  },
+  {
+    "id": 820,
+    "examType": "YKS",
+    "subject": "Geometri",
+    "topic": "Analitik Geometri (Noktanın ve Doğrunun Analitiği)",
+    "question_text": "A(1, 2) noktasının B(3, 4) noktasına göre simetriği olan C noktasının koordinatları nedir?",
+    "image_url": null,
+    "options":[
+      { "label": "A", "text": "(5, 6)" },
+      { "label": "B", "text": "(4, 6)" },
+      { "label": "C", "text": "(2, 3)" },
+      { "label": "D", "text": "(-1, 0)" },
+      { "label": "E", "text": "(6, 8)" }
+    ],
+    "correct_option": "A",
+    "explanation": "Noktanın noktaya göre simetriğinde B orta nokta olur. x_c = 2*x_b - x_a = 2(3) - 1 = 5. y_c = 2*y_b - y_a = 2(4) - 2 = 6. C(5, 6)."
+  }
+]

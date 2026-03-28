@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+
+<html class="light" lang="tr"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<script id="tailwind-config">
+      tailwind.config = {
+        darkMode: "class",
+        theme: {
+          extend: {
+            colors: {
+              "tertiary": "#b61722",
+              "secondary-container": "#6cf8bb",
+              "inverse-on-surface": "#eff0fa",
+              "on-error-container": "#93000a",
+              "surface": "#f9f9ff",
+              "on-tertiary-fixed": "#410004",
+              "primary-fixed-dim": "#adc6ff",
+              "surface-container": "#ecedf7",
+              "surface-container-lowest": "#ffffff",
+              "on-tertiary": "#ffffff",
+              "primary-container": "#2170e4",
+              "surface-dim": "#d8d9e3",
+              "tertiary-container": "#da3437",
+              "error": "#ba1a1a",
+              "surface-container-low": "#f2f3fd",
+              "primary": "#0058be",
+              "surface-tint": "#005ac2",
+              "surface-container-high": "#e6e7f2",
+              "secondary-fixed-dim": "#4edea3",
+              "surface-bright": "#f9f9ff",
+              "surface-variant": "#e1e2ec",
+              "on-tertiary-fixed-variant": "#930013",
+              "error-container": "#ffdad6",
+              "on-surface": "#191b23",
+              "on-background": "#191b23",
+              "on-secondary-fixed-variant": "#005236",
+              "outline": "#727785",
+              "tertiary-fixed": "#ffdad7",
+              "on-primary-container": "#fefcff",
+              "inverse-primary": "#adc6ff",
+              "inverse-surface": "#2e3038",
+              "primary-fixed": "#d8e2ff",
+              "on-error": "#ffffff",
+              "secondary-fixed": "#6ffbbe",
+              "on-primary-fixed-variant": "#004395",
+              "on-surface-variant": "#424754",
+              "background": "#f9f9ff",
+              "on-secondary-fixed": "#002113",
+              "on-primary-fixed": "#001a42",
+              "on-secondary-container": "#00714d",
+              "secondary": "#006c49",
+              "outline-variant": "#c2c6d6",
+              "on-tertiary-container": "#fffbff",
+              "on-primary": "#ffffff",
+              "tertiary-fixed-dim": "#ffb3ad",
+              "on-secondary": "#ffffff",
+              "surface-container-highest": "#e1e2ec"
+            },
+            fontFamily: {
+              "headline": ["Manrope", "sans-serif"],
+              "body": ["Inter", "sans-serif"],
+              "label": ["Inter", "sans-serif"]
+            },
+            borderRadius: {"DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px"},
+          },
+        },
+      }
+    </script>
+<style>
+      .material-symbols-outlined {
+        font-variation-settings: 'FILL' 0, 'wght' 400, 'GRAD' 0, 'opsz' 24;
+      }
+      .glass-effect {
+        backdrop-filter: blur(20px);
+        -webkit-backdrop-filter: blur(20px);
+      }
+      .primary-gradient {
+        background: linear-gradient(135deg, #0058be 0%, #2170e4 100%);
+      }
+      body {
+        font-family: 'Inter', sans-serif;
+        background-color: #f9f9ff;
+        color: #191b23;
+      }
+      h1, h2, h3 {
+        font-family: 'Manrope', sans-serif;
+      }
+    </style>
+</head>
+<body class="bg-surface text-on-surface min-h-screen pb-32">
+<!-- TopAppBar -->
+<header class="fixed top-0 w-full z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md shadow-sm dark:shadow-none h-16 flex justify-between items-center px-6">
+<div class="flex items-center gap-3">
+<span class="text-xl font-extrabold tracking-tighter text-blue-800 dark:text-blue-300">Cognitive Sanctuary</span>
+</div>
+<div class="flex items-center gap-4">
+<button class="p-2 rounded-full hover:bg-blue-50 dark:hover:bg-blue-900/30 transition-colors">
+<span class="material-symbols-outlined text-slate-500 dark:text-slate-400">timer</span>
+</button>
+<button class="p-2 rounded-full hover:bg-blue-50 dark:hover:bg-blue-900/30 transition-colors">
+<span class="material-symbols-outlined text-slate-500 dark:text-slate-400">notifications_active</span>
+</button>
+<div class="w-8 h-8 rounded-full bg-primary-fixed overflow-hidden ring-2 ring-primary-container/20">
+<img alt="User profile avatar with progress ring" data-alt="User avatar with a subtle progress ring border" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB_U4sy0xVDeyhFkf-nezlX-LOTwr_qKpAZsW7riJmJCI9uSmHOQz_WUZux9628UsmqAlfa4ZETl8gJGbSKVnP0RqSyKSAKr_pIwT7tJVzkrKXy-3izCWU01GJ3bipSi56u_YCL9lWNmGTAQz5aNaHmNFdIzFwaxt_Him1dyI_mWAxzd42dzxHMHZEwYffkolWwexBc7YD1aLE_NFVpoYSMOq_5ZJVIQmBoGsoePN6LGVNlNCrclcMFhWnyJVVt-0L9q_HyjYSwXSFZ"/>
+</div>
+</div>
+</header>
+<main class="pt-24 px-4 max-w-4xl mx-auto">
+<!-- Result Header -->
+<div class="mb-10 text-center md:text-left md:flex md:items-end md:justify-between">
+<div>
+<h1 class="text-4xl font-bold tracking-tight text-on-surface mb-2">Sınav Analizi</h1>
+<p class="text-on-surface-variant font-medium">Genel Yetenek &amp; Matematik Simülasyonu</p>
+</div>
+<div class="mt-4 md:mt-0 flex flex-col items-center md:items-end">
+<span class="text-sm font-bold text-primary uppercase tracking-widest mb-1">Başarı Oranı</span>
+<div class="text-3xl font-extrabold text-primary">%84</div>
+</div>
+</div>
+<!-- Bento Grid Stats -->
+<div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+<!-- Score Card -->
+<div class="col-span-2 md:col-span-2 bg-surface-container-lowest p-6 rounded-2xl shadow-[0_20px_40px_rgba(25,27,35,0.06)] flex flex-col justify-between">
+<div class="flex justify-between items-start mb-8">
+<span class="text-on-surface-variant font-semibold text-sm">Net Puan</span>
+<span class="material-symbols-outlined text-primary" style="font-variation-settings: 'FILL' 1;">analytics</span>
+</div>
+<div>
+<div class="text-5xl font-extrabold tracking-tighter text-on-surface">36.25</div>
+<div class="text-xs font-medium text-on-surface-variant mt-2">Net = Doğru - (Yanlış / 4)</div>
+</div>
+</div>
+<!-- Time Card -->
+<div class="bg-surface-container-low p-6 rounded-2xl flex flex-col justify-between">
+<div class="flex justify-between items-start">
+<span class="text-on-surface-variant font-semibold text-sm">Süre</span>
+<span class="material-symbols-outlined text-on-surface-variant">schedule</span>
+</div>
+<div>
+<div class="text-2xl font-bold text-on-surface">42dk 15sn</div>
+<div class="text-[10px] uppercase font-bold tracking-wider text-on-surface-variant mt-1">Toplam Geçen</div>
+</div>
+</div>
+<!-- Rank Card -->
+<div class="bg-primary-container p-6 rounded-2xl flex flex-col justify-between text-on-primary-container">
+<div class="flex justify-between items-start">
+<span class="font-semibold text-sm opacity-80">Sıralama</span>
+<span class="material-symbols-outlined">military_tech</span>
+</div>
+<div>
+<div class="text-2xl font-bold">#14</div>
+<div class="text-[10px] uppercase font-bold tracking-wider opacity-80 mt-1">1.240 Katılımcı</div>
+</div>
+</div>
+</div>
+<!-- Detailed Breakdown -->
+<div class="bg-surface-container-low p-8 rounded-3xl mb-12">
+<h3 class="text-lg font-bold mb-6 flex items-center gap-2">
+<span class="material-symbols-outlined text-primary">data_exploration</span>
+                Soru Dağılımı
+            </h3>
+<div class="space-y-6">
+<!-- Correct -->
+<div>
+<div class="flex justify-between text-sm font-bold mb-2">
+<span class="text-on-surface">Doğru Cevaplar</span>
+<span class="text-secondary">38 Soru</span>
+</div>
+<div class="h-3 w-full bg-surface-container-highest rounded-full overflow-hidden">
+<div class="h-full bg-secondary w-[76%] rounded-full"></div>
+</div>
+</div>
+<!-- Wrong -->
+<div>
+<div class="flex justify-between text-sm font-bold mb-2">
+<span class="text-on-surface">Yanlış Cevaplar</span>
+<span class="text-tertiary">7 Soru</span>
+</div>
+<div class="h-3 w-full bg-surface-container-highest rounded-full overflow-hidden">
+<div class="h-full bg-tertiary w-[14%] rounded-full"></div>
+</div>
+</div>
+<!-- Empty -->
+<div>
+<div class="flex justify-between text-sm font-bold mb-2">
+<span class="text-on-surface">Boş Bırakılan</span>
+<span class="text-outline">5 Soru</span>
+</div>
+<div class="h-3 w-full bg-surface-container-highest rounded-full overflow-hidden">
+<div class="h-full bg-outline w-[10%] rounded-full"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Question List -->
+<section>
+<div class="flex items-baseline justify-between mb-6">
+<h2 class="text-2xl font-bold tracking-tight">Soru Analiz Listesi</h2>
+<div class="flex gap-2">
+<button class="px-3 py-1 rounded-full bg-surface-container-highest text-[10px] font-bold uppercase tracking-wider text-on-surface-variant hover:bg-primary hover:text-white transition-all">Hepsi</button>
+<button class="px-3 py-1 rounded-full bg-surface-container-highest text-[10px] font-bold uppercase tracking-wider text-tertiary hover:bg-tertiary hover:text-white transition-all">Hatalı</button>
+</div>
+</div>
+<div class="space-y-4">
+<!-- Question Item 1 (Correct) -->
+<div class="bg-surface-container-lowest p-6 rounded-2xl shadow-sm group">
+<div class="flex items-start justify-between mb-4">
+<div class="flex items-center gap-4">
+<span class="w-10 h-10 rounded-xl bg-surface-container-low flex items-center justify-center font-bold text-primary">01</span>
+<div>
+<h4 class="font-bold text-on-surface">Rasyonel Sayılarda İşlemler</h4>
+<p class="text-xs text-on-surface-variant">Matematik • Temel Kavramlar</p>
+</div>
+</div>
+<span class="material-symbols-outlined text-secondary" style="font-variation-settings: 'FILL' 1;">check_circle</span>
+</div>
+<div class="flex flex-col md:flex-row gap-4 mb-6">
+<div class="flex-1 p-4 bg-surface-container-low rounded-xl">
+<span class="text-[10px] uppercase font-extrabold text-on-surface-variant tracking-widest block mb-1">Senin Cevabın</span>
+<span class="font-bold text-on-surface">C Şıkkı (12/5)</span>
+</div>
+<div class="flex-1 p-4 bg-secondary-container/20 rounded-xl">
+<span class="text-[10px] uppercase font-extrabold text-secondary tracking-widest block mb-1">Doğru Cevap</span>
+<span class="font-bold text-secondary">C Şıkkı (12/5)</span>
+</div>
+</div>
+<button class="w-full py-3 flex items-center justify-center gap-2 rounded-xl bg-surface-container text-primary font-bold text-sm uppercase tracking-wider hover:bg-primary-fixed transition-all">
+<span class="material-symbols-outlined text-lg">visibility</span>
+                        Çözümü Gör
+                    </button>
+</div>
+<!-- Question Item 2 (Wrong) -->
+<div class="bg-surface-container-lowest p-6 rounded-2xl shadow-sm border-l-4 border-tertiary">
+<div class="flex items-start justify-between mb-4">
+<div class="flex items-center gap-4">
+<span class="w-10 h-10 rounded-xl bg-surface-container-low flex items-center justify-center font-bold text-primary">02</span>
+<div>
+<h4 class="font-bold text-on-surface">Mantıksal Akıl Yürütme</h4>
+<p class="text-xs text-on-surface-variant">Sözel Yetenek • Paragraf Analizi</p>
+</div>
+</div>
+<span class="material-symbols-outlined text-tertiary" style="font-variation-settings: 'FILL' 1;">cancel</span>
+</div>
+<div class="flex flex-col md:flex-row gap-4 mb-6">
+<div class="flex-1 p-4 bg-error-container/30 rounded-xl">
+<span class="text-[10px] uppercase font-extrabold text-tertiary tracking-widest block mb-1">Senin Cevabın</span>
+<span class="font-bold text-tertiary">A Şıkkı</span>
+</div>
+<div class="flex-1 p-4 bg-secondary-container/20 rounded-xl">
+<span class="text-[10px] uppercase font-extrabold text-secondary tracking-widest block mb-1">Doğru Cevap</span>
+<span class="font-bold text-secondary">E Şıkkı</span>
+</div>
+</div>
+<!-- Expansion Simulation (Visible for Wrong) -->
+<div class="p-6 bg-surface-container rounded-2xl mt-4">
+<div class="flex items-center gap-2 mb-4 text-primary">
+<span class="material-symbols-outlined">lightbulb</span>
+<span class="text-sm font-bold uppercase tracking-widest">Çözüm Analizi</span>
+</div>
+<div class="aspect-video bg-white rounded-lg mb-4 flex items-center justify-center overflow-hidden">
+<img alt="Soru Çözüm Görseli" class="w-full h-full object-cover" data-alt="Visual diagram explaining the mathematical solution steps" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCjvl3HVzjzYlA2zeWTDX7LJgJtPyjXok6d9GRsLvZGAK80V4gBVj6C8QMx2zuXTWMmbAkLpM95DeUxEWWueU74HeCeeDLXRdeXfSCOKFCI4xZ_6Ta_ZLLTrvODHxDfycX_qEgn5dH0haegdUtOxJaK7wOhLq2dydNyqyY2WEqRkHeNoTYEr6-yyRkRr_F2SmzH2GgRktw_iL4J1BmKKM0qXUMNoMvkVHzjwgIkAMTu5V0gYue03jAzlQZ5pGMOtzBoxMxjc4P_DXxt"/>
+</div>
+<p class="text-sm text-on-surface leading-relaxed">
+                            Paragraftaki "ancak" bağlacından sonra gelen ifade, yazarın asıl tezini desteklemektedir. A şıkkındaki ifade genel bir yargı iken, E şıkkı metnin sonuç bölümündeki özelleşmiş çıkarımı tam olarak karşılamaktadır.
+                        </p>
+</div>
+</div>
+<!-- Question Item 3 (Empty) -->
+<div class="bg-surface-container-lowest p-6 rounded-2xl shadow-sm opacity-80">
+<div class="flex items-start justify-between mb-4">
+<div class="flex items-center gap-4">
+<span class="w-10 h-10 rounded-xl bg-surface-container-low flex items-center justify-center font-bold text-primary">03</span>
+<div>
+<h4 class="font-bold text-on-surface">Geometri: Üçgende Açılar</h4>
+<p class="text-xs text-on-surface-variant">Sayısal Yetenek • Geometri</p>
+</div>
+</div>
+<span class="material-symbols-outlined text-outline">radio_button_unchecked</span>
+</div>
+<div class="flex flex-col md:flex-row gap-4 mb-6">
+<div class="flex-1 p-4 bg-surface-container-low rounded-xl">
+<span class="text-[10px] uppercase font-extrabold text-outline tracking-widest block mb-1">Senin Cevabın</span>
+<span class="font-bold text-outline italic">Boş Bırakıldı</span>
+</div>
+<div class="flex-1 p-4 bg-secondary-container/20 rounded-xl">
+<span class="text-[10px] uppercase font-extrabold text-secondary tracking-widest block mb-1">Doğru Cevap</span>
+<span class="font-bold text-secondary">B Şıkkı (75°)</span>
+</div>
+</div>
+<button class="w-full py-3 flex items-center justify-center gap-2 rounded-xl bg-surface-container text-primary font-bold text-sm uppercase tracking-wider hover:bg-primary-fixed transition-all">
+<span class="material-symbols-outlined text-lg">visibility</span>
+                        Çözümü Gör
+                    </button>
+</div>
+</div>
+</section>
+</main>
+<!-- BottomNavBar -->
+<nav class="fixed bottom-0 left-0 w-full z-50 flex justify-around items-center pt-2 pb-6 px-4 bg-white/90 dark:bg-slate-950/90 backdrop-blur-xl shadow-[0_-4px_20px_rgba(0,0,0,0.05)] rounded-t-3xl border-t border-slate-100 dark:border-slate-800">
+<a class="flex flex-col items-center justify-center text-slate-400 dark:text-slate-500 px-5 py-2 hover:text-blue-500 transition-all" href="#">
+<span class="material-symbols-outlined mb-1">school</span>
+<span class="text-[11px] font-semibold uppercase tracking-wider">Exams</span>
+</a>
+<a class="flex flex-col items-center justify-center text-slate-400 dark:text-slate-500 px-5 py-2 hover:text-blue-500 transition-all" href="#">
+<span class="material-symbols-outlined mb-1">menu_book</span>
+<span class="text-[11px] font-semibold uppercase tracking-wider">Topics</span>
+</a>
+<a class="flex flex-col items-center justify-center bg-blue-100 dark:bg-blue-900/40 text-blue-700 dark:text-blue-200 rounded-2xl px-5 py-2 translate-y-[-2px] duration-300 ease-out" href="#">
+<span class="material-symbols-outlined mb-1" style="font-variation-settings: 'FILL' 1;">leaderboard</span>
+<span class="text-[11px] font-semibold uppercase tracking-wider">Statistics</span>
+</a>
+<a class="flex flex-col items-center justify-center text-slate-400 dark:text-slate-500 px-5 py-2 hover:text-blue-500 transition-all" href="#">
+<span class="material-symbols-outlined mb-1">person</span>
+<span class="text-[11px] font-semibold uppercase tracking-wider">Profile</span>
+</a>
+</nav>
+</body></html>
